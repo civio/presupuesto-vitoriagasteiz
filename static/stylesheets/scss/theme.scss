@@ -1,1 +1,360 @@
 @import "theme-variables";
+
+.main-entity-logo{
+  margin: 2*$grid-gutter-width/3 auto;
+}
+
+.navbar-brand{
+  font-size: 4.8rem;
+  font-family: $font-family-serif;
+  font-weight: $font-weight-400;
+  text-transform: uppercase;
+
+  a{
+    color: $text-color;
+
+    &:hover{
+      color: $brand-primary;
+    }
+  }
+}
+
+.navbar-default{
+  font-size: 1.25em;
+  font-family: $font-family-serif;
+  border-top: 3px solid $brand-primary;
+  border-bottom: 3px solid $brand-primary;
+
+  @media (max-width: $grid-float-breakpoint) {
+    background: $brand-primary;
+  }
+
+  .navbar-nav>li>a:hover{
+    color: mix( $text-color, white, 75% );
+  }
+
+  .navbar-nav>li.active>a,
+  .navbar-nav>li.active>a:hover,
+  .navbar-nav>li.active>a:focus{
+    font-weight: $font-weight-400;
+  }
+
+  .navbar-toggle{
+    font-size: 1em;
+
+    &:hover,
+    &:focus{
+      background: none;
+    }
+  }
+}
+
+
+.form-search .form-inline{
+  label{
+    font-weight: $font-weight-400;
+  }
+  .btn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    &:before{
+      content: "";
+      display: none;
+    }
+  }
+  .form-control{
+    border-color: $brand-secondary;
+  }
+}
+
+.home-content .expense-examples li a{
+  color: $brand-secondary;
+}
+.home-content .options .option>div h3{
+  margin-top: $grid-gutter-width;
+}
+
+
+.page-title{
+  font-size: 2em;
+}
+
+.budget-intro .budget-step h3 span{
+  font-size: 3em;
+}
+.budget-intro .budget-step h3 strong,
+.budget-intro .budget-step .desc{
+  font-size: .75em;
+}
+
+.data-controllers .chart-embed-btn span, 
+.data-controllers .chart-embed-btn a{
+  top: 53px;
+  width: 38px;
+  height: 38px;
+}
+
+table.table-grid tr td .toggle.expand,
+table.table-grid tr td .toggle.collapse{
+  margin-top: 4px;
+  line-height: 24px;
+}
+
+.tax-receipt-content .form-user-incomings h3{
+  font-weight: 300;
+}
+.tax-receipt-content #tax-amount{
+  color: white;
+  background: $brand-secondary;
+}
+
+
+.main-footer .credit-aragon{
+  font-size: 1.6rem;  
+}
+
+
+
+/* http://www.vitoria-gasteiz.org/we001/was/we001Action.do?accionWe001=ficha&accion=home */
+.nav-aux {
+  margin: 0;
+  padding: 7px 0;
+  background: $brand-terciary;
+  /* Tamaño de fuente base del componente: */
+  font-size: 1.6rem;
+  text-align: left;
+
+  a{
+    color: $text-color;
+
+    &:hover{
+      color: $brand-primary;
+      text-decoration: none;
+    }
+  }
+  
+
+  .logo-nav-aux {
+    padding-right: 0;
+    width: 50%;
+   
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      font-size: 1.4rem;
+      line-height: 1em;
+      width: 152px;
+    }
+    @media (min-width: $screen-md-min) {
+      width: 332px;
+    }
+    @media (min-width: $screen-lg-min) {
+      width: 442px;
+    }
+    /*
+    float: left;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+
+    @media (min-width: 768px) {
+      width: 15%;
+      //font-size: .889em;
+    }
+
+    @media (min-width: 992px) {
+      width: 21%;
+    }
+
+    a {
+      line-height: 25px;
+
+      @media (min-width: 768px) and (max-width: 991px) {
+        line-height: 1;
+      }
+      @media (max-width: 480px) {
+        line-height: 1.2;
+      }
+    }
+    */
+  }
+    
+  .header-menu {
+    padding: 0 6px 0 0;
+    width: 501px;
+    /*
+    float: left;
+    width: 9%;
+    margin: 0;
+    margin-left: 3%;
+    padding: 0; 
+    */
+    text-align: right;
+
+    /*
+    @media (min-width: 768px) {
+      width: 65%;
+      margin-left: 5%;
+    }
+
+    @media (min-width: 992px) {
+      width: 65%;
+      margin-left: 0;
+    }
+    */
+
+    ul {
+      margin: 0;
+      padding: 0;
+
+      @media (min-width: 768px) and (max-width: 991px) {
+        display: table;
+        float: right;
+        height: 2em;
+        padding: 0;
+      }
+    }
+
+    li {
+      display: inline-block;
+      margin: 0;
+      padding: 0 7px;
+      list-style: none;
+      border-right: 1px solid #000;
+      line-height: 23px;
+    }
+
+    li.last {
+      display: inline-block;
+      padding-right: 0;
+      border-right: none;
+    }
+
+    a {
+      padding-left: 29px;
+      text-align: left;
+    }
+
+    a.icon-wheel {
+      padding-left: 26px;
+    }
+
+    a.icon-telephone {
+      padding-left: 21px;
+    }
+
+    /* Turismo */
+    a.imgContacto {
+      padding-left: 30px;
+    }
+
+    @media (max-width: 767px) {
+      li {
+        display: none;
+      }
+      li.last span {
+        display: none;
+      }
+    }
+
+    @media (min-width: 768px) and (max-width: 991px) {
+      li,
+      li.last {
+        display: table-cell;
+
+        vertical-align: middle;
+
+        line-height: 1;
+      }
+    }
+  }
+
+  .lang-select {
+    float: right;
+    width: 50%;
+    padding-left: 0;
+    text-align: right;
+    
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      width: 97px;
+      #menu-lang{
+        margin-top: 0;
+        ul li{
+          float: right;
+          border-color: transparent;
+        }
+      }
+    }
+    @media (min-width: $screen-md-min) {
+      width: 137px;
+    }
+
+    /*
+    float: left;
+    width: 35%;
+    margin: 0;
+    margin-left: 3%;
+    padding: 0;
+ 
+    @media (min-width: 768px) {
+      width: 13%;
+      margin-left: 2%;
+    }
+
+    @media (min-width: 992px) {
+      width: 12%;
+      margin-left: 2%;
+    }
+    */
+  }
+
+  .icon-council-header,
+  .icon-chat,
+  .icon-computer,
+  .icon-telephone,
+  .icon-wheel{
+    display: inline-block;
+    background: url(../assets/sprite.png) no-repeat;
+  }
+  .icon-council-header{
+    min-height: 25px;
+    padding-left: 22px;
+    background-position: 0 -478px;
+  }
+  .icon-chat {
+    min-height: 18px;
+    padding-left: 25px;
+    background-position: 0 -281px;
+  }
+  .icon-computer {
+    min-height: 21px;
+    padding-left: 24px;
+    background-position: 0 -339px;
+  }
+
+  .icon-telephone {
+    min-height: 23px;
+    padding-left: 18px;
+    background-position: -559px -561px;
+  }
+  .icon-wheel {
+    min-height: 23px;
+    padding-left: 23px;
+    background-position: -559px -867px;
+  }
+}
+
+#menu-lang{
+  margin-top: 3px;
+  
+  ul li{
+    padding: 0 6px;
+
+    &:last-child{
+      padding-right: 0;
+    }
+  }
+
+  ul li input[type=submit]{
+    color: $text-color;
+  }
+}
