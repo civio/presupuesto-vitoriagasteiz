@@ -49,6 +49,32 @@
   }
 }
 
+.open-data-logo{
+  margin-bottom: 2*$grid-gutter-width/3;
+  display: block;
+  color: $text-color;
+  font-size: 2.375rem;
+  font-family: $font-family-serif;
+  font-weight: $font-weight-300;
+  text-transform: uppercase;
+
+  &:hover,
+  &:focus{
+    text-decoration: none;
+  }
+
+  strong{
+    color: $brand-secondary;
+  }
+
+  @media (min-width: $grid-float-breakpoint) {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-top: -0.5em;
+    z-index: 90;
+  }
+}
 
 .form-search .form-inline{
   label{
@@ -110,10 +136,18 @@ table.table-grid tr td .toggle.collapse{
 }
 
 
-.main-footer .credit-aragon{
-  font-size: 1.6rem;  
-}
+.main-footer{
+  padding-bottom: $grid-gutter-width/2;
+  
+  .credit-aragon{
+    font-size: 1.6rem;
+    text-align: center;
 
+    @media (min-width: $screen-md-min) {
+      text-align: left;
+    }
+  }
+}
 
 
 /* http://www.vitoria-gasteiz.org/we001/was/we001Action.do?accionWe001=ficha&accion=home */
@@ -142,13 +176,13 @@ table.table-grid tr td .toggle.collapse{
     @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
       font-size: 1.4rem;
       line-height: 1em;
-      width: 152px;
+      width: 142px;
     }
     @media (min-width: $screen-md-min) {
-      width: 332px;
+      width: 222px;
     }
     @media (min-width: $screen-lg-min) {
-      width: 442px;
+      width: 332px;
     }
     /*
     float: left;
@@ -180,7 +214,12 @@ table.table-grid tr td .toggle.collapse{
     
   .header-menu {
     padding: 0 6px 0 0;
-    width: 501px;
+    width: 463px;
+
+    @media (min-width: $screen-md-min) {
+      width: 611px;
+    }
+
     /*
     float: left;
     width: 9%;
@@ -270,10 +309,12 @@ table.table-grid tr td .toggle.collapse{
 
   .lang-select {
     float: right;
-    width: 50%;
+    width: 137px;
+    //width: 50%;
     padding-left: 0;
     text-align: right;
     
+    /*
     @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
       width: 97px;
       #menu-lang{
@@ -287,6 +328,7 @@ table.table-grid tr td .toggle.collapse{
     @media (min-width: $screen-md-min) {
       width: 137px;
     }
+    */
 
     /*
     float: left;
@@ -306,41 +348,6 @@ table.table-grid tr td .toggle.collapse{
     }
     */
   }
-
-  .icon-council-header,
-  .icon-chat,
-  .icon-computer,
-  .icon-telephone,
-  .icon-wheel{
-    display: inline-block;
-    background: url(../assets/sprite.png) no-repeat;
-  }
-  .icon-council-header{
-    min-height: 25px;
-    padding-left: 22px;
-    background-position: 0 -478px;
-  }
-  .icon-chat {
-    min-height: 18px;
-    padding-left: 25px;
-    background-position: 0 -281px;
-  }
-  .icon-computer {
-    min-height: 21px;
-    padding-left: 24px;
-    background-position: 0 -339px;
-  }
-
-  .icon-telephone {
-    min-height: 23px;
-    padding-left: 18px;
-    background-position: -559px -561px;
-  }
-  .icon-wheel {
-    min-height: 23px;
-    padding-left: 23px;
-    background-position: -559px -867px;
-  }
 }
 
 #menu-lang{
@@ -357,4 +364,150 @@ table.table-grid tr td .toggle.collapse{
   ul li input[type=submit]{
     color: $text-color;
   }
+}
+
+
+/* http://www.vitoria-gasteiz.org/http/comun/j38-01/css/layout/footer/_main-footer.css */
+
+#anclaFooter {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  letter-spacing: .1em;
+  font-size: .8em;
+
+  a{
+    color: white;
+  }
+
+  @media (max-width: 991px) {
+    text-align: center;
+    font-size: .889em;
+  }
+
+  address {
+    font-style: inherit;
+    margin-bottom: 0;
+
+    @media (max-width: 991px) {
+      padding-bottom: 1em;
+
+      a {
+        display: inline;
+        padding: 0;
+        background: none;
+      }
+      > a::after {
+        content: '\A';
+        white-space: pre;
+      }
+    }
+
+    @media (min-width: 992px) {
+      padding-top: .2em;
+      padding-bottom: 0;
+
+      a {
+        display: inline-block;
+
+        margin: .4em 1em;
+        padding-left: 35px;
+      }
+      .secundary-telephone {
+        padding-left: 0;
+      }
+      .icon-place {
+        display: block;
+      }
+    }
+  }
+
+  .footer-menu {
+    padding-top: 1em;
+    padding-bottom: .6em;
+
+    ul, li {
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      display: inline-block;
+      margin-left: 0;
+      padding-left: .4em;
+      float: none;
+      border: none;
+      border-left: 1px solid #fff;
+    }
+
+    :first-child {
+      border: none;
+    }
+
+    @media (min-width: 992px) {
+      text-align: right;
+    }
+  }
+
+  @media (min-width: 992px) {
+    address,
+    .footer-menu{
+      display: block;
+      border-left: 1px solid #fff;
+    }
+  }
+}
+
+/* http://www.vitoria-gasteiz.org/http/comun/j38-01/css/base/_icons.css */
+
+.icon-council-header,
+.icon-chat,
+.icon-computer,
+.icon-telephone,
+.icon-wheel,
+.icon-place,
+.icon-envelope,
+.icon-smartphone {
+  display: inline-block;
+  background: url(../assets/sprite.png) no-repeat;
+}
+.icon-council-header{
+  min-height: 25px;
+  padding-left: 22px;
+  background-position: 0 -478px;
+}
+.icon-chat {
+  min-height: 18px;
+  padding-left: 25px;
+  background-position: 0 -281px;
+}
+.icon-computer {
+  min-height: 21px;
+  padding-left: 24px;
+  background-position: 0 -339px;
+}
+
+.icon-telephone {
+  min-height: 23px;
+  padding-left: 18px;
+  background-position: -559px -561px;
+}
+.icon-wheel {
+  min-height: 23px;
+  padding-left: 23px;
+  background-position: -559px -867px;
+}
+.icon-place {
+  min-height: 24px;
+  padding-left: 16px;
+  background-position: 0 -1000px;
+}
+.icon-envelope {
+  min-height: 16px;
+  padding-left: 24px;
+  background-position: 0 -538px;
+}
+.icon-smartphone {
+  min-height: 24px;
+  padding-left: 14px;
+  background-position: 0 -1129px;
 }
