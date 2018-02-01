@@ -70,3 +70,36 @@ msgstr "Inflazioaren araberako doikuntza <strong>%sko urtarrilaren 1eko datareki
 #: templates/budgets/budgets_intro.html:10
 msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
 msgstr "Zuzeneko zergen bidez (adibidez, ondasun higiezinen gaineko zerga edo trakzio mekanikoko ibilgailuen gaineko zerga) egiten da"
+
+# vitoria custom header
+msgid "Buzón Ciudadano"
+msgstr "Herritarren postontzia"
+
+msgid "Contacto"
+msgstr "Harremanetarako"
+
+msgid "Sede electrónica"
+msgstr "Egoitza elektronikoa"
+
+msgid "Modo accesible"
+msgstr "Modu erabilerraza"
+
+# vitoria custom footer
+msgid "Plaza España 1, 01001 Vitoria-Gasteiz"
+msgstr "Espainia plaza 1, 01001 Vitoria-Gasteiz"
+
+msgid "Aviso legal"
+msgstr "Legezko oharra"
+
+msgid "Privacidad"
+msgstr "Pribatutasuna"
+
+msgid "Ayuda"
+msgstr "Laguntza"
+
+msgid "Mapa web"
+msgstr "Web mapa"
+
+msgid "Accesibilidad"
+msgstr "Erabilerraztasuna"
+
