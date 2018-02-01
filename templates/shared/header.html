@@ -6,21 +6,21 @@
     <div class="container">
       <div class="row">
         <div class="logo-nav-aux col-xs-3">
-          <a href="{{ main_entity_web_url }}" class="icon-council-header" title="{{ _('Gobierno de Aragón') }}" target="_blank">{{ _('Gobierno de Aragón') }}</a>
+          <a href="{{ main_entity_web_url }}?idioma={{ LANGUAGE_CODE }}" class="icon-council-header" title="{{ _('Gobierno de Aragón') }}" target="_blank">{{ _('Gobierno de Aragón') }}</a>
         </div>
         <div class="header-menu col-xs-7 hidden-xs">
           <ul>
             <li>
-              <a class="icon-chat" href="/we001/was/we001Action.do?idioma=es&amp;aplicacion=wb021&amp;tabla=buzon&amp;accion=presentacion&amp;idBuzon=1&amp;accesodirecto" title="Buzón Ciudadano">Buzón Ciudadano</a>
+              <a class="icon-chat" href="{{ main_entity_web_url }}?idioma={{ LANGUAGE_CODE }}&aplicacion=wb021&tabla=buzon&accion=presentacion&idBuzon=1&accesodirecto" title="{{ _('Buzón Ciudadano') }}">{{ _('Buzón Ciudadano') }}</a>
             </li>
             <li>
-              <a href="http://avg-directorio.tel/" class="icon-telephone" title="Contacto">Contacto</a>
+              <a href="http://avg-directorio.tel/" class="icon-telephone" title="{{ _('Contacto') }}">{{ _('Contacto') }}</a>
             </li>
             <li>
-              <a class="icon-computer" href="https://sedeelectronica.vitoria-gasteiz.org/j30-01s/tramitesAction.do?locale=es&amp;accesodirecto" title="Sede electrónica">Sede electrónica</a>
+              <a class="icon-computer" href="https://sedeelectronica.vitoria-gasteiz.org/j30-01s/tramitesAction.do?locale={{ LANGUAGE_CODE }}&accesodirecto" title="{{ _('Sede electrónica') }}">{{ _('Sede electrónica') }}</a>
             </li>
             <li>
-              <a class="icon-wheel" id="inclusite" title="Modo accesible" href="https://www--vitoria-gasteiz--org.accesible.inclusite.com/we001/was/we001Action.do?idioma=es&amp;accion=home&amp;accionWe001=ficha"><span class="hidden-xs">Modo accesible</span></a>
+              <a class="icon-wheel" id="inclusite" title="{{ _('Modo accesible') }}" href="https://www--vitoria-gasteiz--org.accesible.inclusite.com/we001/was/we001Action.do?idioma={{ LANGUAGE_CODE }}&accion=home&accionWe001=ficha"><span class="hidden-xs">{{ _('Modo accesible') }}</span></a>
             </li>
           </ul> 
         </div>  
@@ -51,7 +51,7 @@
 		<!-- Ayuntamiento Logo & Web Link -->
     <!-- Your logo must be located in "theme-folder/static/assets/logo.png" -->
 		<div class="main-entity-logo">
-			<a href="{{ main_entity_web_url }}" target="_blank">{{ _('Gobierno de Aragón') }}</a>
+			<a href="{{ main_entity_web_url }}?idioma={{ LANGUAGE_CODE }}" target="_blank">{{ _('Gobierno de Aragón') }}</a>
 		</div>
 
 		<!-- DVMI Title & Home Link -->
@@ -60,6 +60,8 @@
         {{ _('Presupuestos') | safe }}
       </a>
     </h1>
+
+    <a class="open-data-logo" href="http://www.vitoria-gasteiz.org//j34-01w/catalogo/portada?enlaceRecomendado"  target="_blank"><strong>Open Data</strong> Vitoria-Gasteiz</a>
 
 	</div>
 		
