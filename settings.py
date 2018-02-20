@@ -19,7 +19,7 @@ PAYMENTS_LOADER = 'VitoriaGasteizPaymentsLoader'
 # ----------------------
 
 # Show Payments section in menu & home options. Default: False.
-SHOW_PAYMENTS = True
+SHOW_PAYMENTS = False
 
 # Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
 # PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
