@@ -1,0 +1,110 @@
+<script>
+  $(function () {
+
+    var breakdown = {{ breakdown.to_json( labels=descriptions['functional'] )|safe }},
+        getBreakdownValue = getBreakdownValueFunction('expense', '{{ latest_budget.name()|safe }}'),
+        gridData = breakdownToTable(breakdown),
+        myGrid;
+
+
+    // Set tax receipt taxes values
+    TaxReceipt.taxes.house.values = [0, 0, 378.79, 381.01, 358.21, 692.47, 472.78, 479.57, 1435.59];
+    TaxReceipt.taxes.house.callback = function(selector, values) {
+      // selector value is 'house'
+      var houseBonusValues = [0, 0.5, 0.3, 0.2, 0.1, 0.5, 0.3, 0.2, 0.1];
+      var houseIncomeBonusValues = [0.9, 0.75, 0.6, 0.5, 0.4, 0.3, 0.2, 0];
+      var houseEnergyBonusValues = [0.5, 0.25, 0.5, 0]
+      var houseBonusCoeficient = 1 - houseBonusValues[+$('#select-house-bonus').val()];
+      var houseIncomeBonusCoeficient = 1 - houseIncomeBonusValues[+$('#select-house-income-bonus').val()];
+      var houseEnergyBonusCoeficient = 1 - houseEnergyBonusValues[+$('#select-house-energy-bonus').val()];
+      return values[+$('#select-house').val()] * Math.max.apply(null, [houseBonusCoeficient, houseIncomeBonusCoeficient, houseEnergyBonusCoeficient]);
+    };
+
+    TaxReceipt.taxes.vehicle.values = [0, 10.76, 72.91, 162.03, 216.19];
+    TaxReceipt.taxes.vehicle.callback = function(selector, values) {
+      // selector value is 'vehicle'
+      var vehicleBonusValues = [0, 1, 0.9, 0.1, 0.9];
+      var vehicleBonusCoeficient = 1 - vehicleBonusValues[+$('#select-vehicle-bonus').val()];
+      return values[+$('#select-vehicle').val()] * vehicleBonusCoeficient;
+    };
+
+    TaxReceipt.taxes.garbage.values = [55.09, 55.09, 55.09, 55.09, 55.09, 81.28, 81.28, 81.28, 103.95];
+    TaxReceipt.taxes.garbage.callback = function(selector, values) {
+      // selector value is 'garbage'
+      var garbageBonusValues = [0, 0.5]
+      var garbageMalusValues = [0, 0.04, 0.06, 0.08, 0.1, 0.12];
+      var garbageBonusCoeficient = 1 - garbageBonusValues[+$('#select-garbage-bonus').val()];
+      var garbageMalusCoeficient = 1 + (garbageMalusValues[+$('#select-garbage-surcharge').val()] * garbageBonusCoeficient);
+      return values[+$('#select-garbage').val()] * garbageMalusCoeficient;
+    };
+
+    // Add extra tax
+    // We can add new taxed to TaxReceipt.taxes object
+    // defining its selector, values array & callback function
+    TaxReceipt.taxes.water = { selector: 'water' };
+    TaxReceipt.taxes.water.values = [0, 0, 122.09, 109.21, 159.16, 161.69, 93.65, 186.24, 102.33],
+    TaxReceipt.taxes.water.callback = function(selector, values) {
+      // selector value is 'water'
+      var waterBonusValues = [0, 0.5]
+      var waterMalusValues = [0, 0.04, 0.06, 0.08, 0.1, 0.12];
+      var waterBonusCoeficient = 1 - waterBonusValues[+$('#select-water-bonus').val()];
+      var waterMalusCoeficient = 1 + (waterMalusValues[+$('#select-water-surcharge').val()] * waterBonusCoeficient);
+      return values[+$('#select-water').val()] * waterMalusCoeficient;
+    };
+
+    // Remove unused taxes
+    delete TaxReceipt.taxes.vehicleExtra;
+    delete TaxReceipt.taxes.parking;
+
+    // Override redrawGrid method
+    TaxReceipt.redrawGrid = function() {
+      if ( myGrid !== undefined ) {
+        myGrid.destroy();
+      }
+
+      myGrid = createBudgetGrid('#myGrid', gridData, [
+        { data: 'label', title: '{{ _("Política") }}', render: getPolicyLinkFormatter() },
+        {
+          data:   getBreakdownValue,
+          title:  '{{ _("Gasto") }}',
+          render: TaxReceipt.calculatePersonalTax,
+          year:   breakdown.years['{{ latest_budget.name()|safe }}']
+        }
+      ]);
+    };
+
+    // Add scenarios
+    TaxReceipt.addStatus('scenario-1', {
+      'house':         0,
+      'vehicle':       1,
+      'extra-vehicle': 2,
+      'garbage':       0,
+      'parking':       0,
+    });
+    TaxReceipt.addStatus('scenario-2', {
+      'house':         1,
+      'vehicle':       1,
+      'extra-vehicle': 2,
+      'garbage':       1,
+      'parking':       1,
+    });
+    TaxReceipt.addStatus('scenario-3', {
+      'house':         2,
+      'vehicle':       0,
+      'extra-vehicle': 0,
+      'garbage':       2,
+      'parking':       0,
+    });
+    TaxReceipt.addStatus('scenario-4', {
+      'house':         3,
+      'vehicle':       1,
+      'extra-vehicle': 2,
+      'garbage':       3,
+      'parking':       2,
+    });
+
+    // Initialize tax receipt
+    TaxReceipt.setup( breakdown, getBreakdownValue );
+
+  });
+</script>
