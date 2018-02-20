@@ -1,0 +1,1461 @@
+#Organikoa,Funtzionala,Ekonomikoa,Azalpena,Hasierako kreditua,Behin betiko kreditua,Behartua
+0110,9121,11000,Kabineteko behin-behineko langileen ordainsariak,1038287.45,1038287.45,1109658.32
+0110,9121,12000,Funtzionarioen oinarrizko ordainsariak,23537.0,23537.0,44188.52
+0110,9121,12100,Funtzionarioen ordainsari osagarriak,29778.0,29778.0,51021.24
+0110,9121,16000,"Gizarte Segurantza, enpresaren kontura",488529.0,488529.0,338047.0
+0110,9121,16500,"Elkarkidetzako kuotak, Udalaren kontura",1239.0,1239.0,2427.28
+0110,9123,11000,Kabineteko behin-behineko langileen ordainsariak,1913.0,1913.0,5294.22
+0110,9123,12000,Funtzionarioen oinarrizko ordainsariak,43047.0,43047.0,41881.82
+0110,9123,12100,Funtzionarioen ordainsari osagarriak,66938.0,66938.0,67046.96
+0110,9123,14100,Bestelako langileak,20217.0,20217.0,43816.93
+0110,9123,16000,"Gizarte Segurantza, enpresaren kontura",32224.0,32224.0,34469.13
+0110,9123,16500,"Elkarkidetzako kuotak, Udalaren kontura",3089.0,3089.0,2427.28
+0110,9123,22699,Bestelako hainbat gastu,2000.0,2000.0,1968.66
+0111,2328,12000,Funtzionarioen oinarrizko ordainsariak,17744.21,17744.21,23160.84
+0111,2328,12100,Funtzionarioen ordainsari osagarriak,22836.0,22836.0,26259.55
+0111,2328,16000,"Gizarte Segurantza, enpresaren kontura",11911.0,11911.0,15852.71
+0111,2328,16500,"Elkarkidetzako kuotak, Udalaren kontura",1195.0,1195.0,1599.61
+0112,2301,10000,Zinegotzien oinarrizko ordainsariak,0.0,0.0,0.0
+0112,2301,12000,Funtzionarioen oinarrizko ordainsariak,131655.26,131655.26,180652.9
+0112,2301,12100,Funtzionarioen ordainsari osagarriak,158231.0,158231.0,220195.71
+0112,2301,16000,"Gizarte Segurantza, enpresaren kontura",107682.0,107682.0,123063.02
+0112,2301,16500,"Elkarkidetzako kuotak, Udalaren kontura",9675.0,9675.0,10842.65
+0116,2371,12000,Funtzionarioen oinarrizko ordainsariak,127039.06,127039.06,129814.44
+0116,2371,12100,Funtzionarioen ordainsari osagarriak,154051.0,154051.0,155815.95
+0116,2371,14100,Bestelako langileak,130741.0,130741.0,154292.26
+0116,2371,16000,"Gizarte Segurantza, enpresaren kontura",124226.0,124226.0,115953.54
+0116,2371,16500,"Elkarkidetzako kuotak, Udalaren kontura",10773.0,10773.0,8361.18
+0116,2371,22115,Berariazko material teknikoa - Gazteria,100.0,100.0,120.18
+0116,2371,22709,Jolas jaialdia,0.0,0.0,0.0
+0116,2371,22732,Zerbitzuak emateko kontratuak - Gazteria,0.0,0.0,0.0
+0116,2371,22733,Aisialdi eta denbora libreko kontratuak,0.0,0.0,0.0
+0116,2371,22734,Aisialdi eta denbora libreko programa,355000.0,355000.0,362111.27
+0116,2371,22775,Gazte Plana,91000.0,52500.0,47479.44
+0125,9124,12000,Funtzionarioen oinarrizko ordainsariak,86028.35,86028.35,90372.21
+0125,9124,12100,Funtzionarioen ordainsari osagarriak,122344.0,122344.0,128559.57
+0125,9124,14100,Bestelako langileak,66646.0,66646.0,106123.65
+0125,9124,16000,"Gizarte Segurantza, enpresaren kontura",89949.0,89949.0,87437.07
+0125,9124,16500,"Elkarkidetzako kuotak, Udalaren kontura",3744.0,3744.0,1977.22
+0126,9124,12000,Funtzionarioen oinarrizko ordainsariak,28341.3,28341.3,38105.44
+0126,9124,12100,Funtzionarioen ordainsari osagarriak,56438.0,56438.0,43032.44
+0126,9124,16000,"Gizarte Segurantza, enpresaren kontura",24899.0,24899.0,18546.33
+0126,9124,16500,"Elkarkidetzako kuotak, Udalaren kontura",2478.0,2478.0,1877.81
+0130,9201,12000,Funtzionarioen oinarrizko ordainsariak,197446.34,197446.34,191221.98
+0130,9201,12100,Funtzionarioen ordainsari osagarriak,279924.0,279924.0,258681.3
+0130,9201,16000,"Gizarte Segurantza, enpresaren kontura",98171.0,98171.0,78649.91
+0130,9201,16500,"Elkarkidetzako kuotak, Udalaren kontura",12917.0,12917.0,10149.82
+0130,9201,22610,Kalte-ordainak,15000.0,991277.16,977937.53
+0130,9201,22612,Hitzarmenik gabeko kalte-ordainak,0.0,0.0,0.0
+0130,9201,22617,"Ordainsariak, minutak",30000.0,51000.0,60832.98
+0145,9121,11000,Kabineteko behin-behineko langileen ordainsariak,185458.67,185458.67,177532.54
+0145,9121,12000,Funtzionarioen oinarrizko ordainsariak,22067.0,22067.0,0.0
+0145,9121,12100,Funtzionarioen ordainsari osagarriak,31735.0,31735.0,0.0
+0145,9121,16000,"Gizarte Segurantza, enpresaren kontura",78304.0,78304.0,30647.57
+0145,9121,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,0.0
+0160,2381,12000,Funtzionarioen oinarrizko ordainsariak,120954.24,120954.24,96043.42
+0160,2381,12100,Funtzionarioen ordainsari osagarriak,131980.0,131980.0,104954.67
+0160,2381,16000,"Gizarte Segurantza, enpresaren kontura",71818.0,71818.0,68881.8
+0160,2381,16500,"Elkarkidetzako kuotak, Udalaren kontura",2791.0,2791.0,2431.69
+0160,2381,22115,Berariazko material teknikoa,550.0,550.0,132.76
+0160,2381,22710,III. Berdintasun Plana,295000.0,295000.0,189496.88
+0162,2391,12000,Funtzionarioen oinarrizko ordainsariak,42968.34,42968.34,37167.32
+0162,2391,12100,Funtzionarioen ordainsari osagarriak,56100.0,56100.0,40492.82
+0162,2391,14100,Bestelako langileak,48860.0,48860.0,56540.05
+0162,2391,16000,"Gizarte Segurantza, enpresaren kontura",43764.0,43764.0,39562.42
+0162,2391,16500,"Elkarkidetzako kuotak, Udalaren kontura",1239.0,1239.0,973.68
+0162,2391,22696,Euskal Fondoaren kuota,11237.4,11237.4,11237.4
+0162,2391,22699,Lankidetzako bestelako hainbat gastu,16000.0,16000.0,4914.26
+0162,2391,22707,Azterlanak eta lan teknikoak,30000.0,30000.0,5959.8
+0162,2391,22798,Kanpoko beste zenbait lan - Lankidetza,0.0,0.0,0.0
+0162,2391,22799,Kanpoko beste zenbait lan,44560.0,44560.0,28657.32
+0171,3351,12000,Funtzionarioen oinarrizko ordainsariak,159504.53,159504.53,188020.03
+0171,3351,12100,Funtzionarioen ordainsari osagarriak,175965.0,175965.0,210596.41
+0171,3351,14100,Bestelako langileak,118780.0,118780.0,96652.95
+0171,3351,16000,"Gizarte Segurantza, enpresaren kontura",142492.0,142492.0,131793.93
+0171,3351,16500,"Elkarkidetzako kuotak, Udalaren kontura",10301.0,10301.0,8998.49
+0171,3351,22741,Gurasoentzako euskara eskolak,500000.0,500000.0,386583.81
+0171,3351,22748,Euskararen Astea,25000.0,25000.0,25000.88
+0171,3351,22780,Euskara plana,236250.0,236250.0,159941.86
+0171,3351,22781,Euskararen ordenantzaren debatea dinamizatzea,24000.0,24000.0,0.0
+0171,3351,22782,Antzokiko jarduera-programa,0.0,0.0,0.0
+0171,3351,22799,"Kanpoko itzulpenak, euskera",15000.0,15000.0,5224.57
+0180,9271,11000,Kabineteko behin-behineko langileen ordainsariak,58855.1,58855.1,50303.72
+0180,9271,12000,Funtzionarioen oinarrizko ordainsariak,15943.0,15943.0,16812.19
+0180,9271,12100,Funtzionarioen ordainsari osagarriak,24925.0,24925.0,25002.59
+0180,9271,16000,"Gizarte Segurantza, enpresaren kontura",35429.0,35429.0,24304.59
+0181,2327,12000,Funtzionarioen oinarrizko ordainsariak,33209.86,33209.86,57816.85
+0181,2327,12100,Funtzionarioen ordainsari osagarriak,45906.75,45906.75,62255.32
+0181,2327,14100,Bestelako langileak,34773.08,34773.08,35899.64
+0181,2327,16000,"Gizarte Segurantza, enpresaren kontura",40073.69,40073.69,46586.14
+0181,2327,16500,"Elkarkidetzako kuotak, Udalaren kontura",1768.0,1768.0,116.26
+0182,1742,22700,"Hondakinak jasotzea eta mantentze lanak, herrietan eta hilerrian",1400000.0,1400000.0,1397073.03
+0182,1743,21000,Azpiegiturak eta ondasun naturalak,45000.0,45000.0,48388.05
+0182,1743,21902,"Baso-bide, landaketak eta naturguneak mantentzea",45000.0,45000.0,37048.12
+0182,1743,21911,Herrietako lorategiak onik zaintzea,260000.0,260000.0,259805.23
+0182,1743,22111,Tresnak eta lanabesak,12000.0,12000.0,12048.28
+0182,1743,22145,Eremu hondatuak lehengoratzea,25000.0,25000.0,24969.75
+0182,1749,12000,Funtzionarioen oinarrizko ordainsariak,121849.75,121849.75,130600.83
+0182,1749,12100,Funtzionarioen ordainsari osagarriak,177039.0,177039.0,179875.94
+0182,1749,13000,Lan-kontratudun langile finkoen ordainsariak,110300.0,110300.0,109057.6
+0182,1749,14100,Bestelako langileak,666.0,666.0,2475.64
+0182,1749,16000,"Gizarte Segurantza, enpresaren kontura",126653.0,126653.0,111266.83
+0182,1749,16500,"Elkarkidetzako kuotak, Udalaren kontura",8895.0,8895.0,8962.72
+0187,9271,11000,Kabineteko behin-behineko langileen ordainsariak,97959.65,97959.65,100966.55
+0187,9271,12000,Funtzionarioen oinarrizko ordainsariak,48214.0,48214.0,40990.5
+0187,9271,12100,Funtzionarioen ordainsari osagarriak,46420.0,46420.0,38092.22
+0187,9271,16000,"Gizarte Segurantza, enpresaren kontura",63307.0,63307.0,47367.23
+0187,9271,16500,"Elkarkidetzako kuotak, Udalaren kontura",3360.0,3360.0,2131.76
+0187,9271,22603,Argitalpenak eta publizitatea,500000.0,595000.0,596934.71
+0187,9271,22604,Liburu-argitalpenak,0.0,0.0,0.0
+0187,9271,22612,Eguneko prentsa erostea,25000.0,25000.0,32168.36
+0187,9271,22616,Prentsa-zerbitzuak,20000.0,20000.0,24220.62
+0187,9271,22631,Erakundeetako parte-hartzea,28000.0,33700.0,42698.1
+0187,9271,22632,Harpidetzak,5000.0,5000.0,394.77
+0187,9271,22634,Ekitaldiak antolatzea eta ordezkaritza-gastuak,63500.0,123500.0,131826.87
+0187,9271,22645,Legez argitaratu beharreko iragarki ofizialak,200000.0,200000.0,159831.74
+0187,9271,22730,Argitalpen funtsak gordetzeko zerbitzua,15000.0,15000.0,26684.77
+0210,1502,11000,Kabineteko behin-behineko langileen ordainsariak,52320.27,52320.27,5022.38
+0210,1502,12000,Funtzionarioen oinarrizko ordainsariak,76588.0,76588.0,99579.58
+0210,1502,12100,Funtzionarioen ordainsari osagarriak,113390.0,113390.0,147408.46
+0210,1502,14100,Bestelako langileak,88375.0,88375.0,94755.75
+0210,1502,16000,"Gizarte Segurantza, enpresaren kontura",100855.0,100855.0,71117.77
+0210,1502,16500,"Elkarkidetzako kuotak, Udalaren kontura",5474.0,5474.0,5236.1
+0210,1502,22004,Kartografia eta proiektuak editatu eta erreproduzitzea,3500.0,3500.0,920.88
+0210,1502,22707,Laguntza teknikoak,4100.0,4100.0,1661.66
+0210,1502,23901,Kalte-ordainak desjabetzeetako epaimahaiei,1000.0,1000.0,180.0
+0211,1511,12000,Funtzionarioen oinarrizko ordainsariak,197029.61,197029.61,201458.95
+0211,1511,12100,Funtzionarioen ordainsari osagarriak,243325.0,243325.0,245531.34
+0211,1511,14100,Bestelako langileak,194585.0,194585.0,229554.55
+0211,1511,16000,"Gizarte Segurantza, enpresaren kontura",192233.0,192233.0,183261.33
+0211,1511,16500,"Elkarkidetzako kuotak, Udalaren kontura",10193.0,10193.0,8182.51
+0213,1502,22730,Argitalpen funtsak gordetzeko zerbitzua,7000.0,7000.0,6534.35
+0213,1512,12000,Funtzionarioen oinarrizko ordainsariak,324610.78,324610.78,300512.65
+0213,1512,12100,Funtzionarioen ordainsari osagarriak,410844.0,410844.0,375371.24
+0213,1512,14100,Bestelako langileak,5526.0,5526.0,101443.24
+0213,1512,16000,"Gizarte Segurantza, enpresaren kontura",216304.0,216304.0,189086.92
+0213,1512,16500,"Elkarkidetzako kuotak, Udalaren kontura",17588.0,17588.0,13285.65
+0213,1512,22620,Lan subsidiarioak eta eskoratzeak,40000.0,40000.0,0.0
+0213,1512,22621,"Betearazte subsidiarioa, Barnekale Berria, 32",0.0,56320.33,0.0
+0214,9211,12000,Funtzionarioen oinarrizko ordainsariak,230703.83,230703.83,219251.54
+0214,9211,12100,Funtzionarioen ordainsari osagarriak,287068.0,287068.0,250670.49
+0214,9211,14100,Bestelako langileak,113021.0,113021.0,119450.47
+0214,9211,16000,"Gizarte Segurantza, enpresaren kontura",195595.0,195595.0,155391.25
+0214,9211,16500,"Elkarkidetzako kuotak, Udalaren kontura",10329.0,10329.0,5081.5
+0216,1502,12000,Funtzionarioen oinarrizko ordainsariak,173815.13,173815.13,162600.08
+0216,1502,12100,Funtzionarioen ordainsari osagarriak,227394.0,227394.0,203542.06
+0216,1502,14100,Bestelako langileak,97656.0,97656.0,106641.87
+0216,1502,16000,"Gizarte Segurantza, enpresaren kontura",152090.0,152090.0,121903.52
+0216,1502,16500,"Elkarkidetzako kuotak, Udalaren kontura",12618.0,12618.0,8280.74
+0320,1301,11000,Kabineteko behin-behineko langileen ordainsariak,77567.72,77567.72,83827.77
+0320,1301,12000,Funtzionarioen oinarrizko ordainsariak,50947.0,50947.0,51323.24
+0320,1301,12100,Funtzionarioen ordainsari osagarriak,50863.0,50863.0,50928.53
+0320,1301,16000,"Gizarte Segurantza, enpresaren kontura",40071.0,40071.0,34449.66
+0320,1301,16500,"Elkarkidetzako kuotak, Udalaren kontura",3360.0,3360.0,3367.18
+0325,1331,12000,Funtzionarioen oinarrizko ordainsariak,207047.52,207047.52,169215.09
+0325,1331,12100,Funtzionarioen ordainsari osagarriak,231289.0,231289.0,194724.08
+0325,1331,14100,Bestelako langileak,167872.0,167872.0,272752.99
+0325,1331,16000,"Gizarte Segurantza, enpresaren kontura",208427.0,208427.0,200711.7
+0325,1331,16500,"Elkarkidetzako kuotak, Udalaren kontura",11491.0,11491.0,5330.97
+0325,1331,20200,TAO txartelak saltzeko makinak mantentzea,250000.0,250000.0,249761.65
+0325,1331,21050,Seinaleztapena onik zaintzea,150000.0,150000.0,112689.29
+0325,1331,21910,Trafikoa kontrolatzeko sistema mantentzea,1220000.0,1220000.0,1181393.6
+0330,1301,12000,Funtzionarioen oinarrizko ordainsariak,356150.56,356150.56,378578.78
+0330,1301,12100,Funtzionarioen ordainsari osagarriak,447436.0,447436.0,468799.59
+0330,1301,14100,Bestelako langileak,114265.0,114265.0,123396.99
+0330,1301,16000,"Gizarte Segurantza, enpresaren kontura",286717.0,286717.0,263186.78
+0330,1301,16500,"Elkarkidetzako kuotak, Udalaren kontura",18145.0,18145.0,12905.23
+0340,1351,21102,Larrialdi eta elurteetako gastuak,150000.0,150000.0,83246.88
+0340,1351,21104,Elurteetako jardunak,0.0,0.0,0.0
+0340,1361,12000,Funtzionarioen oinarrizko ordainsariak,1638773.66,1638773.66,1721373.21
+0340,1361,12100,Funtzionarioen ordainsari osagarriak,3040740.0,3040740.0,3187449.85
+0340,1361,14100,Bestelako langileak,1832584.0,1832584.0,1985864.82
+0340,1361,16000,"Gizarte Segurantza, enpresaren kontura",4157331.0,3028842.0,2498678.16
+0340,1361,16500,"Elkarkidetzako kuotak, Udalaren kontura",100411.0,100411.0,81316.37
+0340,1361,21000,Azpiegitura mantentzea,8000.0,8000.0,4996.18
+0340,1361,21300,Ibilgailuak konpontzea,65000.0,65000.0,70819.87
+0340,1361,21900,Ekipoak berritzea eta erostea,40000.0,70250.0,70057.3
+0340,1361,22105,Jantziak eta uniformeak,75000.0,75000.0,74847.39
+0340,1361,22111,Tresna eta lanabesak,20000.0,20000.0,15419.77
+0340,1361,22199,Bestelako hornikuntzak,30000.0,30000.0,31052.36
+0340,1361,22699,Bestelako hainbat gastu,10000.0,10000.0,14026.89
+0350,1321,12000,Funtzionarioen oinarrizko ordainsariak,5874405.34,5811422.34,6189547.09
+0350,1321,12100,Funtzionarioen ordainsari osagarriak,10816900.0,10662699.0,10041994.44
+0350,1321,16000,"Gizarte Segurantza, enpresaren kontura",5127646.0,5060319.0,4329192.72
+0350,1321,16500,"Elkarkidetzako kuotak, Udalaren kontura",259596.0,259596.0,228726.06
+0350,1321,20501,TETRA irratikomunikazio sistemaren rentinga,8000.0,8000.0,8000.0
+0350,1321,21000,Azpiegiturak eta ondasun naturalak,0.0,0.0,0.0
+0350,1321,21300,Ibilgailuak konpontzea,75000.0,84000.0,83475.16
+0350,1321,21301,Ibilgailuen konponketa osagarriak,0.0,0.0,0.0
+0350,1321,21900,Ekipoak berritzea eta erostea,40000.0,46000.0,36679.73
+0350,1321,21905,Segurtasun scannerra eta USPa onik zaintzea,7500.0,7500.0,5255.08
+0350,1321,22105,Jantziak eta uniformeak,85000.0,76000.0,66104.12
+0350,1321,22111,Tresna eta lanabesak,10000.0,4000.0,2760.37
+0350,1321,22112,Osasun-material eta -jarduerak,0.0,0.0,0.0
+0350,1321,22199,Bestelako hornikuntzak,15000.0,15000.0,16480.68
+0350,1321,22699,Bestelako hainbat gastu,25000.0,25000.0,18333.99
+0410,0111,32000,Epe laburreko zorraren interes eta komisioak,348053.0,31219.57,24468.19
+0410,0111,33000,Epe luzeko zorraren interesak eta komisioak,932982.0,584025.78,570255.88
+0410,0111,91005,Kredituen amortizazioa,14344111.87,14344111.87,14344111.87
+0410,9205,20301,Ibilgailuen rentinga,530000.0,470000.0,373887.91
+0410,9205,21300,Ibilgailuak konpontzea,150000.0,186000.0,181011.55
+0410,9205,22104,Erregaiak,350000.0,270000.0,264243.96
+0410,9205,22404,Ibilgailuen aseguruak,120000.0,120000.0,100230.09
+0410,9206,21400,Altzariak konpontzea,4000.0,4000.0,150.04
+0410,9206,21500,Ekipoak mantentzeko kontratuak,100000.0,180000.0,171052.31
+0410,9206,22001,"Ohikoa, inbentariatu ezina",180000.0,180000.0,162749.19
+0410,9207,20100,Lokal eta eraikinak alokatzea,4164876.82,4164876.82,4085032.43
+0410,9207,22110,Kopiagintza-gastuak,50000.0,56000.0,85606.88
+0410,9207,22402,Erantzukizun zibileko aseguruak,301700.0,301700.0,262341.07
+0410,9207,22407,Bizitza- eta istripu-asegurua,25000.0,25000.0,32414.34
+0410,9207,22600,Ondasunen erregistro-gastuak,20000.0,20000.0,19162.6
+0410,9207,22639,Atezaintza-gastuak,0.0,0.0,0.0
+0410,9207,22695,CEDRO lizentziak,0.0,0.0,0.0
+0410,9207,22732,Zerbitzuak emateko kontratuak,90000.0,90000.0,78901.94
+0410,9213,22103,Ur hornikuntza zatikatzea,0.0,0.0,0.0
+0410,9311,22499,Ondarearen gaineko erantzukizunarengatiko kalte-ordaina,150000.0,150000.0,101167.33
+0410,9319,12000,Funtzionarioen oinarrizko ordainsariak,30863.12,30863.12,50138.92
+0410,9319,12100,Funtzionarioen ordainsari osagarriak,50772.0,50772.0,89940.02
+0410,9319,16000,"Gizarte Segurantza, enpresaren kontura",21257.0,21257.0,21533.15
+0410,9319,16500,"Elkarkidetzako kuotak, Udalaren kontura",2841.0,2841.0,2427.28
+0410,9321,22611,Katastroa mantentzea,111225.0,111225.0,110816.64
+0410,9321,22699,Bestelako hainbat gastu,0.0,0.0,0.0
+0410,9321,22776,Isunen Ataleko zerbitzuak,190000.0,190000.0,185894.26
+0410,9331,22401,Udal eraikin eta lokalen aseguruak,310000.0,310000.0,297815.55
+0410,9331,22601,Auzo-komunitateetako gastuak,427357.97,427357.97,352230.33
+0410,9331,22610,Europa aparkalekuarekin hitzartutako kalte-ordaina,411297.5,411297.5,411297.49
+0410,9331,22663,Elorriagako ustiapenak bertan behera geratzea konpentsatzea,52300.0,52300.0,50892.05
+0410,9331,22760,Erloju publikoak mantentzea,20100.0,20100.0,19306.1
+0410,9341,36100,"Interesak, zor ez ziren sarrerak itzultzean",113965.0,113965.0,127632.68
+0410,9341,36101,Diru-sarrerei loturiko finantza-gastuak,110000.0,110000.0,146005.4
+0410,9341,36102,Berandutze interesak,1140070.39,10581262.47,10419523.73
+0410,9341,36900,Bestelako finantza-gastuak,20000.0,20000.0,386.61
+0411,9321,12000,Funtzionarioen oinarrizko ordainsariak,78830.48,78830.48,54960.79
+0411,9321,12100,Funtzionarioen ordainsari osagarriak,96168.0,96168.0,65541.0
+0411,9321,16000,"Gizarte Segurantza, enpresaren kontura",39436.0,39436.0,34925.88
+0411,9321,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,2907.2
+0412,9314,12000,Funtzionarioen oinarrizko ordainsariak,31575.55,31575.55,129640.8
+0412,9314,12100,Funtzionarioen ordainsari osagarriak,49766.0,49766.0,171123.43
+0412,9314,16000,"Gizarte Segurantza, enpresaren kontura",13603.0,13603.0,53675.42
+0412,9314,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,5547.58
+0414,9312,12000,Funtzionarioen oinarrizko ordainsariak,54968.24,54968.24,108469.58
+0414,9312,12100,Funtzionarioen ordainsari osagarriak,80284.0,80284.0,148207.15
+0414,9312,14100,Bestelako langileak,51548.0,51548.0,48062.4
+0414,9312,16000,"Gizarte Segurantza, enpresaren kontura",43925.0,43925.0,63012.85
+0414,9312,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,1453.6
+0415,9323,12000,Funtzionarioen oinarrizko ordainsariak,103914.51,103914.51,103355.82
+0415,9323,12100,Funtzionarioen ordainsari osagarriak,128698.0,128698.0,129651.44
+0415,9323,16000,"Gizarte Segurantza, enpresaren kontura",52270.0,52270.0,42198.4
+0415,9323,16500,"Elkarkidetzako kuotak, Udalaren kontura",6065.0,6065.0,4800.84
+0416,9341,12000,Funtzionarioen oinarrizko ordainsariak,96295.61,96295.61,99827.6
+0416,9341,12100,Funtzionarioen ordainsari osagarriak,112898.0,112898.0,120565.28
+0416,9341,16000,"Gizarte Segurantza, enpresaren kontura",62388.0,62388.0,49690.76
+0416,9341,16500,"Elkarkidetzako kuotak, Udalaren kontura",3700.0,3700.0,4360.8
+0417,9322,12000,Funtzionarioen oinarrizko ordainsariak,90118.8,90118.8,90784.26
+0417,9322,12100,Funtzionarioen ordainsari osagarriak,132065.0,132065.0,133905.49
+0417,9322,16000,"Gizarte Segurantza, enpresaren kontura",60962.0,60962.0,43067.23
+0417,9322,16500,"Elkarkidetzako kuotak, Udalaren kontura",6178.0,6178.0,4854.56
+0418,9319,12000,Funtzionarioen oinarrizko ordainsariak,1142398.75,1142398.75,957549.18
+0418,9319,12100,Funtzionarioen ordainsari osagarriak,1411380.0,1411380.0,1112093.5
+0418,9319,14100,Bestelako langileak,377760.0,377760.0,349621.64
+0418,9319,16000,"Gizarte Segurantza, enpresaren kontura",913999.0,913999.0,638438.29
+0418,9319,16500,"Elkarkidetzako kuotak, Udalaren kontura",66880.0,66880.0,45656.37
+0421,9314,12000,Funtzionarioen oinarrizko ordainsariak,98548.99,98548.99,0.0
+0421,9314,12100,Funtzionarioen ordainsari osagarriak,121109.0,121109.0,0.0
+0421,9314,16000,"Gizarte Segurantza, enpresaren kontura",52436.0,52436.0,0.0
+0421,9314,16500,"Elkarkidetzako kuotak, Udalaren kontura",5210.0,5210.0,0.0
+0422,4413,12000,Funtzionarioen oinarrizko ordainsariak,113430.23,113430.23,107040.35
+0422,4413,12100,Funtzionarioen ordainsari osagarriak,151218.0,151218.0,154921.67
+0422,4413,14100,Bestelako langileak,270241.0,270241.0,349999.52
+0422,4413,16000,"Gizarte Segurantza, enpresaren kontura",172445.0,172445.0,172327.17
+0422,4413,21105,Autobus-geltokia onik zaindu eta mantentzea,94000.0,94000.0,52245.63
+0422,4413,22101,Energia elektrikoa,174000.0,174000.0,84376.96
+0422,4413,22102,Ur-hornidura eta hondar-urak araztea,19000.0,19000.0,0.0
+0422,4413,22103,Gasa,30000.0,30000.0,3454.26
+0422,4413,22734,Segurtasuna,50000.0,50000.0,49252.61
+0422,4413,22783,Garbiketa-zerbitzuaren kontratua,120000.0,120000.0,138347.78
+0810,4301,11000,Kabineteko behin-behineko langileen ordainsariak,51821.66,51821.66,2338.87
+0810,4301,12000,Funtzionarioen oinarrizko ordainsariak,7442.0,7442.0,28328.6
+0810,4301,12100,Funtzionarioen ordainsari osagarriak,20616.0,20616.0,49672.36
+0810,4301,14100,Bestelako langileak,140175.0,140175.0,119877.41
+0810,4301,16000,"Gizarte Segurantza, enpresaren kontura",85599.0,85599.0,48447.99
+0810,4301,16500,"Elkarkidetzako kuotak, Udalaren kontura",1775.0,1775.0,2640.38
+0817,4332,11000,Kabineteko behin-behineko langileen ordainsariak,1310.01,1310.01,0.0
+0817,4332,12000,Funtzionarioen oinarrizko ordainsariak,156760.0,156760.0,74490.23
+0817,4332,12100,Funtzionarioen ordainsari osagarriak,170805.0,170805.0,72342.61
+0817,4332,14100,Bestelako langileak,67447.0,67447.0,13522.83
+0817,4332,16000,"Gizarte Segurantza, enpresaren kontura",118538.0,118538.0,40036.43
+0817,4332,16500,"Elkarkidetzako kuotak, Udalaren kontura",5285.0,5285.0,415.32
+0817,4332,22605,"Bilerak, hitzaldiak eta biltzarrak",2000.0,2000.0,2699.99
+0817,4332,22606,Babes kontratuak,0.0,0.0,0.0
+0817,4332,22707,Azterlanak eta lan teknikoak,8000.0,8000.0,15549.73
+0817,4334,85112,"CEIA, kapital-zabalkuntza",122335.36,122335.36,122335.36
+0817,9241,22640,Udalerriko Gizarte Kontseilua,0.0,0.0,0.0
+0819,4301,12000,Funtzionarioen oinarrizko ordainsariak,212254.51,212254.51,182367.31
+0819,4301,12100,Funtzionarioen ordainsari osagarriak,243532.0,243532.0,208309.52
+0819,4301,14100,Bestelako langileak,49138.0,49138.0,75868.66
+0819,4301,16000,"Gizarte Segurantza, enpresaren kontura",150018.0,150018.0,119590.28
+0819,4301,16500,"Elkarkidetzako kuotak, Udalaren kontura",10612.0,10612.0,6878.4
+0820,4301,12000,Funtzionarioen oinarrizko ordainsariak,74727.94,74727.94,116445.0
+0820,4301,12100,Funtzionarioen ordainsari osagarriak,75321.0,75321.0,119709.55
+0820,4301,16000,"Gizarte Segurantza, enpresaren kontura",39629.0,39629.0,77885.56
+0820,4301,16500,"Elkarkidetzako kuotak, Udalaren kontura",5550.0,5550.0,6333.54
+0821,4331,12000,Funtzionarioen oinarrizko ordainsariak,67021.89,67021.89,108012.78
+0821,4331,12100,Funtzionarioen ordainsari osagarriak,65751.0,65751.0,118075.4
+0821,4331,14100,Bestelako langileak,120851.0,120851.0,129178.15
+0821,4331,16000,"Gizarte Segurantza, enpresaren kontura",78217.0,78217.0,96255.25
+0821,4331,16500,"Elkarkidetzako kuotak, Udalaren kontura",3369.0,3369.0,4153.14
+0821,4331,22677,Ekintzaileentzako laguntza,50000.0,69000.0,60549.08
+0821,4331,22712,Enpresa-mintegien kudeaketa,30000.0,9000.0,7467.98
+0821,4331,22796,Kalitate Plana,5000.0,5000.0,4395.95
+0821,4331,22797,Dinamizazio ekonomikoa,380000.0,270000.0,189794.03
+0821,4333,22798,Erdi Aroko hiriguneko kudeaketa soziokulturalaren eta dinamizazio ekonomikoaren gastuak,0.0,0.0,0.0
+0821,4333,22799,"Paisaia-muralak margotzeko lehiaketa, Zaramaga",30000.0,30000.0,26699.99
+0822,4314,12000,Funtzionarioen oinarrizko ordainsariak,26479.45,26479.45,25514.18
+0822,4314,12100,Funtzionarioen ordainsari osagarriak,29538.0,29538.0,29540.23
+0822,4314,14100,Bestelako langileak,110352.0,110352.0,130363.46
+0822,4314,16000,"Gizarte Segurantza, enpresaren kontura",52487.0,52487.0,67313.62
+0822,4314,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,1453.6
+0822,4314,20200,Makineria eta instalazioak alokatzea,85000.0,94000.0,79810.5
+0822,4314,22700,Eguberrietako argiztapena,70000.0,70000.0,65824.38
+0822,4314,22773,Azokak,30000.0,30000.0,33698.3
+0822,4314,22798,Merkataritza dinamizatzea,130000.0,78100.0,40446.68
+0823,2411,12000,Funtzionarioen oinarrizko ordainsariak,344296.85,344296.85,315486.31
+0823,2411,12100,Funtzionarioen ordainsari osagarriak,367300.0,367300.0,341949.55
+0823,2411,13000,Lan-kontratudun langile finkoen ordainsariak,622.0,622.0,806009.61
+0823,2411,14100,Bestelako langileak,411664.0,681840.36,422345.63
+0823,2411,16000,"Gizarte Segurantza, enpresaren kontura",356192.0,436137.18,565015.38
+0823,2411,16500,"Elkarkidetzako kuotak, Udalaren kontura",24351.0,24351.0,17879.73
+0823,2411,20100,Lokal eta eraikinak alokatzea,75100.0,78100.0,78082.04
+0823,2411,22795,Prestakuntza,620000.0,615000.0,603671.06
+0823,2411,22796,Udalaren sasoiko enplegua sustatzea,0.0,0.0,0.0
+0823,2411,22797,Gasteiz enplegu planak,2210000.0,1200000.0,113810.64
+0824,4321,12000,Funtzionarioen oinarrizko ordainsariak,111215.85,111215.85,127191.49
+0824,4321,12100,Funtzionarioen ordainsari osagarriak,133846.0,133846.0,152507.6
+0824,4321,14100,Bestelako langileak,68670.0,68670.0,73242.22
+0824,4321,16000,"Gizarte Segurantza, enpresaren kontura",93839.0,93839.0,92606.43
+0824,4321,16500,"Elkarkidetzako kuotak, Udalaren kontura",7639.0,7639.0,6197.84
+0824,4321,22630,Turismo-mahaia,0.0,0.0,0.0
+0824,4321,22732,Zerbitzuak emateko kontratuak,0.0,0.0,0.0
+0824,4321,22776,"Kudeaketa: Europa jauregia, Goiuri eta Turismoa",425000.0,500000.0,406650.23
+0824,4321,22777,Turismoa dinamizatzea,100000.0,100000.0,65352.2
+0824,4321,22778,Turismo gertaldi bereziak,5000.0,5000.0,0.0
+0824,4321,22779,Hiriaren sustapena,145000.0,145000.0,184923.49
+0824,4321,22780,Turismo Bulegoaren merchandising-gastuak,30000.0,30000.0,18277.53
+0824,4321,22781,Hiri Napoleondarren Federazioaren ekintzak,0.0,0.0,0.0
+0825,4221,22729,Enpresentzako laguntza,0.0,0.0,0.0
+0910,9202,12000,Funtzionarioen oinarrizko ordainsariak,66934.19,66934.19,70346.66
+0910,9202,12100,Funtzionarioen ordainsari osagarriak,94407.0,94407.0,97450.16
+0910,9202,14100,Bestelako langileak,124943.0,124943.0,166912.01
+0910,9202,16000,"Gizarte Segurantza, enpresaren kontura",75195.0,75195.0,75532.38
+0910,9202,16007,Funtzionarioen berariazko osagarrirako ekarpena,269974.0,269974.0,255035.64
+0910,9202,16102,Aldez aurreko erretiroen kalte-ordainak,1003613.0,1003613.0,2920720.78
+0910,9202,16104,Epaiaren ondoriozko ordainsariak,15000.0,15000.0,3998.56
+0910,9202,16204,Bizi-asegurua - Auto-asegurua,125000.0,125000.0,0.0
+0910,9202,16205,Bizi-asegurua - langileen istripuak,810000.0,810000.0,829959.05
+0910,9202,16206,Aseguru korporatiboak,11500.0,11500.0,3372.44
+0910,9202,16220,Kalte-ordainak,1500.0,1500.0,310.0
+0910,9202,16500,"Elkarkidetzako kuotak, Udalaren kontura",4625.0,4625.0,4049.31
+0910,9202,22001,"Ohikoa, inbentariatu ezina",3870.0,3870.0,1430.1
+0910,9202,22105,Jantziak eta uniformeak,85000.0,85000.0,85988.37
+0910,9202,22638,Udal langileen prestakuntza-plana,100000.0,100000.0,107387.27
+0910,9202,22745,Laneko arriskuen prebentziorako programa estrategikoa,5000.0,5000.0,1021.24
+0910,9202,22746,Lan-absentismoaren inguruko ekintzetarako kontratuak,0.0,0.0,0.0
+0910,9202,22759,Etengabeko hobekuntzarako plan estrategikoa,8000.0,8000.0,8260.95
+0910,9202,22760,Genero-berdintasunerako ekintzak,26000.0,26000.0,4098.54
+0910,9202,22763,Bilera eta biltzarrak egitea,0.0,0.0,0.0
+0910,9202,22764,Antolakuntza-azterlanak,1000.0,1000.0,0.0
+0910,9202,23000,Dietak,20720.0,20720.0,50835.79
+0910,9202,23001,Lokomozio-gastuak,35000.0,35000.0,23626.98
+0910,9202,23900,Hautatze prozesuetako gastuak,10000.0,10000.0,3371.41
+0911,9202,12000,Funtzionarioen oinarrizko ordainsariak,239124.27,239124.27,244718.03
+0911,9202,12100,Funtzionarioen ordainsari osagarriak,313312.0,313312.0,297001.82
+0911,9202,14100,Bestelako langileak,167210.0,167210.0,212236.24
+0911,9202,16000,"Gizarte Segurantza, enpresaren kontura",228183.0,228183.0,203280.87
+0911,9202,16500,"Elkarkidetzako kuotak, Udalaren kontura",15105.0,15105.0,14586.43
+0912,9202,12000,Funtzionarioen oinarrizko ordainsariak,183599.15,183599.15,161779.75
+0912,9202,12100,Funtzionarioen ordainsari osagarriak,218729.0,218729.0,200884.01
+0912,9202,16000,"Gizarte Segurantza, enpresaren kontura",104139.0,104139.0,74300.78
+0912,9202,16500,"Elkarkidetzako kuotak, Udalaren kontura",11823.0,11823.0,7761.76
+0915,9202,11000,Kabineteko behin-behineko langileen ordainsariak,75683.31,75683.31,0.0
+0915,9202,12000,Funtzionarioen oinarrizko ordainsariak,81138.0,81138.0,43214.41
+0915,9202,12100,Funtzionarioen ordainsari osagarriak,95344.0,95344.0,50188.11
+0915,9202,14100,Bestelako langileak,627.0,627.0,1240.84
+0915,9202,16000,"Gizarte Segurantza, enpresaren kontura",61842.0,61842.0,17436.91
+0915,9202,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,1453.6
+0919,9203,12000,Funtzionarioen oinarrizko ordainsariak,159200.74,159200.74,146422.08
+0919,9203,12100,Funtzionarioen ordainsari osagarriak,184954.0,184954.0,165788.26
+0919,9203,14100,Bestelako langileak,16699.0,16699.0,42984.24
+0919,9203,16000,"Gizarte Segurantza, enpresaren kontura",103886.0,103886.0,86850.72
+0919,9203,16500,"Elkarkidetzako kuotak, Udalaren kontura",8824.0,8824.0,7217.96
+0919,9203,22108,Botikak eta hemoderibatuak,70000.0,70000.0,68908.31
+0919,9203,22141,Zerbitzu medikoen tresneriaren berariazko mantenimendua,1500.0,1500.0,1082.67
+1010,9204,12000,Funtzionarioen oinarrizko ordainsariak,29663.01,29663.01,62065.18
+1010,9204,12100,Funtzionarioen ordainsari osagarriak,49470.0,49470.0,97437.01
+1010,9204,16000,"Gizarte Segurantza, enpresaren kontura",13068.0,13068.0,36051.94
+1010,9204,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,2640.38
+1010,9204,22730,LOPD-ko prozesuak definitu eta ikuskatzea.,60000.0,60000.0,70890.31
+1010,9204,22732,Zerbitzuak emateko kontratuak,50000.0,50000.0,27565.11
+1011,9204,12000,Funtzionarioen oinarrizko ordainsariak,399023.37,399023.37,390858.99
+1011,9204,12100,Funtzionarioen ordainsari osagarriak,461905.0,461905.0,447037.55
+1011,9204,13000,Lan-kontratudun langile finkoen ordainsariak,49812.0,49812.0,48785.08
+1011,9204,14100,Bestelako langileak,214495.0,214495.0,191211.52
+1011,9204,16000,"Gizarte Segurantza, enpresaren kontura",335033.0,335033.0,279294.55
+1011,9204,16500,"Elkarkidetzako kuotak, Udalaren kontura",26899.0,26899.0,21465.17
+1011,9204,20502,Informatika ekipoak alokatzea,0.0,0.0,0.0
+1011,9204,21501,Informatika-aplikazioak mantentzea,350000.0,350000.0,325480.98
+1011,9204,22720,Aplikatiboak onik zaintzeko euskarria,1285000.0,1285000.0,1313066.28
+1012,9204,12000,Funtzionarioen oinarrizko ordainsariak,312369.31,312369.31,319213.38
+1012,9204,12100,Funtzionarioen ordainsari osagarriak,394963.0,394963.0,394020.73
+1012,9204,14100,Bestelako langileak,206218.0,206218.0,211863.82
+1012,9204,16000,"Gizarte Segurantza, enpresaren kontura",270430.0,270430.0,233863.98
+1012,9204,16500,"Elkarkidetzako kuotak, Udalaren kontura",15565.0,15565.0,12708.6
+1012,9204,21500,Informatika ekipoak onik zaintzea,300000.0,400000.0,370895.17
+1012,9204,22728,Ordenagailu zentralen euskarria,300000.0,300000.0,274198.99
+1012,9204,22729,Erabiltzaileen ekipoak mantentzeko euskarria,30000.0,30000.0,57600.0
+1012,9204,22750,Administratel,54300.0,54300.0,54404.3
+1012,9271,22200,Telefono-fakturazioa,380000.0,380000.0,317393.46
+1012,9271,22202,Posta eta jakinarazpenak,1060000.0,1360000.0,1237061.65
+1012,9271,22644,Aldizkari ofizialetako iragarkiak,50000.0,50000.0,46294.28
+1017,9204,12000,Funtzionarioen oinarrizko ordainsariak,229000.08,229000.08,167655.87
+1017,9204,12100,Funtzionarioen ordainsari osagarriak,276246.0,276246.0,200420.46
+1017,9204,14100,Bestelako langileak,158094.0,158094.0,75059.3
+1017,9204,16000,"Gizarte Segurantza, enpresaren kontura",198691.0,198691.0,108327.93
+1017,9204,16500,"Elkarkidetzako kuotak, Udalaren kontura",14374.0,14374.0,8681.71
+1018,9204,12000,Funtzionarioen oinarrizko ordainsariak,27634.53,27634.53,27761.19
+1018,9204,12100,Funtzionarioen ordainsari osagarriak,37922.0,37922.0,39286.6
+1018,9204,16000,"Gizarte Segurantza, enpresaren kontura",13068.0,13068.0,11013.37
+1018,9204,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,1453.6
+1019,9204,12000,Funtzionarioen oinarrizko ordainsariak,24104.54,24104.54,27175.04
+1019,9204,12100,Funtzionarioen ordainsari osagarriak,33073.0,33073.0,39010.54
+1019,9204,16000,"Gizarte Segurantza, enpresaren kontura",13067.0,13067.0,11013.37
+1019,9204,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,1453.6
+1020,9204,12000,Funtzionarioen oinarrizko ordainsariak,24639.76,24639.76,26557.16
+1020,9204,12100,Funtzionarioen ordainsari osagarriak,37481.0,37481.0,38887.92
+1020,9204,16000,"Gizarte Segurantza, enpresaren kontura",13068.0,13068.0,11013.36
+1110,2301,12000,Funtzionarioen oinarrizko ordainsariak,65958.86,65958.86,105800.61
+1110,2301,12100,Funtzionarioen ordainsari osagarriak,93184.0,93184.0,134663.71
+1110,2301,14100,Bestelako langileak,133239.0,133239.0,119243.07
+1110,2301,16000,"Gizarte Segurantza, enpresaren kontura",103211.0,103211.0,88298.6
+1110,2301,16500,"Elkarkidetzako kuotak, Udalaren kontura",66.0,66.0,2432.72
+1111,2301,12000,Funtzionarioen oinarrizko ordainsariak,489746.7,489746.7,573768.9
+1111,2301,12100,Funtzionarioen ordainsari osagarriak,582234.0,582234.0,661474.01
+1111,2301,13000,Lan-kontratudun langile finkoen ordainsariak,37512.0,37512.0,38099.25
+1111,2301,14100,Bestelako langileak,355621.0,355621.0,561987.23
+1111,2301,16000,"Gizarte Segurantza, enpresaren kontura",476614.0,476614.0,508987.16
+1111,2301,16500,"Elkarkidetzako kuotak, Udalaren kontura",28171.0,28171.0,27951.86
+1111,2301,22103,Gasa,30000.0,30000.0,22785.2
+1111,2301,22618,Bestelako funtzionamendu gastuak,14599.11,14599.11,20398.75
+1115,2323,22745,Aterperik gabekoentzako kaleko heziketako programa,91183.44,91183.44,91183.44
+1115,2323,22784,Larrialdi zerbitzuen kontratuak,494886.92,494886.92,494886.52
+1115,2324,22002,"Prentsa, aldizkariak eta bestelako argitalpenak",2050.0,2050.0,1231.9
+1115,2324,22106,Elikagaiak,16430.0,16430.0,36550.54
+1115,2324,22111,Tresnak eta lanabesak,4946.7,4946.7,1998.6
+1115,2324,22115,Berariazko material teknikoa,3160.0,3160.0,4015.13
+1115,2324,22759,Lantegietako irakasleak,94974.96,94974.96,96724.94
+1115,2324,22765,"Berehalakoan hartzeko zentroak, 24 orduko arreta",353019.13,353019.13,306122.89
+1115,2324,22786,Otordu-zerbitzua,11889.87,11889.87,11889.84
+1115,2325,22111,Tresnak eta lanabesak,7571.11,7571.11,8569.06
+1115,2325,22115,Berariazko material teknikoa,18490.0,18490.0,37635.2
+1115,2325,22614,Gizarteratu lantegiak,882198.0,825562.52,831605.22
+1115,2325,22666,"Goiuri eta Onartuz, gaueko zaintza",129001.15,85737.52,85737.36
+1115,2325,22761,Harrera-etxebizitzetan laguntzeko programa,104042.75,104042.75,104042.76
+1115,2325,22786,"Janari-garraioa, etxe irekira",11889.87,11889.87,11889.84
+1115,2326,22716,Immigrazio-plana,0.0,0.0,0.0
+1115,2326,22764,Etorkinei laguntzeko itzulpen-zerbitzua,0.0,0.0,0.0
+1115,2326,22766,Errefuxiatuenganako sentsibilizazio kanpaina.,0.0,0.0,0.0
+1115,2326,22767,Errefuxiatuak hartzeko plana,0.0,0.0,0.0
+1115,2327,12000,Funtzionarioen oinarrizko ordainsariak,346501.56,346501.56,360649.35
+1115,2327,12100,Funtzionarioen ordainsari osagarriak,456464.0,456464.0,470008.58
+1115,2327,14100,Bestelako langileak,582543.0,624577.0,635976.07
+1115,2327,16000,"Gizarte Segurantza, enpresaren kontura",527551.0,541001.94,449327.9
+1115,2327,16500,"Elkarkidetzako kuotak, Udalaren kontura",16476.0,16476.0,14697.47
+1120,2311,12000,Funtzionarioen oinarrizko ordainsariak,301634.58,301634.58,264093.05
+1120,2311,12100,Funtzionarioen ordainsari osagarriak,323509.0,323509.0,293727.21
+1120,2311,14100,Bestelako langileak,329336.0,329336.0,440827.61
+1120,2311,16000,"Gizarte Segurantza, enpresaren kontura",308043.0,308043.0,279443.59
+1120,2311,16500,"Elkarkidetzako kuotak, Udalaren kontura",10364.0,10364.0,5325.43
+1120,2311,22111,Tresnak eta lanabesak,3160.0,3160.0,4112.12
+1120,2311,22115,Berariazko material teknikoa,1580.0,1580.0,555.92
+1120,2311,22626,Ordezko familiak,35059.42,35059.42,35059.39
+1120,2311,22678,Haurrentzako partaidetza-programa,90000.0,90000.0,70532.96
+1120,2311,22679,‘Prólogo’ prebentzio-programa,15000.0,15000.0,19860.5
+1120,2311,22680,Emozioei buruzko lantegiak,190000.0,190000.0,190431.37
+1120,2311,22726,Gurasotasun positiborako programa,80000.0,80000.0,76868.3
+1120,2311,22745,Laguntza eta garapen egokiturako programa (LGE),500000.63,500000.63,476062.28
+1120,2311,22748,Terapiak,70000.0,70000.0,94626.42
+1120,2311,22775,Bidatu kudeatzeko kontratua,189100.0,189100.0,188824.18
+1120,2311,22789,Erresilentzia,155000.0,155000.0,154815.84
+1120,2311,22791,Haurrentzako tokiko plana,120000.0,120000.0,134649.74
+1120,2311,22792,Sexu-abusuak baloratzea,25200.0,25200.0,26677.15
+1120,2311,22793,Etxe funtzionalak,1669842.93,1669842.93,1668499.98
+1120,2311,22794,Gizarte- eta hezkuntza-zentroak,1093740.3,1093740.3,1094133.56
+1120,2311,22796,Valeo programa,62000.0,62000.0,39887.5
+1133,2312,22002,"Prentsa, aldizkariak eta bestelako argitalpenak",9847.0,9847.0,13267.15
+1133,2312,22106,Elikagaiak,1553929.09,1553929.09,1710907.07
+1133,2312,22111,Tresnak eta lanabesak,40000.0,40000.0,42991.98
+1133,2312,22115,Berariazko material teknikoa,50000.0,50000.0,58486.82
+1133,2312,22606,Ile-apaindegiko zerbitzuak,15703.94,15703.94,13654.99
+1133,2312,22618,Bestelako funtzionamendu gastuak,10944.53,10944.53,11273.35
+1133,2312,22623,Familia zaintzaileei laguntzeko programa,496000.0,366763.79,287616.8
+1133,2312,22652,Hirugarren adinekoen egoitzetako animazioa,275181.3,275181.3,275181.29
+1133,2312,22666,Gaueko zaintza - San Prudentzio egoitza,70000.0,70000.0,67686.97
+1133,2312,22667,San Prudentzioko erlijio zerbitzuak,6961.64,6961.64,6900.0
+1133,2312,22702,Kafetegi-zerbitzua,16000.0,16000.0,13887.48
+1133,2312,22708,Zaharrak lekualdatzea,167000.0,167000.0,161132.8
+1133,2312,22739,Landareak mantentzea,0.0,0.0,0.0
+1133,2313,22111,Tresnak eta lanabesak,10000.0,10000.0,11611.57
+1133,2313,22713,Podologia-zerbitzua,41188.0,41188.0,37299.96
+1133,2313,22754,Adinekoentzako zentro soziokulturalen kudeaketa,2581927.0,2581927.0,2544601.78
+1133,2313,22786,Janari-garraioa,47646.74,47646.74,41614.44
+1133,2314,22002,"Prentsa, aldizkariak eta bestelako argitalpenak",906.22,906.22,1231.9
+1133,2314,22111,Tresnak eta lanabesak,6710.06,6710.06,3167.06
+1133,2314,22115,Berariazko material teknikoa,816.05,816.05,163.8
+1133,2314,22609,Adinekoentzako apartamentuetako familia-langileak,304556.18,304556.18,305065.91
+1133,2314,22618,Bestelako funtzionamendu gastuak,4191.48,4191.48,4542.33
+1133,2314,22628,Santa María de Olarizuko animazioa,38346.0,38346.0,38346.0
+1133,2314,22705,Tomas Zumarraga Dohatsuaren kaleko Eguneko Arreta Zerbitzua kudeatzea,373360.0,373360.0,375154.12
+1133,2314,22708,Zaharrak lekualdatzea,281283.84,281283.84,280314.76
+1133,2314,22718,Blas de Otero kaleko Eguneko Arreta Zerbitzua kudeatzea,651300.0,651300.0,647746.62
+1133,2314,22786,Janari-garraioa,35669.71,35669.71,35669.52
+1133,2317,12000,Funtzionarioen oinarrizko ordainsariak,2511952.16,2511952.16,2536232.75
+1133,2317,12100,Funtzionarioen ordainsari osagarriak,3199406.0,3199406.0,3160299.07
+1133,2317,14100,Bestelako langileak,4081123.0,4145052.3,4201250.84
+1133,2317,16000,"Gizarte Segurantza, enpresaren kontura",3469349.0,3489806.31,2969766.7
+1133,2317,16500,"Elkarkidetzako kuotak, Udalaren kontura",131875.0,131875.0,116149.21
+1133,2317,22630,"Sentsibilizazio-kanpaina, adinekoen proiektua",0.0,30000.0,5653.76
+1145,2321,22731,Babesgabetuetako otorduak,770000.0,311000.0,304501.5
+1145,2321,22786,Otordu-zerbitzua,90068.95,90068.95,96275.92
+1145,2321,22797,Etxez etxeko laguntza zerbitzua,2585000.0,2130000.0,2004998.45
+1145,2322,22115,Berariazko material teknikoa,27600.0,27600.0,14190.16
+1145,2322,22619,Kaleko heziketa,930541.71,930541.71,930541.72
+1145,2322,22746,Oinarrizko Gizarte Zerbitzuak zaintzea,306143.15,306143.15,301249.12
+1145,2322,22759,Lantegietako irakasleak,284271.75,284271.75,209592.71
+1145,2328,12000,Funtzionarioen oinarrizko ordainsariak,802579.71,802579.71,788897.06
+1145,2328,12100,Funtzionarioen ordainsari osagarriak,849545.0,849545.0,843300.82
+1145,2328,14100,Bestelako langileak,1195948.0,1195948.0,1539173.35
+1145,2328,16000,"Gizarte Segurantza, enpresaren kontura",981565.0,981565.0,911131.86
+1145,2328,16500,"Elkarkidetzako kuotak, Udalaren kontura",23859.0,23859.0,24359.97
+1310,9313,12000,Funtzionarioen oinarrizko ordainsariak,132625.21,132625.21,146647.07
+1310,9313,12100,Funtzionarioen ordainsari osagarriak,173238.0,173238.0,184632.88
+1310,9313,14100,Bestelako langileak,677.0,677.0,1340.76
+1310,9313,16000,"Gizarte Segurantza, enpresaren kontura",75628.0,75628.0,68878.05
+1310,9313,16500,"Elkarkidetzako kuotak, Udalaren kontura",5550.0,5550.0,5195.38
+1510,1701,11000,Kabineteko behin-behineko langileen ordainsariak,26106.87,26106.87,79090.66
+1510,1701,12000,Funtzionarioen oinarrizko ordainsariak,24046.0,24046.0,5551.17
+1510,1701,12100,Funtzionarioen ordainsari osagarriak,30983.0,30983.0,0.0
+1510,1701,16000,"Gizarte Segurantza, enpresaren kontura",21190.0,21190.0,11013.36
+1510,1701,16500,"Elkarkidetzako kuotak, Udalaren kontura",1559.0,1559.0,1453.6
+1510,1701,22004,Kartografia eta proiektuak editatu eta erreproduzitzea,1000.0,1000.0,1578.09
+1510,1701,22605,"Bilerak, hitzaldiak eta biltzarrak",10000.0,10000.0,7331.39
+151101,1721,21040,Kontrol eta diagnosi ekipoak mantentzea,130000.0,130000.0,122306.63
+151101,1721,22115,Ordezko piezak eta suntsikorrak,5000.0,5000.0,4648.67
+151101,1722,12000,Funtzionarioen oinarrizko ordainsariak,112223.92,112223.92,104182.69
+151101,1722,12100,Funtzionarioen ordainsari osagarriak,145266.0,145266.0,150360.05
+151101,1722,13000,Lan-kontratudun langile finkoen ordainsariak,312923.0,312923.0,0.0
+151101,1722,14100,Bestelako langileak,75779.0,75779.0,116897.73
+151101,1722,16000,"Gizarte Segurantza, enpresaren kontura",217857.0,217857.0,99664.81
+151101,1722,16500,"Elkarkidetzako kuotak, Udalaren kontura",10184.0,10184.0,5920.54
+151102,1722,12000,Funtzionarioen oinarrizko ordainsariak,1483.0,1483.0,46396.76
+151102,1722,12100,Funtzionarioen ordainsari osagarriak,95.0,95.0,65154.2
+151102,1722,16000,"Gizarte Segurantza, enpresaren kontura",313.0,313.0,23678.21
+151102,1722,16500,"Elkarkidetzako kuotak, Udalaren kontura",809.0,809.0,1453.6
+151103,1621,22700,Garbiketarako eta hondakinen bilketa eta garraiorako kontratua,7975694.41,7975694.41,7975694.4
+151103,1621,22703,Bilketa pneumatikoaren kontratua,1840000.0,1840000.0,1839430.05
+151103,1621,22715,Hondakinen gaikako bilketa,220000.0,220000.0,125486.01
+151103,1621,22724,Garbiguneak ustiatzeko kontratua,377396.17,377396.17,377396.16
+151103,1622,21204,Hondakinen instalazioak mantentzea,5000.0,5000.0,13398.51
+151103,1622,22723,Zabortegia ustiatzeko kontratua,1008507.5,1008507.5,1008507.48
+151103,1623,22702,Jundizko hiri hondakinen lantegia ustiatzeko kontratua,7928000.0,7928000.0,7929489.87
+151103,1631,22700,Garbiketa-zerbitzuaren kontratua - kale-garbiketa,14844604.32,14844604.32,14844604.32
+151103,1691,12000,Funtzionarioen oinarrizko ordainsariak,167369.0,167369.0,144468.11
+151103,1691,12100,Funtzionarioen ordainsari osagarriak,215058.0,215058.0,183836.23
+151103,1691,13000,Lan-kontratudun langile finkoen ordainsariak,29832.0,29832.0,48293.44
+151103,1691,14100,Bestelako langileak,66816.0,66816.0,3389.71
+151103,1691,16000,"Gizarte Segurantza, enpresaren kontura",163575.0,163575.0,102251.8
+151103,1691,16500,"Elkarkidetzako kuotak, Udalaren kontura",6757.0,6757.0,5631.33
+1514,1701,12000,Funtzionarioen oinarrizko ordainsariak,362829.71,362829.71,220969.34
+1514,1701,12100,Funtzionarioen ordainsari osagarriak,416621.0,416621.0,259790.8
+1514,1701,14100,Bestelako langileak,285030.0,285030.0,220289.87
+1514,1701,16000,"Gizarte Segurantza, enpresaren kontura",332327.0,332327.0,188366.13
+1514,1701,16500,"Elkarkidetzako kuotak, Udalaren kontura",25239.0,25239.0,10027.89
+151701,3112,12000,Funtzionarioen oinarrizko ordainsariak,203497.17,203497.17,227963.0
+151701,3112,12100,Funtzionarioen ordainsari osagarriak,248175.0,248175.0,276071.13
+151701,3112,13000,Lan-kontratudun langile finkoen ordainsariak,525.0,525.0,1058.25
+151701,3112,14100,Bestelako langileak,72377.0,72377.0,62365.9
+151701,3112,16000,"Gizarte Segurantza, enpresaren kontura",164746.0,164746.0,148829.62
+151701,3112,16500,"Elkarkidetzako kuotak, Udalaren kontura",13519.0,13519.0,11816.68
+151701,3112,22107,Animalientzako elikagaiak,15000.0,15000.0,13020.85
+151701,3112,22108,Animalientzako botikak hornitzea,15000.0,15000.0,11163.92
+151701,3112,22112,Animalien osasunerako materialak,6000.0,6000.0,5957.16
+151701,3112,22113,Elikagaien higienerako materialak,3305.65,3305.65,2702.18
+151701,3112,22699,Bestelako hainbat gastu,3000.0,3000.0,8965.56
+151701,3112,22718,Animalien osasunerako programak,12000.0,12000.0,11431.86
+151701,3112,22719,Elikagaien higienerako programa,7000.0,7000.0,5867.93
+151701,3112,22720,"Desinfekzio, intsektu-hiltze eta arratoi-hiltze parkearen programak",93000.0,93000.0,83319.5
+151701,3112,22722,Animalientzako sorospen-programa,15000.0,15000.0,6777.31
+151701,3112,22766,"Desinfekzioa, intsektu-hiltzea eta arratoi-hiltzeaa, betearazte subsidiarioak",4000.0,4000.0,0.0
+151702,3111,12000,Funtzionarioen oinarrizko ordainsariak,50644.0,50644.0,21312.04
+151702,3111,12100,Funtzionarioen ordainsari osagarriak,60771.0,60771.0,20293.75
+151702,3111,14100,Bestelako langileak,39115.0,39115.0,47244.37
+151702,3111,16000,"Gizarte Segurantza, enpresaren kontura",40675.0,40675.0,25712.76
+151702,3111,16500,"Elkarkidetzako kuotak, Udalaren kontura",1850.0,1850.0,0.0
+151702,3111,20200,Desfibriladoreak alokatzea,0.0,0.0,0.0
+151702,3111,22198,Osasunerako hezkuntzarako materialak,25000.0,25000.0,14916.67
+151702,3111,22199,Droga-mendekotasunen prebentziorako materialak,3000.0,3000.0,990.82
+151702,3111,22702,Hiri Osasungarriak osasun-plana,15000.0,15000.0,8807.76
+151702,3111,22715,Besarkada Etxea HIESaren aurkako etxeko kontratua,233000.0,233000.0,233000.0
+151702,3111,22717,Osasuna sustatzeko zerbitzuak ematea,110000.0,101891.96,78397.9
+151702,3111,22718,Droga-mendekotasunen prebentziorako programa,100000.0,104500.0,70346.73
+151702,3111,22721,Droga-mendekotasunen prebentziorako programa,83000.0,83000.0,82643.0
+151703,3113,12000,Funtzionarioen oinarrizko ordainsariak,209429.0,209429.0,211299.58
+151703,3113,12100,Funtzionarioen ordainsari osagarriak,285664.0,285664.0,319563.26
+151703,3113,14100,Bestelako langileak,83043.0,83043.0,153777.75
+151703,3113,16000,"Gizarte Segurantza, enpresaren kontura",173966.0,173966.0,172921.77
+151703,3113,16500,"Elkarkidetzako kuotak, Udalaren kontura",6587.0,6587.0,5954.48
+151703,3113,21200,Makinak eta instalazioak onik zaintzea,22000.0,22000.0,21966.24
+151703,3113,22115,Berariazko material teknikoa,70000.0,70000.0,65939.54
+151703,3113,22716,Kalitate-auditoriak kontratatzea,17000.0,17000.0,16954.12
+152002,1534,12000,Funtzionarioen oinarrizko ordainsariak,1052328.71,1052328.71,1095865.47
+152002,1534,12100,Funtzionarioen ordainsari osagarriak,1324943.0,1324943.0,1400225.57
+152002,1534,14100,Bestelako langileak,469422.0,469422.0,409815.26
+152002,1534,16000,"Gizarte Segurantza, enpresaren kontura",1040503.0,1040503.0,895541.86
+152002,1534,16500,"Elkarkidetzako kuotak, Udalaren kontura",54952.0,54952.0,45659.37
+152002,1534,20200,Makineria eta instalazioak alokatzea,30000.0,30000.0,29361.64
+152002,1534,21005,Berehala jarduteko taldeak,0.0,0.0,0.0
+152002,1534,21008,Berehala jarduteko taldeak (haur jolasak),145000.0,145000.0,164791.99
+152002,1534,21060,Bide publikoak eta zoladura zaintzea,325000.0,663951.61,785823.06
+152002,1534,21701,Hiri-altzariak onik zaintzea,60000.0,60000.0,0.0
+152002,1534,21703,Ekipoak mantentzeko kontratuak,100877.0,100877.0,61470.1
+152002,1534,22111,Tresnak eta lanabesak,15000.0,15000.0,28896.23
+152002,1534,22722,Komun publikoak mantentzeko kontratua,22000.0,52000.0,40535.46
+152002,1641,22111,Tresnak eta lanabesak,10000.0,10000.0,8806.24
+152002,1641,22140,Hilerrietako berariazko gastuak,80000.0,80000.0,51626.22
+152002,1651,21006,Berehala jarduteko taldeak (argiteria),416000.0,416000.0,355996.0
+152002,1651,22130,Argiteria publikoaren mantentze orokorra,470000.0,470000.0,566264.96
+152005,1533,12000,Funtzionarioen oinarrizko ordainsariak,68100.0,68100.0,12366.46
+152005,1533,12100,Funtzionarioen ordainsari osagarriak,84051.0,84051.0,14018.6
+152005,1533,16000,"Gizarte Segurantza, enpresaren kontura",39062.0,39062.0,16490.4
+152005,1533,16500,"Elkarkidetzako kuotak, Udalaren kontura",1510.0,1510.0,169.54
+152007,1711,12000,Funtzionarioen oinarrizko ordainsariak,794735.0,794735.0,885166.72
+152007,1711,12100,Funtzionarioen ordainsari osagarriak,1079143.0,1079143.0,1113041.71
+152007,1711,14100,Bestelako langileak,462509.0,462509.0,499339.34
+152007,1711,16000,"Gizarte Segurantza, enpresaren kontura",828609.0,828609.0,811740.42
+152007,1711,16500,"Elkarkidetzako kuotak, Udalaren kontura",49398.0,49398.0,38002.46
+152007,1711,20200,Makineria eta instalazioak alokatzea,100000.0,100000.0,100537.28
+152007,1711,21071,Berdegune publikoak onik zaintzea,165000.0,265000.0,183689.06
+152007,1711,21072,Jardinerak onik zaintzea,10000.0,10000.0,0.0
+152007,1711,21073,Arboretoa onik zaintzea,40000.0,18568.16,10492.32
+152007,1711,21074,Kanpoko Eraztun Berdea onik zaintzeko lanak,300000.0,300000.0,295588.55
+152007,1711,21200,Makinak eta instalazioak onik zaintzea,40000.0,40000.0,50861.69
+152007,1711,22111,Tresnak eta lanabesak,20000.0,20000.0,31146.6
+152007,1711,22711,Berdeguneak onik zaintzea,2350000.0,2350000.0,2349999.84
+152007,1711,22712,Europa jauregiaren fatxadaren kontserbazioa,30000.0,30000.0,5626.86
+152009,1711,12000,Funtzionarioen oinarrizko ordainsariak,26352.0,26352.0,25336.66
+152009,1711,12100,Funtzionarioen ordainsari osagarriak,35743.0,35743.0,35711.4
+152009,1711,13000,Lan-kontratudun langile finkoen ordainsariak,83576.0,83576.0,83489.12
+152009,1711,14100,Bestelako langileak,11349.0,27585.22,56780.23
+152009,1711,16000,"Gizarte Segurantza, enpresaren kontura",47383.0,52578.62,55270.88
+152009,1711,16500,"Elkarkidetzako kuotak, Udalaren kontura",3353.0,3353.0,3827.16
+1620,3422,22148,Igerilekuak mantentzeko kontratua,1525000.0,1515000.0,1513407.13
+1620,9212,21100,Udal eraikinak onik zaintzea,1510000.0,2044000.0,2039930.8
+1620,9212,21207,Ekipoak onik zaindu eta konpontzea,70000.0,70000.0,71073.85
+1620,9212,22109,Garbiketa-produktuak,300000.0,300000.0,318559.93
+1620,9212,22111,Tresnak eta lanabesak,30000.0,40000.0,57816.92
+1620,9212,22147,Tentsio baxuko kontratuak,10000.0,33000.0,17775.47
+1620,9212,22722,Komun publikoak mantentzeko kontratua,30000.0,30000.0,27563.88
+1620,9213,22101,Udal eraikinetako energia elektrikoa,4000000.0,4050000.0,4037310.18
+1620,9214,22146,Edukiontzi higienikoetarako kontratua,15000.0,15000.0,15145.26
+1620,9214,22783,Garbiketa Ataleko kontratuak,4176000.0,4086000.0,4066304.44
+1620,9215,21200,Makinak eta instalazioak onik zaintzea,1500000.0,1427000.0,1425793.9
+1620,9215,22103,Energia-eraginkortasunerako kontratua,4750000.0,4306000.0,4307816.41
+1620,9215,22149,Gainerako udal eraikinetako gasa,90000.0,90000.0,85781.95
+1620,9215,22150,Energia-eraginkortasunaren ziurtagiriak,0.0,0.0,0.0
+1620,9219,11000,Kabineteko behin-behineko langileen ordainsariak,73713.54,73713.54,0.0
+1620,9219,12000,Funtzionarioen oinarrizko ordainsariak,98745.0,98745.0,96898.56
+1620,9219,12100,Funtzionarioen ordainsari osagarriak,131748.0,131748.0,112027.63
+1620,9219,14100,Bestelako langileak,103765.0,103765.0,68168.34
+1620,9219,16000,"Gizarte Segurantza, enpresaren kontura",135522.0,135522.0,77926.93
+1620,9219,16500,"Elkarkidetzako kuotak, Udalaren kontura",2737.0,2737.0,1148.07
+1630,9219,12000,Funtzionarioen oinarrizko ordainsariak,1860891.66,1860891.66,1833382.78
+1630,9219,12100,Funtzionarioen ordainsari osagarriak,2249076.0,2249076.0,2165622.39
+1630,9219,13000,Lan-kontratudun langile finkoen ordainsariak,30734.0,30734.0,47868.14
+1630,9219,14100,Bestelako langileak,3636315.0,3636315.0,4162868.6
+1630,9219,16000,"Gizarte Segurantza, enpresaren kontura",2940426.0,2940426.0,2742121.02
+1630,9219,16500,"Elkarkidetzako kuotak, Udalaren kontura",150357.0,150357.0,126439.97
+1641,9219,12000,Funtzionarioen oinarrizko ordainsariak,56631.77,56631.77,58254.4
+1641,9219,12100,Funtzionarioen ordainsari osagarriak,63665.0,63665.0,63683.48
+1641,9219,14100,Bestelako langileak,39787.0,39787.0,72115.81
+1641,9219,16000,"Gizarte Segurantza, enpresaren kontura",55098.0,55098.0,57795.11
+1641,9219,16500,"Elkarkidetzako kuotak, Udalaren kontura",1510.0,1510.0,1186.78
+1642,9219,12000,Funtzionarioen oinarrizko ordainsariak,58719.09,58719.09,60155.59
+1642,9219,12100,Funtzionarioen ordainsari osagarriak,71666.0,71666.0,73966.24
+1642,9219,16000,"Gizarte Segurantza, enpresaren kontura",41968.0,41968.0,36483.42
+1642,9219,16500,"Elkarkidetzako kuotak, Udalaren kontura",701.0,701.0,1186.78
+1643,9219,12000,Funtzionarioen oinarrizko ordainsariak,22821.18,22821.18,23636.43
+1643,9219,12100,Funtzionarioen ordainsari osagarriak,31794.0,31794.0,30989.98
+1643,9219,16000,"Gizarte Segurantza, enpresaren kontura",13352.0,13352.0,11297.4
+1644,9219,12000,Funtzionarioen oinarrizko ordainsariak,898429.89,898429.89,957795.34
+1644,9219,12100,Funtzionarioen ordainsari osagarriak,1161533.0,1161533.0,1234848.77
+1644,9219,13000,Lan-kontratudun langile finkoen ordainsariak,140563.0,140563.0,114246.3
+1644,9219,14100,Bestelako langileak,310961.0,310961.0,301307.77
+1644,9219,16000,"Gizarte Segurantza, enpresaren kontura",936509.0,936509.0,863186.18
+1644,9219,16500,"Elkarkidetzako kuotak, Udalaren kontura",50505.0,50505.0,37899.74
+1810,3401,11000,Kabineteko behin-behineko langileen ordainsariak,26661.46,26661.46,77195.54
+1810,3401,12000,Funtzionarioen oinarrizko ordainsariak,22199.0,22199.0,2565.44
+1810,3401,12100,Funtzionarioen ordainsari osagarriak,31064.0,31064.0,0.0
+1810,3401,16000,"Gizarte Segurantza, enpresaren kontura",20729.0,20729.0,11009.12
+1810,3401,16500,"Elkarkidetzako kuotak, Udalaren kontura",1559.0,1559.0,1453.6
+1814,9251,12000,Funtzionarioen oinarrizko ordainsariak,223687.71,223687.71,478935.22
+1814,9251,12100,Funtzionarioen ordainsari osagarriak,257169.0,257169.0,562831.73
+1814,9251,14100,Bestelako langileak,127070.0,127070.0,340184.63
+1814,9251,16000,"Gizarte Segurantza, enpresaren kontura",184775.0,184775.0,387955.3
+1814,9251,16500,"Elkarkidetzako kuotak, Udalaren kontura",9163.0,9163.0,22432.62
+1814,9251,22201,Herritarrei argibideak emateko sistema (010),580000.0,580000.0,550356.81
+1815,3401,12000,Funtzionarioen oinarrizko ordainsariak,170912.52,170912.52,87203.55
+1815,3401,12100,Funtzionarioen ordainsari osagarriak,184622.0,184622.0,91373.42
+1815,3401,13000,Lan-kontratudun langile finkoen ordainsariak,103176.0,103176.0,4654.96
+1815,3401,14100,Bestelako langileak,309265.0,309265.0,302991.91
+1815,3401,16000,"Gizarte Segurantza, enpresaren kontura",254624.0,254624.0,133456.22
+1815,3401,16500,"Elkarkidetzako kuotak, Udalaren kontura",14335.0,14335.0,7406.9
+1816,9208,12000,Funtzionarioen oinarrizko ordainsariak,1745789.06,1745789.06,1736667.41
+1816,9208,12100,Funtzionarioen ordainsari osagarriak,2300174.0,2300174.0,2259890.68
+1816,9208,13000,Lan-kontratudun langile finkoen ordainsariak,556.0,556.0,1100.66
+1816,9208,14100,Bestelako langileak,1674592.0,1674592.0,1893915.31
+1816,9208,16000,"Gizarte Segurantza, enpresaren kontura",2089797.0,2089797.0,1752347.5
+1816,9208,16500,"Elkarkidetzako kuotak, Udalaren kontura",70888.0,70888.0,60929.59
+1820,3371,12000,Funtzionarioen oinarrizko ordainsariak,199272.95,199272.95,202020.29
+1820,3371,12100,Funtzionarioen ordainsari osagarriak,303900.0,303900.0,303438.04
+1820,3371,14100,Bestelako langileak,2601.0,2601.0,5711.69
+1820,3371,16000,"Gizarte Segurantza, enpresaren kontura",112719.0,112719.0,99236.64
+1820,3371,16500,"Elkarkidetzako kuotak, Udalaren kontura",9062.0,9062.0,7120.68
+1820,3371,22115,Gizarte-etxeetako berariazko material teknikoa,10000.0,10000.0,25213.93
+1820,3371,22618,Gizarte-etxeetako bestelako funtzionamendu-gastuak,20000.0,20000.0,29796.1
+1820,3371,22732,Aisia eta denbora libreko zerbitzu-kontratuak,1563250.0,1563250.0,1522915.04
+1820,3371,22767,Zonako lantaldeen programak,90000.0,90000.0,49697.11
+1820,3371,85103,KALEIDOS.RED fundazioa,0.0,0.0,0.0
+1822,9241,12000,Funtzionarioen oinarrizko ordainsariak,109197.47,109197.47,129026.34
+1822,9241,12100,Funtzionarioen ordainsari osagarriak,118365.0,118365.0,137136.39
+1822,9241,14100,Bestelako langileak,39731.0,39731.0,41982.74
+1822,9241,16000,"Gizarte Segurantza, enpresaren kontura",78123.0,78123.0,82417.83
+1822,9241,16500,"Elkarkidetzako kuotak, Udalaren kontura",3021.0,3021.0,3390.8
+1822,9241,22699,Herritarren parte-hartzeko beste hainbat gastu,2500.0,2500.0,2480.92
+1822,9241,22732,Zerbitzuak emateko kontratuak,80000.0,80000.0,76397.63
+1822,9241,22799,Herritarren parte-hartzeko beste hainbat kanpo-lan,70000.0,70000.0,68081.5
+2310,3301,12000,Funtzionarioen oinarrizko ordainsariak,7532.13,7532.13,28253.58
+2310,3301,12100,Funtzionarioen ordainsari osagarriak,21520.0,21520.0,51604.32
+2310,3301,16000,"Gizarte Segurantza, enpresaren kontura",8533.0,8533.0,10549.56
+2310,3301,16500,"Elkarkidetzako kuotak, Udalaren kontura",270.0,270.0,339.08
+2311,3301,12000,Funtzionarioen oinarrizko ordainsariak,221455.82,221455.82,298404.32
+2311,3301,12100,Funtzionarioen ordainsari osagarriak,260588.0,260588.0,344296.4
+2311,3301,14100,Bestelako langileak,54742.0,54742.0,124687.45
+2311,3301,16000,"Gizarte Segurantza, enpresaren kontura",168471.0,168471.0,225413.1
+2311,3301,16500,"Elkarkidetzako kuotak, Udalaren kontura",11639.0,11639.0,13698.6
+2311,3301,21208,Ikus-entzunezko ekipoak konpontzea,800.0,800.0,0.0
+2311,3301,22111,Tresna eta lanabesak,400.0,400.0,229.67
+2311,3301,22300,Garraioa,2000.0,2000.0,1626.21
+2311,3341,22734,Iradier Arenako zerbitzuak kontratatzea,0.0,0.0,0.0
+2311,3341,22736,Iradier Arenako babes-kontratuak,0.0,0.0,0.0
+231201,3322,12000,Funtzionarioen oinarrizko ordainsariak,180141.28,180141.28,217572.77
+231201,3322,12100,Funtzionarioen ordainsari osagarriak,196695.0,196695.0,234175.78
+231201,3322,14100,Bestelako langileak,65056.0,65056.0,88835.17
+231201,3322,16000,"Gizarte Segurantza, enpresaren kontura",135260.0,135260.0,151151.69
+231201,3322,16500,"Elkarkidetzako kuotak, Udalaren kontura",3021.0,3021.0,2996.53
+231201,3322,22699,Artxiboko kontserbazio-gastu materialak,6800.0,6800.0,6763.39
+231201,3322,22752,Udal artxiboko kontratuak,70000.0,70000.0,69988.95
+231202,3391,12000,Funtzionarioen oinarrizko ordainsariak,192466.0,192466.0,197276.46
+231202,3391,12100,Funtzionarioen ordainsari osagarriak,250493.0,250493.0,252491.99
+231202,3391,14100,Bestelako langileak,210090.0,210090.0,222134.84
+231202,3391,16000,"Gizarte Segurantza, enpresaren kontura",213968.0,213968.0,184760.65
+231202,3391,16500,"Elkarkidetzako kuotak, Udalaren kontura",8489.0,8489.0,7852.74
+231202,3391,22624,Folklore akademiako programazio-gastuak,30000.0,30000.0,29884.79
+231202,3391,22625,Folklore Akademiaren musika udalekuak,60000.0,60000.0,60000.0
+231202,3391,22757,Folklore Akademiako zerbitzu-enpresak,22000.0,22000.0,21970.82
+231203,3301,20103,Alokairuak,45000.0,45000.0,44832.0
+231203,3341,22408,Kultura-programen aseguruak,0.0,0.0,0.0
+231203,3341,22605,Erakusketa lekuak dinamizatzea,0.0,0.0,0.0
+231203,3341,22635,Azkena Rock jaialdia,260000.0,260000.0,260000.0
+231203,3341,22652,Beste kultura-jarduera batzuk - dantzaldiak,58000.0,58000.0,55933.45
+231203,3341,22653,Kultura-zabalkundea,24000.0,18800.0,15722.34
+231203,3341,22733,Espazio publikoetako kultura-programak,150000.0,150000.0,153652.13
+231203,3341,22756,Kultur Ekintzen Zerbitzua,165000.0,165000.0,169117.34
+231203,3381,12000,Funtzionarioen oinarrizko ordainsariak,141795.0,141795.0,142299.09
+231203,3381,12100,Funtzionarioen ordainsari osagarriak,181667.0,181667.0,172356.24
+231203,3381,14100,Bestelako langileak,43296.0,43296.0,47550.66
+231203,3381,16000,"Gizarte Segurantza, enpresaren kontura",107510.0,107510.0,91201.49
+231203,3381,16500,"Elkarkidetzako kuotak, Udalaren kontura",4853.0,4853.0,4534.02
+231203,3381,22643,"Erraldoiak, harmailak eta jaiotza konpontzea",13000.0,13000.0,13068.97
+231203,3381,22660,Inauteriak,27000.0,25500.0,25223.01
+231203,3381,22661,Andre Maria Zuriaren jaiak,678000.0,678000.0,678111.49
+231203,3381,22662,Olarizu,6000.0,6000.0,8838.06
+231203,3381,22663,Eguberri eta erregetako kanpaina,173000.0,173000.0,178039.26
+231203,3381,22664,San Anton eta Santa Ageda jaiak,13000.0,13000.0,12755.71
+231204,3321,22649,Udalaren liburutegi sarearen programa,50000.0,50000.0,46318.26
+231204,3321,22749,Liburutegi sareko kontratuak,1161901.2,1161901.2,1158397.9
+231204,3341,12000,Funtzionarioen oinarrizko ordainsariak,203715.0,203715.0,228670.01
+231204,3341,12100,Funtzionarioen ordainsari osagarriak,218381.0,218381.0,244223.96
+231204,3341,13000,Lan-kontratudun langile finkoen ordainsariak,151.0,151.0,298.94
+231204,3341,14100,Bestelako langileak,74100.0,74100.0,37585.57
+231204,3341,16000,"Gizarte Segurantza, enpresaren kontura",151387.0,151387.0,129988.19
+231204,3341,16500,"Elkarkidetzako kuotak, Udalaren kontura",11867.0,11867.0,12969.81
+231204,3341,22607,Gizarte-etxeetako kanpainen zabalkundea,15000.0,15000.0,11972.26
+231204,3341,22636,Gizarte-etxeetako kultura-ikastaroak,470000.0,570000.0,567691.29
+231204,3341,22647,Gizarte-etxeetako kanpainak,50000.0,50000.0,63718.84
+231205,3332,12000,Funtzionarioen oinarrizko ordainsariak,73971.0,73971.0,72491.97
+231205,3332,12100,Funtzionarioen ordainsari osagarriak,92955.0,92955.0,79994.26
+231205,3332,14100,Bestelako langileak,551.0,551.0,3514.11
+231205,3332,16000,"Gizarte Segurantza, enpresaren kontura",48001.0,48001.0,40165.34
+231205,3332,16500,"Elkarkidetzako kuotak, Udalaren kontura",2751.0,2751.0,2090.91
+231205,3332,22622,Montehermoso Kulturuneko programak,90000.0,90000.0,87063.14
+231205,3332,22751,Montehermosoko zerbitzu-kontratuak,29500.0,29500.0,29921.24
+231210,3392,12000,Funtzionarioen oinarrizko ordainsariak,644263.0,644263.0,528256.52
+231210,3392,12100,Funtzionarioen ordainsari osagarriak,595006.0,595006.0,600733.47
+231210,3392,14100,Bestelako langileak,126118.0,126118.0,106854.16
+231210,3392,16000,"Gizarte Segurantza, enpresaren kontura",404216.0,404216.0,316523.43
+231210,3392,16500,"Elkarkidetzako kuotak, Udalaren kontura",22915.0,22915.0,19953.52
+231210,3392,21207,Musika Bandako ekipoak konpontzea eta mantentzea,15000.0,15000.0,14996.98
+231210,3392,22692,Musika Banda - kolaborazioak,2000.0,2000.0,4190.0
+231210,3392,22699,Musika Bandaren programazio gastuak,45000.0,45000.0,44945.09
+231210,3392,22732,Zerbitzuak emateko kontratuak - Musika Banda,8000.0,8000.0,7707.2
+231220,3342,12000,Funtzionarioen oinarrizko ordainsariak,190014.0,190014.0,192274.08
+231220,3342,12100,Funtzionarioen ordainsari osagarriak,235483.0,235483.0,240695.57
+231220,3342,14100,Bestelako langileak,33929.0,33929.0,46437.4
+231220,3342,16000,"Gizarte Segurantza, enpresaren kontura",141076.0,141076.0,127724.86
+231220,3342,16500,"Elkarkidetzako kuotak, Udalaren kontura",5499.0,5499.0,4320.92
+231220,3342,22603,Antzoki Sarearen publizitate berezia,12000.0,12000.0,11967.27
+231220,3342,22627,Antzoki Sareko ikuskizun eta jaialdiak,700000.0,677100.0,579062.23
+231220,3342,22732,Zerbitzuak emateko kontratuak,230000.0,230000.0,269319.56
+231901,3201,12000,Funtzionarioen oinarrizko ordainsariak,1276701.93,1276701.93,1289696.01
+231901,3201,12100,Funtzionarioen ordainsari osagarriak,1321387.0,1321387.0,1318026.08
+231901,3201,14100,Bestelako langileak,876849.0,876849.0,943887.08
+231901,3201,16000,"Gizarte Segurantza, enpresaren kontura",1174619.0,1174619.0,992228.92
+231901,3201,16500,"Elkarkidetzako kuotak, Udalaren kontura",69641.0,69641.0,53359.57
+231901,3231,22106,Elikagaiak,75000.0,75000.0,67501.32
+231901,3231,22115,Material didaktiko suntsikorra,21700.0,14188.0,12487.22
+231901,3231,22199,Bestelako hainbat hornikuntza eta gastu,13020.0,13020.0,10805.3
+231901,3231,22786,Haur eskoletako bazkari-zerbitzua,51500.0,51500.0,37685.25
+231901,3232,22659,Hezkuntza programak,340000.0,350000.0,342637.13
+231901,3261,22300,Hezkuntzako garraioa,1562.4,1562.4,401.5
+231902,3201,12000,Funtzionarioen oinarrizko ordainsariak,158325.0,158325.0,168627.99
+231902,3201,12100,Funtzionarioen ordainsari osagarriak,159200.0,159200.0,173718.33
+231902,3201,14100,Bestelako langileak,39736.0,39736.0,51993.29
+231902,3201,16000,"Gizarte Segurantza, enpresaren kontura",101889.0,101889.0,93491.06
+231902,3201,16500,"Elkarkidetzako kuotak, Udalaren kontura",9401.0,9401.0,7387.5
+231902,3201,20200,Makineria eta hezkuntza-instalazioak alokatzea,217.0,217.0,0.0
+231902,3201,22115,Berariazko material teknikoa - Hezkuntza,15624.0,15624.0,13160.94
+231902,3201,22603,Haur-eskolen kanpainaren eta udako programaren zabalkundea,7378.0,7378.0,8414.69
+231902,3232,22780,Opor-programa,170000.0,170000.0,173523.4
+231903,3201,12000,Funtzionarioen oinarrizko ordainsariak,66825.0,66825.0,67778.91
+231903,3201,12100,Funtzionarioen ordainsari osagarriak,66978.0,66978.0,66970.7
+231903,3201,16000,"Gizarte Segurantza, enpresaren kontura",39133.0,39133.0,31915.14
+231903,3201,16500,"Elkarkidetzako kuotak, Udalaren kontura",2104.0,2104.0,2373.56
+232001,3401,12000,Funtzionarioen oinarrizko ordainsariak,151101.33,151101.33,150098.1
+232001,3401,12100,Funtzionarioen ordainsari osagarriak,215150.0,215150.0,210353.97
+232001,3401,14100,Bestelako langileak,118554.0,118554.0,104844.34
+232001,3401,16000,"Gizarte Segurantza, enpresaren kontura",155450.0,155450.0,127629.99
+232001,3401,16500,"Elkarkidetzako kuotak, Udalaren kontura",7298.0,7298.0,6966.18
+232001,3411,22737,Eguberrietako jarduerak,0.0,0.0,0.0
+232001,3411,22761,Izotz-pista (Bakh) alokatzeko kontratuak,594258.35,594258.35,594258.35
+232001,3421,22767,Kirol-instalazioak zaintzeko kontratuak,1000000.0,1000000.0,1034455.42
+232002,3401,12000,Funtzionarioen oinarrizko ordainsariak,70812.0,70812.0,71418.13
+232002,3401,12100,Funtzionarioen ordainsari osagarriak,72681.0,72681.0,72046.19
+232002,3401,14100,Bestelako langileak,64193.0,64193.0,58342.78
+232002,3401,16000,"Gizarte Segurantza, enpresaren kontura",65956.0,65956.0,51844.3
+232002,3401,16500,"Elkarkidetzako kuotak, Udalaren kontura",5588.0,5588.0,4662.35
+232002,3411,22108,Botikak eta hemoderibatuak,8000.0,8000.0,7477.79
+232002,3411,22738,Arreta medikoa,63600.0,63600.0,68900.0
+232003,3401,12000,Funtzionarioen oinarrizko ordainsariak,133168.0,133168.0,114960.73
+232003,3401,12100,Funtzionarioen ordainsari osagarriak,161448.0,161448.0,127177.89
+232003,3401,14100,Bestelako langileak,82488.0,82488.0,120706.68
+232003,3401,16000,"Gizarte Segurantza, enpresaren kontura",112366.0,112366.0,99253.25
+232003,3401,16500,"Elkarkidetzako kuotak, Udalaren kontura",9017.0,9017.0,8450.45
+232003,3411,22300,Kiroleko garraioa,16663.9,16663.9,13746.92
+232003,3411,22601,"Publizitate babesa, Alavés SADri",75000.0,75000.0,75000.0
+232003,3411,22602,Kirol sari eta garaikurrak,8000.0,8000.0,5315.57
+232003,3411,22603,"Publizitate babesa, Saski Baskonia SADri",322465.0,322465.0,322465.0
+232003,3411,22606,Kirol ekipoak babesteko kontratuak,50000.0,110000.0,129173.56
+232003,3411,22699,Kiroleko bestelako hainbat gastu,61359.49,61359.49,45662.24
+232003,3411,22706,Jarduera fisikoen programa,3150000.0,3150000.0,3169081.01
+232003,3411,22724,Kirol-dinamizaziorako programa,32998.46,32998.46,27514.91
+232003,3411,22725,Osasun sustapenerako programa,0.0,0.0,0.0
+232003,3411,22728,Euskal Herriko Txirrindularitza Itzulia,21750.0,21750.0,21750.0
+232003,3411,22735,“Kirol bidean” gazteentzako programak,67133.5,67133.5,33243.02
+232003,3411,22739,Martin Fiz maratoia,21700.0,21700.0,21700.0
+232003,3421,22768,Kiroleko muntatze-zerbitzu bereziak,25000.0,25000.0,23761.18
+232004,3401,12000,Funtzionarioen oinarrizko ordainsariak,117019.0,117019.0,117599.14
+232004,3401,12100,Funtzionarioen ordainsari osagarriak,148870.0,148870.0,145510.38
+232004,3401,13000,Lan-kontratudun langile finkoen ordainsariak,44644.0,44644.0,45379.53
+232004,3401,14100,Bestelako langileak,39272.0,39272.0,51459.83
+232004,3401,16000,"Gizarte Segurantza, enpresaren kontura",108823.0,108823.0,96585.26
+232004,3401,16500,"Elkarkidetzako kuotak, Udalaren kontura",6095.0,6095.0,5507.7
+232004,3421,21200,Makinak eta kirol-instalazioak onik zaintzea,12100.0,12100.0,11977.14
+232004,3421,22115,Berariazko material teknikoa - Kirola,25000.0,25000.0,24993.69
+9005,9122,10000,Zinegotzien oinarrizko ordainsariak,1473146.0,1473146.0,1469613.14
+9005,9122,16000,"Gizarte Segurantza, enpresaren kontura",649062.0,649062.0,321989.7
+9005,9122,16500,"Elkarkidetzako kuotak, Udalaren kontura",1387.0,1387.0,0.0
+9005,9122,22633,Araudi organikoan jasotako diru-ordainak,631800.0,631800.0,631800.0
+9015,2111,16103,"Pentsioak, Udalaren kontura",196000.0,196000.0,153735.9
+9015,2111,16109,"Pentsioen osagarria, Arabako Mutua Forala",4000.0,4000.0,3049.84
+0110,9123,62800,Argitalpenak erostea,300.0,300.0,116.21
+0116,2371,41925,Hitzarmena: Euskadiko Gazteria Kontseilua - Gazteen partaidetza,0.0,0.0,0.0
+0116,2371,48203,Azoka Txikia programa,0.0,0.0,0.0
+0116,2371,48935,Gazteriako diru-laguntza deialdi orokorra,30000.0,30000.0,24181.5
+0116,2371,48954,Gazte informatzaileak - laguntza-deialdia,0.0,0.0,0.0
+0116,2371,62505,Bestelako tresnak,1000.0,1000.0,125.96
+0116,2371,62800,"Argitalpenak eta liburuak erostea, Gazteen Argibideetarako Bulegorako",1000.0,1000.0,987.96
+0160,2381,48139,Emakume elkarteentzako diru-laguntza deialdia,50000.0,41000.0,40424.64
+0162,2391,48212,Hitzarmena: AFINIS - oporrak bakean,16000.0,16000.0,16000.0
+0171,3351,42302,"Hitzarmena, Merkataritza Ganberarekin",10000.0,10000.0,10000.0
+0171,3351,48001,"Euskara ikasteko laguntzak, herritarrentzat",285000.0,285000.0,154187.34
+0171,3351,48002,Langileentzako ikasketa beka eta poltsak,60215.0,60215.0,14592.12
+0171,3351,48003,Euskaltegientzako diru-laguntzak,99000.0,99000.0,98999.99
+0171,3351,48005,Euskararen Plan Nagusiko diru-laguntzak,120000.0,100000.0,88532.87
+0171,3351,48044,Hitzarmena GEUrekin,73500.0,73500.0,73500.0
+0171,3351,48048,Hitzarmena Tinko elkartearekin,10000.0,10000.0,10000.0
+0171,3351,48049,Hitzarmena Euskharan elkartearekin,23100.0,23100.0,23100.0
+0171,3351,48052,Hitzarmena Merkataritza Federazioarekin,5000.0,0.0,0.0
+0171,3351,48064,Hitzarmena: Korrika,0.0,0.0,0.0
+0171,3351,48100,Hitzarmena Euskaltzaindiarekin,60000.0,60000.0,60000.0
+0171,3351,48970,Hitzarmena: Arabako Bertsozale Elkartea,52500.0,0.0,0.0
+0171,3351,48997,Hitzarmena: Bai euskarari,22000.0,0.0,0.0
+0171,3351,62800,Argitalpenak eta liburuak erostea,1000.0,1000.0,211.0
+0171,3351,62954,Gasteiz antzokia,0.0,0.0,0.0
+0181,2361,48128,Hitzarmena: Arabako Gorren Zentroa,11920.0,11920.0,11920.0
+0181,2361,48970,Hitzarmena: Eginaren Eginez elkartea,27000.0,27000.0,27000.0
+0182,1741,60150,Herrietako obrak,75000.0,75000.0,73773.77
+0182,1749,48112,Diru-laguntzak: Kontzejuen elkartea,90000.0,90000.0,90000.0
+0182,1749,78919,Diru-laguntzak: gizarte-zentroak,20000.0,20000.0,0.0
+0187,9271,62901,Tresneria erostea,0.0,0.0,0.0
+0211,1511,64201,"HAPO, aldakuntzak",20000.0,20000.0,21725.55
+0211,1511,64202,Eguneratze kartografikoak,40000.0,40000.0,40506.3
+0211,1511,64203,Ordainsariak,20000.0,20000.0,3097.6
+0211,1511,64206,HAPO berrikustea,200000.0,180000.0,5228.62
+0211,1513,73310,21. Zabalguneari: urrezko auzoetako inbertsioak,0.0,0.0,0.0
+0214,9211,62259,Salburuko gizarte-etxea,95000.0,408784.81,324997.82
+0214,9211,62260,Zabalganeko gizarte-etxea,4000000.0,4678938.32,4409855.67
+0214,9211,62265,Europa jauregia eraberritu eta handitzea,350000.0,350000.0,345539.56
+0325,1331,60186,"Seinaletika-inbertsioak, autobus-geltokian eta Europa jauregian",0.0,0.0,0.0
+0340,1351,48900,Boluntarioen sustapenerako programa,0.0,0.0,0.0
+0410,1722,43102,Ingurugiro Gaietarako Ikastegiari,2240000.0,2399046.22,2175046.22
+0410,3293,41902,Hitzarmena EHUrekin - Nazioarteko Zuzenbideko ikastaroak,30000.0,0.0,0.0
+0410,4411,43300,"Ekarpena, TUVISAri",14659756.2,13875390.66,13875390.66
+0410,4411,73300,TUVISAri,1851281.72,1851281.72,1351281.72
+0410,4411,73309,Transferentzia TUVISAri - Ekipamenduen mugikortasuna,0.0,0.0,0.0
+0410,9205,62400,Ibilgailuak,60000.0,100000.0,99980.85
+0410,9206,62501,Altzariak,55000.0,26000.0,868.25
+0410,9206,62505,Udal sailetako hainbat erosketa,5000.0,15000.0,11088.28
+0410,9207,62900,Ezbeharrengatiko berritzeak,1.0,215052.15,95538.44
+0410,9242,48024,Hitzarmena erregioen etxeekin,36700.0,36700.0,36700.0
+0410,9242,48025,Hitzarmena Gao Lacho Drom elkartearekin,27800.0,27800.0,26854.92
+0410,9242,78001,Ekarpena: lurralde etxeak,0.0,0.0,0.0
+0410,9271,41800,Eudeli,220000.0,222639.17,222639.17
+0410,9331,64900,Industria jabegoa,1000.0,1000.0,0.0
+0422,4421,62204,Autobus-geltokiko inbertsioak,0.0,0.0,0.0
+0422,4421,62953,Autobus-geltokiko ekipoetako inbertsioak,0.0,0.0,0.0
+0821,4331,42303,"Hitzarmena, Merkataritza Ganberarekin - enpresa txikiei laguntzea",0.0,0.0,0.0
+0821,4331,47107,Hitzarmena: AJEBASK- Prestakuntza eta mintegia,15000.0,15000.0,15000.0
+0821,4331,47117,Hitzarmena: Asoc. Festival Tv Radio,175000.0,175000.0,175000.0
+0821,4331,48002,Berrikuntzarako laguntzak,70000.0,70000.0,70000.0
+0821,4331,48162,Hitzarmena: Araba Ekinean,16000.0,0.0,0.0
+0821,4331,48180,VIArentzako transferentziak,40000.0,60000.0,60000.0
+0821,4331,48943,Enpresen Gizarte Erantzukizunari buruzko Foroa,2000.0,2000.0,2000.0
+0821,4331,48945,"Enpresen Gizarte Erantzukizunerako Arabako Foroa, 2014ko deialdiaren likidazioa",0.0,0.0,0.0
+0821,4331,48949,Enpresak sortzeko laguntzak,70000.0,70000.0,69999.98
+0821,4331,48967,Inbertsiorako laguntzak,120000.0,120000.0,120000.0
+0821,4331,48985,Itun Berdea sariak,0.0,6000.0,6000.0
+0821,4331,48986,Enpresa txikiei laguntzeko hitzarmena,22000.0,22000.0,22000.0
+0821,4331,60902,Mintegiko inbertsioak - Basaldea proiektua,319000.0,319000.0,202423.46
+0821,4331,62952,Industria-politikaren plana,0.0,0.0,0.0
+0821,4333,48172,Hitzarmena: Santa Maria Katedrala fundazioa,67000.0,67000.0,67000.0
+0821,4333,62294,Urban - Farolen Museoa handitzea,0.0,0.0,0.0
+0822,4314,42301,"Arabako Merkataritza Ganberarekiko hitzarmena, erakusleihoak",8000.0,8000.0,8000.0
+0822,4314,48164,Lankidetza: Merkataritza Dinamizatzeko Taldea,32000.0,23000.0,22468.1
+0822,4314,48926,Hitzarmena: Gasteiz On elkartea,180000.0,210000.0,210000.0
+0822,4314,48963,Hitzarmena: Erdi Aroko hiriguneko Merkatarien Elkartea,98000.0,98000.0,98000.0
+0822,4314,48964,Denda txikientzako laguntzak,500000.0,500000.0,498874.84
+0822,4314,48965,Hitzarmena: Merkataritza Enpresaburuen Elkartea,36000.0,36000.0,36000.0
+0822,4314,48966,Hitzarmena: Gorbeia kaleko Merkatarien Elkartea,6000.0,6000.0,6000.0
+0822,4314,48981,Hitzarmena: SEA ostalaritza - Pintxoaren astea,0.0,0.0,0.0
+0822,4314,48982,Hitzarmena: ostalaritza-elkartea,13000.0,13000.0,13000.0
+0823,2411,47113,Hitzarmena: Merkataritza Agenteen Elkargoa,0.0,0.0,0.0
+0823,2411,48171,Hitzarmena: Secretariado Gitano fundazioa,37000.0,37000.0,37000.0
+0823,2411,48966,Hitzarmena: Saregune proiektua,60000.0,60000.0,60000.0
+0823,2411,48967,"Kontrataziorako laguntzak, Eskualdeko Enplegu Plana",560000.0,400000.0,399700.0
+0823,2411,48971,"Bekak, lehenengo lan-esperientzia",0.0,0.0,0.0
+0823,2411,48974,Hitzarmena: Emaus-green jobs,0.0,0.0,0.0
+0823,2411,62299,Enplegu eta prestakuntza instalazioak,20000.0,20000.0,17818.24
+0823,2411,62303,Prestakuntza programetarako makinak erostea,0.0,0.0,0.0
+0823,2411,62501,Enplegu eta prestakuntza instalazioetako altzariak,0.0,0.0,0.0
+0823,2411,62600,Enplegu eta prestakuntza instalazioetarako informatika ekipoak erostea,5000.0,5000.0,4186.4
+0824,4321,62501,Altzariak,0.0,0.0,0.0
+0824,4321,62609,Europa eta Goiuri jauregietako ekipo teknikoak,20000.0,20000.0,20118.15
+0910,9202,48001,"Diru-laguntza, Langile Batzordeari",14778.0,14778.0,14842.53
+0910,9202,48002,Langileentzako ikasketa beka eta poltsak,24232.0,24232.0,23423.66
+1011,9204,62623,e-administrazioa plan zuzentzailea,300000.0,300000.0,77518.45
+1011,9204,62624,Iruzur fiskalaren kontrako plana,200000.0,200000.0,50000.0
+1012,9204,62600,Informatika ekipoak erostea,200000.0,200000.0,177817.19
+1012,9204,62604,Oinarrizko softwarea erostea,180000.0,180000.0,79555.91
+1012,9204,62620,Segurtasun planeko ekintzak,200000.0,200000.0,46737.29
+1111,2301,48045,Diru-laguntzak,280000.0,262372.16,256750.0
+1111,2301,62204,Zentro eta lokaletako inbertsioak,125000.0,1237250.89,116529.23
+1111,2301,62303,Makinak erostea,20000.0,87500.0,71645.47
+1111,2301,62501,Altzariak,25000.0,25000.0,16997.01
+1115,2323,48003,Gizarte laguntzak,45000.0,45000.0,38103.65
+1115,2324,48003,Gizarte laguntzak,38000.0,38000.0,20287.25
+1115,2325,42012,Hitzarmena: GOFE - Emakumeentzako lagun. psik. eta ahol. jur.,100000.0,100000.0,100000.0
+1115,2325,48003,Gizarte laguntzak,55000.0,55000.0,30713.82
+1115,2325,48047,Hitzarmena: Bizitza Berria,0.0,0.0,0.0
+1115,2325,48121,"Hitzarmena: HIESaren aurkako batzordea, Etxe irekia",314829.84,314829.84,314829.84
+1115,2325,48137,"Hitzarmena: HIESaren aurkako batzordea, zainpeko etxebizitzak",271203.13,271203.13,271203.13
+1115,2325,48140,"Hitzarmena: HIESaren aurkako batzordea, Estrada etxea",452892.08,452892.08,452892.08
+1115,2325,48145,Hitzarmena Caritasekin - lanerako prestakuntzako lantegia,72000.0,72000.0,72000.0
+1115,2325,48148,"Hitzarmena: Afroamericana, zainpeko etxebizitzak",494466.44,494466.44,494466.44
+1115,2325,48169,Hitzarmena: Gao Lacho Drom,32000.0,35000.0,35000.0
+1115,2325,48170,"Hitzarmena, IRSE: laneratzeko programa",51284.0,51284.0,51284.0
+1115,2325,48184,Clara Campoamor elkartearekiko hitzarmena - Indarkeriaren biktima diren emakumeak hartzeko etxebizitzak,283564.0,283564.0,283564.0
+1115,2325,48190,Gazteei laguntzeko etxebizitza erdi zaindua,55000.0,55000.0,55000.0
+1115,2325,48196,Hitzarmena: Bultzain,50000.0,50000.0,0.0
+1115,2325,48197,Hitzarmena: Sendotu,20000.0,20000.0,20000.0
+1115,2325,48901,"Hitzarmena: HIESaren aurkako batzordea, Aterpe",442453.89,442453.89,442453.89
+1115,2325,48940,Abetxukuko ekimen-etxea,77000.0,77000.0,77000.0
+1115,2325,48957,Hitzarmena: Loremaitea - Agle,40000.0,40000.0,40000.0
+1120,2311,48003,Gizarte laguntzak,69345.46,69345.46,40435.11
+1120,2311,48036,Hitzarmena: AVAIM,11780.0,11780.0,11780.0
+1120,2311,48120,Hitzarmena: Ausarki - Familiarentzako informazioa eta aholk. jur.,0.0,0.0,0.0
+1120,2311,48187,Hitzarmena: Garenok,11780.0,11780.0,11780.0
+1120,2311,48956,Hitzarmena: intolerantziaren aurka,11780.0,11780.0,11780.0
+1120,2311,48977,Hitzarmena: Save the Children,11724.0,11724.0,11724.0
+1120,2311,48991,Hitzarmena: UNICEF,11780.0,11780.0,11780.0
+1120,2311,48992,Hitzarmena: AMAPASE,15000.0,15000.0,15000.0
+1133,2312,48018,Adinekoak hartzeko emakume boluntarioen elkartea,1400.0,1400.0,1400.0
+1133,2312,48023,Hitzarmena: AFA,3959.7,3959.7,3959.7
+1133,2312,48150,Adinekoei laguntzeko boluntarioen programa,6142.74,6142.74,6142.74
+1133,2312,48151,Askatasunik gabeko pertsonen auzolanak,11180.86,11180.86,11180.86
+1133,2312,48959,Hitzarmena: Ascundean - 3. adina,22246.57,22246.57,22246.57
+1133,2313,48960,Hitzarmena: San Mateo parrokia,10335.0,10335.0,10335.0
+1133,2313,48961,Hitzarmena: Aingeruen Andre Mariaren parrokia,10335.0,10335.0,10335.0
+1133,2313,48962,Hitzarmena: San Petri parrokia,10335.0,10335.0,10335.0
+1145,2315,48021,Ume Onkohematologikoen Gurasoen Elkartea,5599.2,0.0,0.0
+1145,2315,48103,Ezinduentzako bono-taxia,250000.0,185000.0,185000.0
+1145,2315,48138,Hitzarmena: Elikagaien Bankua,12000.0,12000.0,12000.0
+1145,2315,48157,Vicente Abreu elkarte federazioa,31000.0,31000.0,31000.0
+1145,2321,48000,Gizarte larrialdiko laguntzak,2739161.0,4234774.03,4227254.75
+1145,2321,48003,Gizarte laguntzak,2800000.0,5098000.0,5109386.04
+1145,2321,48004,Arreta soziala - osagarria,0.0,0.0,0.0
+1145,2321,48154,Gurutze Gorria - Adinekoei laguntzea,77500.0,77500.0,77500.0
+151101,1721,62901,Tresneria erostea,5000.0,5000.0,6319.0
+151101,1722,48196,Hitzarmena: GAIA fundazioa,10000.0,10000.0,10000.0
+151102,1711,60920,Azpiegitura berdeak,125000.0,300000.0,5377.86
+151701,3112,48194,Hitzarmena: SOS Vitoria Animaliak Babesteko Elkartea,12000.0,12000.0,12000.0
+151702,2315,48025,Hitzarmena: ACABE elkartea - Anorexia eta bulimia,16450.0,16450.0,16450.0
+151702,2315,48029,Hitzarmena ADELA elkartearekin,5650.0,5650.0,5650.0
+151702,2315,48030,"Hitzarmena: ASAJER elkartea - 1., 2. eta 3. prebentzioa",49500.0,49500.0,49500.0
+151702,2315,48031,Hitzarmena ARENE elkartearekin,27420.0,27420.0,27420.0
+151702,2315,48032,Hitzarmena: ASAFES elkartea,24000.0,24000.0,24000.0
+151702,2315,48033,Hitzarmena: AFA,31500.0,31990.0,31990.0
+151702,2315,48034,Hitzarmena: ASCUNDEAN,10970.0,10970.0,10970.0
+151702,2315,48040,Hitzarmena: minbiziaren aurkako elkartea (tabakoaren kontrako prestakuntza),13890.0,13890.0,13890.0
+151702,2315,48041,"Hitzarmena: ADELPRISE elkartea (arreta, hedapena, argibideak)",8220.0,8220.0,8220.0
+151702,2315,48059,Hitzarmena: ASAFIMA elkartea,23760.0,23760.0,23760.0
+151702,2315,48100,Hitzarmena: ONCE,8430.0,8430.0,8430.0
+151702,2315,48119,Hitzarmena: ASPACE - Garun paralisia,11230.0,11230.0,11230.0
+151702,2315,48130,Hitzarmena: Arantza Bifidoa Elkartea,3750.0,3750.0,3750.0
+151702,2315,48131,Hitzarmena: Anadahi (hiperaktiboak),3750.0,3750.0,3750.0
+151702,2315,48143,Hitzarmena: Arabako Epilepsia Elkartea,4030.0,4030.0,4030.0
+151702,2315,48149,Hitzarmena: Adeles lupus,3750.0,3750.0,3750.0
+151702,2315,48158,Hitzarmena: Down Araba-Isabel Orbe elkartea,10000.0,10000.0,10000.0
+151702,2315,48189,Hitzarmena: ASAMMA elkartea,2800.0,2800.0,2800.0
+151702,2315,48190,Hitzarmena: ATECE elkartea - Garuneko gaitza,11290.0,11290.0,11290.0
+151702,2315,48191,Hitzarmena: Arabako Diabetikoen Elkartea,9200.0,9500.0,9500.0
+151702,2315,48192,Hitzarmena: Arabako Zeliakoen Elkartea,8400.0,8400.0,8400.0
+151702,2315,48193,Hitzarmena: Esklerosi Anizkoitzaren Elkartea,5480.0,5480.0,5480.0
+151702,2315,48195,Hitzarmena: Corazón sin fronteras elkartea,7100.0,7100.0,7100.0
+151702,2315,48932,Hitzarmena: APDEMA,11230.0,11230.0,11230.0
+151702,2315,48957,Hitzarmena: AGLE,10970.0,10970.0,10970.0
+151702,3111,48197,Hitzarmena: Jaiki/Hazgarri fundazioa,43590.0,43597.0,43597.0
+151702,3111,48198,"Hitzarmena: Slow Food Araba elkartea, elikadura osasungarria",25230.0,25230.0,25230.0
+151702,3111,48199,"Hitzarmena: HIESaren aurkako batzordea, Gayen artean programa",20610.0,22921.04,22921.04
+151702,3111,48972,"HIESaren aurkako batzordea, prebentzio-programa",23000.0,23000.0,23000.0
+152002,1641,60105,Hobiak eta panteoiak egitea,50000.0,50000.0,6379.49
+152005,1533,60102,Oztopo arkitektonikoak,100000.0,100000.0,42898.12
+152005,1533,60133,Auzokideek zehaztu beharreko inbertsioak,1100000.0,1100000.0,170601.91
+152005,1533,60171,Bizikletak aparkatzekoak eta bizikletentzako lonjak,320000.0,320000.0,0.0
+152005,1533,60172,Espazio publikoko inbertsioen plan zuzentzailea,900000.0,900000.0,538266.59
+152005,1533,60186,Espazio publikoko inbertsioen plan laguntzailea,0.0,0.0,0.0
+152005,1533,60189,BJTen inbertsioak,1575000.0,1575000.0,1431091.02
+152005,1533,60190,Bide publikoetako eta zoladura inbertsioak,0.0,0.0,0.0
+152005,1533,60191,Hiri hornigarrietalp inbertsioak,30000.0,30000.0,8058.6
+152005,1533,62303,Makinak erostea,0.0,0.0,0.0
+152005,1651,60115,Kaleko argiteria hobetzea,250000.0,550009.23,202540.8
+152005,4411,71002,"Hitzarmena, Eusko Jaurlaritzarekin: tranbia luzatzea eta BRT",0.0,0.0,0.0
+152007,1711,60182,Zuhaitz proiektua,75000.0,75000.0,65607.17
+152007,1711,60311,Berdeguneak birmoldatzea,75000.0,75000.0,70453.83
+152007,1711,69900,Landareak erostea,40000.0,40000.0,39722.57
+1620,3422,62926,Igerilekuetako kontratuetako inbertsioak,685000.0,533000.0,399900.45
+1620,4333,62204,Urban - Zentro eta lokaletako inbertsioak,0.0,0.0,0.0
+1620,9211,62204,Zentro eta lokaletako inbertsioak,800000.0,800000.0,499682.67
+1620,9211,62205,Ikastetxeetako obrak.,170000.0,270000.0,269747.68
+1620,9211,62293,Udal eraikinetako inbertsioak,324000.0,356000.0,275475.51
+1620,9211,62303,Makinak erostea,15000.0,25000.0,24958.26
+1620,9211,64304,"Ordainsariak, azterlanak eta proiektuak",15000.0,25000.0,13587.57
+1620,9214,48960,Hitzarmena ASAFESekin - Instalazioen garbiketa,121548.0,121548.0,121548.0
+1620,9215,62303,Energiaren kudeaketarako ekipoak berritzea,62000.0,62000.0,62054.59
+1820,3371,62505,Bestelako tresnak,10000.0,10000.0,9877.68
+1820,9211,62512,Gizarte etxeetako ekipamendu inbertsioak,200000.0,200000.0,152719.8
+1820,9242,48988,Hitzarmena: San Martin auzo-elkartea,100000.0,100000.0,100000.0
+1822,9241,62505,Bestelako tresnak,5000.0,5000.0,4911.9
+1822,9242,48954,Auzo-elkarteentzako diru-laguntzak,170000.0,170000.0,170000.0
+2311,3291,43101,Luis Aranburu Musika Eskolari,790000.0,790000.0,711000.0
+2311,3291,73101,"Ekarpena, Luis Aranburu Musika Eskolari",13000.0,13000.0,0.0
+2311,3292,43103,Jose Uruñuela Dantza Kontserbatorioari,615000.0,545000.0,515000.0
+2311,3292,73103,Jose Uruñuela Dantza Kontserbatorioari,5931.46,5931.46,0.0
+2311,3301,62501,Altzariak,1000.0,1000.0,998.75
+2311,3301,62901,Kultur ekintzarako ekipoak erostea,5000.0,5000.0,4902.68
+2311,3341,48975,Artium museoa,90000.0,90000.0,90000.0
+231201,3322,62800,Artxiborako argitalpenak eta liburuak erostea,18000.0,18000.0,18210.54
+231201,3322,62801,Udal artxiborako funtsak erostea,1500.0,1500.0,1258.42
+231202,3391,62914,Folklore akademiako instrumentuak,4500.0,4500.0,4489.21
+231203,3341,41921,"Hitzarmena: EHU, Cortada jaialdia",5000.0,5000.0,5000.0
+231203,3341,48917,Hitzarmena Magialdiarekin,80000.0,80000.0,80000.0
+231203,3341,48927,Hitzarmena Haur Abesbatzen Federazioarekin,2000.0,2000.0,2000.0
+231203,3341,48928,Hitzarmena: nagusien abesbatzen federazioak,6000.0,6000.0,6000.0
+231203,3341,48929,"Hitzarmena, Jazz jaialdiarekin.",129000.0,129000.0,129000.0
+231203,3341,48933,Kultur proiektuetarako diru-laguntza deialdia,100000.0,100000.0,99998.88
+231203,3341,48939,Valentín de Foronda patronatua,8000.0,8000.0,8000.0
+231203,3341,48961,Hitzarmena: World Press Photo,36500.0,36500.0,36500.0
+231203,3341,48963,Hitzarmena Big-band jaialdiarekin,8000.0,8000.0,8000.0
+231203,3341,48971,Hitzarmena Arabako Dantzarien Biltzarrarekin,8000.0,8000.0,8000.0
+231203,3341,48977,Bertako artisten erakusketen programa,0.0,0.0,0.0
+231203,3361,68500,Eskultura eta artelanak erostea,1500.0,19424.13,19302.38
+231203,3361,68503,Artelanak zaindu eta zaharberritzeko plana,6000.0,6000.0,5914.73
+231203,3381,48910,Hitzarmena: Blusen batzordea,65000.0,65000.0,65000.0
+231203,3381,48912,Hitzarmena: komunitateen jaia,8000.0,8000.0,8000.0
+231203,3381,48922,Inauterietako konpartsentzako deialdia,68500.0,68500.0,66499.0
+231203,3381,48966,Hitzarmena Jaiotzazaleen elkartearekin,0.0,0.0,0.0
+231203,3381,48969,Hitzarmena Urrezko Zeledoien Elkartearekin,4000.0,4000.0,4000.0
+231203,3381,48987,Hitzarmena Gasteizko penitentzi kofradiekin,0.0,0.0,0.0
+231204,3321,62600,Informatika ekipoak erostea,0.0,0.0,0.0
+231204,3321,62800,Liburutegietarako argitalpenak eta liburuak erostea,118000.0,118000.0,117017.2
+231204,3341,48958,Hitzarmena: Arabako Liburu Azoka,6000.0,6000.0,6000.0
+231204,3341,48960,Hitzarmena: Liburu Zaharren Azoka,6000.0,6000.0,6000.0
+231205,3332,62602,Montehermosoko mediatekarako multimedia funtsak,1500.0,1500.0,1437.44
+231210,3392,62800,"Argitalpenak eta liburuak erostea, Musika Banda",1500.0,1500.0,1489.84
+231210,3392,62903,Musika bandarako ekipamendua,7000.0,7000.0,6995.01
+231220,3342,48981,Hitzarmena Teatro Paraisorekin,35000.0,35000.0,35000.0
+231220,3342,48989,Hitzarmena Ortzairekin,20000.0,20000.0,20000.0
+231220,3342,48990,Hitzarmena Baratza Aretoarekin,4000.0,4000.0,4000.0
+231220,3342,62901,"Ekipoak erostea, Antzoki Sarea",15000.0,37900.0,37425.33
+231901,3231,62501,Haur eskoletako altzariak,13000.0,13000.0,8177.33
+231901,3231,62505,Haur-eskoletako bestelako tresnak,6240.0,6240.0,6201.6
+231902,3261,48001,Eskolaz kanpoko jarduerak,54000.0,54000.0,54000.0
+231902,3261,48004,Hezkuntza konpentsazioa,157352.0,157352.0,156738.0
+231902,3261,48108,Diru-laguntza: hezkuntza-programetako garraioa,11284.0,11284.0,11284.0
+231902,3261,48136,Hitzarmena: Jazzargia “Ondas de Jazz”,26040.0,26040.0,26040.0
+231903,3261,43301,Eskola-garraioko txartela,90000.0,98023.11,90000.0
+231903,3261,48010,Diru-laguntza: guraso elkarteen opor programa eta eskolaz kanpokoak,126000.0,126000.0,126000.0
+231903,3261,48011,Hitzarmena: Denon Eskola,24138.0,24138.0,24138.0
+231903,3261,48012,Hitzarmena: Fapacne federazioa,5862.0,5862.0,5862.0
+231903,3261,48175,Ezintasunak dituztenen elkarteen jarduerak,23609.6,23609.6,23129.12
+231903,3271,48114,Diru laguntza: Fernando Buesa Fundazioa,45000.0,45000.0,45000.0
+231903,3293,40100,UNEDi,90000.0,90000.0,90000.0
+231903,3293,42105,Lanbide Heziketako partzuergoa,208320.0,225832.0,225832.0
+231903,3293,48105,Arte eta Lanbide Eskola,500000.0,500000.0,500000.0
+232001,3421,62228,Udako kirol-esparruetako ekipamenduak,40000.0,40000.0,39979.92
+232003,3411,48115,Hitzarmena: Arabako Bolo-jokalarien Federazioa,5817.07,5817.07,5817.0
+232003,3411,48119,Hitzarmena: ASPACE,24587.71,24587.71,24587.71
+232003,3411,48133,Hitzarmena: Zuzenak,135000.0,135000.0,130339.51
+232003,3411,48141,Hitzarmena: APDEMA,24759.32,24759.32,24759.32
+232003,3411,48142,Hitzarmena: Autismo Araba,14442.01,14442.01,14442.01
+232003,3411,48927,Diru-laguntza 5+11 fundazioaren futbol atalari,68333.0,68333.0,68333.0
+232003,3411,48928,Diru-laguntza: 5+11 fundazioaren saskibaloi atala,142833.0,142833.0,142833.0
+232003,3411,48935,Kirol diru-laguntzetarako deialdi orokorra,370000.0,370000.0,366750.27
+232003,3411,48984,San Silvestre eta maratoi erdia,7390.25,7390.25,7390.25
+232004,3421,62300,Kiroleko material inbentariagarria,30000.0,30000.0,29987.55
+232004,3421,62305,Berariazko material teknikoa - Kirola,60000.0,60000.0,59638.35
+0825,4221,22779,Industriari eta enpresei laguntzea,60000.0,0.0,0.0
+0112,2301,14100,Bestelako langileak,39286.0,39286.0,47551.86
+0411,9321,14100,Bestelako langileak,0.0,0.0,43511.26
+0416,9341,14100,Bestelako langileak,0.0,0.0,1340.76
+0422,4413,16500,"Elkarkidetzako kuotak, Udalaren kontura",4430.0,4430.0,10519.8
+1010,9204,14100,Bestelako langileak,0.0,0.0,44638.44
+0160,2381,14100,Bestelako langileak,0.0,0.0,65509.38
+1642,9219,14100,Bestelako langileak,0.0,0.0,2481.68
+232001,3421,22796,Udan kirol-esparruak irekitzeko kontratua,650000.0,650000.0,604975.78
+0181,2361,48986,Hitzarmena: Martxoak 3 Elkartea,0.0,12000.0,12000.0
+2311,3301,13000,Lan-kontratudun langile finkoen ordainsariak,0.0,0.0,69966.62
+0111,9221,22690,Hauteskunde-gastuak,20000.0,40000.0,28405.53
+0116,2371,22736,Gazteria Zerbitzuaren kontratua,130000.0,130000.0,118121.74
+0116,2371,22737,Gazteen Argibideetarako Udal Bulegoa,4000.0,4000.0,3949.79
+0160,2381,22773,Berdintasunerako ikastaroak programatzea,40000.0,35000.0,12276.75
+0160,2381,22775,"LGTBQ - 0 tolerantzia homofobia, lesbofobia eta transfobiarekin",50000.0,0.0,0.0
+0162,2391,23002,Joan-etorrietako gastuak,5000.0,5000.0,0.0
+0180,2327,12000,Funtzionarioen oinarrizko ordainsariak,1.0,1.0,0.0
+0180,2327,12100,Funtzionarioen ordainsari osagarriak,1.0,1.0,0.0
+0180,2327,14100,Bestelako langileak,1.0,1.0,0.0
+0180,2327,16000,"Gizarte Segurantza, enpresaren kontura",1.0,1.0,0.0
+0180,2327,16500,"Elkarkidetzako kuotak, Udalaren kontura",1.0,1.0,0.0
+0181,2361,22600,Bizikidetza Planaren idazkaritza teknikoa,18000.0,18000.0,18755.0
+0181,2361,22604,Zurrumurruen kontrako estrategia,15000.0,15000.0,12903.52
+0181,2361,22606,Hizkuntza-trukerako programa,10000.0,2750.0,792.0
+0181,2361,22608,Informazio- eta prestakuntza-programa,12000.0,12000.0,12000.0
+0181,2361,22610,Hiri Hezitzailea,20000.0,20000.0,20355.0
+0181,2361,22611,"Sentsibilizazioa, errefuxiatuak",12000.0,12000.0,5297.86
+0181,2361,22613,Itzulpena eta interpretazioa,12000.0,12000.0,20646.88
+0181,2361,22614,Lehen harrerako programa,30000.0,30000.0,2843.98
+0187,9271,22732,Bideo-akten zerbitzuaren kontratua,15000.0,15000.0,0.0
+0210,1502,22732,Zerbitzuak emateko kontratuak,5000.0,5000.0,861.52
+0340,1351,22701,Jaietako gastu operatibo sanitarioak,10000.0,10000.0,9639.23
+0410,9213,22102,Ur-hornidura eta hondar-urak araztea,1800000.0,1800000.0,1730486.97
+0817,4334,85107,Parke teknologikoaren kapital-zabalkuntza,52600.0,52600.0,52600.0
+0822,4314,22771,“Urban Commerce” jardunaldia,40000.0,40000.0,33025.07
+0823,2411,22790,Udalaren enplegu bermatuaren plana,30000.0,30000.0,0.0
+0823,2411,22791,45 gorakoentzako enplegu-plana,15000.0,15000.0,45626.35
+0823,2411,22792,Gazteentzako enplegu-plana,180000.0,210000.0,93489.2
+0823,2411,22793,Orientazio- eta enplegu-ekintzak,24000.0,24000.0,19633.3
+0824,4321,22733,Sektoreko lehiakortasun-ekintzak,5000.0,5000.0,8264.3
+0910,9202,23003,"Dietak, SISEU",120960.0,120960.0,103950.0
+1012,9204,22755,Herritarrek erabiltzeko aplikazioetako teknologia berrien plana,1.0,1.0,0.0
+1115,2324,21003,Auzoko proiektu soziala,300000.0,110000.0,0.0
+1115,2324,22105,Jantziak eta uniformeak,1000.0,1000.0,0.0
+1115,2325,22788,"Deialdia, HIESaren aurkako etxea, neguan ostatu emateko bitartekoa",80000.0,80000.0,39834.97
+1133,2312,22105,Jantziak eta uniformeak,5500.0,5500.0,3357.02
+1145,2328,10000,Zinegotzien oinarrizko ordainsariak,78.0,78.0,0.0
+151702,3111,21210,Desfibriladoreak mantentzea,18000.0,18000.0,15569.09
+151702,3111,22708,Arbitraje-batzarra,3000.0,3000.0,1429.94
+152002,1512,21106,Turismo Bulegoaren azterketa - Goya,25000.0,25000.0,0.0
+152002,1641,22715,Hondakinen gaikako bilketa,8000.0,8000.0,10347.84
+152002,1651,22101,Espazio publikorako eta ingurune naturalerako energia elektrikoa hornitzea,4500000.0,4375000.0,4206063.98
+152007,1711,21040,Transmisoreak mantentzea,3000.0,3000.0,946.65
+152007,1711,21075,Parkeak mantentzea,325000.0,22652.75,0.0
+152007,1711,22714,Nekazaritza-elikagaien plana,150000.0,0.0,0.0
+1620,9212,22734,"Iradier Arenako zerbitzuak kontratatzea, jaiak",30000.0,30000.0,29580.18
+1820,3371,22607,Gizarte-etxeetako kanpainen zabalkundea,25000.0,25000.0,28926.68
+1820,3371,22663,Eguberrietako haur parkea,130000.0,130000.0,121000.0
+1820,3371,22697,Kaleidos.red fundazioko kuota,12020.0,12020.0,12020.24
+1820,3371,22709,Udako jolasak,100000.0,100000.0,91969.97
+1822,9241,22696,Aurrekontu partizipatiboen prozesua,35000.0,35000.0,40552.97
+1822,9241,22698,"Herritar-kontsultak, 2016",11666.0,11666.0,0.0
+231203,3341,22654,Kultura Plan Estrategikoa,50000.0,50000.0,1095.6
+231203,3341,22755,Sebastián Iradier urteurrena,15000.0,15000.0,8000.0
+231205,3332,22753,Montehermosoko kultur programa - Euskararen etxea,210000.0,210000.0,203477.7
+231205,3332,22754,Kultura Eratzen,20000.0,20000.0,3660.25
+231210,3392,22737,Udal Bandaren 100. urteurrenaren ospakizuna,34000.0,34000.0,35387.6
+231901,3232,22787,Udaleko Eskola Kontseilua,5208.0,5208.0,4146.25
+231901,3232,22788,Auzoak zabalik - Hezkuntza,58000.0,8000.0,6332.75
+231901,3232,22789,Auzoak zabalik - Hezkuntza: Salburua eta Zabalgana,36000.0,36000.0,0.0
+231901,3261,22792,"Gasteiz, hiri hezitzailea:curriculuma garatzea",50000.0,0.0,0.0
+231901,3261,22793,"Gasteiz, hiri hezitzailea: eskola-mapa irekia",50000.0,40000.0,27872.72
+232003,3411,22726,Pilota-partiden eta herri-kirolen sustapena,40000.0,40000.0,33057.84
+232003,3411,22731,"Ezinduen txirrindulari-lasterketa, Europa",7000.0,7000.0,7000.0
+232003,3411,22738,Gasteizko triatloia,90000.0,0.0,0.0
+0116,2371,41924,Hitzarmena: Euskadiko Gazteria Kontseilua - Gazteen partaidetzaren sustapena,8160.0,8160.0,8160.0
+0116,2371,48936,Irakaskuntza Ertainetako gazte informatzaileen deialdia,8000.0,9000.0,9000.0
+0160,2381,48129,Hitzarmena: ASVE elkartea,5000.0,0.0,0.0
+0160,2381,62207,Emakumeekiko indarkeriaren kontrako zentro integrala,220000.0,220000.0,0.0
+0160,2381,62208,Emakumeen etxea,100000.0,100000.0,0.0
+0162,2391,48200,Lankidetzarako diru-laguntzak,2346500.0,2321500.0,1911489.86
+0162,2391,48205,Hitzarmena: Larrialdietarako Arabako Funtsa,120000.0,120000.0,120000.0
+0162,2391,48206,Hitzarmena: RASD-ren lagunen elkartea,320000.0,320000.0,320000.0
+0162,2391,48207,Hitzarmena: Euskal Fondoa,189000.0,189000.0,189000.0
+0162,2391,48210,Hitzarmena: Setem Hego Haizea,25000.0,25000.0,25000.0
+0162,2391,48211,Hitzarmena: GGKEen koordinakundea,24000.0,24000.0,24000.0
+0162,2391,48213,Hitzarmena: bidezko merkataritza,32000.0,32000.0,32000.0
+0171,3351,48013,Azoka Txikia,10000.0,0.0,0.0
+0181,2361,48129,Hitzarmena: ASVE elkartea,5000.0,5000.0,5000.0
+0181,2361,48901,Diru-laguntza deialdi orokorra,65000.0,65000.0,29113.2
+0181,2361,48983,Hitzarmena: Goian,97634.0,97634.0,97634.0
+0181,2361,48984,Desagertuen familientzako laguntzak,5000.0,5000.0,0.0
+0181,2361,48985,Diru-laguntzak: memoria historikoa,15000.0,15000.0,0.0
+0181,2361,78103,Memoria gunea: proiektuak lantzea eta akordioa gotzaindegiarekin,35000.0,35000.0,0.0
+0182,1741,60700,Nekazaritza Eremuko paisaia,20000.0,20000.0,18755.53
+0182,1743,72000,"AFA, lursailen arteko bideak egitea",50000.0,100000.0,0.0
+0211,1511,60001,Lurzoru desjabetzeak eta erosketak,100000.0,100000.0,0.0
+0214,1502,62901,Tresneria erostea,1000.0,1000.0,738.98
+0214,1502,64201,Azterlanak eta proiektuak,30000.0,30000.0,16037.47
+0214,1502,64516,Gasteiz Antzokiaren kokalekuaren azterlana,60000.0,60000.0,0.0
+0214,1502,64517,Bost enparantza,100000.0,50000.0,0.0
+0214,1513,60184,"Hirigintza-plan estrategikoa, birgaitze integralerako plana",400000.0,36215.19,0.0
+0214,1513,64324,"""Auzoan bizi"" zuzkidura-alojamenduak",90000.0,40061.68,0.0
+0214,1513,68201,Gamiz herriko udal jabetzako esku-hartzea,70000.0,70000.0,0.0
+0214,1533,60181,"Jolas bio-osagarriak, Sansomendin eta Lakuan",25200.0,25200.0,0.0
+0214,2321,62272,"Udalaren etxebizitzak kudeatzeko plana, alokairu soziala",600000.0,100000.0,0.0
+0214,3421,60180,Sansomendiko agorespacea,200000.0,200000.0,0.0
+0214,9211,62215,Udal ondareko inbertsioak,10000.0,10000.0,0.0
+0214,9211,62270,Judimendi - Santa Luzia adinekoentzako zentro soziokulturala,50001.0,50001.0,0.0
+0214,9211,62271,San Martineko adinekoentzako zentro soziokulturala,50001.0,50001.0,0.0
+0325,1331,60107,Zirkulazioa kontrolatzeko sistema,15000.0,15000.0,12422.58
+0325,1331,62901,Tresneria erostea,30000.0,30000.0,29814.4
+0350,1321,62400,Ibilgailuak,40000.0,40000.0,0.0
+0350,1321,62501,Altzariak,5000.0,5000.0,0.0
+0350,1321,62901,Tresneria eta instalazioak erostea,10000.0,10000.0,8467.06
+0410,1513,73112,IGIri - Koroatzeko proiektua,50000.0,50000.0,0.0
+0410,1533,60195,"Epaia, Ibaiondoko urbanizazio-obrak",600000.0,600000.0,600000.0
+0410,1711,60010,Desjabetzeak - Olarizuko parkeko epaia,2100047.09,2384974.67,2384974.64
+0410,1711,60011,Desjabetzea - epaia: Zadorra ibaiko uholdeen kontrako proiektua,559999.99,560095.2,560095.2
+0410,3361,78100,Diru-laguntza: Santa Maria katedraleko obrak,150000.0,150000.0,150000.0
+0410,4421,62953,Autobus-geltokiko ekipoetako inbertsioak,145200.0,145200.0,130624.67
+0410,9211,62258,Udaletxe berriko inbertsioak,1186257.81,1186257.81,1186257.81
+0410,9219,62298,"Inbertsioak, San Martin",20000.0,20000.0,19554.87
+0410,9271,41801,Udalbiltza,110000.0,110000.0,88000.0
+0821,4331,62601,Mintegietako berrikuntza eta ekipamenduak,25000.0,25000.0,11298.38
+0822,4314,64321,Auzoetako merkataritzari buruzko azterlan teknikoa,50000.0,50000.0,0.0
+0822,4314,64322,Lehen sektoreko merkaturatzea bultzatzeko plana,150000.0,150000.0,0.0
+0824,4321,62513,Jauregi eta biltzarretako altzariak,15000.0,15000.0,14439.3
+0825,4221,42014,Hegaraba,50000.0,50000.0,0.0
+0825,4221,48968,Langileentzako aholkularitza eta laguntza,100000.0,0.0,0.0
+0825,4221,48969,Enplegu berdea bultzatzea,350000.0,100000.0,0.0
+0825,4221,48975,Sorkuntzarekin lotutako industrientzako laguntzak,40000.0,0.0,0.0
+0825,4221,62952,Industrialdeak mantentzea,200000.0,200000.0,0.0
+0825,4221,64323,"Enpresa txiki eta ertainen planak, I+d+i",120000.0,120000.0,0.0
+1011,9204,62625,Diru-laguntzen kudeaketa zentralizatua,25000.0,25000.0,20000.01
+1011,9204,62626,Udaltzaingoen arteko sistema informatikoa.,20000.0,20000.0,3993.0
+1012,9204,62627,Tresna eta zerbitzuak berritzea,330000.0,330000.0,330000.0
+1115,2325,48035,Laneratze ibilbideak,100000.0,0.0,0.0
+1115,2325,48046,Hitzarmena: Bizitza Berria,120000.0,120000.0,120000.0
+1115,2326,41906,Hitzarmena: Prestaturik,60000.0,60000.0,60000.0
+1133,2312,48153,Agurekin - Gizarte berrikuntza,40000.0,0.0,0.0
+1133,2312,48957,"Hitzarmena: AGLE, Elikagaien Bankua",22000.0,22000.0,22000.0
+1133,2313,62513,"Adinekoentzako jantoki berria, Adurtzan",160000.0,92500.0,0.0
+1145,2321,48005,Pobrezia energetikoaren kontrako plana,50000.0,60000.0,49440.0
+1145,2321,48995,Diru-laguntza: Itxaropenaren Telefonoa,24000.0,24000.0,24000.0
+1145,2322,48904,"Hitzarmena, IRSE eta EHUrekin",11100.0,11100.0,11100.0
+151101,1722,64317,"Guztien ongiaren ekonomiaren plana, adituen eskutik",100000.0,100000.0,0.0
+151101,1722,64319,Mapa erradioelektrikoa: neurgailuen sarea diseinatu eta instalatzea,40000.0,40000.0,0.0
+151102,1722,64321,Energia berriztagarrien plana,325000.0,300000.0,0.0
+151102,1722,64322,Klima aldaketaren kontra borrokatzeko plana,100000.0,100000.0,34848.0
+151103,1622,60305,Gardelegiko zabortegiko instalazioak,20000.0,20000.0,8865.91
+151103,1622,62916,Zabortegiaren ingurumen kalitatea,10000.0,10000.0,798.95
+151103,1623,60706,Hondakinen plana,105000.0,105000.0,10715.76
+151701,3112,48195,Katuen koloniak kontrolatu eta kudeatzea,30000.0,0.0,0.0
+151701,3112,62311,Inbentarioan jasotzeko materiala,70000.0,70000.0,10668.24
+151702,2315,48188,Hitzarmena: Gurutze Gorria,9750.0,9750.0,9750.0
+152005,1331,60195,Trafiko-segurtasuneko elementuak hobetzea,100000.0,100000.0,0.0
+152005,1513,60921,Koroatzeko proiektua,50000.0,50000.0,0.0
+152005,1533,60169,Mugikortasun-azpiegiturak ( tranbia luzatzea eta BRT),50000.0,0.0,0.0
+152005,1533,64304,"Ordainsariak, azterlanak eta proiektuak",20000.0,42000.0,18268.69
+152005,1722,64317,Tokiko 21 Agendaren ekintza-plana lantzea,60000.0,60000.0,0.0
+152005,4411,64320,Arabatran: proiektuaren azterketa,50000.0,80000.0,0.0
+152007,1711,60183,Parke eta plazak egokitzea,75000.0,75000.0,116.41
+152007,1711,60196,"Zuhaitzak kudeatzeko plana, Zaramaga eta Pilar",50000.0,50000.0,119.45
+152007,1711,60197,Auzoko azpiegitura berdea,185000.0,185000.0,84241.35
+152007,1711,64304,"Ordainsariak, azterlanak eta proiektuak",25000.0,25000.0,13514.58
+152007,1711,64318,Dibertsitatea kontserbatzeko azterlanak,20000.0,57697.13,28371.18
+152007,1711,64319,Azterlanak: Gasteizko mendiak,25000.0,25000.0,0.0
+1620,3421,62296,Kirol zelaietako inbertsioak,100000.0,100000.0,71771.33
+1620,9211,62207,Irisgarritasuna —Judimendiko auzo-elkartea—,250000.0,250000.0,0.0
+231203,3341,48964,Hitzarmena Asociación Afroamericana elkartearekin,1500.0,1500.0,1500.0
+231205,3332,62901,Montehermosoko ekipoak erostea,25000.0,25000.0,25130.93
+231901,3261,48026,Laguntza: udalaren haur eskoletako prezio publikoa,72000.0,72000.0,0.0
+231903,3261,41918,Hitzarmena EHUrekin - Hiri Hezitzaileak,22568.0,22568.0,20010.0
+232001,3421,62230,"Futbol txiki plana, 1. fasea (aldagelak)",85000.0,85000.0,0.0
+232003,3411,48937,Kaleko kirol-dinamizaziorako programetarako diru-laguntzak,90000.0,10000.0,0.0
+232003,3411,48938,"Diru-laguntzak, emakumeen kirola",85000.0,0.0,0.0
+232003,3411,48939,"Diru-laguntzak, kirol mistoa eta inklusiboa",15000.0,10000.0,0.0
+0820,4301,14100,Bestelako langileak,0.0,0.0,75305.38
+0214,9211,62260,Zabalganeko gizarte-etxea,0.0,202614.89,172965.6
+0214,9211,62260,Zabalganeko gizarte-etxea,0.0,59779.99,9240.0
+152005,1533,60115,Bestelako inbertsio estrategikoak,0.0,212080.39,212080.39
+152005,1533,60169,Mugikortasun azpiegiturak,0.0,49292.95,48044.74
+152005,1533,60133,Auzokideek zehaztu beharreko inbertsioak,0.0,167238.07,0.0
+0211,1511,64206,HAPO berrikustea,0.0,750.0,0.0
+0214,9211,62265,Europa jauregia eraberritu eta handitzea,0.0,16970.53,12727.68
+0214,9211,62265,Europa jauregia eraberritu eta handitzea,0.0,188376.67,188376.67
+0182,1741,60150,Herrietako obrak,0.0,77.35,0.0
+0210,1502,22732,Zerbitzuak emateko kontratuak,0.0,21155.64,0.0
+0325,1331,21050,Seinaleztapena onik zaintzea,0.0,11863.06,11863.06
+0821,4333,62289,URBAN Landatxoko kiroldegia,0.0,5492.52,0.0
+0821,4333,62290,URBAN Ramón Bajo ikastetxea,0.0,137556.07,127537.81
+0821,4331,22797,Dinamizazio ekonomikoa,0.0,24835.39,14085.39
+0821,4333,22798,Erdi Aroko hiriguneko kudeaketa soziokulturalaren eta dinamizazio ekonomikoaren gastuak,0.0,31629.69,17549.84
+0821,4331,60902,Mintegiko inbertsioak - Basaldea proiektua,0.0,140399.8,44436.28
+1012,9271,22200,Telefono-fakturazioa,0.0,29412.16,29412.16
+1011,9204,62624,Iruzur fiskalaren kontrako plana,0.0,90000.8,89999.99
+1011,9204,62623,e-administrazioa plan zuzentzailea,0.0,177536.27,175450.0
+1011,9204,62623,e-administrazioa plan zuzentzailea,0.0,92463.73,0.0
+152002,1651,22130,Argiteria publikoaren mantentze orokorra,0.0,8609.99,0.0
+152005,1533,60172,Espazio publikoko inbertsioen plan zuzentzailea,0.0,63364.82,30065.72
+152005,1535,60173,Hidrologia-hobekuntzarako plana,0.0,56302.65,54239.31
+152005,1533,60190,Bide publikoetako eta zoladura inbertsioak,0.0,100660.38,100573.42
+152007,1711,60182,Zuhaitz proiektua,0.0,10079.06,10059.27
+152005,1533,60102,Oztopo arkitektonikoak,0.0,732.67,732.67
+152007,1711,60182,Zuhaitz proiektua,0.0,228.75,228.75
+152007,1711,60311,Berdeguneak birmoldatzea,0.0,273.38,0.0
+152007,1711,64304,"Ordainsariak, azterlanak eta proiektuak",0.0,3735.0,0.0
+151102,1711,60920,Azpiegitura berdeak,0.0,9593.93,9592.98
+232001,3411,22737,Eguberrietako jarduerak,0.0,47593.33,47593.33
+0171,3351,22780,Euskara plana,0.0,15122.83,15122.83
+015507,2371,22775,Gazte Plana,0.0,3300.35,3299.91
+0182,1749,78919,Diru-laguntzak: gizarte zentroak,0.0,40000.0,39745.98
+0182,1741,60155,"Inbertsioak, menpeko toki-erakundeetan",0.0,97419.04,96599.69
+0213,1512,22621,"Betearazte subsidiarioa, Barnekale Berria, 32",0.0,42006.1,0.0
+0325,1331,21910,Trafikoa kontrolatzeko sistema mantentzea,0.0,4736.22,4736.22
+0350,1321,22105,Jantziak eta uniformeak,0.0,25059.1,25059.1
+0350,1321,62901,Narcotest ekipoak erostea,0.0,4806.48,4806.48
+0422,4421,62953,Autobus-geltokiko ekipoetako inbertsioak,0.0,44419.1,39982.76
+0422,4413,21105,Autobus-geltokia onik zaindu eta mantentzea,0.0,7141.42,7014.0
+0822,4314,22773,Azokak,0.0,7030.12,7030.12
+0822,4314,48964,Denda txikientzako laguntzak,0.0,7000.85,1055.45
+0821,4331,22677,Ekintzaileentzako laguntza,0.0,17918.89,14260.16
+0821,4331,22678,Ekintzaileentzako eskualdeko enplegu-plana,0.0,15805.62,11812.64
+0823,2411,22795,Prestakuntza,0.0,6800.0,6800.0
+0823,2411,22797,Udalaren enplegu-batzorde txostengilea (enplegu-plana),0.0,14459.5,14459.5
+0824,4321,22779,Hiriaren sustapena,0.0,13310.0,13310.0
+0824,4321,62609,Lantalde teknikoak,0.0,86557.06,86557.06
+0910,9202,22638,Udal langileen prestakuntza-plana,0.0,2100.0,0.0
+1111,2301,62204,Zentro eta lokaletako inbertsioak,0.0,11672.55,9961.25
+1133,2312,22623,Familia zaintzaileei laguntzeko programa,0.0,2200.0,0.0
+152005,1651,60115,Kaleko argiteria hobetzea,0.0,951.18,588.73
+152005,1535,64304,"Ordainsariak, azterlanak eta proiektuak",0.0,10430.0,10430.0
+152007,1722,60193,Espezie mehatxatuen kontserbaziorako inbertsioak,0.0,16327.52,16327.44
+152005,1533,64304,"Ordainsariak, azterlanak eta proiektuak",0.0,35748.9,35748.9
+152005,1533,60133,Auzokideek zehaztu beharreko inbertsioak,0.0,148.31,148.31
+152005,1533,60171,Bizikletak aparkatzekoak,0.0,20000.0,19999.49
+152007,1711,69900,Landareak erostea,0.0,9935.1,9874.7
+152005,4411,71002,"Hitzarmena, Eusko Jaurlaritzarekin: tranbia luzatzea eta BRT",0.0,157500.0,0.0
+1620,9211,62205,Ikastetxeetako eta udal eraikinerako obrak,0.0,33063.25,32523.59
+1620,9211,62204,Zentro eta lokaletako inbertsioak,0.0,230861.72,221239.39
+1620,9211,62293,Udal eraikinetako inbertsioak,0.0,42269.12,37233.1
+231203,3381,22663,Eguberri eta erregetako kanpaina,0.0,1176.0,1176.0
+232003,3411,22724,Kirol-dinamizaziorako programa,0.0,11000.0,11000.0
+232003,3411,22735,“Kirol bidean” gazteentzako programak,0.0,125.6,125.6
+231903,3261,48011,Hitzarmena: Denon Eskola,0.0,2413.8,2413.8
+231903,3261,48012,Hitzarmena: Fapacne federazioa,0.0,586.2,586.2
+231903,3261,48136,Hitzarmena: Jazzargia “Ondas de Jazz”,0.0,4500.0,4500.0
+0410,9331,68200,Udal eraikinetako inbertsioak - trukea,0.0,3709.73,3709.73
+0410,1711,60011,Desjabetzea - epaia: Zadorra ibaiko uholdeen kontrako proiektua,0.0,0.0,0.0
+0410,9205,22104,Erregaiak,0.0,21000.0,20233.95
+0821,4331,48984,Ekin txekea,0.0,15000.0,15000.0
+151702,2315,48021,Ume Onkohematologikoen Gurasoen Elkartea,0.0,5599.2,4547.27
+231203,3341,48970,HItzarmena: Arabako Bertsozale Elkartea,0.0,52500.0,52500.0
+231903,3293,41902,Hitzarmena EHUrekin - Nazioarteko Zuzenbideko ikastaroak,0.0,30000.0,30000.0
+0823,2411,48968,"Kontrataziorako laguntzak, Eskualdeko Enplegu Plana. 2015eko gainerakoa",0.0,469731.28,252483.83
+0823,2411,47123," Kontrataziorako laguntzak, Eskualdeko IV. Enplegu Plana",0.0,1200000.0,0.0
+0821,4331,48993,"Hitzarmena, Merkataritza Ganberarekin - enpresa txikiei laguntzea",0.0,30900.0,30450.0
+0825,4221,47121,Diru-laguntza: Asociación cluster Eiken: Eiken talent beka,0.0,1000.0,1000.0
+151702,2315,48120,"Irefrea elkartearekiko hitzarmena: prebentzio positiboa, familiak sarean",0.0,5000.0,0.0
+0162,2391,48014,Hitzarmena: Save the Children Azoka Txikia,0.0,25000.0,18000.0
+151701,3112,48196,"GADENekiko hitzarmena, katu-koloniak kudeatzeko",0.0,30000.0,30000.0
+0410,4411,47122,AFA eta Arabako Parkearekiko hitzarmena bidaiarien garraiorako,0.0,20000.0,0.0
+0410,9331,22617,"Ordainsariak, minutak",0.0,3833.25,0.0
+152005,4411,71003,"Eusko Jaurlaritza, AFA eta Udalaren arteko hitzarmena, tranbia unibertsitateraino luzatzeko",0.0,232000.0,0.0
+152005,4411,71004,"Eusko Jaurlaritza, AFA eta Udalaren arteko hitzarmena, BRTrako eta BRT azpiegituretarako",0.0,10000.0,0.0
+0110,9121,14100,Bestelako langileak,0.0,0.0,2956.89
+232003,3411,47126,Gasteizko triatloia,0.0,90000.0,90000.0
+232003,3411,22704,"Azterlana, kirola berdintasunean",0.0,30000.0,13612.5
+1111,2325,22614,Gizarteratu lantegiak,0.0,59940.56,0.0
+0823,3411,22607,Babesa: Saskibaloiko Errege Kopa,0.0,242000.0,121000.0
+0410,9331,22646,Epaia: J.M. Barandiaran ikastetxea,0.0,19319.4,17319.4
+0810,4301,13000,Lan-kontratudun langile finkoen ordainsariak,0.0,0.0,3159.2
+0821,4331,13000,Lan-kontratudun langile finkoen ordainsariak,0.0,0.0,7881.35
+1620,9211,22111,Tresnak eta lanabesak,0.0,0.0,0.0
+0214,1513,68202,"Udalaren jabetzako erakinean esku-hartzea, Minerala",0.0,0.0,0.0
+0187,9271,22605,Publizitate-babesa: lau eta erdiko finala ,0.0,0.0,7260.0
+1111,2301,47124,Hitzarmena: Abokatuen Elkargoa - adinekoentzako aholkularitza,0.0,2627.84,0.0
+1111,2313,47125,"Hitzarmena: Gizarte Langintzako Eskola, 40. urteurreneko ekitaldiak",0.0,12000.0,12000.0
+0823,2411,48155,"Hitzarmena: ADSIS, Cáritas eta Hazia programako prestakuntza-zentroak",0.0,80000.0,80000.0
+0211,1511,60012,Urbanizazioetako parte-hartzeak,0.0,0.0,0.0
+1820,3371,62508,Zabalganeko gizarte etxeko ekipamendua,0.0,0.0,0.0
+0340,1361,62401,Auto-eskailera duen altuerako ibilgailua erostea,0.0,0.0,0.0
+152007,1711,62402,Garabi-kamioia erostea,0.0,0.0,0.0
+152007,1711,62302,Makina birringailu bat erostea,0.0,0.0,0.0
+0410,1513,73310,21. Zabalguneari: urrezko auzoetako inbertsioak,0.0,420000.0,420000.0
+0181,2361,22607,Gastuak: Oroimena bizigune,0.0,10925.28,10924.99
