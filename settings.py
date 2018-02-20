@@ -128,7 +128,7 @@ COOKIES_URL             = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.
 # ----------------------
 
 # Programmes to feature as example in home page.
-FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
+FEATURED_PROGRAMMES = ['1621', '1711', '3381', '2411', '3111']
 
 # Number of programmes to feature in home page. Default: 3
 # NUMBER_OF_FEATURED_PROGRAMMES = 3
@@ -140,36 +140,9 @@ FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
 # Use new Sankey visualization or the old one. Default: False
 OVERVIEW_USE_NEW_VIS = True
 
-OVERVIEW_INCOME_NODES = [
-                          {
-                            'nodes': [['11', '113']],
-                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
-                            'link_id': '11'
-                          },
-                          {
-                            'nodes': [['30', '300']],
-                            'label': 'Servicio de abastecimiento de agua',
-                            'link_id': '30'
-                          },
-                          '42', '45',
-                          {
-                            'nodes': [['29', '293']],
-                            'label': 'Impuesto general indirecto canario (IGIC)',
-                            'link_id': '29'
-                          },
-                          {
-                            'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica',
-                            'link_id': '11'
-                          },
-                          {
-                            'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras',
-                            'link_id': '30'
-                          },
-                        ]
+OVERVIEW_INCOME_NODES = ['42', '11', '31', '34', '13', '41']
 
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['92', '23', '16', '13', '33', '15', '44', '17', '34']
 
 # How much padding between Sankey nodes. Default: 2 (Optional)
 # OVERVIEW_NODE_PADDING = 2
