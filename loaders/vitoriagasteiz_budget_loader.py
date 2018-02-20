@@ -5,14 +5,14 @@ from budget_app.loaders import SimpleBudgetLoader
 
 class BudgetCsvMapper:
     expenses_mapping = {
-        '2018': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 6},
+        'default': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 6},
     }
 
     income_mapping = {
-        '2018': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 4},
+        'default': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 4},
     }
 
-    default = '2018'
+    default = 'default'
 
     def __init__(self, year, is_expense):
         column_mapping = BudgetCsvMapper.income_mapping

@@ -221,6 +221,7 @@
 4,3,3,3,Hirigune historiko indartu
 4,3,3,4,Kapital sozialean parte-hartzeak
 4,4,1,3,Vitoria-Gasteizen autobus-geltokia kudeaketa
+4,4,2,1,Vitoria-Gasteizen autobus-geltokia
 9,1,2,1,Udal gobernuari laguntzea
 9,1,2,2,Talde politikoak eta hautetsiak
 9,1,2,3,Auzokoaren defendatzailearen bulegoa
@@ -232,6 +233,7 @@
 9,2,0,5,Automobil-parkea
 9,2,0,6,Horniketa erdiratuak
 9,2,0,7,Zerbitzu desberdinetako gastu komunak
+9,2,0,8,Mendekoak eta kontroleko pertsonala
 9,2,1,1,Eraikinetako eta udaleko instalazioak eraikuntzea eta eskuratzea
 9,2,1,2,Eraikinetako eta udaleko instalazioak zaintzea eta mantentzea
 9,2,1,3,"Energia elektrikoa, ura eta beste horniketa batzuk"
