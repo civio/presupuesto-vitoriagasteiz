@@ -22,8 +22,8 @@
             <li>
               <a class="icon-wheel" id="inclusite" title="{{ _('Modo accesible') }}" href="https://www--vitoria-gasteiz--org.accesible.inclusite.com/we001/was/we001Action.do?idioma={{ LANGUAGE_CODE }}&accion=home&accionWe001=ficha"><span class="hidden-xs">{{ _('Modo accesible') }}</span></a>
             </li>
-          </ul> 
-        </div>  
+          </ul>
+        </div>
         <div class="lang-select col-xs-2">
           <!-- Lang Selector -->
           {% if LANGUAGES|length > 1 %}
@@ -61,10 +61,10 @@
       </a>
     </h1>
 
-    <a class="open-data-logo" href="http://www.vitoria-gasteiz.org//j34-01w/catalogo/portada?enlaceRecomendado"  target="_blank"><strong>Open Data</strong> Vitoria-Gasteiz</a>
+    <a class="open-data-logo" href="http://www.vitoria-gasteiz.org/j34-01w/catalogo/portada?enlaceRecomendado"  target="_blank"><strong>Open Data</strong> Vitoria-Gasteiz</a>
 
 	</div>
-		
+
 	<!-- Main Navigation -->
 	<nav class="navbar navbar-default hide-when-embedded">
 		<div class="container">
@@ -76,7 +76,7 @@
           <li class="page-budgets {{ 'active' if active_tab == "general"}}">
 	      		<a href="{{ url('budget_app.views.budgets') }}" class="icon-budget">{{ _('Visión global') }}</a>
 	      	</li>
-	      	
+
           {% if show_counties_and_towns %}
           <li class="page-policies dropdown">
 						<a href="{{ url('budget_app.views.policies') }}" class="icon-policy dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ _('Políticas') }} <span class="caret"></span></a>
@@ -91,7 +91,7 @@
             <a href="{{ url('budget_app.views.policies') }}" class="icon-policy">{{ _('Políticas') }}</a>
           </li>
           {% endif %}
-					
+
           {% if show_payments %}
           <li class="page-payments {{ 'active' if active_tab == "payments"}}">
             <a href="{{ url('budget_app.views.payments') }}" class="icon-payments">{{ _('Pagos e inversiones') }}</a>
@@ -109,7 +109,7 @@
             <a href="{{ url('budget_app.views.investments') }}" class="icon-investments">{{ _('Inversiones por distritos') }}</a>
           </li>
           {% endif %}
-          
+
           <li class="page-glossary {{ 'active' if active_tab == "glossary"}}">
 						<a href="{{ url('budget_app.views.terms') }}" class="icon-glossary">{{ _('¿Qué significa...?') }}</a>
 					</li>
