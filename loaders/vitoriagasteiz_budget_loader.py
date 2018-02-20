@@ -40,6 +40,119 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
     # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
     programme_mapping = {
         # old programme: new programme
+        '1111': '9123',     # OFICINA DEFENSOR DEL VECINO -> Oficina defensor del vecino
+        '1201': '9205',     # PARQUE MÓVIL -> Parque móvil
+        '1203': '9206',     # SUMINISTROS CENTRALIZADOS -> Suministros centralizados
+        '1204': '9331',     # GESTIÓN DEL PATRIMONIO -> Gestión del patrimonio municipal
+        '1211': '9201',     # SERVICIO JURÍDICO -> Asistencia y asesoría jurídica
+        '1231': '9221',     # PROCESOS ELECTORALES -> Gastos de procesos electorales
+        '1240': '9202',     # FUNCIÓN PÚBLICA -> Gestión de los recursos humanos
+        '1242': '3351',     # EUSKERA/PERSONAL -> Euskara
+        '1246': '9203',     # SERVICIO MEDICO -> Prevención y salud laboral
+        '1250': '9204',     # SISTEMAS Y TECNOLOGÍA DE LA INFORMACIÓN HARDWARE-SOFTWARE -> Sistemas y tecnología de la información Hardware-Software
+        '1251': '9221',     # GASTOS ELECTORALES -> Gastos de procesos electorales
+        '1261': '9208',     # SUB-ALTERNOS -> Subalternos y personal de control
+        '1270': '9271',     # COMUNICACIONES EXTERNAS: TELEFONÍA, INFORMACIÓN, NOTIFICACIÓN -> Comunicaciones externas, publicaciones y relaciones institucionales
+        '1901': '9215',     # CONTRATO DE EFICIENCIA ENERGETICA -> Contrato de eficiencia energética
+        '1902': '3422',     # CONTRATOS PISCINAS -> Contratos piscinas
+        '2221': '1321',     # MANTENIMIENTO SERVICIOS OPERATIVOS -> Seguridad ciudadana
+        '2223': '1321',         # EDUCACION VIAL -> Seguridad ciudadana
+        '2224': '1331',     # CONTROL DE APARCAMIENTOS -> Ordenación del tráfico y del estacionamiento
+        '2231': '1361',     # MANTENIMIENTO SERVICIOS OPERATIVOS DEL S.E.I.S. -> Servicio de prevención y extinción de incendios, y salvamento
+        '2232': '1361',     # EMERGENCIAS SANITARIAS -> Servicio de prevención y extinción de incendios, y salvamento
+        '2233': '1361',     # U.C.E.I.S -> Servicio de prevención y extinción de incendios, y salvamento
+        '2234': '1361',     # EDIFICIOS E INFRAESTRUCTURAS -> Servicio de prevención y extinción de incendios, y salvamento
+        '3100': '2301',     # SERVICIOS GENERALES -> Servicios generales de acción social
+        '3101': '2316',     # AYUDA A LA MUJER -> Ayuda a la mujer
+        '3110': '2311',     # SERVICIO DE INFANCIA -> Infancia y familia
+        '3120': '2312',     # RESIDENCIAS -> Residencias
+        '3121': '2313',     # CENTROS SOCIO-CULTURALES MAYORES -> Centros socio-culturales mayores
+        '3122': '2314',     # APARTAMENTOS TUTELADOS -> Apartamentos tutelados
+        '3131': '2321',     # ATENCIÓN Y APOYO A PERSONAS Y FAMILIAS CON NECESI. SOCIALES -> Atención y apoyo a personas y familias con necesidades sociales
+        '3133': '2322',     # CENTROS CÍVICOS -> Servicios sociales de base
+        '3134': '2322',     # PRESTACIONES SOCIALES -> Servicios sociales de base
+        '3135': '2315',     # ATENCIONES A COLECTIVOS DISCAPACITADOS -> Atenciones a colectivos discapacitados y especiales
+        '3140': '2317',     # PENSIONISTAS -> Servicios generales de personas mayores
+        '3150': '2323',     # SERVICIO DE URGENCIAS -> Servicio de urgencias
+        '3151': '2324',     # CENTRO MUNICIPAL DE ACOGIDA SOCIAL -> Centro municipal de acogida social
+        '3152': '2325',     # RECURSOS ATENCIÓN EXCLUIDOS SOCIALES -> Recursos atención excluidos sociales
+        '3153': '2326',     # ATENCIÓN EMIGRANTES -> Atención inmigrantes
+        '3210': '3201',     # MANCOMUNIDADES Y CONSORCIOS EDUCACIÓN -> Servicios generales de educación
+        '3211': '3211',     # ACCIÓN  EDUCATIVA EN ESCUELAS INFANTILES Y LUDOTECAS -> Creación de centros docentes de enseñanza infantil y primaria
+        '3212': '3232',     # COLABORACIÓN EDUCATIVA CON CENTROS ESCOLARES -> Colaboración educativa con centros escolares
+        '3213': '3261',     # PROMOCIÓN EDUCATIVA -> Servicios complementarios de educación
+        '3214': '3201',     # SERVICIOS GENERALES -> Servicios generales de educación
+        '3220': '2411',     # FORMACIÓN Y EMPLEO -> Formación y apoyo al empleo
+        '3221': '2411',     # CETIC -> Formación y apoyo al empleo
+        '3223': '2411',     # IGNACIO ELLACURIA -> Formación y apoyo al empleo
+        '3224': '2411',     # PROGRAMA DE INTEGRACION SOCIOLABORAL -> Formación y apoyo al empleo
+        '3226': '2411',     # OTROS PROGRAMAS DE FORMACIÓN DE EMPLEO -> Formación y apoyo al empleo
+        '4110': '3111',     # DIRECCIÓN -> Promoción de la salud comunitaria
+        '4111': '3111',     # SALUD PÚBLICA -> Promoción de la salud comunitaria
+        '4112': '3112',     # SANITARIO Y DE CONSUMO -> Control sanitario y de consumo
+        '4113': '3113',     # LABORATORIO MUNICIPAL -> Laboratorio municipal
+        '4300': '1502',     # PATRIMONIO MUNICIPAL DEL SUELO -> Servicios generales de urbanismo
+        '4322': '1511',     # GESTIÓN URBANÍSTICA -> Planeamiento urbanístico
+        '4324': '1535',     # PLAN MEJORA HIDROLÓGICA -> Infraestructuras de mejora hidrológica
+        '4329': '9214',     # MANTENIMIENTO DE LIMPIEZA DE CENTROS -> Limpieza de edificios e instalaciones municipales
+        '4340': '1511',     # MANTENIMIENTO DE LA LEGALIDAD URBANÍSTICA -> Planeamiento urbanístico
+        '4350': '1711',     # PROMOCIÓN,DIVULGACION Y MANT. ZONAS  VERDES Y VIVERO -> Parques, jardines e infraestructuras verdes
+        '4360': '1651',     # MANTENIMIENTO DE INSTALACIONES ELÉCTRICAS -> Alumbrado público
+        '4361': '1651',     # INVERSIONES EN INSTALACIONES ELÉCTRICAS -> Alumbrado público
+        '4420': '1631',     # LIMPIEZA PÚBLICA, RSU, Y VERTEDERO -> Limpieza viaria
+        '4431': '1641',     # CEMENTERIOS Y SERVICIOS FUNERARIOS -> Cementerios y servicios funerarios
+        '4442': '1623',     # TRATAMIENTO DE LOS RESIDUOS URBANOS -> Tratamiento de residuos
+        '4443': '1621',     # RECOGIDAS SELECTIVAS -> Recogida de residuos
+        '4445': '1341',     # PLAN MOVILIDAD SOSTENIBLE -> Movilidad urbana
+        '4447': '1722',     # CONTROL Y MEJORA DEL MEDIO AMBIENTE -> Protección y mejora del medio ambiente
+        '4510': '3301',     # INFRAESTRUCTURAS Y ADMINISTRACION GENERAL -> Servicios generales de cultura
+        '4511': '3341',     # PROGRAMAS CULTURALES -> Programas culturales
+        '4512': '3391',     # ACADEMIA DE FOLKLORE -> Academia de folklore
+        '4513': '3392',     # BANDA DE MÚSICA -> Banda municipal de música
+        '4514': '3332',     # CENTRO CULTURAL MONTEHERMOSO Y ACTIVIDADES PLASTICAS -> Centro cultural Montehermoso
+        '4515': '3371',     # CENTROS CÍVICOS -> Instalaciones de esparcimiento, ocio y tiempo libre
+        '4517': '4321',     # CONGRESOS Y TURISMO -> Promoción de ciudad y apoyo al turismo
+        '4518': '3342',     # ESPECTACULOS Y FESTIVALES -> Espectáculos y festivales
+        '4519': '3381',     # FESTEJOS -> Fiestas populares y festejos
+        '4521': '3411',     # PROMOCIÓN DEPORTIVA POPULAR. DEPORTE PARA TODOS -> Promoción y fomento del deporte
+        '4522': '3421',     # MANTENIMIENTO Y CONSERVACIÓN DE INSTAL. DEPORTIVAS MUNICIPALES -> Instalaciones deportivas
+        '4523': '3401',     # PROMOCIÓN DEPORTIVA POPULAR. DEPORTE PARA TODOS -> Servicios generales de deportes
+        '4524': '3421',     # INVERSIONES DE MEJORA EN INSTALACIONES DEPORTIVAS -> Instalaciones deportivas
+        '4530': '2371',     # SERVICIOS GENERALES -> Promoción y servicios a la juventud
+        '4531': '2371',     # PROGRAMA DE VOLUNTARIADO -> Promoción y servicios a la juventud
+        '4532': '2371',     # PROGRAMA CLUB JOVEN -> Promoción y servicios a la juventud
+        '4533': '2371',     # PROMOCION SOCIOCULTURAL -> Promoción y servicios a la juventud
+        '4534': '2371',     # O.M.I.J. -> Promoción y servicios a la juventud
+        '4536': '2371',     # LUDOTECAS -> Promoción y servicios a la juventud
+        '4541': '3321',     # ARCHIVOS Y BIBLIOTECAS -> Bibliotecas públicas
+        '4621': '9271',     # GABINETE DE PRENSA -> Comunicaciones externas, publicaciones y relaciones institucionales
+        '4622': '9242',     # APOYO A ASOCIACIONES -> Movimientos asociativos
+        '4630': '2391',     # COOPERACIÓN AL DESARROLLO -> Cooperación al desarrollo
+        '5112': '1331',     # ORDENACIÓN DEL TRAFICO -> Ordenación del tráfico y del estacionamiento
+        '5142': '4333',     # REVITALIZACIÓN CASCO HISTÓRICO -> Revitalización casco histórico
+        '5330': '1742',     # MEJORA DE LA INFRAESTRUCTURA URBANA -> Limpieza y recogida de residuos medio rural
+        '5331': '1743',     # MEJORA DEL MEDIO NATURAL -> Reparación, conservación y mantenimiento de espacios medio rural
+        '5332': '1749',     # PROMOCIÓN DE ACTIVIDADES SOCIALES EN LAS ENTIDADES LOCALES -> Servicios generales medio rural
+        '7110': '4314',     # CAMPAÑAS PROMOCION ECONOMICA -> Promoción y dinamización comercial
+        '7211': '4331',     # PROMOCIÓN DE EMPRESAS Y ACTIVIDADES ECONÓMICAS -> Promoción y dinamización económica y empresarial
+        '7213': '4334',     # PARTICIPACIÓN EN EMPRESAS Y PROYECTOS INSTITUCIONALES -> Participaciones en capital social
+        # old programmes without direct mapping but with changing politic codes
+        '1110': '912X',     # CORPORACIÓN MUNICIPAL
+        '1200': '921X',     # EDIFICIOS MUNICIPALES Y ASIMILADOS
+        '1220': '921Y',     # DEPENDENCIAS GENERALES
+        '1900': '920X',     # SERVICIOS DE ADMINISTRACIÓN GENERAL
+        '3225': '431X',     # COMERCIO
+        '4114': '493X',     # O.M.I.C.
+        '4444': '172X',     # VITORIA-GASTEIZ GREEN CAPITAL
+        '4449': '172Y',     # MEDIDAS DE CONTROL MEDIOAMBIENTAL
+        '5110': '453X',     # INVERSIONES EN REPOSICIÓN DE INFRAESTRUCTURA
+        '5111': '453X',     # MANTENIMIENTO DE INFRAESTRUCTURAS
+        '5113': '453X',     # SEÑALIZACIÓN VIARIA
+        '5131': '440X',     # TRANSPORTE URBANO MUNICIPAL
+        '6111': '932X',     # ADMINISTRACIÓN TRIBUTARIA Y RECAUDACIÓN
+        '6112': '931X',     # ADMINISTRACIÓN FINANCIERA-INTERVENCIÓN
+        '6113': '931Y',     # ADMINISTRACIÓN FINANCIERA
+        '9210': '943X',     # TRANSFERENCIAS A SOCIEDADES MUNICIPALES
     }
 
     # make year data available in the class and call super

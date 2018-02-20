@@ -147,6 +147,7 @@
 1,3,0,1,Servicios generales de la seguridad y protección civil
 1,3,2,1,Seguridad ciudadana
 1,3,3,1,Ordenación del tráfico y del estacionamiento
+1,3,4,1,Movilidad urbana
 1,3,5,1,Protección civil
 1,3,6,1,"Servicio de prevención y extinción de incendios, y salvamento"
 1,5,0,2,Servicios generales de urbanismo
@@ -174,6 +175,7 @@
 2,3,1,3,Centros socio-culturales mayores
 2,3,1,4,Apartamentos tutelados
 2,3,1,5,Atenciones a colectivos discapacitados y especiales
+2,3,1,6,Ayuda a la mujer
 2,3,1,7,Servicios generales de personas mayores
 2,3,2,1,Atención y apoyo a personas y familias con necesidades sociales
 2,3,2,2,Servicios sociales de base
@@ -192,6 +194,7 @@
 3,1,1,2,Control sanitario y de consumo
 3,1,1,3,Laboratorio municipal
 3,2,0,1,Servicios generales de educación
+3,2,1,1,Creación de centros docentes de enseñanza infantil y primaria
 3,2,3,1,Funcionamiento de centros docentes de enseñanza infantil
 3,2,3,2,Colaboración educativa con centros escolares
 3,2,6,1,Servicios complementarios de educación
@@ -257,3 +260,22 @@
 9,3,2,3,Inspección de tributos
 9,3,3,1,Gestión del patrimonio municipal
 9,3,4,1,Gestión de la deuda y de la tesorería
+#
+# Programas antiguos de Vitoria-Gasteiz sin correspondencia directa
+#
+1,7,2,X,Vitoria-Gasteiz Green Capital
+1,7,2,Y,Medidas de control medioambiental
+4,3,1,X,Comercio
+4,4,0,X,Transporte urbano municipal
+4,5,3,X,Inversiones en reposición de infraestructura
+4,5,3,X,Mantenimiento de infraestructuras
+4,5,3,X,Señalización viaria
+4,9,3,X,O.M.I.C.
+9,1,2,X,Corporación municipal
+9,2,0,X,Servicios de administración general
+9,2,1,X,Edificios municipales y asimilados
+9,2,1,Y,Dependencias generales
+9,3,1,X,Administración financiera - Intervención
+9,3,1,Y,Administración financiera
+9,3,2,X,Administración tributaria y recaudación
+9,4,3,X,Transferencias a sociedades municipales

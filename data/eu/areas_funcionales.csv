@@ -147,6 +147,7 @@
 1,3,0,1,Segurtasuneko zerbitzu orokorrak eta herri-babesa
 1,3,2,1,Herritarren segurtasuna
 1,3,3,1,Trafikoko eta geratzearen ordenazioaren
+1,3,4,1,Hiri-mugikortasuna
 1,3,5,1,Babes zibila
 1,3,6,1,Prebentzio eta su-itzaltze zerbitzua eta sorospena
 1,5,0,2,Hirigintzaren zerbitzu orokorrak
@@ -174,6 +175,7 @@
 2,3,1,3,Adinekoak soziokultural zentroak
 2,3,1,4,Apartamentu tutelatuak
 2,3,1,5,Desgaituak eta bereziak kolektiboei arretak
+2,3,1,6,Emakumeari laguntza
 2,3,1,7,Nagusiendako zerbitzu orokorrak
 2,3,2,1,Behar sozialak pertsonak eta familiak arreta eta laguntzea
 2,3,2,2,Oinarrizko gizarte-zerbitzuak
@@ -192,6 +194,7 @@
 3,1,1,2,Kontsumoaren eta sanitatearen kontrola
 3,1,1,3,Udaleko laborategia
 3,2,0,1,Hezkuntzaren arloko zerbitzu orokorrak
+3,2,1,1,Haur eta lehen hezkuntzako ikastetxeak sortzea
 3,2,3,1,Haur ikastetxeen funtzionamendua Funcionamiento de centros docentes de enseñanza infantil
 3,2,3,2,Ikastetxeekin kolaborazio hezigarria
 3,2,6,1,Hezkuntzako zerbitzu osagarriak
@@ -257,3 +260,22 @@
 9,3,2,3,Zergen ikuskapena
 9,3,3,1,Udalaren ondarearen kudeaketa
 9,3,4,1,Zorraren eta diruzaintzaren kudeaketa
+#
+# Programas antiguos de Vitoria-Gasteiz sin correspondencia directa
+#
+1,7,2,X,Vitoria-Gasteiz Green Capital
+1,7,2,Y,Ingurumeneko kontroleko neurriak
+4,3,1,X,Merkataritza
+4,4,0,X,Udalekoa garraio hiritarra
+4,5,3,X,Azpiegiturako berriz jartzean inbertsioak
+4,5,3,X,Azpiegituretako mantentzea
+4,5,3,X,Bideko seinaleztapena
+4,9,3,X,K.I.U.B.
+9,1,2,X,Udalbatza
+9,2,0,X,Administrazio orokorraren zerbitzuak
+9,2,1,X,Udaleko eraikinak eta asimilatuak
+9,2,1,Y,Bulegoa orokorrak
+9,3,1,X,Finantza administrazioa - Kontrol
+9,3,1,Y,Finantza administrazioa
+9,3,2,X,Zerga-administrazioa eta zerga-bilketa
+9,4,3,X,Udaleko sozietateei transferentziak
