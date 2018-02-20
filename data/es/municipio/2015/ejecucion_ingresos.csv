@@ -1,0 +1,121 @@
+#Económico,Denominación Aplicación Ingresos,Crédito Inicial,Crédito definitivo,DRN
+11201,Impuesto bienes inmuebles naturaleza rústica,296000.0,296000.0,295643.18
+11202,Impuesto bienes inmuebles naturaleza urbana,44400000.0,44400000.0,45600776.73
+11301,Impuesto sobre vehículos tracción mecánica,14200000.0,14200000.0,14071579.35
+11401,Impuesto sobre incremento valor terrenos de n.u.,14000000.0,14000000.0,22397279.16
+13001,Impuesto sobre actividades económicas,15300000.0,15300000.0,15782069.2
+13002,Participación en cuotas provinciales y estatales IAE,1000000.0,1000000.0,1064667.54
+28201,"Impuesto sobre construcciones, instalaciones y obras",4000000.0,4000000.0,7012834.2
+30001,Venta de efectos no utilizables,15000.0,15000.0,39918.95
+30002,Venta de publicaciones e impresos,1000.0,1000.0,0.0
+30004,Venta de bienes y efectos en Montehermoso,5000.0,5000.0,28188.51
+30006,Venta de energía eléctrica,8000.0,8000.0,4117.37
+30007,Venta de bienes y efectos Oficina de Turismo,70000.0,70000.0,2000.0
+31001,Recogida y eliminación de basuras,10400000.0,10400000.0,10428269.88
+31002,"Recogida selectiva de envases, residuos..",1520000.0,1520000.0,1590776.83
+31003,Servicio prevención y extinción incendios,10000.0,10000.0,6128.88
+31004,Retirada vehículos vía pública,300000.0,300000.0,238334.25
+31005,Evaluación consultas urbanísticas,15000.0,15000.0,3485.48
+31006,Licencias urbanísticas,150000.0,150000.0,296351.53
+31007,Licencias de apertura de establecimientos,250000.0,250000.0,313964.44
+31008,Vertido aguas residuales no domesticas,400000.0,400000.0,134929.91
+31009,Vertido de residuos en vertedero de Gardelegui,3800000.0,3800000.0,4019732.98
+31010,"Expedición informes, atestados, fotocopias, planos y similares",200000.0,200000.0,386651.41
+31012,Servicios funerarios,600000.0,600000.0,569910.58
+31015,Prestación servicios Demsac,80000.0,80000.0,360235.08
+31016,Tasas de exámenes,1.0,1.0,2762.9
+31019,Duplicado de la Tarjeta Municipal Ciudadana,0.0,0.0,13227.0
+31101,Instal. en vía pública,650000.0,650000.0,592871.57
+31102,Quioscos en la vía pública,2600.0,2600.0,2796.47
+31103,Veladores en la vía pública,250000.0,250000.0,271429.73
+31104,"Apertura de zanjas, calicatas..",250000.0,250000.0,508328.99
+31105,OTA,2000000.0,2000000.0,1751182.49
+31106,"Ocupación suelo, subsuelo, vuelo",4000000.0,4000000.0,4955030.14
+31108,"Utilización palacios congresos, Teatro Principal, plaza de toros…",150000.0,150000.0,139490.72
+31109,Utilización de salas centros cívicos,30000.0,30000.0,46196.7
+31110,Paso de vehículos vados,1400000.0,1400000.0,1547244.44
+31111,Cesiones de terrenos en el Cementerio de El Salvador,200000.0,200000.0,236246.26
+31112,Utilización de salas en el Centro de empresas de Jundiz,4000.0,4000.0,3897.61
+31113,Examen acreditación licencia autotaxi,0.0,0.0,108.36
+31115,Uso de espacios en Centros socioculturales de mayores,0.0,0.0,1431.75
+34000,Prestación de servicios SSAA municipales,1525000.0,1525000.0,881012.68
+34001,Talleres Demsac,10000.0,10000.0,42328.17
+34002,"Escuelas infantiles, colonias abiertas y rincones de juego",647485.6,647485.6,550079.56
+34004,Asistencia a domicilio 3ª edad,550000.0,550000.0,573795.74
+34005,Estancias residencias 3ª edad,3600000.0,3600000.0,3579983.2
+34006,Talleres de intervención social,70000.0,70000.0,79093.99
+34007,Formación ocupacional,50000.0,50000.0,42482.32
+34008,Abono instalaciones Mendizorrotza,5650000.0,5650000.0,5794877.74
+34009,Abonos temporales (Gamarra),140000.0,140000.0,168635.56
+34010,Utilización instalaciones deportivas (reserva y venta),1150000.0,1150000.0,896289.27
+34012,Matriculas en la Academia municipal de folklore,150000.0,150000.0,82149.25
+34013,Cursos y talleres de Cultura,235000.0,314560.0,343823.62
+34014,Taquillas  teatro,460000.0,460000.0,165995.52
+34015,Prestación de servicios de ludotecas,50000.0,50000.0,13413.01
+34016,Prestamos de material audiovisual,9000.0,9000.0,9085.49
+34018,Talleres de Presidencia,75000.0,75000.0,317049.2
+34020,Abonados a campañas deportivas,1100000.0,1100000.0,952982.94
+34021,Precio prestación Servicio Médico,74000.0,74000.0,44222.2
+34023,Estancia en el C.A.M.A.S.,40000.0,40000.0,40094.35
+34025,Comidas centro socioculturales de mayores,350000.0,350000.0,450753.0
+34026,Liquidación estancias en residencias 3ª edad,100000.0,100000.0,47825.04
+34032,Venta de entradas presidencia,0.0,0.0,5757.3
+34036,Venta de material didáctico,0.0,0.0,32.87
+34038,Servicio de bodas,40000.0,40000.0,25067.85
+34039,Compensación gastos de gestión,0.0,0.0,2801189.53
+34040,Ingresos nueva Estación de autobuses,821849.0,821849.0,166703.32
+34041,Ingresos explotación aparcamiento Europa,40000.0,40000.0,0.0
+36002,Cuotas de urbanización,1.0,1.0,346238.2
+36003,Cuota Unespa y compañías no conveniadas,950000.0,950000.0,916893.55
+38001,Reintegro por pagos,726700.0,726700.0,1124975.39
+38002,Reintegros gastos por publicaciones en anuncios,2000.0,2000.0,53991.33
+38003,Reintegro de gastos o indemnizaciones de cias. aseguradoras,1.0,243145.49,276371.47
+38004,Reintegros por costas de la vía de apremio,20000.0,20000.0,15976.47
+38005,Reintegro indemnizaciones vía judicial,10000.0,10000.0,19788.23
+38007,Reintegro prevención de riesgos laborales,0.0,0.0,9256.73
+39101,Multas por infracciones de tráfico,5480000.0,5480000.0,6882640.8
+39102,Multas por infracciones de inspección de tributos,721241.0,721241.0,878795.41
+39103,Sanciones por incumplimientos contractuales,40000.0,40000.0,15001.0
+39201,Recargos de apremio,1000000.0,1000000.0,1101255.81
+39401,Daños en vía pública por accidentes de vehículos,100000.0,100000.0,122937.67
+39402,Daños en bienes mpales. por actos vandálicos,5000.0,5000.0,5236.51
+39404,Ingresos ejecuciones subsidiarias,10000.0,10000.0,13029.94
+39405,Ingresos derivados de costas judiciales,15000.0,15000.0,51095.54
+39601,Ingresos  empresas de telefonía,800000.0,800000.0,777521.63
+39901,Donativos,2000.0,2000.0,1375.55
+39902,Otros ingresos diversos,50000.0,50000.0,517565.99
+39903,Intereses demora ejercicios anteriores,0.0,0.0,3662.88
+39906,Donativos Belén de La Florida,1.0,10629.08,10629.08
+39907,Ingresos rifa San Antón,1.0,1.0,14844.73
+40000,De la Administración General,138101.0,160508.3,154978.08
+41000,Del Gobierno Vasco,11972743.61,12835036.21,12700627.62
+42000,De la Diputación Foral de Álava,7656320.2,16719345.66,55045964.46
+42001,FOFEL,139238202.06,139238202.06,139288167.26
+42003,Impuestos no concertados,300000.0,300000.0,286992.36
+42004,Recuperación ayudas del Estado,0.0,0.0,186436.5
+47000,De empresas,0.0,0.0,60000.0
+48000,De familias,120000.0,120000.0,0.0
+49000,De entes de la Unión Europea,267386.93,267386.93,35250.0
+52500,Intereses en cajas y bancos ayuntamiento,50000.0,50000.0,80340.65
+53100,Participación en beneficios de empresas con participación mpal.,0.0,9052184.85,11151602.51
+53200,De otras empresas,8000.0,8000.0,35.65
+54001,Rentas arrendamientos fincas urbanas ayto,200000.0,200000.0,157818.86
+54002,Alquiler semillero de empresas,100000.0,100000.0,89334.92
+54200,Arrendamiento de terrenos rústicos,1.0,1.0,32.41
+55000,Productos de concesiones,1950000.0,1950000.0,1675585.12
+59001,Utilización instalaciones parque de bomberos,0.0,0.0,460.0
+59002,Utilización de terrenos,50000.0,50000.0,40145.09
+60900,De terrenos-enajenación de parcelas municipales,7160000.0,7160000.0,20707.03
+60901,Cesiones obligatorias de aprovechamiento,0.0,0.0,307387.07
+61200,De edificios y otras construcciones,1000000.0,1000000.0,231.25
+70000,Del estado,0.0,0.0,10544.27
+71000,Del Gobierno Vasco,3967101.05,7357532.92,8035593.82
+72000,De la Diputación Foral de Álava,1300000.0,1300000.0,1100000.0
+73000,Entes públicos dentro del término municipal,0.0,0.0,39975.07
+77000,Empresas privadas,0.0,4700.0,4700.0
+79000,Entes públicos Unión Europea,4425000.0,7313905.06,3199341.99
+85200,Enajenación acciones sin cotiz. Oficial,0.0,0.0,341413.42
+87200,Remanentes de tesorería para gastos generales,0.0,7684892.8,0.0
+87210,Remanente de tesorería para gastos con financiación afectada,0.0,944849.56,0.0
+93301,Pasivos financieros financiación inversiones,5000000.0,5000000.0,5000000.0
+93303,Préstamo para financiación de operaciones corrientes,0.0,6000000.0,6000000.0
