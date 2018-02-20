@@ -143,3 +143,112 @@
 #
 # Programas específicos de Vitoria-Gasteiz
 #
+0,1,1,1,Deuda pública municipal
+1,3,0,1,Servicios generales de la seguridad y protección civil
+1,3,2,1,Seguridad ciudadana
+1,3,3,1,Ordenación del tráfico y del estacionamiento
+1,3,5,1,Protección civil
+1,3,6,1,"Servicio de prevención y extinción de incendios, y salvamento"
+1,5,0,2,Servicios generales de urbanismo
+1,5,1,1,Planeamiento urbanístico
+1,5,1,2,Edificaciones y actuaciones subsidiarias
+1,5,1,3,Rehabilitación espacios degradados
+1,5,3,3,Urbanización e infraestructuras de espacios urbanos
+1,5,3,4,"Reparación, conservación y mantenimiento de espacios urbanos"
+1,6,3,1,Limpieza viaria
+1,6,4,1,Cementerios y servicios funerarios
+1,6,5,1,Alumbrado público
+1,6,9,1,Servicios generales del bienestar comunitario
+1,7,0,1,Administración general de medio ambiente
+1,7,1,1,"Parques, jardines e infraestructuras verdes"
+1,7,2,2,Protección y mejora del medio ambiente
+1,7,4,1,Infraestructuras medio rural
+1,7,4,2,Limpieza y recogida de residuos medio rural
+1,7,4,3,"Reparación, conservación y mantenimiento de espacios medio rural"
+1,7,4,9,Servicios generales medio rural
+2,1,1,1,Pensiones a cargo de la entidad
+2,3,0,1,Servicios generales de acción social
+2,3,1,1,Infancia y familia
+2,3,1,2,Residencias
+2,3,1,3,Centros socio-culturales mayores
+2,3,1,4,Apartamentos tutelados
+2,3,1,5,Atenciones a colectivos discapacitados y especiales
+2,3,1,7,Servicios generales de personas mayores
+2,3,2,1,Atención y apoyo a personas y familias con necesidades sociales
+2,3,2,2,Servicios sociales de base
+2,3,2,3,Servicio de urgencias
+2,3,2,4,Centro municipal de acogida social
+2,3,2,5,Recursos atención excluidos sociales
+2,3,2,6,Atención inmigrantes
+2,3,2,7,Servicios generales de inserción social
+2,3,2,8,Servicios generales de acción comunitaria
+2,3,6,1,Convivencia y diversidad
+2,3,7,1,Promoción y servicios a la juventud
+2,3,8,1,Promoción de políticas de igualdad
+2,3,9,1,Cooperación al desarrollo
+2,4,1,1,Formación y apoyo al empleo
+3,1,1,1,Promoción de la salud comunitaria
+3,1,1,2,Control sanitario y de consumo
+3,1,1,3,Laboratorio municipal
+3,2,0,1,Servicios generales de educación
+3,2,3,1,Funcionamiento de centros docentes de enseñanza infantil
+3,2,3,2,Colaboración educativa con centros escolares
+3,2,6,1,Servicios complementarios de educación
+3,2,7,1,Fomento de la convivencia ciudadana
+3,2,9,1,Escuela municipal de Música Luis Aramburu
+3,2,9,2,Conservatorio municipal de Danza José Uruñuela
+3,2,9,3,Otros centros que imparten otras enseñanzas
+3,3,0,1,Servicios generales de cultura
+3,3,3,2,Centro cultural Montehermoso
+3,3,4,1,Programas culturales
+3,3,4,2,Espectáculos y festivales
+3,3,5,1,Euskara
+3,3,6,1,Protección y gestión del patrimonio histórico-artístico
+3,3,7,1,"Instalaciones de esparcimiento, ocio y tiempo libre"
+3,3,8,1,Fiestas populares y festejos
+3,3,9,1,Academia de Folklore
+3,3,9,2,Banda municipal de música
+3,4,0,1,Servicios generales de deportes
+3,4,1,1,Promoción y fomento del deporte
+3,4,2,1,Instalaciones deportivas
+3,4,2,2,Contratos piscinas
+4,2,2,1,Industria
+4,3,0,1,"Servicios generales de comercio, turismo y pequeñas y medianas empresas"
+4,3,1,4,Promoción y dinamización comercial
+4,3,2,1,Promoción de ciudad y apoyo al turismo
+4,3,3,1,Promoción y dinamización económica y empresarial
+4,3,3,2,Planificación estratégica
+4,3,3,3,Revitalización casco histórico
+4,3,3,4,Participaciones en capital social
+4,4,1,3,Gestión estación de autobuses de Vitoria-Gasteiz
+9,1,2,1,Apoyo al gobierno municipal
+9,1,2,2,Grupos políticos y cargos electos
+9,1,2,3,Oficina defensor del vecino
+9,1,2,4,Secretaría general y órgano apoyo a la Junta de Gobierno Local
+9,2,0,1,Asistencia y asesoría jurídica
+9,2,0,2,Gestión de los recursos humanos
+9,2,0,3,Prevención y salud laboral
+9,2,0,4,Sistemas y tecnología de la información Hardware-Software
+9,2,0,5,Parque móvil
+9,2,0,6,Suministros centralizados
+9,2,0,7,Gastos comunes de los diferentes servicios
+9,2,1,1,Construcción y adquisición de edificios e instalaciones municipales
+9,2,1,2,Conservación y mantenimiento de edificios e instalaciones municipales
+9,2,1,3,"Energia eléctrica, agua y otros suministros"
+9,2,1,4,Limpieza de edificios e instalaciones municipales
+9,2,1,5,Contrato de eficiencia energética
+9,2,1,9,Servicios generales edificios e instalaciones municipales
+9,2,4,1,Participación ciudadana
+9,2,4,2,Movimientos asociativos
+9,2,5,1,"Servicio de información ciudadana '010', web y contenidos"
+9,2,7,1,"Comunicaciones externas, publicaciones y relaciones institucionales"
+9,3,1,1,Reclamaciones económico-administrativas
+9,3,1,2,"Presupuestos, contabilidad y costes"
+9,3,1,3,Control interno
+9,3,1,4,Suministros centralizados y contratación
+9,3,1,9,Servicios generales política económica y fiscal
+9,3,2,1,Gestión tributaria y catastro
+9,3,2,2,Recaudación
+9,3,2,3,Inspección de tributos
+9,3,3,1,Gestión del patrimonio municipal
+9,3,4,1,Gestión de la deuda y de la tesorería

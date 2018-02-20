@@ -420,3 +420,17 @@ G,9,3,3,"Fuera del sector público"
 #
 # Conceptos específicos de Vitoria-Gasteiz
 #
+I,3,0,0,"Ventas"
+I,5,9,0,"Otros ingresos patrimoniales"
+I,6,0,3,"De terrenos"
+G,1,6,5,"Cuotas, prestaciones y gastos sociales a cargo del empleador"
+G,2,1,7,"Reparaciones, mantenimiento y conservación"
+G,4,1,8,"A la Comunidad Autónoma del País Vasco"
+G,4,2,3,"Al territorio histórico"
+G,4,8,2,"A familias e Instituciones sin fines de lucro"
+G,4,8,9,"A familias e Instituciones sin fines de lucro"
+G,6,0,3,"Inversión en infraestructura y bienes destinados al uso general no productivo"
+G,6,0,7,"Inversión en infraestructura y bienes destinados al uso general no productivo"
+G,6,1,1,"Inversiones reales"
+G,7,8,9,"A familias e instituciones sin fines de lucro"
+G,8,5,1,"Adquisición de acciones"
