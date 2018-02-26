@@ -31,7 +31,7 @@ SHOW_PAYMENTS = False
 # PAYMENTS_YEAR_RANGE = False
 
 # Show Tax Receipt section in menu & home options. Default: False.
-SHOW_TAX_RECEIPT = True
+# SHOW_TAX_RECEIPT = True
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
 # SHOW_COUNTIES_AND_TOWNS = True
