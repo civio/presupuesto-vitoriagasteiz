@@ -56,7 +56,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '1901': '9215',     # CONTRATO DE EFICIENCIA ENERGETICA -> Contrato de eficiencia energética
         '1902': '3422',     # CONTRATOS PISCINAS -> Contratos piscinas
         '2221': '1321',     # MANTENIMIENTO SERVICIOS OPERATIVOS -> Seguridad ciudadana
-        '2223': '1321',         # EDUCACION VIAL -> Seguridad ciudadana
+        '2223': '1321',     # EDUCACION VIAL -> Seguridad ciudadana
         '2224': '1331',     # CONTROL DE APARCAMIENTOS -> Ordenación del tráfico y del estacionamiento
         '2231': '1361',     # MANTENIMIENTO SERVICIOS OPERATIVOS DEL S.E.I.S. -> Servicio de prevención y extinción de incendios, y salvamento
         '2232': '1361',     # EMERGENCIAS SANITARIAS -> Servicio de prevención y extinción de incendios, y salvamento
@@ -69,7 +69,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '3121': '2313',     # CENTROS SOCIO-CULTURALES MAYORES -> Centros socio-culturales mayores
         '3122': '2314',     # APARTAMENTOS TUTELADOS -> Apartamentos tutelados
         '3131': '2321',     # ATENCIÓN Y APOYO A PERSONAS Y FAMILIAS CON NECESI. SOCIALES -> Atención y apoyo a personas y familias con necesidades sociales
-        '3133': '2322',     # CENTROS CÍVICOS -> Servicios sociales de base
+        '3133': '2328',     # CENTROS CÍVICOS -> Servicios generales de acción comunitaria
         '3134': '2322',     # PRESTACIONES SOCIALES -> Servicios sociales de base
         '3135': '2315',     # ATENCIONES A COLECTIVOS DISCAPACITADOS -> Atenciones a colectivos discapacitados y especiales
         '3140': '2317',     # PENSIONISTAS -> Servicios generales de personas mayores
@@ -78,7 +78,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '3152': '2325',     # RECURSOS ATENCIÓN EXCLUIDOS SOCIALES -> Recursos atención excluidos sociales
         '3153': '2326',     # ATENCIÓN EMIGRANTES -> Atención inmigrantes
         '3210': '3201',     # MANCOMUNIDADES Y CONSORCIOS EDUCACIÓN -> Servicios generales de educación
-        '3211': '3211',     # ACCIÓN  EDUCATIVA EN ESCUELAS INFANTILES Y LUDOTECAS -> Creación de centros docentes de enseñanza infantil y primaria
+        '3211': '3231',     # ACCIÓN  EDUCATIVA EN ESCUELAS INFANTILES Y LUDOTECAS -> Funcionamiento de centros docentes de educación infantil
         '3212': '3232',     # COLABORACIÓN EDUCATIVA CON CENTROS ESCOLARES -> Colaboración educativa con centros escolares
         '3213': '3261',     # PROMOCIÓN EDUCATIVA -> Servicios complementarios de educación
         '3214': '3201',     # SERVICIOS GENERALES -> Servicios generales de educación
@@ -148,7 +148,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '5110': '453X',     # INVERSIONES EN REPOSICIÓN DE INFRAESTRUCTURA
         '5111': '453X',     # MANTENIMIENTO DE INFRAESTRUCTURAS
         '5113': '453X',     # SEÑALIZACIÓN VIARIA
-        '5131': '440X',     # TRANSPORTE URBANO MUNICIPAL
+        '5131': '441X',     # TRANSPORTE URBANO MUNICIPAL
         '6111': '932X',     # ADMINISTRACIÓN TRIBUTARIA Y RECAUDACIÓN
         '6112': '931X',     # ADMINISTRACIÓN FINANCIERA-INTERVENCIÓN
         '6113': '931Y',     # ADMINISTRACIÓN FINANCIERA
