@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 from budget_app.models import *
 from budget_app.loaders import SimpleBudgetLoader
+import os
 
 
 class BudgetCsvMapper:
@@ -155,6 +156,10 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '9210': '943X',     # TRANSFERENCIAS A SOCIEDADES MUNICIPALES
     }
 
+    # We override this to allow a different classification per year
+    def get_institutional_classification_path(self, path):
+        return os.path.join(path, 'clasificacion_organica.csv')
+
     # make year data available in the class and call super
     def load(self, entity, year, path, status):
         self.year = year
@@ -172,9 +177,14 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         # Expenses
         if is_expense:
             # Institutional code
-            # We got 4 or 6 digit institutional codes as input, so we normalize
-            # them at 6 and add trailing zeroes when required
-            ic_code = '000' #line[mapper.ic_code].ljust(6, '0')
+            # We got 4 or 6 digit institutional codes as input, but we only need
+            # the first 2
+            ic_code = line[mapper.ic_code][:2]
+            # We check if we need to amend the code
+            if int(self.year) > 2015 and ic_code == '16':
+                ic_code = '10'
+            # We build the actual code
+            ic_code = '00' + ic_code
 
             # Functional code
             fc_code = line[mapper.fc_code]
@@ -203,7 +213,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         # Income
         else:
             # Institutional code (all income goes to the root node)
-            ic_code = '000'
+            ic_code = '0000'
 
             # Functional code
             # We don't have functional codes in income
