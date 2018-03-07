@@ -151,10 +151,10 @@ OVERVIEW_EXPENSE_NODES = ['92', '23', '16', '13', '33', '15', '44', '17', '34']
 # OVERVIEW_LABELS_MIN_SIZE = 16
 
 # Overview node labels minimum font size. Default: 11 (Optional)
-# OVERVIEW_LABELS_FONT_SIZE_MIN = 11
+OVERVIEW_LABELS_FONT_SIZE_MIN = 13
 
 # Overview node labels maximum font size. Default: 11 (Optional)
-# OVERVIEW_LABELS_FONT_SIZE_MAX = 38
+OVERVIEW_LABELS_FONT_SIZE_MAX = 42
 
 # Nodes ordered by amount by default. If set to True keeps the order defined in nodes array. Default: False (Optional)
 # OVERVIEW_FORCE_ORDER = False
