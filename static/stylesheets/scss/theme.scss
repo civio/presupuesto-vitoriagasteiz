@@ -150,6 +150,12 @@ table.table-grid tr td .toggle.collapse{
 }
 
 
+// At budget summary show labels in small items on hover
+.budget-summary-item.active .budget-summary-label.disabled{
+  visibility: visible;
+}
+
+
 /* http://www.vitoria-gasteiz.org/we001/was/we001Action.do?accionWe001=ficha&accion=home */
 .nav-aux {
   margin: 0;
