@@ -137,6 +137,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '7110': '4314',     # CAMPAÑAS PROMOCION ECONOMICA -> Promoción y dinamización comercial
         '7211': '4331',     # PROMOCIÓN DE EMPRESAS Y ACTIVIDADES ECONÓMICAS -> Promoción y dinamización económica y empresarial
         '7213': '4334',     # PARTICIPACIÓN EN EMPRESAS Y PROYECTOS INSTITUCIONALES -> Participaciones en capital social
+        '9210': '4411',     # TRANSFERENCIAS A SOCIEDADES MUNICIPALES -> Transporte colectivo urbano de viajeros
         # old programmes without direct mapping but with changing politic codes
         '1110': '912X',     # CORPORACIÓN MUNICIPAL
         '1200': '921X',     # EDIFICIOS MUNICIPALES Y ASIMILADOS
@@ -153,7 +154,6 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '6111': '932X',     # ADMINISTRACIÓN TRIBUTARIA Y RECAUDACIÓN
         '6112': '931X',     # ADMINISTRACIÓN FINANCIERA-INTERVENCIÓN
         '6113': '931Y',     # ADMINISTRACIÓN FINANCIERA
-        '9210': '943X',     # TRANSFERENCIAS A SOCIEDADES MUNICIPALES
     }
 
     # We override this to allow a different classification per year
