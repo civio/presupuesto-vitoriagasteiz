@@ -114,7 +114,7 @@
   font-size: .75em;
 }
 
-.data-controllers .chart-embed-btn span, 
+.data-controllers .chart-embed-btn span,
 .data-controllers .chart-embed-btn a{
   top: 53px;
   width: 38px;
@@ -138,7 +138,7 @@ table.table-grid tr td .toggle.collapse{
 
 .main-footer{
   padding-bottom: $grid-gutter-width/2;
-  
+
   .credit-aragon{
     font-size: 1.6rem;
     text-align: center;
@@ -173,12 +173,12 @@ table.table-grid tr td .toggle.collapse{
       text-decoration: none;
     }
   }
-  
+
 
   .logo-nav-aux {
     padding-right: 0;
     width: 50%;
-   
+
     @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
       font-size: 1.4rem;
       line-height: 1em;
@@ -217,7 +217,7 @@ table.table-grid tr td .toggle.collapse{
     }
     */
   }
-    
+
   .header-menu {
     padding: 0 6px 0 0;
     width: 463px;
@@ -231,7 +231,7 @@ table.table-grid tr td .toggle.collapse{
     width: 9%;
     margin: 0;
     margin-left: 3%;
-    padding: 0; 
+    padding: 0;
     */
     text-align: right;
 
@@ -319,7 +319,7 @@ table.table-grid tr td .toggle.collapse{
     //width: 50%;
     padding-left: 0;
     text-align: right;
-    
+
     /*
     @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
       width: 97px;
@@ -342,7 +342,7 @@ table.table-grid tr td .toggle.collapse{
     margin: 0;
     margin-left: 3%;
     padding: 0;
- 
+
     @media (min-width: 768px) {
       width: 13%;
       margin-left: 2%;
@@ -358,7 +358,7 @@ table.table-grid tr td .toggle.collapse{
 
 #menu-lang{
   margin-top: 3px;
-  
+
   ul li{
     padding: 0 6px;
 
@@ -516,4 +516,18 @@ table.table-grid tr td .toggle.collapse{
   min-height: 24px;
   padding-left: 14px;
   background-position: 0 -1129px;
+}
+
+// Define policies explanatory note styles
+.policy-description{
+  font-size: 0.875em;
+  text-align: justify;
+  padding: $grid-gutter-width/2 2*$grid-gutter-width/3 $grid-gutter-width/3;
+  margin-top: $grid-gutter-width;
+  margin-bottom: 0;
+  background: mix( $brand-secondary, white, 30% );
+
+  a{
+    font-weight: $font-weight-600;
+  }
 }
