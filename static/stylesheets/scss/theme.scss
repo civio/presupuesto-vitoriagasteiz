@@ -531,3 +531,14 @@ table.table-grid tr td .toggle.collapse{
     font-weight: $font-weight-600;
   }
 }
+
+// Tax receipt
+.tax-receipt-content #tax-amount .select-info{
+  font-size: 0.95em;
+  margin: $grid-gutter-width/2.5 0;
+  line-height: $grid-gutter-width;
+
+  span{
+    font-weight: $font-weight-600;
+  }
+}

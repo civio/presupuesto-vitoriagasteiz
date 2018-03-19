@@ -1,8 +1,8 @@
-<p class="intro-text">{{ _('Escoge las opciones que mejor reflejen tu realidad. Puedes modificar cada uno de los elementos de forma independiente.')|safe }}</p>
+<p class="intro-text" style="text-align: center">{{ _('Escoge las opciones que mejor reflejen tu realidad. Puedes modificar cada uno de los elementos de forma independiente.')|safe }}</p>
 
 <form class="form-user-incomings" action="#" method="get">
 
-  <h3>{{ _('Impuestos') }}</h3>
+  <h3>{{ _('Tus datos') }}</h3>
 
   <div class="row">
     <div class="form-group">
@@ -18,44 +18,81 @@
         <option value="7" type="text">{{ _('Vivienda adosada de 145 m\u00B2') }}</option>
         <option value="8" type="text">{{ _('Vivienda unifamiliar de 359 m\u00B2 en zona residencial') }}</option>
       </select>
+    </div>
 
-      <h5>{{ _('BONIFICACIONES') }}</h5>
-
-      <label for="select-house-bonus">{{ _('VPO y vivienda social') }}</label>
-      <select id="select-house-bonus" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('No aplica') }}</option>
-        <option value="1" type="text">{{ _('VPO 1º, 2º y 3º año') }}</option>
-        <option value="2" type="text">{{ _('VPO 4º año') }}</option>
-        <option value="3" type="text">{{ _('VPO 5º año') }}</option>
-        <option value="4" type="text">{{ _('VPO 6º año') }}</option>
-        <option value="5" type="text">{{ _('Vivienda social 1º, 2º y 3º año') }}</option>
-        <option value="6" type="text">{{ _('Vivienda social 4º año') }}</option>
-        <option value="7" type="text">{{ _('Vivienda social 5º, 6º y 7º año') }}</option>
-        <option value="8" type="text">{{ _('Vivienda social 8º y 9º año') }}</option>
+    <div class="form-group" style="clear: both">
+      <label for="select-house-social">{{ _('¿Tiene bonificación por VPO o vivienda social?') }}</label>
+      <select id="select-house-social" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="1" type="text">{{ _('Sí, por VPO') }}</option>
+        <option value="2" type="text">{{ _('Sí, por vivienda social') }}</option>
       </select>
+    </div>
 
-      <label for="select-house-income-bonus">{{ _('Renta anual') }}</label>
-      <select id="select-house-income-bonus" class="form-control">
-        <option value="0" type="text">{{ _('De 0 a 3.300 euros') }}</option>
-        <option value="1" type="text">{{ _('De 3.301 a 6.600 euros') }}</option>
-        <option value="2" type="text">{{ _('De 6.601 a 9.900 euros') }}</option>
-        <option value="3" type="text">{{ _('De 9.901 a 13.200 euros') }}</option>
-        <option value="4" type="text">{{ _('De 13.201 a 16.500 euros') }}</option>
-        <option value="5" type="text">{{ _('De 16.501 a 19.800 euros') }}</option>
-        <option value="6" type="text">{{ _('De 19.801 a 21.000 euros') }}</option>
-        <option value="7" type="text" selected="selected">{{ _('Más de 21.001 euros') }}</option>
+    <div class="form-group">
+      <label for="select-house-social-years">{{ _('Años desde la construcción') }}</label>
+      <select id="select-house-social-years" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('1º, 2º y 3º año') }}</option>
+        <option value="1" type="text">{{ _('4º año') }}</option>
+        <option value="2" type="text">{{ _('5º año') }}</option>
+        <option value="3" type="text">{{ _('6º año') }}</option>
+        <option value="4" type="text">{{ _('7º, 8º y 9º año') }}</option>
+        <option value="5" type="text">{{ _('10º año en adelante') }}</option>
       </select>
+    </div>
 
-      <label for="select-house-energy-bonus">{{ _('Clasificación energética') }}</label>
-      <select id="select-house-energy-bonus" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Clase A energética') }}</option>
-        <option value="1" type="text">{{ _('Clase B energética') }}</option>
+    <div class="form-group" style="clear: both">
+      <label for="select-energy">{{ _('Clasificación energética') }}</label>
+      <select id="select-energy" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Clase energética A') }}</option>
+        <option value="1" type="text">{{ _('Clase energética B') }}</option>
         <option value="2" type="text">{{ _('Energías renovables') }}</option>
         <option value="3" type="text">{{ _('Otra') }}</option>
       </select>
     </div>
+  </div>
 
-    <div class="select-info">{{ _('IBI') }}: <span id="select-house-tax"></span></div>
+  <div class="row">
+    <div class="form-group">
+      <label for="select-income">{{ _('Renta anual de la unidad familiar') }}</label>
+      <div class="input-group">
+        <input id="select-income" type="text" class="form-control" value="24.000"/>
+        <div class="input-group-addon">Euros</div>
+      </div>
+    </div>
+
+    <div class="form-group" style="clear: both">
+      <label for="select-family">{{ _('Miembros de la unidad familiar') }}</label>
+      <select id="select-family" class="form-control">
+        <option value="0" type="text">{{ _('Una persona') }}</option>
+        <option value="1" type="text" selected="selected">{{ _('Dos personas') }}</option>
+        <option value="2" type="text">{{ _('Tres personas') }}</option>
+        <option value="3" type="text">{{ _('Cuatro personas') }}</option>
+        <option value="4" type="text">{{ _('Cinco personas') }}</option>
+        <option value="5" type="text">{{ _('Seis personas') }}</option>
+        <option value="6" type="text">{{ _('Siete personas') }}</option>
+        <option value="7" type="text">{{ _('Ocho personas') }}</option>
+        <option value="8" type="text">{{ _('Nueve personas') }}</option>
+        <option value="9" type="text">{{ _('Diez personas') }}</option>
+        <option value="10" type="text">{{ _('Once personas') }}</option>
+        <option value="11" type="text">{{ _('Doce personas o más') }}</option>
+      </select>    </div>
+
+    <div class="form-group" style="clear: both">
+      <label for="select-mono-family">{{ _('¿Es familia monoparental?') }}</label>
+      <select id="select-mono-family" class="form-control">
+        <option value="0" type="text">{{ _('Sí') }}</option>
+        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="select-large-family">{{ _('¿Es familia numerosa?') }}</label>
+      <select id="select-large-family" class="form-control">
+        <option value="0" type="text">{{ _('Sí') }}</option>
+        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+      </select>
+    </div>
   </div>
 
   <div class="row">
@@ -68,98 +105,40 @@
         <option value="3" type="text">{{ _('Coche mediano (12-16 c. fiscales)') }}</option>
         <option value="4" type="text">{{ _('Coche grande (16-20 c. fiscales)') }}</option>
       </select>
+    </div>
 
-      <h5>{{ _('BONIFICACIONES') }}</h5>
-
-      <label for="select-vehicle-bonus">{{ _('Situación') }}</label>
-      <select id="select-vehicle-bonus" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Ninguna') }}</option>
-        <option value="1" type="text">{{ _('Discapacidad') }}</option>
-        <option value="2" type="text">{{ _('Vehículo histórico') }}</option>
-        <option value="3" type="text">{{ _('Familia numerosa') }}</option>
-        <option value="4" type="text">{{ _('Vehículo ecológico') }}</option>
+    <div class="form-group" style="clear: both">
+      <label for="select-eco">{{ _('¿Es vehículo eléctrico o híbrido?') }}</label>
+      <select id="select-eco" class="form-control">
+        <option value="0" type="text">{{ _('Sí') }}</option>
+        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
       </select>
     </div>
 
-    <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-vehicle-tax"></span></div>
-  </div>
-
-  <h3>{{ _('Tasas') }}</h3>
-
-  <div class="row">
-    <div class="form-group">
-      <label for="select-garbage">{{ _('Vivienda') }}</label>
-      <select id="select-garbage" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Vivienda de 60 m2 en un barrio') }}</option>
-        <option value="1" type="text">{{ _('Vivienda de 80 m\u00B2') }}</option>
-        <option value="2" type="text">{{ _('Vivienda de 95 m\u00B2 (un adulto y dos menores)') }}</option>
-        <option value="3" type="text">{{ _('Vivienda de 110 m\u00B2 en barrio nueva construcción (dos adultos)') }}</option>
-        <option value="4" type="text">{{ _('Vivienda de 115 m\u00B2 en el centro de la ciudad (dos adultos y un menor))') }}</option>
-        <option value="5" type="text">{{ _('Vivienda de 121 m\u00B2 situada en una avenida principal (dos adultos y dos menores)') }}</option>
-        <option value="6" type="text">{{ _('Vivienda de 125 m\u00B2 en barrio nueva construcción (un adulto y un menor)') }}</option>
-        <option value="7" type="text">{{ _('Vivienda adosada de 145 m\u00B2 (dos adultos y dos menores)') }}</option>
-        <option value="8" type="text">{{ _('Vivienda unifamiliar de 359 m\u00B2 en zona residencial (dos adultos)') }}</option>
-      </select>
-
-      <h5>{{ _('BONIFICACIONES / RECARGOS') }}</h5>
-
-      <label for="select-garbage-bonus">{{ _('Familia numerosa') }}</label>
-      <select id="select-garbage-bonus" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('No') }}</option>
-        <option value="1" type="text">{{ _('Sí') }}</option>
-      </select>
-
-      <label for="select-garbage-surcharge">{{ _('Empadronados en la vivienda') }}</label>
-      <select id="select-garbage-surcharge" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Tres personas o menos') }}</option>
-        <option value="1" type="text">{{ _('Cuatro personas') }}</option>
-        <option value="2" type="text">{{ _('Cinco personas') }}</option>
-        <option value="3" type="text">{{ _('Seis personas') }}</option>
-        <option value="4" type="text">{{ _('Siete personas') }}</option>
-        <option value="5" type="text">{{ _('Ocho personas o más') }}</option>
+    <div class="form-group" style="clear: both">
+      <label for="select-disability">{{ _('¿Tiene bonificación por discapacidad?') }}</label>
+      <select id="select-disability" class="form-control">
+        <option value="0" type="text">{{ _('Sí') }}</option>
+        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
       </select>
     </div>
 
-    <div class="select-info">{{ _('Tasa de basuras') }}: <span id="select-garbage-tax"></span></div>
-  </div>
-
-  <div class="row">
-    <div class="form-group">
-      <label for="select-water">{{ _('Vivienda') }}</label>
-      <select id="select-water" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Vivienda de 60 m2 en un barrio') }}</option>
-        <option value="1" type="text">{{ _('Vivienda de 80 m\u00B2') }}</option>
-        <option value="2" type="text">{{ _('Vivienda de 95 m\u00B2 (un adulto y dos menores)') }}</option>
-        <option value="3" type="text">{{ _('Vivienda de 110 m\u00B2 en barrio nueva construcción (dos adultos)') }}</option>
-        <option value="4" type="text">{{ _('Vivienda de 115 m\u00B2 en el centro de la ciudad (dos adultos y un menor))') }}</option>
-        <option value="5" type="text">{{ _('Vivienda de 121 m\u00B2 situada en una avenida principal (dos adultos y dos menores)') }}</option>
-        <option value="6" type="text">{{ _('Vivienda de 125 m\u00B2 en barrio nueva construcción (un adulto y un menor)') }}</option>
-        <option value="7" type="text">{{ _('Vivienda adosada de 145 m\u00B2 (dos adultos y dos menores)') }}</option>
-        <option value="8" type="text">{{ _('Vivienda unifamiliar de 359 m\u00B2 en zona residencial (dos adultos)') }}</option>
-      </select>
-
-      <h5>{{ _('BONIFICACIONES / RECARGOS') }}</h5>
-
-      <label for="select-water-bonus">{{ _('Familia numerosa') }}</label>
-      <select id="select-water-bonus" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('No') }}</option>
-        <option value="1" type="text">{{ _('Sí') }}</option>
-      </select>
-
-      <label for="select-water-surcharge">{{ _('Empadronados en la vivienda') }}</label>
-      <select id="select-water-surcharge" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Tres personas o menos') }}</option>
-        <option value="1" type="text">{{ _('Cuatro personas') }}</option>
-        <option value="2" type="text">{{ _('Cinco personas') }}</option>
-        <option value="3" type="text">{{ _('Seis personas') }}</option>
-        <option value="4" type="text">{{ _('Siete personas') }}</option>
-        <option value="5" type="text">{{ _('Ocho personas o más') }}</option>
+    <div class="form-group" style="clear: both">
+      <label for="select-historic">{{ _('¿Es vehículo histórico?') }}</label>
+      <select id="select-historic" class="form-control">
+        <option value="0" type="text">{{ _('Sí') }}</option>
+        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
       </select>
     </div>
-
-    <div class="select-info">{{ _('Tasa de abastecimiento de agua') }}: <span id="select-water-tax"></span></div>
   </div>
 
 </form>
 
-<p id="tax-amount">{{ _('Contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del Gobierno de Aragón')|safe }}.</p>
+<div id="tax-amount">
+  <div class="select-info">{{ _('IBI') }}: <span id="select-house-tax"></span></div>
+  <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-vehicle-tax"></span></div>
+  <div class="select-info">{{ _('Tasa de basuras') }}: <span id="select-garbage-tax"></span></div>
+  <div class="select-info">{{ _('Tasa de abastecimiento de agua') }}: <span id="select-water-tax"></span></div>
+  <br/>
+  <p>{{ _('Contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del Gobierno de Aragón')|safe }}.</p>
+</div>
