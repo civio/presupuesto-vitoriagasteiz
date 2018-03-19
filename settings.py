@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
-from django.conf.urls import patterns, url
-#from django.conf.urls.i18n import i18n_patterns
+# from django.conf.urls import patterns, url
+# from django.conf.urls.i18n import i18n_patterns
 
 
 MAIN_ENTITY_LEVEL = 'municipio'
@@ -21,17 +21,17 @@ PAYMENTS_LOADER = 'VitoriaGasteizPaymentsLoader'
 # Show Payments section in menu & home options. Default: False.
 SHOW_PAYMENTS = False
 
-# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
-# PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
+# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
+# PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
 
-# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
-# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
+# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
+# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
 
-# Define if payments year slider is a range (True) or a single year (False). Default: True
+# Define if payments year slider is a range (True) or a single year (False). Default: True
 # PAYMENTS_YEAR_RANGE = False
 
 # Show Tax Receipt section in menu & home options. Default: False.
-# SHOW_TAX_RECEIPT = True
+SHOW_TAX_RECEIPT = True
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
 # SHOW_COUNTIES_AND_TOWNS = True
@@ -61,7 +61,7 @@ SHOW_PAYMENTS = False
 # SHOW_FUNDING_TAB = True
 
 # Show breadcrumbs in policies. Default: False.
-# SHOW_BREADCRUMBS = True
+# SHOW_BREADCRUMBS = True
 
 # Show an extra column with actual revenues/expenses. Default: True.
 # Warning: the execution data still gets shown in the summary chart and in downloads.
@@ -88,33 +88,33 @@ LANGUAGES = (
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
-# In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID             = '101568380658287'
+# In order to get the ID create an app in https://developers.facebook.com/
+FACEBOOK_ID = '101568380658287'
 
 # Google Analytics ID. Default: ''
-# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = 'UA-28946840-43'
+# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
+ANALYTICS_ID = 'UA-28946840-43'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
+DATA_SOURCE_BUDGET = 'http://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
+DATA_SOURCE_POPULATION = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
+DATA_SOURCE_INFLATION = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do'
+MAIN_ENTITY_WEB_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u_1dc1e845_14a0e91afa2__7e40'
+MAIN_ENTITY_LEGAL_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u_1dc1e845_14a0e91afa2__7e40'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_PRIVACY_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u_1dc1e845_14a0e91afa2__7e3e'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL             = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u60c04389_144007bfb26__7fc5'
+COOKIES_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u60c04389_144007bfb26__7fc5'
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
@@ -148,7 +148,7 @@ OVERVIEW_EXPENSE_NODES = ['92', '23', '16', '13', '33', '15', '44', '17', '34']
 # OVERVIEW_NODE_PADDING = 2
 
 # Overview node minimum height to show labels. Default: 16 (Optional)
-# OVERVIEW_LABELS_MIN_SIZE = 16
+# OVERVIEW_LABELS_MIN_SIZE = 16
 
 # Overview node labels minimum font size. Default: 11 (Optional)
 OVERVIEW_LABELS_FONT_SIZE_MIN = 13
@@ -160,7 +160,7 @@ OVERVIEW_LABELS_FONT_SIZE_MAX = 42
 # OVERVIEW_FORCE_ORDER = False
 
 # Adjust inflation in amounts in Overview page. Default: True
-# ADJUST_INFLATION_IN_OVERVIEW = False
+# ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
 # SHOW_OVERVIEW_SUBTOTALS = True
@@ -173,7 +173,7 @@ OVERVIEW_LABELS_FONT_SIZE_MAX = 42
 # ----------------------
 
 # Treemaps minimum height or width to show labels. Default: 30 (Optional)
-# TREEMAP_LABELS_MIN_SIZE = 30
+# TREEMAP_LABELS_MIN_SIZE = 30
 
 # Treemap minimum font size. Default: 11 (Optional)
 # TREEMAP_LABELS_FONT_SIZE_MIN = 11
@@ -182,7 +182,7 @@ OVERVIEW_LABELS_FONT_SIZE_MAX = 42
 # TREEMAP_GLOBAL_MAX_VALUE = False
 
 # Allow overriding of default treemap color scheme
-# COLOR_SCALE = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf']
+# COLOR_SCALE = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf']
 
 # How many levels to show in the global institutional treemap? Default: 1.
-# INSTITUTIONAL_MAX_LEVELS = 2
+# INSTITUTIONAL_MAX_LEVELS = 2
