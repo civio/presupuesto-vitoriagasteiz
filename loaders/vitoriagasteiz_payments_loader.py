@@ -1,16 +1,17 @@
 # -*- coding: UTF-8 -*-
 from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
+from vitoriagasteiz_budget_loader import VitoriaGasteizBudgetLoader
 
-import datetime
+import dateutil.parser
 
 
 class PaymentsCsvMapper:
     column_mapping = {
-        '2018': {'fc_code': 9, 'date': 4, 'payee': 12, 'description': 13, 'amount': 5},
+        'default': {'fc_code': 6, 'date': 1, 'payee': 15, 'description': 17, 'amount': 19},
     }
 
-    default = '2018'
+    default = 'default'
 
     def __init__(self, year):
         column_mapping = PaymentsCsvMapper.column_mapping
@@ -37,13 +38,13 @@ class VitoriaGasteizPaymentsLoader(PaymentsLoader):
         # Mapper
         mapper = PaymentsCsvMapper(self.year)
 
-        # For the functional code We got decimal values as input, so we
-        # normalize them at 4- and add leading zeroes when required
-        fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
+        # We got the functional code
+        fc_code = line[mapper.fc_code]
 
-        # We ignore rows with incomplete data
-        if fc_code == '0000':
-            return
+        # For pre 2015 budgets we may need to amend the programme code
+        # Some payments with 2014 classification are still present in 2015
+        if int(self.year) <= 2015:
+            fc_code = VitoriaGasteizBudgetLoader.programme_mapping.get(fc_code, fc_code)
 
         # first two digits of the functional code make the policy id
         policy_id = fc_code[:2]
@@ -51,40 +52,29 @@ class VitoriaGasteizPaymentsLoader(PaymentsLoader):
         # but what we want as area is the policy description
         policy = Budget.objects.get_all_descriptions(budget.entity)['functional'][policy_id]
 
-        # We have got dates as numeric values, per XLS convention: integer part
-        # stores the number of days since the epoch (Jan 1st 1900 in our case)
-        # and the fractional part stores the percentage of the day
-        date = line[mapper.date].strip()
-
-        # serial number that represents the number of elapsed days since January 1, 1900
-        days = int(float(date))
-
-        # actual date taking into account the Excel 1900 leap year bug
-        date = datetime.datetime(1899, 12, 30) + datetime.timedelta(days, 0, 0, 0)
-        date = date.strftime("%Y-%m-%d")
+        # We got a localized date
+        date = line[mapper.date]
+        date = dateutil.parser.parse(date, dayfirst=True).strftime("%Y-%m-%d")
 
         # Payee data
         payee = line[mapper.payee].strip()
 
-        # Some rows doesn't include payee data, so we asign an arbitrary value
-        if not payee:
-            payee = "OTROS"
-
-        # We haven't got any anonymized entries
+        # we haven't got any anonymized entries
         anonymized = False
 
         # Description
         description = line[mapper.description].strip()
 
-        # Parse amount
-        amount = line[mapper.amount].strip()
-        amount = self._read_english_number(amount)
+        # We got a localized amount
+        amount = line[mapper.amount]
+        amount = self._read_spanish_number(amount)
 
         return {
             'area': policy,
             'programme': None,
             'fc_code': None,  # We don't try (yet) to have foreign keys to existing records
             'ec_code': None,
+            'ic_code': None,
             'date': date,
             'payee': payee,
             'anonymized': anonymized,

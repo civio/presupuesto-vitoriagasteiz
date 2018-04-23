@@ -152,6 +152,7 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '5111': '453X',     # MANTENIMIENTO DE INFRAESTRUCTURAS
         '5113': '453X',     # SEÑALIZACIÓN VIARIA
         '5131': '441X',     # TRANSPORTE URBANO MUNICIPAL
+        '5141': '45XX',     # PROYECTOS FIL
         '6111': '932X',     # ADMINISTRACIÓN TRIBUTARIA Y RECAUDACIÓN
         '6112': '931X',     # ADMINISTRACIÓN FINANCIERA-INTERVENCIÓN
         '6113': '931Y',     # ADMINISTRACIÓN FINANCIERA
