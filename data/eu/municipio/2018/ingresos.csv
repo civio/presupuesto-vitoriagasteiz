@@ -1,111 +1,117 @@
-#Ekonomikoa,Diru-sarreren aplikazioaren izena,Hasierako kreditua,Behin betiko kreditua,DRN
-11201,Landa-lurreko Ondasun Higiezinen gaineko Zerga eta Gizarte Segurantza,288965.0,288965.0,1471.45
-11202,Hiri-lurreko ondasun higiezinen gaineko zerga,44650000.0,44650000.0,30303.39
+#Económico,Denominacion Aplicacion Ingresos,Crédito Inicial,C.DEFINITVO,DRN
+11201,Landa-lurreko Ondasun Higiezinen gaineko Zerga eta Gizarte Segurantza,288965.0,288965.0,1662.94
+11202,Hiri-lurreko ondasun higiezinen gaineko zerga,44650000.0,44650000.0,58712.23
 11203,Ezaugarri bereziko higiezinak,0.0,0.0,5.73
-11301,Trakzio Mekanikoko Ibilgailuen gaineko Zerga,16725000.0,16725000.0,131585.13
-11401,Hiri-lurren Balio-gehikuntzaren gaineko Zerga,12905000.0,12905000.0,1122003.5
-13001,Ekonomi Jardueren gaineko Zerga,14700000.0,14700000.0,130040.39
+11301,Trakzio Mekanikoko Ibilgailuen gaineko Zerga,16725000.0,16725000.0,16423099.0
+11401,Hiri-lurren Balio-gehikuntzaren gaineko Zerga,12905000.0,12905000.0,3533087.19
+13001,Ekonomi Jardueren gaineko Zerga,14700000.0,14700000.0,483677.0
 13002,Probintziako eta Estatuko kuotetako partaidetza,1450000.0,1450000.0,0.0
-28201,Eraikuntza eta instalazioen gaineko zergak,6550000.0,6550000.0,705889.07
-28301,Ehiza esparruaren ustiapena,2110.0,2110.0,0.0
+28201,Eraikuntza eta instalazioen gaineko zergak,6550000.0,6550000.0,2718103.32
+28301,Ehiza esparruaren ustiapena,2110.0,2110.0,2111.0
 30001,Erabilgarri ez diren ondasunak saltzea,40000.0,40000.0,16955.0
 30002,Argitalpen eta inprimakien salmenta,1000.0,1000.0,1355.84
 30004,Montehermosoko ondasun eta elementuen salmenta,5000.0,5000.0,1057.4
 30006,Energia elektrikoa saltzea,3000.0,3000.0,0.0
 30007,Turismo Bulegoko ondasunen salmenta,25000.0,25000.0,0.0
-31001,Zaborrak bildu eta suntsitzea,10900000.0,10900000.0,5762.36
-31003,Hileta-zerbitzuak.,600000.0,600000.0,26295.44
-31004,"Txostenak, atestatuak, fotokopiak, planoak eta antzekoak egitea",280000.0,280000.0,28689.65
-31005,Ibilgailuak bide publikotik kentzea,306000.0,306000.0,78073.47
-31008,Prebentzio eta Su Itzaltze Zerbitzua,6000.0,6000.0,0.0
-31013,Gardelegiko zabortegian hondakinak hustea,4000000.0,4000000.0,356958.2
-31020,Hirigintza-kontsultei erantzutea,15000.0,15000.0,662.67
-31021,Etxeetakoez kanpoko ur zikinak isurtzea,327510.0,327510.0,0.0
-31022,Herritarren Udal Txartelaren kopia,10200.0,10200.0,873.0
-31026,Osasun eta Kontsumo Sailak eskainitako zerbitzuak,255000.0,255000.0,18499.51
-31027,Azterketa-tasak,7000.0,7000.0,14161.65
+31001,Zaborrak bildu eta suntsitzea,10900000.0,10900000.0,16726.61
+31003,Hileta-zerbitzuak.,600000.0,600000.0,393356.92
+31004,"Txostenak, atestatuak, fotokopiak, planoak eta antzekoak egitea",280000.0,280000.0,29098.74
+31005,Ibilgailuak bide publikotik kentzea,306000.0,306000.0,91957.0
+31008,Prebentzio eta Su Itzaltze Zerbitzua,6000.0,6000.0,12.08
+31013,Gardelegiko zabortegian hondakinak hustea,4000000.0,4000000.0,1190752.24
+31020,Hirigintza-kontsultei erantzutea,15000.0,15000.0,1725.28
+31021,Etxeetakoez kanpoko ur zikinak isurtzea,327510.0,327510.0,36838.36
+31022,Herritarren Udal Txartelaren kopia,10200.0,10200.0,2201.0
+31026,Osasun eta Kontsumo Sailak eskainitako zerbitzuak,255000.0,255000.0,47687.89
+31027,Azterketa-tasak,7000.0,7000.0,14207.65
 31028,Biokonpost-lantegia,750000.0,750000.0,0.0
 31029,Ontzi eta hondakinen gaikako bilketa,1706000.0,1706000.0,0.0
-31101,Establezimenduak irekitzeko lizentziak,300000.0,300000.0,26470.29
-31105,Taxi-lizentzia eskuratzeko azterketako tasa,0.0,0.0,27.09
-31201,Hirigintza-lizentziak ematea,300000.0,300000.0,32592.26
-32001,TAO - Ibilgailuak bide publikoetan aparkatzea,1900000.0,1900000.0,146161.7
-32005,Salbatzailearen hilerriko lurzoru-lagapenak,195000.0,195000.0,419.07
-32102,Bide publikoetako kioskoak,2500.0,2500.0,215.31
-32103,"Hesiak, aldamioak, edukiontziak eta eraikuntza-materiala, bide publikoan",0.0,0.0,68590.6
-32104,Bide publikoetako mahaitxoak,325000.0,325000.0,1099.95
-32105,Bide publikoetako instalazioak,650000.0,650000.0,17073.32
-32107,Zangak irekitzea,500000.0,500000.0,899.87
-32109,"Hornikuntza-enpresek lurra, lurgaina eta lurpea okupatzea",4950000.0,4950000.0,1708.96
-32110,Zerbitzu- eta hornikuntza-enpresek lurzorua okupatzea,0.0,0.0,394223.71
+31101,Establezimenduak irekitzeko lizentziak,300000.0,300000.0,80434.52
+31105,Taxi-lizentzia eskuratzeko azterketako tasa,0.0,0.0,109.98
+31201,Hirigintza-lizentziak ematea,300000.0,300000.0,63821.74
+32001,TAO - Ibilgailuak bide publikoetan aparkatzea,1900000.0,1900000.0,463441.96
+32005,Salbatzailearen hilerriko lurzoru-lagapenak,195000.0,195000.0,58757.08
+32102,Bide publikoetako kioskoak,2500.0,2500.0,645.93
+32103,"Hesiak, aldamioak, edukiontziak eta eraikuntza-materiala, bide publikoan",0.0,0.0,133258.87
+32104,Bide publikoetako mahaitxoak,325000.0,325000.0,4394.12
+32105,Bide publikoetako instalazioak,650000.0,650000.0,58178.95
+32107,Zangak irekitzea,500000.0,500000.0,2380.14
+32109,"Hornikuntza-enpresek lurra, lurgaina eta lurpea okupatzea",4950000.0,4950000.0,2133.54
+32110,Zerbitzu- eta hornikuntza-enpresek lurzorua okupatzea,0.0,0.0,968659.42
 32111,"Biltzar-jauregia, Principal antzokia, zezen-plaza eta beste erabiltzea",150000.0,150000.0,0.0
-32112,Gizarte-etxeetako aretoak erabiltzea,30000.0,30000.0,13624.67
-32113,Jundizko enpresa-zentroko aretoak erabiltzea,10000.0,10000.0,5859.2
-32114,Adinekoentzako zentro soziokulturaletako espazioak erabiltzea,1000.0,1000.0,0.0
-32201,"Ibilgailuak espaloietatik sartzea, eta bide publikoa aparkatzeko erreserbatzea",1550000.0,1550000.0,27948.75
+32112,Gizarte-etxeetako aretoak erabiltzea,30000.0,30000.0,74466.43
+32113,Jundizko enpresa-zentroko aretoak erabiltzea,10000.0,10000.0,6654.1
+32114,Adinekoentzako zentro soziokulturaletako espazioak erabiltzea,1000.0,1000.0,40.04
+32201,"Ibilgailuak espaloietatik sartzea, eta bide publikoa aparkatzeko erreserbatzea",1550000.0,1550000.0,786444.2
 34000,Udal sozietate anonimoek zerbitzuak ematea,700000.0,700000.0,0.0
-34001,Osasun eta Kontsumo Sailaren lantegiak,30000.0,30000.0,9867.01
-34002,"Haur eskolak, udaleku irekiak eta jolas txokoak",650000.0,650000.0,40204.12
-34004,Etxez etxeko laguntza (3. adina),660000.0,660000.0,78068.09
-34005,Egoitzetako egonaldiak (3. adina),4400000.0,4400000.0,280780.56
-34006,Gizartegintzako lantegiak,70000.0,70000.0,127.18
-34007,Lanaren bidezko prestakuntza,50000.0,50000.0,7453.87
-34008,Mendizorrotzeko instalazioetarako abonamendua,5990000.0,5990000.0,6184427.78
-34009,Aldi baterako eta denboraldiko abonamenduak (Gamarra),159000.0,159000.0,2014.85
-34010,Kirol instalazioak erabiltzea (erreserba eta salmenta),1219000.0,1219000.0,33612.78
-34012,Udal Folklore Akademiako matrikulak,146000.0,146000.0,0.0
-34013,Kultur ikastaro eta lantegiak,300000.0,300000.0,88591.35
-34014,Antzokiko leihatilak,350000.0,350000.0,0.0
-34015,Ludoteketako zerbitzuak,6560.0,6560.0,0.0
-34016,"Ikus-entzunezko materiala eta argiztapen-materiala mailegatzea, gazteei",8000.0,8000.0,65.48
-34018,Lehendakaritzako lantegiak,285000.0,285000.0,44356.14
-34020,Kirol kanpainetako abonatuak,1325000.0,1325000.0,86070.14
-34023,"Egonaldia, CAMAS",40000.0,40000.0,5392.74
-34025,Adinekoentzako zentro soziokulturaletako bazkariak,488750.0,488750.0,5914.29
-34026,Egoitzetako egonaldien likidazioa (3. adina),61200.0,61200.0,0.0
+34001,Osasun eta Kontsumo Sailaren lantegiak,30000.0,30000.0,10712.22
+34002,"Haur eskolak, udaleku irekiak eta jolas txokoak",650000.0,650000.0,124711.63
+34004,Etxez etxeko laguntza (3. adina),660000.0,660000.0,195760.43
+34005,Egoitzetako egonaldiak (3. adina),4400000.0,4400000.0,842972.82
+34006,Gizartegintzako lantegiak,70000.0,70000.0,1996.75
+34007,Lanaren bidezko prestakuntza,50000.0,50000.0,10734.8
+34008,Mendizorrotzeko instalazioetarako abonamendua,5990000.0,5990000.0,6247266.72
+34009,Aldi baterako eta denboraldiko abonamenduak (Gamarra),159000.0,159000.0,4383.06
+34010,Kirol instalazioak erabiltzea (erreserba eta salmenta),1219000.0,1219000.0,180209.3
+34012,Udal Folklore Akademiako matrikulak,146000.0,146000.0,17111.28
+34013,Kultur ikastaro eta lantegiak,300000.0,300000.0,150883.78
+34014,Antzokiko leihatilak,350000.0,350000.0,137582.3
+34015,Ludoteketako zerbitzuak,6560.0,6560.0,6687.9
+34016,"Ikus-entzunezko materiala eta argiztapen-materiala mailegatzea, gazteei",8000.0,8000.0,1064.1
+34018,Lehendakaritzako lantegiak,285000.0,285000.0,76264.22
+34020,Kirol kanpainetako abonatuak,1325000.0,1325000.0,322774.04
+34023,"Egonaldia, CAMAS",40000.0,40000.0,14755.49
+34025,Adinekoentzako zentro soziokulturaletako bazkariak,488750.0,488750.0,83823.11
+34026,Egoitzetako egonaldien likidazioa (3. adina),61200.0,61200.0,19571.0
 34029,Funtzio Publikoaren ikastaro eta prestakuntza-jarduerak,0.0,0.0,1593.06
-34032,Lehendakaritzako sarrera salmenta,0.0,0.0,52.99
-34038,Ezkontza-zerbitzua,30000.0,30000.0,5069.07
+34032,Lehendakaritzako sarrera salmenta,0.0,0.0,2691.95
+34038,Ezkontza-zerbitzua,30000.0,30000.0,9873.76
 34039,Kudeaketa gastuen konpentsazioa,1000000.0,1000000.0,0.0
-34040,Autobus-geltoki berriko diru-sarrerak,640000.0,640000.0,44721.69
+34040,Autobus-geltoki berriko diru-sarrerak,640000.0,640000.0,56436.62
 36100,Suteak itzaltzea - Unespa eta hitzartu gabeko konpainien kuota,948975.0,948975.0,0.0
-38001,Okerreko ordainketak itzultzea,700000.0,700000.0,38631.61
-38002,Iragarki-argitalpenen gastuak itzultzea,50000.0,50000.0,6072.35
-38003,Aseguru-etxeek gastu eta kalte-ordainak itzultzea,1.0,1.0,59267.33
-38004,Premiamendu-bideko kostuak itzultzea,8000.0,8000.0,0.75
+38001,Okerreko ordainketak itzultzea,700000.0,700000.0,151231.72
+38002,Iragarki-argitalpenen gastuak itzultzea,50000.0,50000.0,15312.14
+38003,Aseguru-etxeek gastu eta kalte-ordainak itzultzea,1.0,59267.33,111203.35
+38004,Premiamendu-bideko kostuak itzultzea,8000.0,8000.0,345.61
 38005,Bide judizialeko kalte-ordainak itzultzea,15000.0,15000.0,0.0
 38007,Laneko Arriskuen Prebentzioarako Zerbitzuaren itzulketa,71035.0,71035.0,9878.71
-39101,Trafiko arau-hausteengatiko isunak,5480000.0,5480000.0,1264813.5
-39102,Prozedura zigortzaileetako diru-sarrerak,805420.0,805420.0,296168.49
-39201,Premiamendu-gainordainak,950000.0,950000.0,86776.31
-39401,Auto-istripuek bide publikoan eragindako kalteak,100000.0,100000.0,13584.43
-39402,Ekintza basatiek ondasunetan eragindako kalteak,7500.0,7500.0,837.99
+38008,Zerbitzu-ustiapenen itzulketak,0.0,0.0,50466.58
+39101,Trafiko arau-hausteengatiko isunak,5480000.0,5480000.0,3515273.17
+39102,Prozedura zigortzaileetako diru-sarrerak,805420.0,805420.0,690916.31
+39201,Premiamendu-gainordainak,950000.0,950000.0,267484.03
+39401,Auto-istripuek bide publikoan eragindako kalteak,100000.0,100000.0,30105.91
+39402,Ekintza basatiek ondasunetan eragindako kalteak,7500.0,7500.0,989.95
 39404,Betearazte subsidiarioengatiko sarrerak,90000.0,90000.0,0.0
-39405,Epai kostuek sortutako sarrerak,25000.0,25000.0,733.12
-39601,Telefonia-enpresen sarrerak,1000000.0,1000000.0,0.0
+39405,Epai kostuek sortutako sarrerak,25000.0,25000.0,1967.34
+39601,Telefonia-enpresen sarrerak,1000000.0,1000000.0,237609.44
 39901,Dohaintzak,2000.0,2000.0,0.0
-39902,Bestelako diru-sarrerak,50000.0,50000.0,2755.5
+39902,Bestelako diru-sarrerak,50000.0,50000.0,2798.89
 39903,Aurreko ekitaldietako berandutze-interesak,4000.0,4000.0,0.0
-39906,Floridako jaiotzako dohainak,1.0,1.0,15377.91
-39907,San Anton zozketako diru-sarrerak,1.0,1.0,3300.0
+39906,Floridako jaiotzako dohainak,1.0,1.0,15404.34
+39907,San Anton zozketako diru-sarrerak,1.0,1.0,5826.6
 39909,Aparkalekuetako diru-sarreretako partizipazioa,40000.0,40000.0,0.0
-40000,Administrazio Orokorretik,465425.0,465425.0,0.0
-41000,Eusko Jaurlaritzatik,12912583.0,12912583.0,0.0
-42000,Arabako Foru Aldunditik,8926839.11,8926839.11,0.0
-42001,FOFEL,162168391.33,162168391.33,0.0
+40000,Administrazio Orokorretik,465425.0,465425.0,22079.71
+41000,Eusko Jaurlaritzatik,12912583.0,12912583.0,1459160.43
+42000,Arabako Foru Aldunditik,8926839.11,8953134.05,621345.53
+42001,FOFEL,162168391.33,162168391.33,40596650.26
 42003,Hitzartu gabeko zergak,300000.0,300000.0,0.0
 43000,"Ente publikoak, udalerriaren barruan",12000.0,12000.0,0.0
 48000,Familietatik,125000.0,125000.0,0.0
-49000,Europar Batasuneko erakundeetatik,99700.0,99700.0,0.0
-52500,Udalaren interesak banku eta kutxetan,5000.0,5000.0,0.0
-54001,Udalaren hiri-funtsen alokairu-errentak,150000.0,150000.0,1422.81
-54002,Enpresa-mintegietako lokalak alokatzea,100000.0,100000.0,9865.48
+49000,Europar Batasuneko erakundeetatik,99700.0,99700.0,205862.17
+52500,Udalaren interesak banku eta kutxetan,5000.0,5000.0,1335.17
+54001,Udalaren hiri-funtsen alokairu-errentak,150000.0,150000.0,4405.2
+54002,Enpresa-mintegietako lokalak alokatzea,100000.0,100000.0,30298.27
+54004,Udal eraikinetan ostalaritza-zerbitzuak ustiatzea,0.0,0.0,22065.1
 54101,Landa-funtsen alokairua,1.0,1.0,0.0
-55000,Emakiden emaitzak,800000.0,800000.0,7023.46
+55000,Emakiden emaitzak,800000.0,800000.0,37933.07
 55005,Hiri-altzarietako publizitatea ustiatzeko emakida,150000.0,150000.0,0.0
 59002,Lur sailak erabiltzea,40000.0,40000.0,0.0
 60300,"Udalaren lurzoru-ondareko lursailak saltzea, oinarrizko proiektuetako ordainsariak barne",1277231.3,1277231.3,0.0
 61200,Eraikinak eta bestelako eraikuntzak,1767000.0,1767000.0,0.0
-71000,Eusko Jaurlaritzatik,5560000.0,5560000.0,0.0
+71000,Eusko Jaurlaritzatik,5560000.0,5560000.0,100193.0
 72000,Arabako Foru Aldunditik,2500000.0,2500000.0,0.0
+73000,"Ente publikoak, udalerrian",0.0,0.0,32826.79
+77000,Enpresa pribatuak,0.0,0.0,1871.0
+87200,"Diruzaintza-soberakina, gastu orokorretarako",0.0,6953791.28,0.0
+87201,"Diruzaintza-soberakina, atxikitako finantzaketako gastuetarako",0.0,5269556.83,0.0
 93301,Inbertsioak finantzatzeko maileguak,10750000.0,10750000.0,0.0

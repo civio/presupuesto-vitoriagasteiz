@@ -7,6 +7,7 @@ import os
 class BudgetCsvMapper:
     expenses_mapping = {
         'default': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 6},
+        '2018': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 5, 'actual_amount': 7},
     }
 
     income_mapping = {
