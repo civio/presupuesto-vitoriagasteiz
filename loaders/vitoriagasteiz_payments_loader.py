@@ -59,6 +59,10 @@ class VitoriaGasteizPaymentsLoader(PaymentsLoader):
         # Payee data
         payee = line[mapper.payee].strip()
 
+        # Some rows doesn't include payee data, so we asign an arbitrary value
+        if not payee:
+            payee = "OTROS"
+
         # we haven't got any anonymized entries
         anonymized = False
 
