@@ -19,19 +19,19 @@ msgstr ""
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
-msgstr "Vitoria-Gasteizko Udala aurrekontuak"
+msgstr "Gasteizko Udaleko aurrekontuak"
 
 #
 msgid "Información presupuestaria del Gobierno de Aragón"
-msgstr "Vitoria-Gasteizko Udalaren aurrekontuei buruzko informazioa"
+msgstr "Gasteizko Udaleko aurrekontuei buruzko informazioa"
 
 #: templates/budgets/budgets_intro.html:16
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "Udalerriek zergen bidez bildutako dirua osatzeko, Arabako Foru Aldundiaren transferentziak jasotzen dituzte, haiek arduratzen baitira beste zerga batzuk biltzeaz, hala nola, BEZ eta PFEZ"
+msgstr "Hiriak bildutako diruaz gain, Foru Aldundiaren transferentziak jasotzen dira, hura arduratzen baita beste diru-sarrera batzuk biltzeaz, hala nola BEZa eta PFEZa"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Vitoria-Gasteizko Udalaren diru-sarrerak eta gastuak"
+msgstr "Gasteizko Udalaren diru-sarrerak eta gastuak"
 
 #: templates/budgets/index.html:127 templates/shared/data_sources.html:7
 #: templates/shared/footer.html:18 templates/shared/header.html:28
@@ -41,35 +41,31 @@ msgstr "Vitoria-Gasteizko Udala"
 
 #: templates/shared/data_sources.html:9
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
-msgstr "Inflazioaren datuak (Euskal Herrian KPIren urteroko batez bestekoak)"
+msgstr "Inflazio-datuak (Euskal Autonomia Erkidegoko KPIaren urteko batezbestekoak)"
 
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Erakusten diren diru-sarrerak eta gastuak Vitoria-Gasteizko Udalari dagozkionak baino ez dira"
-
-#: templates/tax_receipt/tax_receipt_form.html:75
-msgid "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Aragón"
-msgstr "Guztira, <strong id=\"tax-amount-paid\"></strong>(e)ko ekarpena egiten diezu Vitoria-Gasteizko Udala aurrekontuei"
+msgstr "Erakutsitako diru-sarrerak eta gastuak Gasteizko Udalari bakarrik dagozkio"
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "Nola eta zertan gastatzen du dirua Vitoria-Gasteizko Udalak?"
+msgstr "Nola eta zertan gastatzen du dirua Gasteizko Udalak?"
 
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "Vitoria-Gasteizko Udalaren diru-sarreren eta gastuen ideia orokor bat izan dezazun"
+msgstr "Gasteizko Udalaren diru-sarreren eta gastuen ideia orokor bat izan dezazun"
 
 #: templates/budgets/budgets_totals.html:51
 msgid "Cantidades actualizadas con la inflación a fecha 1 de enero de %s."
-msgstr "Inflazioarekin eguneratutako kopuruak, %sko urtarrilaren 1eko datarekin."
+msgstr "%s(e)ko urtarrilaren 1ean, inflazioa kontuan hartuta, eguneratutako kopuruak."
 
 #: templates/shared/data_sources.html:15
 msgid "El ajuste de la inflación se realiza a <strong>1 de enero de %s</strong>."
-msgstr "Inflazioaren araberako doikuntza <strong>%sko urtarrilaren 1eko datarekin egiten da</strong>."
+msgstr "Inflazioaren araberako doikuntza <strong>%s(e)ko urtarrilaren 1ean egin da</strong>."
 
 #: templates/budgets/budgets_intro.html:10
 msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
-msgstr "Zuzeneko zergen bidez (adibidez, ondasun higiezinen gaineko zerga edo trakzio mekanikoko ibilgailuen gaineko zerga) egiten da"
+msgstr "Zuzeneko zergen bidez egiten da; adibidez, ondasun higiezinen gaineko zerga (OHZ) eta trakzio mekanikoko ibilgailuen gainekoa (TMIZ)"
 
 # vitoria custom header
 msgid "Buzón Ciudadano"
@@ -103,3 +99,213 @@ msgstr "Web mapa"
 msgid "Accesibilidad"
 msgstr "Erabilerraztasuna"
 
+# vitoria tax receipt
+msgid "Seleccionar una opción"
+msgstr "Opzioa aukeratzea"
+
+msgid "Indicar la cantidad"
+msgstr "Kantitatea adieraztea"
+
+msgid "Euros"
+msgstr "Euroak"
+
+msgid "No se aplica"
+msgstr "Ez da kontuan hartzen"
+
+msgid "Eléctrico"
+msgstr "Elektriko"
+
+msgid "Híbrido"
+msgstr "Hibrido"
+
+msgid "Escoge las opciones que mejor reflejen tu realidad. Puedes modificar cada uno de los elementos de forma independiente."
+msgstr "Hautatu zure errealitatea ondoen islatzen duten aukerak. Elementu bakoitza banaka alda dezakezu."
+
+msgid "Tus datos"
+msgstr "Zure datuak"
+
+msgid "Vivienda"
+msgstr "Etxebizitza"
+
+msgid "Vivienda de 60 m² en un barrio"
+msgstr "60 m²-ko etxebizitza, auzo batean"
+
+msgid "Vivienda de 80 m²"
+msgstr "80 m²-ko etxebizitza"
+
+msgid "Vivienda de 95 m²"
+msgstr "95 m²-ko etxebizitza"
+
+msgid "Vivienda de 110 m² en barrio nueva construcción"
+msgstr "110 m²-ko etxebizitza, auzo batean, eraikin berria"
+
+msgid "Vivienda de 115 m² en el centro de la ciudad"
+msgstr "115 m²-ko etxebizitza, hirigunean"
+
+msgid "Vivienda de 121 m² situada en una avenida principal"
+msgstr "121 m²-ko etxebizitza, hiribide nagusi batean"
+
+msgid "Vivienda de 125 m² en barrio nueva construcción"
+msgstr "125 m²-ko etxebizitza, auzo batean, eraikin berria"
+
+msgid "Vivienda adosada de 145 m²"
+msgstr "145 m²-ko etxebizitza atxikia"
+
+msgid "Vivienda unifamiliar de 359 m² en zona residencial"
+msgstr "359 m²-ko familia bakarreko etxebizitza, bizitegi-eremu batean"
+
+msgid "¿Tiene bonificación por VPO o vivienda social?"
+msgstr "BOE edo etxebizitza soziala edukitzeagatik hobaririk baduzu?"
+
+msgid "Sí, por VPO"
+msgstr "Bai, BOEagatik"
+
+msgid "Sí, por vivienda social"
+msgstr "Bai, etxebizitza sozialagatik"
+
+msgid "Años desde la construcción"
+msgstr "Urteak, eraiki zenetik"
+
+msgid "1º, 2º y 3º año"
+msgstr "1., 2. eta 3. urtea"
+
+msgid "4º año"
+msgstr "4. urtea"
+
+msgid "5º año"
+msgstr "5. urtea"
+
+msgid "6º año"
+msgstr "6. urtea"
+
+msgid "7º, 8º y 9º año"
+msgstr "7., 8. eta 9. urtea"
+
+msgid "10º año en adelante"
+msgstr "10. urtetik aurrera"
+
+msgid "Clasificación energética"
+msgstr "Sailkapen energetikoa"
+
+msgid "Clase energética A"
+msgstr "A energia-maila"
+
+msgid "Clase energética B"
+msgstr "B energia-maila"
+
+msgid "Energías renovables"
+msgstr "Energia berriztagarriak"
+
+msgid "Otra"
+msgstr "Beste bat"
+
+msgid "Renta anual de la unidad familiar"
+msgstr "Familia-unitatearen urteko errenta"
+
+msgid "Miembros de la unidad familiar"
+msgstr "Familia-unitateko kideak"
+
+msgid "Una persona"
+msgstr "Pertsona bat"
+
+msgid "Dos personas"
+msgstr "Bi pertsona"
+
+msgid "Tres personas"
+msgstr "Hiru pertsona"
+
+msgid "Cuatro personas"
+msgstr "Lau pertsona"
+
+msgid "Cinco personas"
+msgstr "Bost pertsona"
+
+msgid "Seis personas"
+msgstr "Sei pertsona"
+
+msgid "Siete personas"
+msgstr "Zazpi pertsona"
+
+msgid "Ocho personas"
+msgstr "Zortzi pertsona"
+
+msgid "Nueve personas"
+msgstr "Bederatzi pertsona"
+
+msgid "Diez personas"
+msgstr "Hamar pertsona"
+
+msgid "Once personas"
+msgstr "Hamaika pertsona"
+
+msgid "Doce personas o más"
+msgstr "Hamabi pertsona edo gehiago"
+
+msgid "¿Es familia monoparental?"
+msgstr "Guraso bakarreko familia da?"
+
+msgid "Sí"
+msgstr "Bai"
+
+msgid "¿Es familia numerosa?"
+msgstr "Familia ugaria da?"
+
+msgid "Vehículo"
+msgstr "Ibilgailua"
+
+msgid "Ninguno"
+msgstr "Bat ere ez"
+
+msgid "Motocicletas hasta 125cc"
+msgstr "125 cc bitarteko motozikletak"
+
+msgid "Coche pequeño (8-12 c. fiscales)"
+msgstr "Auto txikia (8-12 zaldiko potentzia fiskala)"
+
+msgid "Coche mediano (12-16 c. fiscales)"
+msgstr "Auto ertaina (12-16 zaldiko potentzia fiskala)"
+
+msgid "Coche grande (16-20 c. fiscales)"
+msgstr "Auto handia (16-20 zaldiko potentzia fiskala)"
+
+msgid "¿Es vehículo eléctrico o híbrido?"
+msgstr "Ibilgailu elektrikoa edo hibridoa da?"
+
+msgid "¿Es vehículo eléctrico?"
+msgstr "Ibilgailu elektrikoa da?"
+
+msgid "¿Es vehículo híbrido?"
+msgstr "Ibilgailu hibridoa da?"
+
+msgid "¿Tiene bonificación por discapacidad?"
+msgstr "Desgaitasunagatik hobaririk baduzu?"
+
+msgid "¿Es vehículo histórico?"
+msgstr "Ibilgailu historikoa da?"
+
+msgid "Vehículo adicional"
+msgstr "Ibilgailu gehigarria"
+
+msgid "Añadir un vehículo adicional"
+msgstr "Ibilgailu gehigarri bat erantsi"
+
+msgid "IBI"
+msgstr "OHZ"
+
+msgid "Impuesto a vehículos motorizados"
+msgstr "Ibilgailu motordunen zerga"
+
+msgid "Tasa de basuras"
+msgstr "Zaborra biltzeagatiko tasa"
+
+msgid "Tasa de abastecimiento de agua"
+msgstr "Ur-horniduraren tasa"
+
+msgid "Aproximadamente, contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Ayuntamiento de Vitoria-Gasteiz"
+msgstr "Gutxi gorabehera, <strong id=\"tax-amount-paid\"></strong>(e)ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
+
+msgid "Contribuyes con un total aproximado de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Ayuntamiento de Vitoria-Gasteiz"
+msgstr "<strong id=\"tax-amount-paid\"></strong>(e)ko gutxi gorabeherako ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
+
+msgid "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Aragón"
+msgstr "Guztira, <strong id=\"tax-amount-paid\"></strong>(e)ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
