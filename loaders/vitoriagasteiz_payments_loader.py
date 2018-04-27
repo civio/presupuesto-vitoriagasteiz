@@ -28,22 +28,17 @@ class PaymentsCsvMapper:
 
 
 class VitoriaGasteizPaymentsLoader(PaymentsLoader):
-    # make year data available in the class and call super
-    def load(self, entity, year, path):
-        self.year = year
-        PaymentsLoader.load(self, entity, year, path)
-
     # Parse an input line into fields
     def parse_item(self, budget, line):
         # Mapper
-        mapper = PaymentsCsvMapper(self.year)
+        mapper = PaymentsCsvMapper(budget.year)
 
         # We got the functional code
         fc_code = line[mapper.fc_code]
 
         # For pre 2015 budgets we may need to amend the programme code
         # Some payments with 2014 classification are still present in 2015
-        if int(self.year) <= 2015:
+        if int(budget.year) <= 2015:
             fc_code = VitoriaGasteizBudgetLoader.programme_mapping.get(fc_code, fc_code)
 
         # first two digits of the functional code make the policy id
@@ -61,7 +56,7 @@ class VitoriaGasteizPaymentsLoader(PaymentsLoader):
 
         # Some rows doesn't include payee data, so we asign an arbitrary value
         if not payee:
-            payee = "OTROS"
+            payee = "OTROS" if budget.entity.language == 'es' else 'BESTE BATZUK'
 
         # we haven't got any anonymized entries
         anonymized = False
