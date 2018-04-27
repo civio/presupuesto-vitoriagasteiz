@@ -7,22 +7,22 @@
         myGrid;
 
     var isSocialHouse = function() {
-      var houseSocialValues = [false, true, true]
+      var houseSocialValues = [false, false, true, true]
       return houseSocialValues[+$('#select-house-social').val()];
     }
 
     var isOneParentFamily = function() {
-      var monoFamilyValues = [true, false];
+      var monoFamilyValues = [false, true, false];
       return monoFamilyValues[+$("#select-mono-family").val()];
     }
 
     var isLargeFamily = function() {
-      var largeFamilyValues = [true, false];
+      var largeFamilyValues = [false, true, false];
       return largeFamilyValues[+$("#select-large-family").val()];
     }
 
     var familyMembers = function() {
-      var familyValues = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+      var familyValues = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
       return familyValues[+$("#select-family").val()];
     }
 
@@ -58,13 +58,38 @@
     SMI = 10302.60;
 
     // Tax calculations
-    TaxReceipt.taxes.house.values = [0, 0, 378.79, 381.01, 358.21, 692.47, 472.78, 479.57, 1435.59];
+    TaxReceipt.taxes.house.values = [0, 0, 0, 378.79, 381.01, 358.21, 692.47, 472.78, 479.57, 1435.59];
     TaxReceipt.taxes.house.callback = function(selector, values) {
       // selector value is 'house'
+      if (+$('#select-house').val() == 0) {
+        $("#select-house-social").prop('disabled', true);
+        $("#select-house-social").val(0);
+        $("#select-energy").prop('disabled', true);
+        $("#select-energy").val(0);
+      } else {
+        $("#select-house-social").prop('disabled', false);
+        $("#select-energy").prop('disabled', false);
+      }
+
       if (isSocialHouse()) {
         $("#select-house-social-years").prop('disabled', false);
       } else {
         $("#select-house-social-years").prop('disabled', 'disabled');
+        $("#select-house-social-years").val(0);
+      }
+
+      if (+$('#select-family').val() <= 1) {
+        $("#select-mono-family").prop('disabled', true);
+        $("#select-mono-family").val(0);
+        $("#select-large-family").prop('disabled', true);
+        $("#select-large-family").val(0);
+      } else if (+$('#select-family').val() <= 2) {
+        $("#select-mono-family").prop('disabled', false);
+        $("#select-large-family").prop('disabled', true);
+        $("#select-large-family").val(0);
+      } else {
+        $("#select-mono-family").prop('disabled', false);
+        $("#select-large-family").prop('disabled', false);
       }
 
       var socialBonusThresholds = {
@@ -81,13 +106,13 @@
         11: 47979.85,
         12: 52777.85
       };
-      var socialBonusValues = [[0, 0, 0, 0, 0, 0], [0.5, 0.3, 0.2, 0.1, 0, 0], [0.5, 0.3, 0.2, 0.2, 0.1, 0]];
+      var socialBonusValues = [[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0.5, 0.3, 0.2, 0.1, 0, 0], [0, 0.5, 0.3, 0.2, 0.2, 0.1, 0]];
       var socialBonus = socialBonusValues[+$('#select-house-social').val()][+$("#select-house-social-years").val()];
       if (familyIncome() > socialBonusThresholds[familyMembers()]) {
         socialBonus = 0;
       }
 
-      var energyBonusValues = [0.5, 0.25, 0.5, 0];
+      var energyBonusValues = [0, 0.5, 0.25, 0.5];
       var energyBonus = energyBonusValues[+$('#select-energy').val()];
 
       var income = standarizedIncome();
@@ -130,42 +155,68 @@
       return values[+$('#select-house').val()] * (1 - Math.max(cummulativeBonus, incomeBonus));
     };
 
-    TaxReceipt.taxes.vehicle.values = [0, 10.76, 72.91, 162.03, 216.19];
+    TaxReceipt.taxes.vehicle.values = [0, 0, 10.76, 72.91, 162.03, 216.19];
     TaxReceipt.taxes.vehicle.callback = function(selector, values) {
       // selector value is 'vehicle'
-      if (+$('#select-vehicle').val() == 0) {
-        $("#select-eco").prop('disabled', true)
-        $("#select-disability").prop('disabled', true)
-        $("#select-historic").prop('disabled', true)
+      if (+$('#select-vehicle').val() <= 1) {
+        $("#select-eco").prop('disabled', true);
+        $("#select-eco").val(0);
+        $("#select-disability").prop('disabled', true);
+        $("#select-disability").val(0);
+        $("#select-historic").prop('disabled', true);
+        $("#select-historic").val(0);
+        $("#select-extra-vehicle").prop('disabled', true);
+        $("#select-extra-vehicle").val(0);
       } else {
-        $("#select-eco").prop('disabled', false)
-        $("#select-disability").prop('disabled', false)
-        $("#select-historic").prop('disabled', false)
+        $("#select-eco").prop('disabled', false);
+        $("#select-disability").prop('disabled', false);
+        $("#select-historic").prop('disabled', false);
+        $("#select-extra-vehicle").prop('disabled', false);
       }
 
-      var ecoBonusValues = [0.9, 0];
+      if (+$('#select-extra-vehicle').val() <= 1 ) {
+        $("#select-extra-eco").prop('disabled', true);
+        $("#select-extra-eco").val(0);
+        $("#select-extra-disability").prop('disabled', true);
+        $("#select-extra-disability").val(0);
+        $("#select-extra-historic").prop('disabled', true);
+        $("#select-extra-historic").val(0);
+      } else {
+        $("#select-extra-eco").prop('disabled', false);
+        $("#select-extra-disability").prop('disabled', false);
+        $("#select-extra-historic").prop('disabled', false);
+      }
+
+      var ecoBonusValues = [0, 0.9, 0.5, 0];
       var ecoBonus = ecoBonusValues[+$('#select-eco').val()];
+      var ecoBonusExtra = ecoBonusValues[+$('#select-extra-eco').val()];
 
-      var disabilityBonusValues = [1, 0];
+      var disabilityBonusValues = [0, 1, 0];
       var disabilityBonus = disabilityBonusValues[+$('#select-disability').val()];
+      var disabilityBonusExtra = disabilityBonusValues[+$('#select-extra-disability').val()];
 
-      var historicBonusValues = [0.9, 0];
+      var historicBonusValues = [0, 0.9, 0];
       var historicBonus = historicBonusValues[+$('#select-historic').val()];
+      var historicBonusExtra = historicBonusValues[+$('#select-extra-historic').val()];
 
-      var familyBonusValues = [0.1, 0];
+      var familyBonusValues = [0, 0.1, 0];
       var familyBonus = familyBonusValues[+$('#select-large-family').val()];
+      var familyBonusExtra = familyBonusValues[+$('#select-large-family').val()];
 
-      var cummulativeBonus = Math.min(1, (ecoBonus + disabilityBonus + historicBonus + familyBonus))
-      return values[+$('#select-vehicle').val()] * (1 - cummulativeBonus);
+      var cummulativeBonus = Math.min(1, (ecoBonus + disabilityBonus + historicBonus + familyBonus));
+      var cummulativeBonusExtra = Math.min(1, (ecoBonusExtra + disabilityBonusExtra + historicBonusExtra + familyBonusExtra));
+
+      return values[+$('#select-vehicle').val()] * (1 - cummulativeBonus) +
+             values[+$('#select-extra-vehicle').val()] * (1 - cummulativeBonusExtra);
     };
 
-    TaxReceipt.taxes.garbage.values = [0, 0, 0, 0, 0, 1, 1, 1, 2];
+    TaxReceipt.taxes.garbage.values = [0, 1, 1, 1, 1, 1, 2, 2, 2, 3];
     TaxReceipt.taxes.garbage.callback = function(selector, values) {
       // selector value is 'garbage'
       var members = familyMembers();
       var income = familyIncome();
 
-      var garbageValues = [55.09, 81.28, 103.95];
+      var garbageValues = [0, 55.09, 81.28, 103.95];
       var taxIndex = values[+$('#select-house').val()];
       if (isLargeFamily() || isOneParentFamily()) {
         taxIndex = Math.max(0, taxIndex - 1);
@@ -213,7 +264,7 @@
 
     // Add water tax
     TaxReceipt.taxes.water = { selector: 'water' };
-    TaxReceipt.taxes.water.values = [93.65, 102.33, 109.21, 122.09, 159.16, 161.69, 186.24, 204.00, 204.00, 204.00, 204.00, 204.00],
+    TaxReceipt.taxes.water.values = [0, 93.65, 102.33, 109.21, 122.09, 159.16, 161.69, 186.24, 204.00, 204.00, 204.00, 204.00, 204.00],
     TaxReceipt.taxes.water.callback = function(selector, values) {
       // selector value is 'water'
       return values[+$('#select-family').val()];

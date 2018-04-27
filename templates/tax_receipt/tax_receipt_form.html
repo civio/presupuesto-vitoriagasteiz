@@ -8,46 +8,49 @@
     <div class="form-group">
       <label for="select-house">{{ _('Vivienda') }}</label>
       <select id="select-house" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Vivienda de 60 m\u00B2 en un barrio') }}</option>
-        <option value="1" type="text">{{ _('Vivienda de 80 m\u00B2') }}</option>
-        <option value="2" type="text">{{ _('Vivienda de 95 m\u00B2') }}</option>
-        <option value="3" type="text">{{ _('Vivienda de 110 m\u00B2 en barrio nueva construcción') }}</option>
-        <option value="4" type="text">{{ _('Vivienda de 115 m\u00B2 en el centro de la ciudad') }}</option>
-        <option value="5" type="text">{{ _('Vivienda de 121 m\u00B2 situada en una avenida principal') }}</option>
-        <option value="6" type="text">{{ _('Vivienda de 125 m\u00B2 en barrio nueva construcción') }}</option>
-        <option value="7" type="text">{{ _('Vivienda adosada de 145 m\u00B2') }}</option>
-        <option value="8" type="text">{{ _('Vivienda unifamiliar de 359 m\u00B2 en zona residencial') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Vivienda de 60 m² en un barrio') }}</option>
+        <option value="2" type="text">{{ _('Vivienda de 80 m²') }}</option>
+        <option value="3" type="text">{{ _('Vivienda de 95 m²') }}</option>
+        <option value="4" type="text">{{ _('Vivienda de 110 m² en barrio nueva construcción') }}</option>
+        <option value="5" type="text">{{ _('Vivienda de 115 m² en el centro de la ciudad') }}</option>
+        <option value="6" type="text">{{ _('Vivienda de 121 m² situada en una avenida principal') }}</option>
+        <option value="7" type="text">{{ _('Vivienda de 125 m² en barrio nueva construcción') }}</option>
+        <option value="8" type="text">{{ _('Vivienda adosada de 145 m²') }}</option>
+        <option value="9" type="text">{{ _('Vivienda unifamiliar de 359 m² en zona residencial') }}</option>
       </select>
     </div>
 
     <div class="form-group" style="clear: both">
       <label for="select-house-social">{{ _('¿Tiene bonificación por VPO o vivienda social?') }}</label>
       <select id="select-house-social" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('No') }}</option>
-        <option value="1" type="text">{{ _('Sí, por VPO') }}</option>
-        <option value="2" type="text">{{ _('Sí, por vivienda social') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('No') }}</option>
+        <option value="2" type="text">{{ _('Sí, por VPO') }}</option>
+        <option value="3" type="text">{{ _('Sí, por vivienda social') }}</option>
       </select>
     </div>
 
     <div class="form-group">
       <label for="select-house-social-years">{{ _('Años desde la construcción') }}</label>
       <select id="select-house-social-years" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('1º, 2º y 3º año') }}</option>
-        <option value="1" type="text">{{ _('4º año') }}</option>
-        <option value="2" type="text">{{ _('5º año') }}</option>
-        <option value="3" type="text">{{ _('6º año') }}</option>
-        <option value="4" type="text">{{ _('7º, 8º y 9º año') }}</option>
-        <option value="5" type="text">{{ _('10º año en adelante') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('1º, 2º y 3º año') }}</option>
+        <option value="2" type="text">{{ _('4º año') }}</option>
+        <option value="3" type="text">{{ _('5º año') }}</option>
+        <option value="4" type="text">{{ _('6º año') }}</option>
+        <option value="5" type="text">{{ _('7º, 8º y 9º año') }}</option>
+        <option value="6" type="text">{{ _('10º año en adelante') }}</option>
       </select>
     </div>
 
     <div class="form-group" style="clear: both">
       <label for="select-energy">{{ _('Clasificación energética') }}</label>
       <select id="select-energy" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Clase energética A') }}</option>
-        <option value="1" type="text">{{ _('Clase energética B') }}</option>
-        <option value="2" type="text">{{ _('Energías renovables') }}</option>
-        <option value="3" type="text">{{ _('Otra') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('No se aplica') }}</option>
+        <option value="1" type="text">{{ _('Clase energética A') }}</option>
+        <option value="2" type="text">{{ _('Clase energética B') }}</option>
+        <option value="3" type="text">{{ _('Energías renovables') }}</option>
       </select>
     </div>
   </div>
@@ -56,41 +59,45 @@
     <div class="form-group">
       <label for="select-income">{{ _('Renta anual de la unidad familiar') }}</label>
       <div class="input-group">
-        <input id="select-income" type="text" class="form-control" value="24.000"/>
-        <div class="input-group-addon">Euros</div>
+        <input id="select-income" type="text" class="form-control" placeholder="{{ _('Indicar la cantidad') }}"/>
+        <div class="input-group-addon">{{ _('Euros') }}</div>
       </div>
     </div>
 
     <div class="form-group" style="clear: both">
       <label for="select-family">{{ _('Miembros de la unidad familiar') }}</label>
       <select id="select-family" class="form-control">
-        <option value="0" type="text">{{ _('Una persona') }}</option>
-        <option value="1" type="text" selected="selected">{{ _('Dos personas') }}</option>
-        <option value="2" type="text">{{ _('Tres personas') }}</option>
-        <option value="3" type="text">{{ _('Cuatro personas') }}</option>
-        <option value="4" type="text">{{ _('Cinco personas') }}</option>
-        <option value="5" type="text">{{ _('Seis personas') }}</option>
-        <option value="6" type="text">{{ _('Siete personas') }}</option>
-        <option value="7" type="text">{{ _('Ocho personas') }}</option>
-        <option value="8" type="text">{{ _('Nueve personas') }}</option>
-        <option value="9" type="text">{{ _('Diez personas') }}</option>
-        <option value="10" type="text">{{ _('Once personas') }}</option>
-        <option value="11" type="text">{{ _('Doce personas o más') }}</option>
-      </select>    </div>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Una persona') }}</option>
+        <option value="2" type="text">{{ _('Dos personas') }}</option>
+        <option value="3" type="text">{{ _('Tres personas') }}</option>
+        <option value="4" type="text">{{ _('Cuatro personas') }}</option>
+        <option value="5" type="text">{{ _('Cinco personas') }}</option>
+        <option value="6" type="text">{{ _('Seis personas') }}</option>
+        <option value="7" type="text">{{ _('Siete personas') }}</option>
+        <option value="8" type="text">{{ _('Ocho personas') }}</option>
+        <option value="9" type="text">{{ _('Nueve personas') }}</option>
+        <option value="10" type="text">{{ _('Diez personas') }}</option>
+        <option value="11" type="text">{{ _('Once personas') }}</option>
+        <option value="12" type="text">{{ _('Doce personas o más') }}</option>
+      </select>
+    </div>
 
     <div class="form-group" style="clear: both">
       <label for="select-mono-family">{{ _('¿Es familia monoparental?') }}</label>
       <select id="select-mono-family" class="form-control">
-        <option value="0" type="text">{{ _('Sí') }}</option>
-        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
       </select>
     </div>
 
     <div class="form-group">
       <label for="select-large-family">{{ _('¿Es familia numerosa?') }}</label>
       <select id="select-large-family" class="form-control">
-        <option value="0" type="text">{{ _('Sí') }}</option>
-        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
       </select>
     </div>
   </div>
@@ -99,35 +106,80 @@
     <div class="form-group">
       <label for="select-vehicle">{{ _('Vehículo') }}</label>
       <select id="select-vehicle" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Ninguno') }}</option>
-        <option value="1" type="text">{{ _('Motocicletas hasta 125cc') }}</option>
-        <option value="2" type="text">{{ _('Coche pequeño (8-12 c. fiscales)') }}</option>
-        <option value="3" type="text">{{ _('Coche mediano (12-16 c. fiscales)') }}</option>
-        <option value="4" type="text">{{ _('Coche grande (16-20 c. fiscales)') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Ninguno') }}</option>
+        <option value="2" type="text">{{ _('Motocicletas hasta 125cc') }}</option>
+        <option value="3" type="text">{{ _('Coche pequeño (8-12 c. fiscales)') }}</option>
+        <option value="4" type="text">{{ _('Coche mediano (12-16 c. fiscales)') }}</option>
+        <option value="5" type="text">{{ _('Coche grande (16-20 c. fiscales)') }}</option>
       </select>
     </div>
 
-    <div class="form-group" style="clear: both">
+    <div class="form-group">
+      <label for="select-extra-vehicle">{{ _('Vehículo adicional') }}</label>
+      <select id="select-extra-vehicle" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Ninguno') }}</option>
+        <option value="2" type="text">{{ _('Motocicletas hasta 125cc') }}</option>
+        <option value="3" type="text">{{ _('Coche pequeño (8-12 c. fiscales)') }}</option>
+        <option value="4" type="text">{{ _('Coche mediano (12-16 c. fiscales)') }}</option>
+        <option value="5" type="text">{{ _('Coche grande (16-20 c. fiscales)') }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
       <label for="select-eco">{{ _('¿Es vehículo eléctrico o híbrido?') }}</label>
       <select id="select-eco" class="form-control">
-        <option value="0" type="text">{{ _('Sí') }}</option>
-        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Eléctrico') }}</option>
+        <option value="2" type="text">{{ _('Híbrido') }}</option>
+        <option value="3" type="text">{{ _('No') }}</option>
       </select>
     </div>
 
-    <div class="form-group" style="clear: both">
+    <div class="form-group">
+      <label for="select-extra-eco">{{ _('¿Es vehículo eléctrico o híbrido?') }}</label>
+      <select id="select-extra-eco" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Eléctrico') }}</option>
+        <option value="2" type="text">{{ _('Híbrido') }}</option>
+        <option value="3" type="text">{{ _('No') }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
       <label for="select-disability">{{ _('¿Tiene bonificación por discapacidad?') }}</label>
       <select id="select-disability" class="form-control">
-        <option value="0" type="text">{{ _('Sí') }}</option>
-        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
       </select>
     </div>
 
-    <div class="form-group" style="clear: both">
+    <div class="form-group">
+      <label for="select-extra-disability">{{ _('¿Tiene bonificación por discapacidad?') }}</label>
+      <select id="select-extra-disability" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
       <label for="select-historic">{{ _('¿Es vehículo histórico?') }}</label>
       <select id="select-historic" class="form-control">
-        <option value="0" type="text">{{ _('Sí') }}</option>
-        <option value="1" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="select-extra-historic">{{ _('¿Es vehículo histórico?') }}</label>
+      <select id="select-extra-historic" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
       </select>
     </div>
   </div>
