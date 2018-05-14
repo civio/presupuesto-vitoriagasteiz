@@ -3,11 +3,10 @@ from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
 from vitoriagasteiz_budget_loader import VitoriaGasteizBudgetLoader
 
-import dateutil.parser
-
 
 class PaymentsCsvMapper:
     column_mapping = {
+        '2017': {'fc_code': 6, 'date': 1, 'payee': 16, 'description': 18, 'amount': 20},
         'default': {'fc_code': 6, 'date': 1, 'payee': 15, 'description': 17, 'amount': 19},
     }
 
@@ -15,7 +14,7 @@ class PaymentsCsvMapper:
 
     def __init__(self, year):
         column_mapping = PaymentsCsvMapper.column_mapping
-        mapping = column_mapping.get(year)
+        mapping = column_mapping.get(str(year))
 
         if not mapping:
             mapping = column_mapping.get(PaymentsCsvMapper.default)
@@ -38,7 +37,7 @@ class VitoriaGasteizPaymentsLoader(PaymentsLoader):
 
         # For pre 2015 budgets we may need to amend the programme code
         # Some payments with 2014 classification are still present in 2015
-        if int(budget.year) <= 2015:
+        if budget.year <= 2015:
             fc_code = VitoriaGasteizBudgetLoader.programme_mapping.get(fc_code, fc_code)
 
         # first two digits of the functional code make the policy id
@@ -47,26 +46,22 @@ class VitoriaGasteizPaymentsLoader(PaymentsLoader):
         # but what we want as area is the policy description
         policy = Budget.objects.get_all_descriptions(budget.entity)['functional'][policy_id]
 
-        # We got a localized date
+        # We got an iso date
         date = line[mapper.date]
-        date = dateutil.parser.parse(date, dayfirst=True).strftime("%Y-%m-%d")
 
         # Payee data
         payee = line[mapper.payee].strip()
 
-        # Some rows doesn't include payee data, so we asign an arbitrary value
-        if not payee:
-            payee = "OTROS" if budget.entity.language == 'es' else 'BESTE BATZUK'
-
-        # we haven't got any anonymized entries
+        # We got some anonymized entries
         anonymized = False
+        anonymized = (True if payee == 'ANONIMIZADO' else anonymized)
 
         # Description
         description = line[mapper.description].strip()
 
-        # We got a localized amount
+        # Amount
         amount = line[mapper.amount]
-        amount = self._read_spanish_number(amount)
+        amount = self._read_english_number(amount)
 
         return {
             'area': policy,
