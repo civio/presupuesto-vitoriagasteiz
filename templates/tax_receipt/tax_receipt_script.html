@@ -185,8 +185,8 @@
 
       var garbageValues = [0, 55.09, 81.28, 103.95];
       var taxIndex = values[+$('#select-house').val()];
-      if (isLargeFamily()) {
-        taxIndex = Math.max(0, taxIndex - 1);
+      if (isLargeFamily() && taxIndex != 0) {
+        taxIndex = Math.max(1, taxIndex - 1);
       }
 
       var familyBonusThresholds = {
