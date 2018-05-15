@@ -261,14 +261,6 @@
       return tax - (tax * familyBonus) + (tax * familyMalus);
     };
 
-    // Add water tax
-    TaxReceipt.taxes.water = { selector: 'water' };
-    TaxReceipt.taxes.water.values = [0, 93.65, 102.33, 109.21, 122.09, 159.16, 161.69, 186.24, 204.00, 204.00, 204.00, 204.00, 204.00],
-    TaxReceipt.taxes.water.callback = function(selector, values) {
-      // selector value is 'water'
-      return values[+$('#select-family').val()];
-    };
-
     // Remove unused taxes
     delete TaxReceipt.taxes.vehicleExtra;
     delete TaxReceipt.taxes.parking;

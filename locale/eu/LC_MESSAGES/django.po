@@ -295,9 +295,6 @@ msgstr "Ibilgailu motordunen zerga"
 msgid "Tasa de basuras"
 msgstr "Zaborra biltzeagatiko tasa"
 
-msgid "Tasa de abastecimiento de agua"
-msgstr "Ur-horniduraren tasa"
-
 msgid "Aproximadamente, contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Ayuntamiento de Vitoria-Gasteiz"
 msgstr "Gutxi gorabehera, <strong id=\"tax-amount-paid\"></strong>(e)ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
 
