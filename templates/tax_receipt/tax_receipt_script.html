@@ -61,25 +61,8 @@
         $("#select-large-family").prop('disabled', false);
       }
 
-      var socialBonusThresholds = {
-        1:  26482.45,
-        2:  26482.45,
-        3:  28783.64,
-        4:  30724.13,
-        5:  32291.43,
-        6:  33547.76,
-        7:  34804.09,
-        8:  36047.98,
-        9:  39652.78,
-        10: 43618.05,
-        11: 47979.85,
-        12: 52777.85
-      };
       var socialBonusValues = [[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0.5, 0.3, 0.2, 0.1, 0, 0], [0, 0.5, 0.3, 0.2, 0.2, 0.1, 0]];
       var socialBonus = socialBonusValues[+$('#select-house-social').val()][+$("#select-house-social-years").val()];
-      if (familyIncome() > socialBonusThresholds[familyMembers()]) {
-        socialBonus = 0;
-      }
 
       var energyBonusValues = [0, 0.5, 0.25, 0.5];
       var energyBonus = energyBonusValues[+$('#select-energy').val()];
