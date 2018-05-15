@@ -24,7 +24,8 @@
     var familyIncome = function() {
       var value = parseFloat($("#select-income").val().replace(/\./g, "").replace(/,/, ".")).toFixed(0);
       if (isNaN(value)) {
-        value = 0;
+        $("#select-income").val("")
+        value = Infinity;
       }
       return value;
     }
