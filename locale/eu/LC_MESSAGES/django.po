@@ -256,16 +256,13 @@ msgstr "Ibilgailua"
 msgid "Ninguno"
 msgstr "Bat ere ez"
 
-msgid "Motocicletas hasta 125cc"
-msgstr "125 cc bitarteko motozikletak"
-
-msgid "Coche pequeño (8-12 c. fiscales)"
+msgid "Turismo pequeño (8-12 c. fiscales)"
 msgstr "Auto txikia (8-12 zaldiko potentzia fiskala)"
 
-msgid "Coche mediano (12-16 c. fiscales)"
+msgid "Turismo mediano (12-16 c. fiscales)"
 msgstr "Auto ertaina (12-16 zaldiko potentzia fiskala)"
 
-msgid "Coche grande (16-20 c. fiscales)"
+msgid "Turismo grande (16-20 c. fiscales)"
 msgstr "Auto handia (16-20 zaldiko potentzia fiskala)"
 
 msgid "¿Es vehículo eléctrico o híbrido?"
@@ -277,8 +274,8 @@ msgstr "Ibilgailu elektrikoa da?"
 msgid "¿Es vehículo híbrido?"
 msgstr "Ibilgailu hibridoa da?"
 
-msgid "¿Tiene bonificación por discapacidad?"
-msgstr "Desgaitasunagatik hobaririk baduzu?"
+msgid "¿Tiene exención por discapacidad?"
+msgstr "Ezintasunagatiko salbuespenik baduzu?"
 
 msgid "¿Es vehículo histórico?"
 msgstr "Ibilgailu historikoa da?"

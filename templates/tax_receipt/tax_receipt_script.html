@@ -155,35 +155,36 @@
       return values[+$('#select-house').val()] * (1 - Math.max(cummulativeBonus, incomeBonus));
     };
 
-    TaxReceipt.taxes.vehicle.values = [0, 0, 10.76, 72.91, 162.03, 216.19];
+    TaxReceipt.taxes.vehicle.values = [0, 0, 72.91, 162.03, 216.19];
     TaxReceipt.taxes.vehicle.callback = function(selector, values) {
       // selector value is 'vehicle'
       if (+$('#select-vehicle').val() <= 1) {
-        $("#select-eco").prop('disabled', true);
-        $("#select-eco").val(0);
         $("#select-disability").prop('disabled', true);
         $("#select-disability").val(0);
-        $("#select-historic").prop('disabled', true);
-        $("#select-historic").val(0);
         $("#select-extra-vehicle").prop('disabled', true);
         $("#select-extra-vehicle").val(0);
       } else {
-        $("#select-eco").prop('disabled', false);
         $("#select-disability").prop('disabled', false);
-        $("#select-historic").prop('disabled', false);
         $("#select-extra-vehicle").prop('disabled', false);
+      }
+
+      if (+$('#select-disability').val() != 2) {
+        $("#select-eco").prop('disabled', true);
+        $("#select-eco").val(0);
+        $("#select-historic").prop('disabled', true);
+        $("#select-historic").val(0);
+      } else {
+        $("#select-eco").prop('disabled', false);
+        $("#select-historic").prop('disabled', false);
       }
 
       if (+$('#select-extra-vehicle').val() <= 1 ) {
         $("#select-extra-eco").prop('disabled', true);
         $("#select-extra-eco").val(0);
-        $("#select-extra-disability").prop('disabled', true);
-        $("#select-extra-disability").val(0);
         $("#select-extra-historic").prop('disabled', true);
         $("#select-extra-historic").val(0);
       } else {
         $("#select-extra-eco").prop('disabled', false);
-        $("#select-extra-disability").prop('disabled', false);
         $("#select-extra-historic").prop('disabled', false);
       }
 
@@ -193,7 +194,6 @@
 
       var disabilityBonusValues = [0, 1, 0];
       var disabilityBonus = disabilityBonusValues[+$('#select-disability').val()];
-      var disabilityBonusExtra = disabilityBonusValues[+$('#select-extra-disability').val()];
 
       var historicBonusValues = [0, 0.9, 0];
       var historicBonus = historicBonusValues[+$('#select-historic').val()];
@@ -201,10 +201,9 @@
 
       var familyBonusValues = [0, 0.1, 0];
       var familyBonus = familyBonusValues[+$('#select-large-family').val()];
-      var familyBonusExtra = familyBonusValues[+$('#select-large-family').val()];
 
       var cummulativeBonus = Math.min(1, (ecoBonus + disabilityBonus + historicBonus + familyBonus));
-      var cummulativeBonusExtra = Math.min(1, (ecoBonusExtra + disabilityBonusExtra + historicBonusExtra + familyBonusExtra));
+      var cummulativeBonusExtra = Math.min(1, (ecoBonusExtra + historicBonusExtra));
 
       return values[+$('#select-vehicle').val()] * (1 - cummulativeBonus) +
              values[+$('#select-extra-vehicle').val()] * (1 - cummulativeBonusExtra);

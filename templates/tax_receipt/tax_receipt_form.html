@@ -108,10 +108,9 @@
       <select id="select-vehicle" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
         <option value="1" type="text">{{ _('Ninguno') }}</option>
-        <option value="2" type="text">{{ _('Motocicletas hasta 125cc') }}</option>
-        <option value="3" type="text">{{ _('Coche pequeño (8-12 c. fiscales)') }}</option>
-        <option value="4" type="text">{{ _('Coche mediano (12-16 c. fiscales)') }}</option>
-        <option value="5" type="text">{{ _('Coche grande (16-20 c. fiscales)') }}</option>
+        <option value="3" type="text">{{ _('Turismo pequeño (8-12 c. fiscales)') }}</option>
+        <option value="4" type="text">{{ _('Turismo mediano (12-16 c. fiscales)') }}</option>
+        <option value="5" type="text">{{ _('Turismo grande (16-20 c. fiscales)') }}</option>
       </select>
     </div>
 
@@ -120,20 +119,18 @@
       <select id="select-extra-vehicle" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
         <option value="1" type="text">{{ _('Ninguno') }}</option>
-        <option value="2" type="text">{{ _('Motocicletas hasta 125cc') }}</option>
-        <option value="3" type="text">{{ _('Coche pequeño (8-12 c. fiscales)') }}</option>
-        <option value="4" type="text">{{ _('Coche mediano (12-16 c. fiscales)') }}</option>
-        <option value="5" type="text">{{ _('Coche grande (16-20 c. fiscales)') }}</option>
+        <option value="3" type="text">{{ _('Turismo pequeño (8-12 c. fiscales)') }}</option>
+        <option value="4" type="text">{{ _('Turismo mediano (12-16 c. fiscales)') }}</option>
+        <option value="5" type="text">{{ _('Turismo grande (16-20 c. fiscales)') }}</option>
       </select>
     </div>
 
     <div class="form-group">
-      <label for="select-eco">{{ _('¿Es vehículo eléctrico o híbrido?') }}</label>
-      <select id="select-eco" class="form-control">
+      <label for="select-disability">{{ _('¿Tiene exención por discapacidad?') }}</label>
+      <select id="select-disability" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
-        <option value="1" type="text">{{ _('Eléctrico') }}</option>
-        <option value="2" type="text">{{ _('Híbrido') }}</option>
-        <option value="3" type="text">{{ _('No') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
+        <option value="2" type="text">{{ _('No') }}</option>
       </select>
     </div>
 
@@ -148,17 +145,18 @@
     </div>
 
     <div class="form-group">
-      <label for="select-disability">{{ _('¿Tiene bonificación por discapacidad?') }}</label>
-      <select id="select-disability" class="form-control">
+      <label for="select-eco">{{ _('¿Es vehículo eléctrico o híbrido?') }}</label>
+      <select id="select-eco" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
-        <option value="1" type="text">{{ _('Sí') }}</option>
-        <option value="2" type="text">{{ _('No') }}</option>
+        <option value="1" type="text">{{ _('Eléctrico') }}</option>
+        <option value="2" type="text">{{ _('Híbrido') }}</option>
+        <option value="3" type="text">{{ _('No') }}</option>
       </select>
     </div>
 
     <div class="form-group">
-      <label for="select-extra-disability">{{ _('¿Tiene bonificación por discapacidad?') }}</label>
-      <select id="select-extra-disability" class="form-control">
+      <label for="select-extra-historic">{{ _('¿Es vehículo histórico?') }}</label>
+      <select id="select-extra-historic" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
         <option value="1" type="text">{{ _('Sí') }}</option>
         <option value="2" type="text">{{ _('No') }}</option>
@@ -168,15 +166,6 @@
     <div class="form-group">
       <label for="select-historic">{{ _('¿Es vehículo histórico?') }}</label>
       <select id="select-historic" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
-        <option value="1" type="text">{{ _('Sí') }}</option>
-        <option value="2" type="text">{{ _('No') }}</option>
-      </select>
-    </div>
-
-    <div class="form-group">
-      <label for="select-extra-historic">{{ _('¿Es vehículo histórico?') }}</label>
-      <select id="select-extra-historic" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
         <option value="1" type="text">{{ _('Sí') }}</option>
         <option value="2" type="text">{{ _('No') }}</option>
