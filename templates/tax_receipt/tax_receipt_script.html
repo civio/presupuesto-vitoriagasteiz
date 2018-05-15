@@ -29,22 +29,6 @@
       return value;
     }
 
-    var standarizedIncome = function() {
-      var members = familyMembers();
-      var income = familyIncome();
-
-      var adults = 2;
-      var childs = members - adults;
-      var coeficient = 0;
-      if (adults == 1) {
-        coeficient += 1.3;
-      } else {
-        coeficient += 1.5;
-      }
-      coeficient += childs * 0.3;
-      return income / coeficient;
-    };
-
     // SMI for 2018
     SMI = 10302.60;
 
@@ -99,7 +83,7 @@
       var energyBonusValues = [0, 0.5, 0.25, 0.5];
       var energyBonus = energyBonusValues[+$('#select-energy').val()];
 
-      var income = standarizedIncome();
+      var income = familyIncome();
 
       var familyBonus;
       if (!isLargeFamily()) {
