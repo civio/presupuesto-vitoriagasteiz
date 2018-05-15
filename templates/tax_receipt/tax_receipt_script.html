@@ -11,11 +11,6 @@
       return houseSocialValues[+$('#select-house-social').val()];
     }
 
-    var isOneParentFamily = function() {
-      var monoFamilyValues = [false, true, false];
-      return monoFamilyValues[+$("#select-mono-family").val()];
-    }
-
     var isLargeFamily = function() {
       var largeFamilyValues = [false, true, false];
       return largeFamilyValues[+$("#select-large-family").val()];
@@ -38,11 +33,7 @@
       var members = familyMembers();
       var income = familyIncome();
 
-      var adults = 1;
-      if (members > 1 && !isOneParentFamily()) {
-        adults = 2;
-      }
-
+      var adults = 2;
       var childs = members - adults;
       var coeficient = 0;
       if (adults == 1) {
@@ -78,17 +69,10 @@
         $("#select-house-social-years").val(0);
       }
 
-      if (+$('#select-family').val() <= 1) {
-        $("#select-mono-family").prop('disabled', true);
-        $("#select-mono-family").val(0);
-        $("#select-large-family").prop('disabled', true);
-        $("#select-large-family").val(0);
-      } else if (+$('#select-family').val() <= 2) {
-        $("#select-mono-family").prop('disabled', false);
+      if (+$('#select-family').val() < 3) {
         $("#select-large-family").prop('disabled', true);
         $("#select-large-family").val(0);
       } else {
-        $("#select-mono-family").prop('disabled', false);
         $("#select-large-family").prop('disabled', false);
       }
 
@@ -217,7 +201,7 @@
 
       var garbageValues = [0, 55.09, 81.28, 103.95];
       var taxIndex = values[+$('#select-house').val()];
-      if (isLargeFamily() || isOneParentFamily()) {
+      if (isLargeFamily()) {
         taxIndex = Math.max(0, taxIndex - 1);
       }
 
@@ -253,7 +237,7 @@
         malusIndex = 8;
       }
       familyMalus = familyMalusValues[malusIndex];
-      if (isLargeFamily() || isOneParentFamily()) {
+      if (isLargeFamily()) {
         familyMalus *= 0.5
       }
 

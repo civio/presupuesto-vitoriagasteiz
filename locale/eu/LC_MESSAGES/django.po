@@ -241,9 +241,6 @@ msgstr "Hamaika pertsona"
 msgid "Doce personas o más"
 msgstr "Hamabi pertsona edo gehiago"
 
-msgid "¿Es familia monoparental?"
-msgstr "Guraso bakarreko familia da?"
-
 msgid "Sí"
 msgstr "Bai"
 
