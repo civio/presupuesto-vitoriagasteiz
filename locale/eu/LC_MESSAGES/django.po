@@ -101,10 +101,10 @@ msgstr "Erabilerraztasuna"
 
 # vitoria tax receipt
 msgid "Seleccionar una opción"
-msgstr "Opzioa aukeratzea"
+msgstr "Aukera bat hautatu"
 
 msgid "Indicar la cantidad"
-msgstr "Kantitatea adieraztea"
+msgstr "Zenbatekoa adierazi"
 
 msgid "Euros"
 msgstr "Euroak"
