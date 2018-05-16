@@ -68,3 +68,16 @@ msgstr "Se realiza a través de impuestos directos -como el impuesto de bienes i
 msgid "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Aragón"
 msgstr "Aproximadamente, contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Ayuntamiento de Vitoria-Gasteiz"
 
+#: templates/payments/payments_script.html:104
+#: templates/payments/payments_search.html:31
+msgid "Proveedor"
+msgstr "Destinatario/a del pago"
+
+#: templates/payments/payments_search.html:2
+#: templates/payments/payments_search.html:9
+msgid "Busca pagos a proveedores"
+msgstr "Busca pagos realizados"
+
+#: templates/payments/payments_search.html:33
+msgid "Todos los proveedores"
+msgstr "Todos/as"

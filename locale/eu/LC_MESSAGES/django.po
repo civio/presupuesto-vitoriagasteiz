@@ -67,6 +67,20 @@ msgstr "Inflazioaren araberako doikuntza <strong>%s(e)ko urtarrilaren 1ean egin 
 msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
 msgstr "Zuzeneko zergen bidez egiten da; adibidez, ondasun higiezinen gaineko zerga (OHZ) eta trakzio mekanikoko ibilgailuen gainekoa (TMIZ)"
 
+#: templates/payments/payments_script.html:104
+#: templates/payments/payments_search.html:31
+msgid "Proveedor"
+msgstr "Ordainketaren hartzailea"
+
+#: templates/payments/payments_search.html:2
+#: templates/payments/payments_search.html:9
+msgid "Busca pagos a proveedores"
+msgstr "Bilatu egindako ordainketak"
+
+#: templates/payments/payments_search.html:33
+msgid "Todos los proveedores"
+msgstr "Denak"
+
 # vitoria custom header
 msgid "Buzón Ciudadano"
 msgstr "Herritarren postontzia"
