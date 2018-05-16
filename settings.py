@@ -105,7 +105,7 @@ DATA_SOURCE_POPULATION = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 DATA_SOURCE_INFLATION = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do'
+MAIN_ENTITY_WEB_URL = 'http://www.vitoria-gasteiz.org'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_LEGAL_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u_1dc1e845_14a0e91afa2__7e40'
