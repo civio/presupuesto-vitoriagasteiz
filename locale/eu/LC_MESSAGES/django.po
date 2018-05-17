@@ -81,6 +81,14 @@ msgstr "Bilatu egindako ordainketak"
 msgid "Todos los proveedores"
 msgstr "Denak"
 
+#: templates/payments/index.html:33
+msgid "Principales proveedores"
+msgstr "Ordainketaren hartzailea nagusiak"
+
+#: templates/payments/payments_script.html:85
+msgid "Beneficiario"
+msgstr "Ordainketaren hartzailea"
+
 # vitoria custom header
 msgid "Buzón Ciudadano"
 msgstr "Herritarren postontzia"

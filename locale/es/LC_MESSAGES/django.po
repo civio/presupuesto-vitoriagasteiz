@@ -81,3 +81,11 @@ msgstr "Busca pagos realizados"
 #: templates/payments/payments_search.html:33
 msgid "Todos los proveedores"
 msgstr "Todos/as"
+
+#: templates/payments/index.html:33
+msgid "Principales proveedores"
+msgstr "Principales destinatarios/as del pago"
+
+#: templates/payments/payments_script.html:85
+msgid "Beneficiario"
+msgstr "Destinatario/a del pago"
