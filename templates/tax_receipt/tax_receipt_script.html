@@ -30,8 +30,19 @@
       return value;
     }
 
-    // SMI for 2018
-    SMI = 10302.60;
+    var standarizedIncome = function() {
+      var members = familyMembers();
+      var income = familyIncome();
+
+      var adults = 2;
+      var coeficient = 1.5;
+      var childs = members - adults;
+      coeficient += childs * 0.3;
+      return income / coeficient;
+    };
+
+    // SMI for 2016
+    SMI = 9172.80;
 
     // Tax calculations
     TaxReceipt.taxes.house.values = [0, 109.40, 191.31, 378.79, 381.01, 358.21, 692.47, 472.78, 479.57, 1435.59];
@@ -67,22 +78,24 @@
       var energyBonusValues = [0, 0.5, 0.25, 0.5];
       var energyBonus = energyBonusValues[+$('#select-energy').val()];
 
-      var income = familyIncome();
+      var stdIncome = standarizedIncome();
 
       var familyBonus;
       if (!isLargeFamily()) {
         familyBonus = 0;
       } else {
-        if (income <= SMI*2) {
+        if (stdIncome <= (SMI*2).toFixed(2)) {
           familyBonus = 0.9;
-        } else if (income > SMI*2 && income <= SMI*2.5) {
+        } else if (stdIncome > (SMI*2).toFixed(2) && stdIncome <= (SMI*2.5).toFixed(2)) {
           familyBonus = 0.5;
-        } else if (income > SMI*2.5 && income <= SMI*2.75) {
+        } else if (stdIncome > (SMI*2.5).toFixed(2) && stdIncome <= (SMI*2.75).toFixed(2)) {
           familyBonus = 0.1;
         } else {
           familyBonus = 0;
         }
       }
+
+      var income = familyIncome();
 
       var incomeBonus;
       if (income <= 3300) {
