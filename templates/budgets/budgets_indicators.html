@@ -1,0 +1,51 @@
+<div class="panel indicators">
+  <div class="panel-title row">
+    <div class="col-sm-12">{{ _('Indicadores presupuestarios') }}</div>
+  </div>
+  <ul class="panel-content">
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro bruto') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Ingresos corrientes (capítulos I-V) - Gastos corrientes (capítulos I-V)') }}">{{ _('Glosario') }} - {{ _('Ahorro bruto') }}</a> {{ _('Ahorro bruto') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">28.342.259 €</strong>
+        <strong class="value value-2013">29.047.407 €</strong>
+        <strong class="value value-2014">15.880.888 €</strong>
+        <strong class="value value-2015">36.039.446 €</strong>
+        <strong class="value value-2016">35.263.163 €</strong>
+        <strong class="value value-2017">35.731.349 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro neto') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Ahorro bruto – capítulo IX de gastos (pasivos financieros)') }}">{{ _('Glosario') }} - {{ _('Ahorro neto') }}</a> {{ _('Ahorro neto') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">15.951.753 €</strong>
+        <strong class="value value-2013">15.425.825 €</strong>
+        <strong class="value value-2014">7.618.453 €</strong>
+        <strong class="value value-2015">21.134.573 €</strong>
+        <strong class="value value-2016">15.883.924 €</strong>
+        <strong class="value value-2017">14.986.203 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Capacidad/Necesidad de financiación') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)') }}">{{ _('Glosario') }} - {{ _('Capacidad/Necesidad de financiación') }}</a> {{ _('Capacidad/Necesidad de financiación') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">79.073.864 €</strong>
+        <strong class="value value-2013">38.170.638 €</strong>
+        <strong class="value value-2014">29.436.811 €</strong>
+        <strong class="value value-2015">56.977.139 €</strong>
+        <strong class="value value-2016">57.612.967 €</strong>
+        <strong class="value value-2017">34.314.680 €</strong>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario.')|safe }}</small></p>
+<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('El artículo 53.1 de la Norma Foral 41/1989, de 19 de julio, reguladora de las Haciendas Locales, tras la modificación por la Norma Foral 20/2014, de 18 de junio, define el <strong>Ahorro Neto como la diferencia entre los derechos liquidados por operaciones corrientes y las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización de la operación proyectada y de cada uno de los préstamos y empréstitos propios y avalados a terceros pendientes de reembolso</strong>.')|safe }}</small></p>
+<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('El importe de la anualidad teórica de amortización se determinará, en todo caso, en <strong>términos constantes</strong>, incluyendo los intereses y la cuota <strong>anual</strong> de amortización cualquiera que sea la modalidad y condiciones de cada operación.')|safe }}</small></p>
+<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('En el cálculo del Ahorro Neto <strong>no se incluirán las obligaciones</strong> reconocidas derivadas de modificaciones de créditos que hayan sido <strong>financiadas con cargo al Remanente Líquido de Tesorería</strong>.')|safe }}</small></p>

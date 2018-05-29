@@ -89,3 +89,7 @@ msgstr "Principales destinatarios/as del pago"
 #: templates/payments/payments_script.html:85
 msgid "Beneficiario"
 msgstr "Destinatario/a del pago"
+
+#: templates/budgets/index.html:48
+msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
+msgstr "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada."

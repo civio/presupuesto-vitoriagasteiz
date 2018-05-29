@@ -89,6 +89,22 @@ msgstr "Ordainketaren hartzailea nagusiak"
 msgid "Beneficiario"
 msgstr "Ordainketaren hartzailea"
 
+#: templates/budgets/index.html:48
+msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
+msgstr "Adierazleak kalkulatzeko likidazioa itxita duten urteetan erabilitako diru-kopuruen datuak erabiltzen dira."
+
+#: templates/budgets/index.html:49
+msgid "El artículo 53.1 de la Norma Foral 41/1989, de 19 de julio, reguladora de las Haciendas Locales, tras la modificación por la Norma Foral 20/2014, de 18 de junio, define el <strong>Ahorro Neto como la diferencia entre los derechos liquidados por operaciones corrientes y las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización de la operación proyectada y de cada uno de los préstamos y empréstitos propios y avalados a terceros pendientes de reembolso</strong>."
+msgstr "Toki Ogasunak arautzen dituen uztailaren 19ko 41/1989 Foru Arauak —gerora ekainaren 18ko 20/2014 Foru Arauak aldatua— honela definitzen du <strong>aurrezpen garbia: ohiko eragiketen bitartez likidatutako eskubideen eta gastu-egoerako lehen, bigarren eta laugarren kapituluetan onartutako obligazioen arteko diferentziari proiektatutako eragiketaren eta norberaren nahiz besteri abala emandako eta artean ordaindu gabeko maileguen urteko amortizazio teorikoaren zenbatekoa kentzetik ateratzen dena</strong>."
+
+#: templates/budgets/index.html:50
+msgid "El importe de la anualidad teórica de amortización se determinará, en todo caso, en <strong>términos constantes</strong>, incluyendo los intereses y la cuota <strong>anual</strong> de amortización cualquiera que sea la modalidad y condiciones de cada operación."
+msgstr "Urteko amortizazio teorikoaren zenbatekoa, beti ere, termino konstanteetan zehaztuko da, barne hartuz interesak eta urteko amortizazio-kuota, edozein delarik ere eragiketa bakoitzaren modalitatea eta baldintzak."
+
+#: templates/budgets/index.html:51
+msgid "En el cálculo del Ahorro Neto <strong>no se incluirán las obligaciones</strong> reconocidas derivadas de modificaciones de créditos que hayan sido <strong>financiadas con cargo al Remanente Líquido de Tesorería</strong>."
+msgstr "Aurrezpen garbiaren kalkuluak <strong>ez ditu barne hartuko diruzaintzako geldikin likidoaren kontura finantzatutako</strong> kreditu-aldaketen ondorioz onartutako <strong>obligazioak</strong>."
+
 # vitoria custom header
 msgid "Buzón Ciudadano"
 msgstr "Herritarren postontzia"

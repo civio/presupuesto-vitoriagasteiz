@@ -166,7 +166,7 @@ OVERVIEW_LABELS_FONT_SIZE_MAX = 42
 # SHOW_OVERVIEW_SUBTOTALS = True
 
 # Calculate budget indicators (True), or show/hide the ones hardcoded in HTML (False). Default: True.
-# CALCULATE_BUDGET_INDICATORS = False
+CALCULATE_BUDGET_INDICATORS = False
 
 
 # Treemap Settings
