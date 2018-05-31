@@ -55,6 +55,14 @@ msgstr "Nola eta zertan gastatzen du dirua Gasteizko Udalak?"
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Gasteizko Udalaren diru-sarreren eta gastuen ideia orokor bat izan dezazun"
 
+#: templates/budgets/budgets_totals.html:12
+msgid "Total Ejecutado"
+msgstr "Burututako guztira"
+
+#: templates/budgets/budgets_totals.html:17
+msgid "Total Presupuestado"
+msgstr "Aurrekontuan jasotako guztira"
+
 #: templates/budgets/budgets_totals.html:51
 msgid "Cantidades actualizadas con la inflación a fecha 1 de enero de %s."
 msgstr "%s(e)ko urtarrilaren 1ean, inflazioa kontuan hartuta, eguneratutako kopuruak."
@@ -81,9 +89,17 @@ msgstr "Bilatu egindako ordainketak"
 msgid "Todos los proveedores"
 msgstr "Denak"
 
+#: templates/payments/index.html:10
+msgid "Inversiones y pagos"
+msgstr "Ordainketak eta inbertsioak"
+
+#: templates/payments/index.html:25
+msgid "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> en <span id=\"payments-years\"></span>"
+msgstr "<strong id=\"payments-size\"></strong> ordainketa daude bilaketa honetan, eta guztira <strong id=\"payments-total\"></strong> dira, <span id=\"payments-years\"></span> epean"
+
 #: templates/payments/index.html:33
 msgid "Principales proveedores"
-msgstr "Ordainketaren hartzailea nagusiak"
+msgstr "Ordainketaren hartzaile nagusiak"
 
 #: templates/payments/payments_script.html:85
 msgid "Beneficiario"
@@ -104,6 +120,15 @@ msgstr "Urteko amortizazio teorikoaren zenbatekoa, beti ere, termino konstanteet
 #: templates/budgets/index.html:51
 msgid "En el cálculo del Ahorro Neto <strong>no se incluirán las obligaciones</strong> reconocidas derivadas de modificaciones de créditos que hayan sido <strong>financiadas con cargo al Remanente Líquido de Tesorería</strong>."
 msgstr "Aurrezpen garbiaren kalkuluak <strong>ez ditu barne hartuko diruzaintzako geldikin likidoaren kontura finantzatutako</strong> kreditu-aldaketen ondorioz onartutako <strong>obligazioak</strong>."
+
+#: templates/entities/show_script.html:100
+#: templates/policies/show_script.html:186
+msgid "Total"
+msgstr "Guztira"
+
+#: templates/shared/data_controllers_select.html:5
+msgid "Porcentaje sobre el total"
+msgstr "Guztira gaineko ehunekoa"
 
 # vitoria custom header
 msgid "Buzón Ciudadano"
@@ -330,11 +355,5 @@ msgstr "Ibilgailu motordunen zerga"
 msgid "Tasa de basuras"
 msgstr "Zaborra biltzeagatiko tasa"
 
-msgid "Aproximadamente, contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Ayuntamiento de Vitoria-Gasteiz"
-msgstr "Gutxi gorabehera, <strong id=\"tax-amount-paid\"></strong>(e)ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
-
-msgid "Contribuyes con un total aproximado de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Ayuntamiento de Vitoria-Gasteiz"
-msgstr "<strong id=\"tax-amount-paid\"></strong>(e)ko gutxi gorabeherako ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
-
 msgid "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Aragón"
-msgstr "Guztira, <strong id=\"tax-amount-paid\"></strong>(e)ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan"
+msgstr "Guztira, <strong id=\"tax-amount-paid\"></strong>ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan, gutxi gorabehera"
