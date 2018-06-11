@@ -96,7 +96,7 @@ FACEBOOK_ID = '101568380658287'
 ANALYTICS_ID = 'UA-28946840-43'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET = 'http://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
+DATA_SOURCE_BUDGET = 'https://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
 
 # Setup Data Source Population link
 DATA_SOURCE_POPULATION = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
@@ -105,16 +105,16 @@ DATA_SOURCE_POPULATION = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 DATA_SOURCE_INFLATION = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL = 'http://www.vitoria-gasteiz.org'
+MAIN_ENTITY_WEB_URL = 'https://www.vitoria-gasteiz.org'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u_1dc1e845_14a0e91afa2__7e40'
+MAIN_ENTITY_LEGAL_URL = 'https://www.vitoria-gasteiz.org/we001/was/we001Action.do?aplicacion=wb021&tabla=contenido&uid=u_1dc1e845_14a0e91afa2__7e40&accion=contenido'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_PRIVACY_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u_1dc1e845_14a0e91afa2__7e3e'
+MAIN_ENTITY_PRIVACY_URL = 'https://www.vitoria-gasteiz.org/we001/was/we001Action.do?aplicacion=wb021&tabla=contenido&uid=u_1dc1e845_14a0e91afa2__7e3e&accion=contenido'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL = 'http://www.vitoria-gasteiz.org/we001/was/we001Action.do?uid=u60c04389_144007bfb26__7fc5'
+COOKIES_URL = 'https://www.vitoria-gasteiz.org/we001/was/we001Action.do?aplicacion=wb021&tabla=contenido&uid=u60c04389_144007bfb26__7fc5'
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
