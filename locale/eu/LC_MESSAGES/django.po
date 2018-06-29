@@ -47,6 +47,14 @@ msgstr "Inflazio-datuak (Euskal Autonomia Erkidegoko KPIaren urteko batezbesteko
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
 msgstr "Erakutsitako diru-sarrerak eta gastuak Gasteizko Udalari bakarrik dagozkio"
 
+#: templates/shared/data_sources.html:15
+msgid "El ajuste de la inflación se realiza a <strong>1 de enero de %s</strong>."
+msgstr "Inflazioaren araberako doikuntza <strong>%s(e)ko urtarrilaren 1ean egin da</strong>."
+
+#: templates/shared/data_sources.html:15
+msgid "La tasa de inflación anual es la media de la tasa interanual de los doce meses del año."
+msgstr "Urteko inflazio-tasa urteko hamabi hilabeteen urte arteko inflazio-tasaren batezbestekoa da."
+
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
 msgstr "Nola eta zertan gastatzen du dirua Gasteizko Udalak?"
@@ -57,19 +65,19 @@ msgstr "Gasteizko Udalaren diru-sarreren eta gastuen ideia orokor bat izan dezaz
 
 #: templates/budgets/budgets_totals.html:12
 msgid "Total Ejecutado"
-msgstr "Burututako guztira"
+msgstr "Gauzatutakoa guztira"
 
 #: templates/budgets/budgets_totals.html:17
 msgid "Total Presupuestado"
-msgstr "Aurrekontuan jasotako guztira"
+msgstr "Aurrekontuan jasotakoa guztira"
 
 #: templates/budgets/budgets_totals.html:51
 msgid "Cantidades actualizadas con la inflación a fecha 1 de enero de %s."
 msgstr "%s(e)ko urtarrilaren 1ean, inflazioa kontuan hartuta, eguneratutako kopuruak."
 
-#: templates/shared/data_sources.html:15
-msgid "El ajuste de la inflación se realiza a <strong>1 de enero de %s</strong>."
-msgstr "Inflazioaren araberako doikuntza <strong>%s(e)ko urtarrilaren 1ean egin da</strong>."
+#: templates/budgets/budgets_indicators.html:11
+msgid "Capacidad/Necesidad de financiación"
+msgstr "Finantziazio-ahalmena / Finantziazio-beharra"
 
 #: templates/budgets/budgets_intro.html:10
 msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
@@ -93,9 +101,13 @@ msgstr "Denak"
 msgid "Inversiones y pagos"
 msgstr "Ordainketak eta inbertsioak"
 
+#: templates/payments/index.html:24
+msgid "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> en <span id=\"payments-years\"></span>."
+msgstr "Bilaketa honetan <strong id=\"payments-size\"></strong> ordainketa daude, eta guztira <strong id=\"payments-total\"></strong> dira.<br/>Epea: <span id=\"payments-years\"></span>"
+
 #: templates/payments/index.html:25
-msgid "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> en <span id=\"payments-years\"></span>"
-msgstr "<strong id=\"payments-size\"></strong> ordainketa daude bilaketa honetan, eta guztira <strong id=\"payments-total\"></strong> dira, <span id=\"payments-years\"></span> epean"
+msgid "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> para la búsqueda:"
+msgstr "Bilaketa honetan <strong id=\"payments-size\"></strong> ordainketa daude, eta guztira <strong id=\"payments-total\"></strong> dira."
 
 #: templates/payments/index.html:33
 msgid "Principales proveedores"
@@ -120,6 +132,10 @@ msgstr "Urteko amortizazio teorikoaren zenbatekoa, beti ere, termino konstanteet
 #: templates/budgets/index.html:51
 msgid "En el cálculo del Ahorro Neto <strong>no se incluirán las obligaciones</strong> reconocidas derivadas de modificaciones de créditos que hayan sido <strong>financiadas con cargo al Remanente Líquido de Tesorería</strong>."
 msgstr "Aurrezpen garbiaren kalkuluak <strong>ez ditu barne hartuko diruzaintzako geldikin likidoaren kontura finantzatutako</strong> kreditu-aldaketen ondorioz onartutako <strong>obligazioak</strong>."
+
+#: templates/budgets/index.html:120
+msgid "Ejecutado"
+msgstr "Gauzatua"
 
 #: templates/entities/show_script.html:100
 #: templates/policies/show_script.html:186
@@ -176,10 +192,10 @@ msgid "No se aplica"
 msgstr "Ez da kontuan hartzen"
 
 msgid "Eléctrico"
-msgstr "Elektriko"
+msgstr "Elektrikoa"
 
 msgid "Híbrido"
-msgstr "Hibrido"
+msgstr "Hibridoa"
 
 msgid "Escoge las opciones que mejor reflejen tu realidad. Puedes modificar cada uno de los elementos de forma independiente."
 msgstr "Hautatu zure errealitatea ondoen islatzen duten aukerak. Elementu bakoitza banaka alda dezakezu."
@@ -229,23 +245,23 @@ msgstr "Bai, etxebizitza sozialagatik"
 msgid "Años desde la construcción"
 msgstr "Urteak, eraiki zenetik"
 
-msgid "1º, 2º y 3º año"
-msgstr "1., 2. eta 3. urtea"
+msgid "1, 2 y 3 años"
+msgstr "1, 2 edo 3 urte"
 
-msgid "4º año"
-msgstr "4. urtea"
+msgid "4 años"
+msgstr "4 urte"
 
-msgid "5º año"
-msgstr "5. urtea"
+msgid "5 años"
+msgstr "5 urte"
 
-msgid "6º año"
-msgstr "6. urtea"
+msgid "6 años"
+msgstr "6 urte"
 
-msgid "7º, 8º y 9º año"
-msgstr "7., 8. eta 9. urtea"
+msgid "7, 8 y 9 años"
+msgstr "7, 8 edo 9 urte"
 
-msgid "10º año en adelante"
-msgstr "10. urtetik aurrera"
+msgid "10 años en adelante"
+msgstr "10 urte baino gehiago"
 
 msgid "Clasificación energética"
 msgstr "Sailkapen energetikoa"
@@ -357,3 +373,43 @@ msgstr "Zaborra biltzeagatiko tasa"
 
 msgid "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Aragón"
 msgstr "Guztira, <strong id=\"tax-amount-paid\"></strong>ko ekarpena egiten duzu Gasteizko Udaleko aurrekontuetan, gutxi gorabehera"
+
+#: templates/payments/payments_script.html:164
+msgid "payment.query.join"
+msgstr "<br/>"
+
+#: templates/payments/payments_script.html:143
+msgid "Descripción.payment.query"
+msgstr "Deskribapena:"
+
+#: templates/payments/payments_script.html:145
+msgid "Área.payment.query"
+msgstr "Arloa:"
+
+#: templates/payments/payments_script.html:147
+msgid "Sección.payment.query"
+msgstr "Sail:"
+
+#: templates/payments/payments_script.html:149
+msgid "Proveedor.payment.query"
+msgstr "Hornitzailea:"
+
+#: templates/payments/payments_script.html:151
+msgid "Importe mínimo.payment.query"
+msgstr "Zenbateko minimoa:"
+
+#: templates/payments/payments_script.html:153
+msgid "Importe máximo.payment.query"
+msgstr "Zenbateko maximoa:"
+
+#: templates/payments/payments_script.html:155
+msgid "NIF.payment.query"
+msgstr "IFZ:"
+
+#: templates/payments/payments_script.html:159
+msgid "Años.payment.query"
+msgstr "Epea:"
+
+#: templates/payments/payments_script.html:161
+msgid "Año.payment.query"
+msgstr "Epea:"

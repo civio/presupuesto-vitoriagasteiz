@@ -86,6 +86,14 @@ msgstr "Todos/as"
 msgid "Inversiones y pagos"
 msgstr "Pagos e inversiones"
 
+#: templates/payments/index.html:24
+msgid "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> en <span id=\"payments-years\"></span>."
+msgstr "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong>.<br/>Periodo: <span id=\"payments-years\"></span>"
+
+#: templates/payments/index.html:25
+msgid "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> para la búsqueda:"
+msgstr "Hay <strong id=\"payments-size\"></strong> pagos que suman un total de <strong id=\"payments-total\"></strong> para la búsqueda."
+
 #: templates/payments/index.html:33
 msgid "Principales proveedores"
 msgstr "Principales destinatarios/as del pago"
@@ -97,3 +105,43 @@ msgstr "Destinatario/a del pago"
 #: templates/budgets/index.html:48
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
 msgstr "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada."
+
+#: templates/payments/payments_script.html:164
+msgid "payment.query.join"
+msgstr "<br/>"
+
+#: templates/payments/payments_script.html:143
+msgid "Descripción.payment.query"
+msgstr "Descripción:"
+
+#: templates/payments/payments_script.html:145
+msgid "Área.payment.query"
+msgstr "Área:"
+
+#: templates/payments/payments_script.html:147
+msgid "Sección.payment.query"
+msgstr "Sección:"
+
+#: templates/payments/payments_script.html:149
+msgid "Proveedor.payment.query"
+msgstr "Proveedor:"
+
+#: templates/payments/payments_script.html:151
+msgid "Importe mínimo.payment.query"
+msgstr "Importe mínimo:"
+
+#: templates/payments/payments_script.html:153
+msgid "Importe máximo.payment.query"
+msgstr "Importe máximo:"
+
+#: templates/payments/payments_script.html:155
+msgid "NIF.payment.query"
+msgstr "NIF:"
+
+#: templates/payments/payments_script.html:159
+msgid "Años.payment.query"
+msgstr "Periodo:"
+
+#: templates/payments/payments_script.html:161
+msgid "Año.payment.query"
+msgstr "Periodo:"
