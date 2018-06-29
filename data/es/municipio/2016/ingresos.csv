@@ -1,117 +1,117 @@
-#Económico,Denominación Aplicación Ingresos,Crédito Inicial,Crédito definitivo,DRN
-11201,Impuesto bienes inmuebles naturaleza rústica y s. social.,296000.0,296000.0,292445.24
-11202,Impuesto bienes inmuebles naturaleza urbana,45500000.0,45500000.0,46749651.93
-11301,Impuesto sobre vehículos tracción mecánica,14000000.0,14000000.0,13991047.2
-11401,Impuesto sobre incremento valor terrenos,18700000.0,18700000.0,25142552.24
-13001,Impuesto sobre actividades económicas,8500000.0,8500000.0,9027632.45
+#Económico,Denominacion Aplicacion Ingresos,Crédito Inicial,C.DEFINITVO,DRN NETOS
+11201,Impuesto bienes inmuebles naturaleza rústica y s. social.,296000.0,296000.0,291066.8
+11202,Impuesto bienes inmuebles naturaleza urbana,45500000.0,45500000.0,46203464.7
+11301,Impuesto sobre vehículos tracción mecánica,14000000.0,14000000.0,13620481.09
+11401,Impuesto sobre incremento valor terrenos,18700000.0,18700000.0,22230882.79
+13001,Impuesto sobre actividades económicas,8500000.0,8500000.0,8683452.32
 13002,Participación en cuotas provinciales y estatales,1450000.0,1450000.0,1456170.21
-28201,Impuestos sobre construcciones e instalaciones,6350000.0,6350000.0,5893345.42
+28201,Impuestos sobre construcciones e instalaciones,6350000.0,6350000.0,5567356.01
 28301,Aprovechamiento del coto de caza,0.0,0.0,6333.0
 30001,Venta de efectos no utilizables,40000.0,40000.0,35370.3
 30002,Venta de publicaciones e impresos,1000.0,1000.0,3310.61
 30004,Venta de bienes y efectos en Montehermoso,5000.0,5000.0,2814.5
 30006,Venta de energía eléctrica,3000.0,3000.0,10728.21
 30007,Venta de bienes y efectos Oficina de turismo,25000.0,25000.0,22580.52
-31001,Recogida y eliminación de basuras,11500000.0,11500000.0,10366529.71
+31001,Recogida y eliminación de basuras,11500000.0,11500000.0,10227975.41
 31002,"Recogida selectiva de envases, residuos..",1706000.0,1706000.0,1584233.87
-31003,Servicio prevención y extinción incendios,6000.0,6000.0,2176.91
-31004,Retirada vehículos vía pública,300000.0,300000.0,271198.88
-31005,Evaluación consultas urbanísticas,15000.0,15000.0,7075.34
-31006,Licencias urbanísticas,250000.0,250000.0,277848.3
-31007,Licencias de apertura de establecimientos,275000.0,275000.0,321266.44
-31008,Vertido aguas residuales no domesticas,327510.0,327510.0,110753.02
-31009,Vertido de residuos en vertedero de Gardelegui,4000000.0,4000000.0,4400123.38
-31010,"Expedición informes, atestados, fotocopias, planos y similares",300000.0,300000.0,412210.91
-31012,Servicios funerarios,600000.0,600000.0,541892.04
-31015,Prestación servicios Demsac,250000.0,250000.0,283260.79
-31016,Tasas de exámenes,7000.0,7000.0,7255.5
-31019,Duplicado de la Tarjeta Municipal Ciudadana,10000.0,10000.0,12681.0
-31101,Instal. en vía pública,650000.0,650000.0,571850.77
+31003,Servicio prevención y extinción incendios,6000.0,6000.0,1573.91
+31004,Retirada vehículos vía pública,300000.0,300000.0,268011.32
+31005,Evaluación consultas urbanísticas,15000.0,15000.0,6604.69
+31006,Licencias urbanísticas,250000.0,250000.0,263480.05
+31007,Licencias de apertura de establecimientos,275000.0,275000.0,302417.0
+31008,Vertido aguas residuales no domesticas,327510.0,327510.0,108964.54
+31009,Vertido de residuos en vertedero de Gardelegui,4000000.0,4000000.0,4364464.24
+31010,"Expedición informes, atestados, fotocopias, planos y similares",300000.0,300000.0,338512.77
+31012,Servicios funerarios,600000.0,600000.0,537902.31
+31015,Prestación servicios Demsac,250000.0,250000.0,279158.91
+31016,Tasas de exámenes,7000.0,7000.0,7161.7
+31019,Duplicado de la Tarjeta Municipal Ciudadana,10000.0,10000.0,12675.0
+31101,Instal. en vía pública,650000.0,650000.0,559617.31
 31102,Quioscos en la vía pública,2500.0,2500.0,2607.36
-31103,Veladores en la vía pública,280000.0,280000.0,286506.8
-31104,"Apertura de zanjas, calicatas..",450000.0,450000.0,487516.08
-31105,OTA,2000000.0,2000000.0,1889971.64
-31106,"Ocupación suelo, subsuelo, vuelo, incluidas Gasnalsa e Iberdrola",5000000.0,5000000.0,4142512.97
-31108,"Utilización palacios congresos, Teatro Principal, plaza de toros…",300000.0,300000.0,184968.14
-31109,Utilización de salas centros cívicos,30000.0,30000.0,28033.51
-31110,Paso de vehículos vados,1550000.0,1550000.0,1290105.1
-31111,Cesiones de terrenos en el Cementerio de El Salvador,200000.0,200000.0,178699.98
+31103,Veladores en la vía pública,280000.0,280000.0,248240.36
+31104,"Apertura de zanjas, calicatas..",450000.0,450000.0,426569.46
+31105,OTA,2000000.0,2000000.0,1878337.86
+31106,"Ocupación suelo, subsuelo, vuelo, incluidas Gasnalsa e Iberdrola",5000000.0,5000000.0,4122341.35
+31108,"Utilización palacios congresos, Teatro Principal, plaza de toros…",300000.0,300000.0,170532.87
+31109,Utilización de salas centros cívicos,30000.0,30000.0,27925.09
+31110,Paso de vehículos vados,1550000.0,1550000.0,1270956.34
+31111,Cesiones de terrenos en el Cementerio de El Salvador,200000.0,200000.0,135755.57
 31112,Utilización de salas en el Centro de empresas de Jundiz,10000.0,10000.0,5620.82
 31113,Examen acreditación licencia autotaxi,0.0,0.0,54.18
 31115,Uso de espacios en Centros socioculturales de mayores,1000.0,1000.0,2020.5
 34000,Prestación de servicios SSAA municipales,440000.0,440000.0,0.0
-34001,Talleres Demsac,30000.0,30000.0,31713.93
-34002,"Escuelas infantiles, colonias abiertas y rincones de juego",650000.0,650000.0,535529.74
-34004,Asistencia a domicilio 3ª edad,550000.0,550000.0,633006.8
-34005,Estancias residencias 3ª edad,3600000.0,3600000.0,3560007.49
-34006,Talleres de intervención social,70000.0,70000.0,80307.62
+34001,Talleres Demsac,30000.0,30000.0,31013.62
+34002,"Escuelas infantiles, colonias abiertas y rincones de juego",650000.0,650000.0,533044.92
+34004,Asistencia a domicilio 3ª edad,550000.0,550000.0,628342.55
+34005,Estancias residencias 3ª edad,3600000.0,3600000.0,3555205.1
+34006,Talleres de intervención social,70000.0,70000.0,78830.22
 34007,Formación ocupacional,50000.0,50000.0,35816.15
-34008,Abono instalaciones Mendizorrotza,5650000.0,5650000.0,5933974.14
-34009,Abonos temporales (Gamarra),150000.0,150000.0,142233.0
-34010,Utilización instalaciones deportivas (reserva y venta),1150000.0,1150000.0,938645.0
-34012,Matriculas en la Academia municipal de folklore,146000.0,146000.0,80370.39
-34013,Cursos y talleres de Cultura,300000.0,300000.0,328195.56
-34014,Taquillas  teatro,350000.0,350000.0,135357.09
-34015,Prestación de servicios de ludotecas,0.0,0.0,12491.42
-34016,Prestamos de material audiovisual,8000.0,8000.0,7584.51
-34018,Talleres de Presidencia,285000.0,285000.0,262816.81
-34020,Abonados a campañas deportivas,1250000.0,1250000.0,1369617.34
+34008,Abono instalaciones Mendizorrotza,5650000.0,5650000.0,5806418.9
+34009,Abonos temporales (Gamarra),150000.0,150000.0,142135.5
+34010,Utilización instalaciones deportivas (reserva y venta),1150000.0,1150000.0,931088.2
+34012,Matriculas en la Academia municipal de folklore,146000.0,146000.0,79643.28
+34013,Cursos y talleres de Cultura,300000.0,300000.0,320919.85
+34014,Taquillas  teatro,350000.0,350000.0,132836.09
+34015,Prestación de servicios de ludotecas,0.0,0.0,12183.32
+34016,Prestamos de material audiovisual,8000.0,8000.0,7571.31
+34018,Talleres de Presidencia,285000.0,285000.0,255015.59
+34020,Abonados a campañas deportivas,1250000.0,1250000.0,1343112.48
 34021,Precio prestación Servicio Médico,70000.0,70000.0,43850.0
 34023,Estancia en el C.A.M.A.S.,40000.0,40000.0,35213.39
-34025,Comidas centro socioculturales de mayores,400000.0,400000.0,423235.29
+34025,Comidas centro socioculturales de mayores,400000.0,400000.0,421063.94
 34026,Liquidación estancias en residencias 3ª edad,60000.0,60000.0,83276.63
-34032,Venta de entradas presidencia,0.0,0.0,5766.91
+34032,Venta de entradas presidencia,0.0,0.0,-608.09
 34036,Venta de material didáctico,0.0,0.0,1.74
-34038,Servicio de bodas,30000.0,30000.0,24158.1
+34038,Servicio de bodas,30000.0,30000.0,23176.45
 34039,Compensación gastos de gestión,1000000.0,1000000.0,853602.83
-34040,Ingresos nueva Estación de autobuses,580000.0,580000.0,602971.23
+34040,Ingresos nueva Estación de autobuses,580000.0,580000.0,601764.49
 36002,Cuotas de urbanización,2000.0,2000.0,0.0
 36003,Cuota Unespa y compañías no conveniadas,925000.0,925000.0,964681.56
-38001,Reintegro por pagos,700000.0,700000.0,1625603.14
-38002,Reintegros gastos por publicaciones en anuncios,50000.0,50000.0,43901.78
+38001,Reintegro por pagos,700000.0,700000.0,1569513.85
+38002,Reintegros gastos por publicaciones en anuncios,50000.0,50000.0,43457.05
 38003,Reintegro de gastos o indemnizaciones de cias. aseguradoras,1.0,215052.15,390118.85
-38004,Reintegros por costas de la vía de apremio,8000.0,8000.0,5672.51
+38004,Reintegros por costas de la vía de apremio,8000.0,8000.0,5531.62
 38005,Reintegro indemnizaciones vía judicial,15000.0,15000.0,45042.79
-39101,Multas por infracciones de tráfico,5480000.0,5480000.0,8092714.37
-39102,Ingresos por procedimientos sancionadores,700000.0,700000.0,1513550.88
+39101,Multas por infracciones de tráfico,5480000.0,5480000.0,4545886.58
+39102,Ingresos por procedimientos sancionadores,700000.0,700000.0,1084860.52
 39103,Sanciones por incumplimientos contractuales,40000.0,40000.0,306120.72
-39201,Recargos de apremio,950000.0,950000.0,910481.84
-39401,Daños en vía pública por accidentes de vehículos,100000.0,100000.0,128276.8
+39201,Recargos de apremio,950000.0,950000.0,873549.9
+39401,Daños en vía pública por accidentes de vehículos,100000.0,100000.0,115431.18
 39402,Daños en bienes mpales. por actos vandálicos,5000.0,5000.0,4364.6
-39403,Actuaciones del SEIS por limpieza de calzadas por accidente,0.0,0.0,408.53
+39403,Actuaciones del SEIS por limpieza de calzadas por accidente,0.0,0.0,286.53
 39404,Ingresos ejecuciones subsidiarias,10000.0,10000.0,403.09
-39405,Ingresos derivados de costas judiciales,25000.0,25000.0,17193.95
+39405,Ingresos derivados de costas judiciales,25000.0,25000.0,14371.55
 39601,Ingresos  empresas de telefonía,850000.0,850000.0,969157.25
 39901,Donativos,2000.0,2000.0,1170.29
-39902,Otros ingresos diversos,50000.0,50000.0,221235.19
-39903,Intereses demora ejercicios anteriores,4000.0,4000.0,5555.67
+39902,Otros ingresos diversos,50000.0,50000.0,219135.19
+39903,Intereses demora ejercicios anteriores,4000.0,4000.0,5281.03
 39906,Donativos Belén de La Florida,1.0,11225.13,11225.13
 39907,Ingresos rifa San Antón,1.0,1.0,15466.77
 39909,Participación ingresos aparcamiento San Martín,0.0,0.0,139758.64
 40000,De la Administración General,136001.0,136001.0,8991.58
-41000,Del Gobierno Vasco,12912432.0,14889799.1,13372743.72
-42000,De la Diputación Foral de Álava,7492099.63,17318085.05,54463730.02
+41000,Del Gobierno Vasco,12912432.0,14889799.1,13166545.29
+42000,De la Diputación Foral de Álava,7492099.63,17318085.05,17366342.38
 42001,FOFEL,147882505.09,147882505.09,148426111.89
 42003,Impuestos no concertados,290000.0,290000.0,301681.56
 42004,Recuperación ayudas del Estado,0.0,0.0,601593.53
-47000,De empresas,60000.0,100000.0,120000.0
+47000,De empresas,60000.0,100000.0,80000.0
 49000,De entes de la Unión Europea,460000.0,460000.0,975900.59
 52500,Intereses en cajas y bancos ayuntamiento,10000.0,10000.0,78229.91
 53100,Participación en beneficios de empresas con participación mpal.,0.0,0.0,0.0
 53200,De otras empresas,0.0,0.0,16.01
-54001,Rentas arrendamientos fincas urbanas ayto,150000.0,150000.0,146859.45
-54002,Arrendamiento locales semillero de empresas,100000.0,100000.0,105136.12
+54001,Rentas arrendamientos fincas urbanas ayto,150000.0,150000.0,136388.33
+54002,Arrendamiento locales semillero de empresas,100000.0,100000.0,103351.96
 54200,Arrendamiento de terrenos rústicos,32.41,32.41,0.0
-55000,Productos de concesiones,1880000.0,1880000.0,1449474.84
+55000,Productos de concesiones,1880000.0,1880000.0,1412986.49
 59001,Utilización instalaciones parque de bomberos,400.0,400.0,180.0
 59002,Utilización de terrenos,40000.0,40000.0,38914.96
 60900,De terrenos-enajenación de parcelas municipales,4930000.0,4930000.0,2575916.79
 60901,Cesiones obligatorias de aprovechamiento,0.0,0.0,320710.62
 61200,De edificios y otras construcciones,8050000.0,8050000.0,0.0
-70000,Del estado,0.0,0.0,0.0
-71000,Del Gobierno Vasco,542000.0,831310.24,2199825.49
+70000,Del estado,0.0,0.0,-175000.0
+71000,Del Gobierno Vasco,542000.0,831310.24,995400.4
 72000,De la Diputación Foral de Álava,0.0,1082191.45,1082191.45
-79000,Entes públicos Unión Europea,0.0,0.0,1266020.29
+79000,Entes públicos Unión Europea,0.0,0.0,-621040.21
 87200,Remanentes de tesorería para gastos generales,0.0,2279414.79,0.0
 87210,Remanente de tesorería para gastos con financiación afectada,0.0,1154881.21,0.0
 93301,Pasivos financieros financiación inversiones,11687000.0,11987009.23,11987009.23
