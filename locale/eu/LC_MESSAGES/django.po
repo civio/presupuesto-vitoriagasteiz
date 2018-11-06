@@ -413,3 +413,43 @@ msgstr "Epea:"
 #: templates/payments/payments_script.html:161
 msgid "Año.payment.query"
 msgstr "Epea:"
+
+#: templates/budgets/budgets_indicators.html:
+msgid "Resultado presupuestario"
+msgstr "Aurrekontu-emaitza"
+
+msgid "Resultado ejercicio corriente"
+msgstr "Ohiko ekitaldiaren emaitza"
+
+msgid "Resultado presupuestario ajustado"
+msgstr "Aurrekontu-emaitza doitua"
+
+msgid "Remanente líquido de tesorería"
+msgstr "Diruzaintzako geldikin likidoa"
+
+msgid "Indicadores presupuestarios"
+msgstr "Aurrekontu-adierazleak"
+
+msgid "Capacidad o necesidad de financiación"
+msgstr "Finantzatzeko ahalmena edo beharra"
+
+msgid "Ahorro bruto"
+msgstr "Aurrezpen gordina"
+
+msgid "Ahorro corriente (neto)"
+msgstr "Ohiko aurrezpena (garbia)"
+
+msgid "Ahorro corriente / Ingresos corrientes"
+msgstr "Ohiko aurrezpena / Ohiko diru-sarrerak"
+
+msgid "Ingresos fiscales por habitante"
+msgstr "Sarrera fiskalak biztanleko"
+
+msgid "Gastos por habitante"
+msgstr "Gastuak biztanleko"
+
+msgid "Deuda viva"
+msgstr "Zor bizia"
+
+msgid "Deuda viva / Ingresos corrientes"
+msgstr "Zor bizia / Ohiko diru-sarrerak"

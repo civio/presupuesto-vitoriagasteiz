@@ -1,16 +1,78 @@
 <div class="panel indicators">
   <div class="panel-title row">
+    <div class="col-sm-12">{{ _('Resultado presupuestario') }}</div>
+  </div>
+  <ul class="panel-content">
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Resultado ejercicio corriente') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Resultado ejercicio corriente') }}">{{ _('Glosario') }} - {{ _('Resultado ejercicio corriente') }}</a> {{ _('Resultado ejercicio corriente') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">29.451.920 €</strong>
+        <strong class="value value-2013">2.281.404 €</strong>
+        <strong class="value value-2014">2.246.070 €</strong>
+        <strong class="value value-2015">6.338.428 €</strong>
+        <strong class="value value-2016">5.114.370 €</strong>
+        <strong class="value value-2017">17.133.416 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Resultado presupuestario ajustado') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Resultado presupuestario ajustado') }}">{{ _('Glosario') }} - {{ _('Resultado presupuestario ajustado') }}</a> {{ _('Resultado presupuestario ajustado') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">430.737 €</strong>
+        <strong class="value value-2013">10.622.699 €</strong>
+        <strong class="value value-2014">4.918.081 €</strong>
+        <strong class="value value-2015">4.158.507 €</strong>
+        <strong class="value value-2016">-3.689.472 €</strong>
+        <strong class="value value-2017">7.082.386 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Remanente líquido de tesorería') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Remanente líquido de tesorería') }}">{{ _('Glosario') }} - {{ _('Remanente líquido de tesorería') }}</a> {{ _('Remanente líquido de tesorería') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012"></strong>
+        <strong class="value value-2013">4.068.710 €</strong>
+        <strong class="value value-2014">990.353 €</strong>
+        <strong class="value value-2015"></strong>
+        <strong class="value value-2016"></strong>
+        <strong class="value value-2017">969.773 €</strong>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<br/>
+
+<div class="panel indicators">
+  <div class="panel-title row">
     <div class="col-sm-12">{{ _('Indicadores presupuestarios') }}</div>
   </div>
   <ul class="panel-content">
     <li class="row">
       <div class="col-sm-8">
-        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro bruto') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Ingresos corrientes (capítulos I-V) - Gastos corrientes (capítulos I-V)') }}">{{ _('Glosario') }} - {{ _('Ahorro bruto') }}</a> {{ _('Ahorro bruto') }}
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Capacidad o necesidad de financiación') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Capacidad o necesidad de financiación') }}">{{ _('Glosario') }} - {{ _('Capacidad o necesidad de financiación') }}</a> {{ _('Capacidad o necesidad de financiación') }}
       </div>
       <div class="col-sm-4">
-        <strong class="value value-2012">28.342.259 €</strong>
+        <strong class="value value-2012"></strong>
+        <strong class="value value-2013"></strong>
+        <strong class="value value-2014"></strong>
+        <strong class="value value-2015">3.639.131 €</strong>
+        <strong class="value value-2016">4.907.972 €</strong>
+        <strong class="value value-2017">5.279.351 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro bruto') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Ahorro bruto') }}">{{ _('Glosario') }} - {{ _('Ahorro bruto') }}</a> {{ _('Ahorro bruto') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">48.927.290 €</strong>
         <strong class="value value-2013">29.047.407 €</strong>
-        <strong class="value value-2014">15.880.888 €</strong>
+        <strong class="value value-2014">15.880.891 €</strong>
         <strong class="value value-2015">36.039.446 €</strong>
         <strong class="value value-2016">35.263.163 €</strong>
         <strong class="value value-2017">35.731.349 €</strong>
@@ -18,21 +80,85 @@
     </li>
     <li class="row">
       <div class="col-sm-8">
-        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro neto') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Ahorro bruto – capítulo IX de gastos (pasivos financieros)') }}">{{ _('Glosario') }} - {{ _('Ahorro neto') }}</a> {{ _('Ahorro neto') }}
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro corriente (neto)') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Ahorro corriente (neto)') }}">{{ _('Glosario') }} - {{ _('Ahorro corriente (neto)') }}</a> {{ _('Ahorro corriente (neto)') }}
       </div>
       <div class="col-sm-4">
-        <strong class="value value-2012">15.951.753 €</strong>
+        <strong class="value value-2012">36.708.080 €</strong>
         <strong class="value value-2013">15.425.825 €</strong>
         <strong class="value value-2014">7.618.453 €</strong>
         <strong class="value value-2015">21.134.573 €</strong>
-        <strong class="value value-2016">15.883.924 €</strong>
+        <strong class="value value-2016">15.883.926 €</strong>
         <strong class="value value-2017">14.986.203 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ahorro corriente / Ingresos corrientes') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Ahorro corriente / Ingresos corrientes') }}">{{ _('Glosario') }} - {{ _('Ahorro corriente / Ingresos corrientes') }}</a> {{ _('Ahorro corriente / Ingresos corrientes') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">11,39%</strong>
+        <strong class="value value-2013">4,86%</strong>
+        <strong class="value value-2014">2,46%</strong>
+        <strong class="value value-2015">6,21%</strong>
+        <strong class="value value-2016">4,74%</strong>
+        <strong class="value value-2017">4,42%</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Ingresos fiscales por habitante') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Ingresos fiscales por habitante') }}">{{ _('Glosario') }} - {{ _('Ingresos fiscales por habitante') }}</a> {{ _('Ingresos fiscales por habitante') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">599 €</strong>
+        <strong class="value value-2013">591 €</strong>
+        <strong class="value value-2014">611 €</strong>
+        <strong class="value value-2015">643 €</strong>
+        <strong class="value value-2016">620 €</strong>
+        <strong class="value value-2017">584 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Gastos por habitante') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Gastos por habitante') }}">{{ _('Glosario') }} - {{ _('Gastos por habitante') }}</a> {{ _('Gastos por habitante') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">1.287 €</strong>
+        <strong class="value value-2013">1.386 €</strong>
+        <strong class="value value-2014">1.425 €</strong>
+        <strong class="value value-2015">1.457 €</strong>
+        <strong class="value value-2016">1.408 €</strong>
+        <strong class="value value-2017">1.385 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Deuda viva') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Deuda viva') }}">{{ _('Glosario') }} - {{ _('Deuda viva') }}</a> {{ _('Deuda viva') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">127.707.355 €</strong>
+        <strong class="value value-2013">113.363.243 €</strong>
+        <strong class="value value-2014">104.019.131 €</strong>
+        <strong class="value value-2015">100.675.019 €</strong>
+        <strong class="value value-2016">98.317.916 €</strong>
+        <strong class="value value-2017">93.189.189 €</strong>
+      </div>
+    </li>
+    <li class="row">
+      <div class="col-sm-8">
+        <a href="{{ url('budget_app.views.terms')+'?q='+_('Deuda viva / Ingresos corrientes') }}" class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Glosario') }} - {{ _('Deuda viva / Ingresos corrientes') }}">{{ _('Glosario') }} - {{ _('Deuda viva / Ingresos corrientes') }}</a> {{ _('Deuda viva / Ingresos corrientes') }}
+      </div>
+      <div class="col-sm-4">
+        <strong class="value value-2012">39,62%</strong>
+        <strong class="value value-2013">35,72%</strong>
+        <strong class="value value-2014">33,57%</strong>
+        <strong class="value value-2015">29,60%</strong>
+        <strong class="value value-2016">29,33%</strong>
+        <strong class="value value-2017">27,48%</strong>
       </div>
     </li>
   </ul>
 </div>
 
+<br/>
+
 <p class="text-center" style="margin-bottom: 1em;"><small>{{ _('El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario.')|safe }}</small></p>
-<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('El artículo 53.1 de la Norma Foral 41/1989, de 19 de julio, reguladora de las Haciendas Locales, tras la modificación por la Norma Foral 20/2014, de 18 de junio, define el <strong>Ahorro Neto como la diferencia entre los derechos liquidados por operaciones corrientes y las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización de la operación proyectada y de cada uno de los préstamos y empréstitos propios y avalados a terceros pendientes de reembolso</strong>.')|safe }}</small></p>
-<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('El importe de la anualidad teórica de amortización se determinará, en todo caso, en <strong>términos constantes</strong>, incluyendo los intereses y la cuota <strong>anual</strong> de amortización cualquiera que sea la modalidad y condiciones de cada operación.')|safe }}</small></p>
-<p class="text-center" style="margin-bottom: 1em;"><small>{{ _('En el cálculo del Ahorro Neto <strong>no se incluirán las obligaciones</strong> reconocidas derivadas de modificaciones de créditos que hayan sido <strong>financiadas con cargo al Remanente Líquido de Tesorería</strong>.')|safe }}</small></p>
