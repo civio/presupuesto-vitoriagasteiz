@@ -8,10 +8,12 @@ class BudgetCsvMapper:
     expenses_mapping = {
         'default': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
         '2018': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
+        '2019': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 5, 'actual_amount': None},
     }
 
     income_mapping = {
         'default': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2019': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': None},
     }
 
     default = 'default'
