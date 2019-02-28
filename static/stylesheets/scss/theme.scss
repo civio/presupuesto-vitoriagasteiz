@@ -49,6 +49,21 @@
   }
 }
 
+@media (min-width: $grid-float-breakpoint) {
+  .navbar-default .navbar-nav>li.page-budgets {
+    width: 18%;
+  }
+  .navbar-default .navbar-nav>li.page-policies {
+    width: 15%;
+  }
+  .navbar-default .navbar-nav>li.page-payments {
+    width: 24%;
+  }
+  .navbar-default .navbar-nav>li.page-tax-receipt {
+    width: 23%;
+  }
+}
+
 .open-data-logo{
   margin-bottom: 2*$grid-gutter-width/3;
   display: block;
