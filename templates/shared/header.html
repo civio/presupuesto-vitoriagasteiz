@@ -11,16 +11,16 @@
         <div class="header-menu col-xs-7 hidden-xs">
           <ul>
             <li>
-              <a class="icon-chat" href="{{ main_entity_web_url }}?idioma={{ LANGUAGE_CODE }}&aplicacion=wb021&tabla=buzon&accion=presentacion&idBuzon=1&accesodirecto" title="{{ _('Buzón Ciudadano') }}">{{ _('Buzón Ciudadano') }}</a>
+              <a class="icon-chat" href="{{ 'https://www.vitoria-gasteiz.org/wb021/was/buzonAction.do?idioma=es&accion=presentacion&idBuzon=1&accesodirecto' if LANGUAGE_CODE == 'es' else 'https://www.vitoria-gasteiz.org/wb021/was/buzonAction.do?lang=eu&locale=eu&idioma=eu&accion=presentacion&idBuzon=1' }}" title="{{ _('Buzón Ciudadano') }}">{{ _('Buzón Ciudadano') }}</a>
             </li>
             <li>
-              <a href="http://avg-directorio.tel/" class="icon-telephone" title="{{ _('Contacto') }}">{{ _('Contacto') }}</a>
+              <a href="{{ 'https://sedeelectronica.vitoria-gasteiz.org/j30-01s/contenidoAction.do?uid=u_40bfe3d4_15d41a19e6a__7fd9&locale=es&idioma=es' if LANGUAGE_CODE == 'es' else 'https://sedeelectronica.vitoria-gasteiz.org/j30-01s/contenidoAction.do?uid=u_40bfe3d4_15d41a19e6a__7fd9&locale=eu&idioma=eu' }}" class="icon-telephone" title="{{ _('Contacto') }}">{{ _('Contacto') }}</a>
             </li>
             <li>
-              <a class="icon-computer" href="https://sedeelectronica.vitoria-gasteiz.org/j30-01s/tramitesAction.do?locale={{ LANGUAGE_CODE }}&accesodirecto" title="{{ _('Sede electrónica') }}">{{ _('Sede electrónica') }}</a>
+              <a class="icon-computer" href="{{ 'https://sedeelectronica.vitoria-gasteiz.org/j30-01s/tramitesAction.do?lang=es&locale=es&idioma=es&' if LANGUAGE_CODE == 'es' else 'https://sedeelectronica.vitoria-gasteiz.org/j30-01s/tramitesAction.do?lang=eu&locale=eu&idioma=eu&' }}" title="{{ _('Sede electrónica') }}">{{ _('Sede electrónica') }}</a>
             </li>
             <li>
-              <a class="icon-wheel" id="inclusite" title="{{ _('Modo accesible') }}" href="https://www--vitoria-gasteiz--org.accesible.inclusite.com/we001/was/we001Action.do?idioma={{ LANGUAGE_CODE }}&accion=home&accionWe001=ficha"><span class="hidden-xs">{{ _('Modo accesible') }}</span></a>
+              <a class="icon-wheel" id="inclusite" title="{{ _('Modo accesible') }}" href="{{ 'https://www--vitoria-gasteiz--org.insuit.net/we001/was/we001Action.do?idioma=es&accion=home&accionWe001=ficha' if LANGUAGE_CODE == 'es' else 'https://www--vitoria-gasteiz--org.insuit.net/we001/was/we001Action.do?idioma=eu&accion=home&accionWe001=ficha' }}"><span class="hidden-xs">{{ _('Modo accesible') }}</span></a>
             </li>
           </ul>
         </div>
