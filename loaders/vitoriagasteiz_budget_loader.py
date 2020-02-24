@@ -13,6 +13,7 @@ class BudgetCsvMapper:
 
     income_mapping = {
         'default': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2019': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
     }
 
     default = 'default'
