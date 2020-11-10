@@ -1,282 +1,286 @@
-#Orgánico,Funcional,Económico,R,Denominación Aplicación,Tot Crédito inicial 2020,Tot Crédito Definitivo,Tot Obligado 
-0110,9121,11000,,Retribuciones personal eventual gabinete,1126834.0,1126834.0,578973.52
-0110,9121,12000,,Retribuciones básicas de funcionarios,80881.0,80881.0,40212.54
-0110,9121,12100,,Retribuciones complementarias funcionarios,122362.0,122362.0,59941.52
+#Orgánico,Funcional,Económico,R,Denominación Aplicación,Tot Crédito inicial 2020,Tot Crédito Definitivo,Tot Obligado
+0110,9121,11000,,Retribuciones personal eventual gabinete,1126834.0,1126834.0,822985.48
+0110,9121,12000,,Retribuciones básicas de funcionarios,80881.0,80881.0,53449.03
+0110,9121,12100,,Retribuciones complementarias funcionarios,122362.0,122362.0,89819.61
 0110,9121,14100,,Otro personal,3424.0,3424.0,0.0
-0110,9121,16000,,Seguridad social a cargo del ayuntamiento,486919.0,483662.66,199446.91
-0110,9121,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3256.34,1445.15
-0110,9123,22695,,Otros gastos diversos oficina sindic0,700.0,700.0,700.0
-0110,9123,22699,,Otros gastos diversos,1327.0,1327.0,0.0
+0110,9121,16000,,Seguridad social a cargo del ayuntamiento,486919.0,483662.66,299090.01
+0110,9121,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3256.34,2064.5
+0110,9123,22695,,Otros gastos diversos oficina Síndico,700.0,700.0,700.0
+0110,9123,22699,,Otros gastos diversos,1327.0,1727.0,1366.0
 0111,2328,11000,,Retribuciones personal eventual gabinete,80951.0,80951.0,0.0
-0111,2328,12000,,Retribuciones básicas de funcionarios,68256.0,68256.0,8573.32
-0111,2328,12100,,Retribuciones complementarias funcionarios,74556.0,74556.0,13527.3
-0111,2328,14100,,Otro personal,43111.0,43111.0,11031.14
-0111,2328,16000,,Seguridad social a cargo del ayuntamiento,80218.0,78629.52,9122.49
-0111,2328,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1588.48,509.6
+0111,2328,12000,,Retribuciones básicas de funcionarios,68256.0,68256.0,11345.95
+0111,2328,12100,,Retribuciones complementarias funcionarios,74556.0,74556.0,20280.15
+0111,2328,14100,,Otro personal,43111.0,43111.0,16436.35
+0111,2328,16000,,Seguridad social a cargo del ayuntamiento,80218.0,78629.52,13648.82
+0111,2328,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1588.48,728.0
 0111,4332,22621,,Estudios y evolución de políticas públicas,100000.0,100000.0,0.0
-0111,4332,22707,,Estudios y trabajos técnicos,18000.0,18000.0,0.0
+0111,4332,22701,,Impulso a proyectos comunitarios,0.0,90000.0,0.0
+0111,4332,22707,,Estudios y trabajos técnicos,18000.0,18000.0,15842.73
 0111,4332,22743,,Proyectos estratégicos y eventos ciudad,100000.0,100000.0,0.0
-0112,2301,12000,,Retribuciones básicas de funcionarios,225839.0,225839.0,71847.65
-0112,2301,12100,,Retribuciones complementarias funcionarios,268039.0,268039.0,87625.78
-0112,2301,14100,,Otro personal,68220.0,68220.0,28992.84
-0112,2301,16000,,Seguridad social a cargo del ayuntamiento,185006.0,172698.48,51158.28
-0112,2301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,12307.52,3451.11
-0116,2371,12000,,Retribuciones básicas de funcionarios,145721.0,145721.0,71644.68
-0116,2371,12100,,Retribuciones complementarias funcionarios,183326.0,183326.0,92054.71
-0116,2371,14100,,Otro personal,117547.0,117547.0,55471.55
-0116,2371,16000,,Seguridad social a cargo del ayuntamiento,129469.0,121994.37,59930.91
-0116,2371,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7474.63,3755.01
-0116,2371,22115,,Material técnico especifico,100.0,100.0,0.0
-0116,2371,22734,,Programa de ocio y tiempo libre,378000.0,378000.0,81737.68
-0116,2371,22736,,Contrato servicios juventud,147521.5,147521.5,51330.57
-0116,2371,22737,,Oficina municipal de información joven,6000.0,6000.0,824.55
-0116,2371,22775,,Plan joven,120000.0,120000.0,5349.97
+0112,2301,12000,,Retribuciones básicas de funcionarios,225839.0,225839.0,98324.85
+0112,2301,12100,,Retribuciones complementarias funcionarios,268039.0,268039.0,135675.26
+0112,2301,14100,,Otro personal,68220.0,68220.0,40411.87
+0112,2301,16000,,Seguridad social a cargo del ayuntamiento,185006.0,172698.48,78296.43
+0112,2301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,12307.52,4976.73
+0116,2371,12000,,Retribuciones básicas de funcionarios,145721.0,145721.0,99159.02
+0116,2371,12100,,Retribuciones complementarias funcionarios,183326.0,183326.0,137661.48
+0116,2371,14100,,Otro personal,117547.0,117547.0,80865.34
+0116,2371,16000,,Seguridad social a cargo del ayuntamiento,129469.0,121994.37,89846.83
+0116,2371,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7474.63,5364.3
+0116,2371,22115,,Material técnico específico,100.0,100.0,0.0
+0116,2371,22734,,Programa de ocio y tiempo libre,378000.0,303000.0,104921.07
+0116,2371,22736,,Contrato servicios juventud,147521.5,147521.5,71057.63
+0116,2371,22737,,Oficina municipal de información joven,6000.0,6000.0,917.82
+0116,2371,22775,,Plan joven,120000.0,120000.0,9145.97
 0116,2371,22775,A,Plan joven,0.0,278.18,278.18
 0116,2371,22775,R,Plan joven,0.0,1806.1,1806.1
-0116,2371,41924,,Convenio consejo juventud Euskadi-fomento participación juvenil,10500.0,10500.0,0.0
+0116,2371,41924,,Convenio Consejo Juventud Euskadi-fomento participación juvenil,10500.0,10500.0,0.0
 0116,2371,48935,,Convocatoria general de subvenciones,35000.0,35000.0,0.0
 0116,2371,48936,,Convocatoria jóvenes informadores en EEMM,10000.0,10000.0,0.0
 0116,2371,62505,,Otros enseres,1000.0,1000.0,0.0
 0116,2371,62800,,Adquisición publicaciones y libros,1000.0,1000.0,209.91
-0125,9124,12000,,Retribuciones básicas de funcionarios,90580.0,90580.0,54754.97
-0125,9124,12100,,Retribuciones complementarias funcionarios,140429.0,140429.0,90478.2
-0125,9124,14100,,Otro personal,78256.0,78256.0,43930.49
-0125,9124,16000,,Seguridad social a cargo del ayuntamiento,87691.0,80753.71,51901.99
-0125,9124,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6937.29,3836.95
+0125,9124,12000,,Retribuciones básicas de funcionarios,90580.0,90580.0,70650.32
+0125,9124,12100,,Retribuciones complementarias funcionarios,140429.0,140429.0,133284.7
+0125,9124,14100,,Otro personal,78256.0,78256.0,58405.59
+0125,9124,16000,,Seguridad social a cargo del ayuntamiento,87691.0,80753.71,74881.23
+0125,9124,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6937.29,5216.99
 0126,9124,12000,,Retribuciones básicas de funcionarios,10736.0,10736.0,0.0
 0126,9124,12100,,Retribuciones complementarias funcionarios,27412.0,27412.0,0.0
 0126,9124,14100,,Otro personal,16752.0,16752.0,0.0
 0126,9124,16000,,Seguridad social a cargo del ayuntamiento,16193.0,15228.32,0.0
 0126,9124,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,964.68,0.0
-0130,9201,11000,,Retribuciones personal eventual gabinete,85548.0,85548.0,42412.05
-0130,9201,12000,,Retribuciones básicas de funcionarios,195834.0,195834.0,110626.82
-0130,9201,12100,,Retribuciones complementarias funcionarios,297512.0,297512.0,167257.87
+0130,9201,11000,,Retribuciones personal eventual gabinete,85548.0,85548.0,60869.76
+0130,9201,12000,,Retribuciones básicas de funcionarios,195834.0,195834.0,149041.59
+0130,9201,12100,,Retribuciones complementarias funcionarios,297512.0,297512.0,253503.28
 0130,9201,14100,,Otro personal,4622.0,4622.0,0.0
-0130,9201,16000,,Seguridad social a cargo del ayuntamiento,129955.0,120569.3,60177.25
-0130,9201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9385.7,5073.74
+0130,9201,16000,,Seguridad social a cargo del ayuntamiento,129955.0,120569.3,90265.84
+0130,9201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9385.7,7248.2
 0130,9201,22610,,Indemnizaciones,14000.0,14000.0,0.0
-0130,9201,22617,,Honorarios y minutas,39620.0,39620.0,14257.96
-0145,9121,11000,,Retribuciones personal eventual gabinete,212239.0,212239.0,82275.9
-0145,9121,16000,,Seguridad social a cargo del ayuntamiento,52674.0,52674.0,15336.12
-0160,2381,12000,,Retribuciones básicas de funcionarios,124391.0,124391.0,65722.5
-0160,2381,12100,,Retribuciones complementarias funcionarios,149794.0,149794.0,77239.43
-0160,2381,14100,,Otro personal,3143.0,3143.0,0.0
-0160,2381,16000,,Seguridad social a cargo del ayuntamiento,81349.0,77265.24,39572.57
-0160,2381,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4083.76,2003.05
-0160,2381,22711,,Plan para la igualdad,85000.0,85000.0,12368.36
-0160,2381,22712,,Escuela empoderamiento feminista,130000.0,130000.0,43509.44
-0160,2381,22713,,Prevención y atención violencia machista,100000.0,100000.0,937.0
-0160,2381,22714,,Agenda diversidad sexual y de genero,60000.0,60000.0,1159.87
-0160,2381,47132,,Convenio para la gestión de Emakumeen etxea,150000.0,150000.0,150000.0
+0130,9201,22617,,Honorarios y minutas,39620.0,39620.0,17537.5
+0145,9121,11000,,Retribuciones personal eventual gabinete,212239.0,212239.0,117939.63
+0145,9121,16000,,Seguridad social a cargo del ayuntamiento,52674.0,52674.0,23004.18
+0160,2381,12000,,Retribuciones básicas de funcionarios,124391.0,124391.0,90973.85
+0160,2381,12100,,Retribuciones complementarias funcionarios,149794.0,149794.0,114657.85
+0160,2381,14100,,Otro personal,3143.0,48143.0,7506.27
+0160,2381,16000,,Seguridad social a cargo del ayuntamiento,81349.0,92265.24,60978.75
+0160,2381,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4083.76,2861.5
+0160,2381,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,144.0
+0160,2381,22711,,Plan para la igualdad,85000.0,65000.0,24442.86
+0160,2381,22712,,Escuela empoderamiento feminista,130000.0,130000.0,59393.22
+0160,2381,22713,,Prevención y atención violencia machista,100000.0,80000.0,37822.72
+0160,2381,22714,,Agenda diversidad sexual y de género,60000.0,40000.0,7197.77
+0160,2381,47132,,Convenio para la gestión de Emakumeen Etxea,150000.0,150000.0,150000.0
 0160,2381,48120,,Convenio observatorio LGTBI,70000.0,70000.0,70000.0
-0160,2381,48139,,Convocatoria de subvenciones a Asoc. mujeres,80000.0,80000.0,0.0
-0160,2381,62516,,Equipamientos Emakumeen etxea,30000.0,30000.0,4711.74
+0160,2381,48139,,Convocatoria de subvenciones a asoc. mujeres,80000.0,80000.0,0.0
+0160,2381,62516,,Equipamientos Emakumeen Etxea,30000.0,30000.0,4711.74
 0160,2381,62925,,Observatorio LGTBI,20000.0,20000.0,0.0
-0171,3351,12000,,Retribuciones básicas de funcionarios,194429.0,194429.0,93858.44
-0171,3351,12100,,Retribuciones complementarias funcionarios,224112.0,224112.0,106738.42
+0171,3351,12000,,Retribuciones básicas de funcionarios,194429.0,194429.0,132527.59
+0171,3351,12100,,Retribuciones complementarias funcionarios,224112.0,224112.0,160044.97
 0171,3351,14100,,Otro personal,51446.0,51446.0,0.0
-0171,3351,16000,,Seguridad social a cargo del ayuntamiento,148638.0,141491.57,57280.55
-0171,3351,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7146.43,3105.9
+0171,3351,16000,,Seguridad social a cargo del ayuntamiento,148638.0,141491.57,85953.64
+0171,3351,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7146.43,4437.0
+0171,3351,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,103075.3
 0171,3351,22741,,Cursos de euskera para madres y padres,500000.0,500000.0,137118.6
 0171,3351,22748,,Semana del euskera,25000.0,25000.0,0.0
-0171,3351,22780,,Plan euskera,200044.8,300044.8,13001.48
-0171,3351,22780,R,Plan euskera,0.0,3200.0,0.0
-0171,3351,22799,,Traducciones externas euskera,20000.0,20000.0,1269.13
-0171,3351,41803,,Convenio Euskaltzaindia,73000.0,73000.0,0.0
-0171,3351,42302,,Convenio con la camara de comercio,10500.0,10500.0,5250.0
+0171,3351,22780,,Plan euskera,200044.8,307844.8,19958.7
+0171,3351,22780,R,Plan euskera,0.0,3200.0,1600.0
+0171,3351,22799,,Traducciones externas euskera,20000.0,20000.0,2363.36
+0171,3351,41803,,Convenio Euskaltzaindia,73000.0,73000.0,58400.0
+0171,3351,42302,,Convenio con la Cámara de Comercio,10500.0,10500.0,5250.0
 0171,3351,48001,,Subvenciones a particulares para estudios de euskera,150000.0,150000.0,0.0
-0171,3351,48002,,Becas y bolsas de estudio al personal,60000.0,60000.0,858.63
+0171,3351,48002,,Becas y bolsas de estudio al personal,60000.0,57000.0,858.63
 0171,3351,48003,,Subvenciones cursos euskera a euskaltegi,99000.0,99000.0,0.0
 0171,3351,48005,,Subvención plan general uso del euskera,120000.0,120000.0,0.0
 0171,3351,48044,,Convenio GEU,77175.0,77175.0,77175.0
-0171,3351,48048,,Convenio asociación Tinko,10500.0,10500.0,8400.0
-0171,3351,48049,,Convenio asociación Euskharan,24255.0,24255.0,0.0
+0171,3351,48048,,Convenio asociación TINKO,10500.0,10500.0,8400.0
+0171,3351,48049,,Convenio asociación Euskharan,24255.0,19455.0,15564.0
 0171,3351,48065,,Euskaraldia,100000.0,0.0,0.0
 0171,3351,48997,,Convenio Bai Euskarari,23100.0,23100.0,23100.0
 0171,3351,62800,,Adquisición publicaciones y libros,1000.0,1000.0,0.0
-0180,9271,11000,,Retribuciones personal eventual gabinete,98010.0,98010.0,39161.6
-0180,9271,12000,,Retribuciones básicas de funcionarios,108096.0,108096.0,54689.24
-0180,9271,12100,,Retribuciones complementarias funcionarios,124837.0,124837.0,62830.57
+0180,9271,11000,,Retribuciones personal eventual gabinete,98010.0,98010.0,52377.42
+0180,9271,12000,,Retribuciones básicas de funcionarios,108096.0,108096.0,77195.75
+0180,9271,12100,,Retribuciones complementarias funcionarios,124837.0,124837.0,96582.41
+0180,9271,13000,,Retribuciones personal laboral,0.0,0.0,3806.54
 0180,9271,14100,,Otro personal,3774.0,3774.0,0.0
-0180,9271,16000,,Seguridad social a cargo del ayuntamiento,107860.0,102051.78,50866.71
-0180,9271,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5808.22,2903.25
-0180,9271,22603,,Publicidad,650000.0,650000.0,144673.2
-0180,9271,22603,R,Publicidad,0.0,91834.82,70770.18
-0180,9271,22612,,Adquisición prensa diaria,25000.0,25000.0,14881.08
-0180,9271,22616,,Servicios de asistencia técnica a prensa,20000.0,20000.0,13536.11
+0180,9271,16000,,Seguridad social a cargo del ayuntamiento,107860.0,102051.78,75600.37
+0180,9271,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5808.22,4147.5
+0180,9271,22603,,Publicidad,650000.0,650000.0,230644.5
+0180,9271,22603,R,Publicidad,0.0,91834.82,91811.63
+0180,9271,22612,,Adquisición prensa diaria,25000.0,25000.0,20645.51
+0180,9271,22616,,Servicios de asistencia técnica a prensa,20000.0,20000.0,17290.03
 0180,9271,22628,,Comunicación audiovisual,10000.0,10000.0,0.0
 0180,9271,22631,,Participación municipal en otras instituciones,28000.0,28000.0,17328.61
-0180,9271,22632,,Suscripciones,4397.43,4397.43,0.0
-0180,9271,22634,,Organización de eventos  y gastos de representación,120440.0,120440.0,54265.58
+0180,9271,22632,,Suscripciones,4397.43,2543.44,0.0
+0180,9271,22634,,Organización de eventos  y gastos de representación,120440.0,120440.0,68307.65
 0180,9271,22634,A,Organización de eventos  y gastos de representación,0.0,1739.82,0.0
-0180,9271,22645,,Anuncios oficiales por ley,180000.0,180000.0,159938.5
-0180,9271,22730,,Servicio almacenaje fondos editoriales,20000.0,20000.0,15610.95
-0180,9271,22732,,Contratos de prestación de servicios,30000.0,30000.0,3631.4
+0180,9271,22645,,Anuncios oficiales por ley,180000.0,180000.0,195954.15
+0180,9271,22730,,Servicio almacenaje fondos editoriales,20000.0,20000.0,22334.82
+0180,9271,22732,,Contratos de prestación de servicios,30000.0,30000.0,14686.65
 0180,9271,22732,R,Contratos de prestación de servicios,0.0,2052.84,0.0
-0180,9271,62505,,Otros enseres,2502.57,2502.57,1349.97
+0180,9271,62505,,Otros enseres,2502.57,4356.56,3203.96
 0180,9271,62518,,Renovación actualización sala de prenda,50000.0,50000.0,0.0
-0181,2327,12000,,Retribuciones básicas de funcionarios,63812.0,63812.0,36678.24
-0181,2327,12100,,Retribuciones complementarias funcionarios,77141.0,77141.0,43379.25
-0181,2327,14100,,Otro personal,45030.0,45030.0,10009.82
-0181,2327,16000,,Seguridad social a cargo del ayuntamiento,52388.0,51121.54,24617.6
+0181,2327,12000,,Retribuciones básicas de funcionarios,63812.0,63812.0,47098.42
+0181,2327,12100,,Retribuciones complementarias funcionarios,77141.0,77141.0,60477.5
+0181,2327,14100,,Otro personal,45030.0,45030.0,23991.16
+0181,2327,16000,,Seguridad social a cargo del ayuntamiento,52388.0,51121.54,37222.68
 0181,2327,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1266.46,621.18
-0181,2361,22604,,Estrategia antirumor,30000.0,30000.0,1215.49
+0181,2361,22604,,Estrategia antirumor,30000.0,30000.0,1284.46
 0181,2361,22608,,Programa de (in)formación,22000.0,22000.0,3000.0
-0181,2361,22610,,Ciudad educadora,23000.0,23000.0,4656.4
-0181,2361,22613,,Traducción e interpretación,28000.0,28000.0,5286.25
-0181,2361,22642,,Plan de convivencia y diversidad,200000.0,200000.0,35219.78
-0181,2361,41910,,Conv. red vasca antirrumores,5000.0,5000.0,0.0
-0181,2361,48128,,Conv.c. del sordo Alava-Arabako gorra,22000.0,22000.0,22000.0
+0181,2361,22610,,Ciudad educadora,23000.0,23000.0,5816.4
+0181,2361,22613,,Traducción e interpretación,28000.0,28000.0,6973.5
+0181,2361,22642,,Plan de convivencia y diversidad,200000.0,205000.0,39824.27
+0181,2361,41910,,Conv. Red vasca antirumores,5000.0,5000.0,4000.0
+0181,2361,48128,,Conv.c. del sordo Álava-arabako gorra,22000.0,22000.0,22000.0
 0181,2361,48150,,Convenio SECOT,3000.0,0.0,0.0
 0181,2361,48150,R,Convenio SECOT,0.0,2400.0,2400.0
 0181,2361,48901,,Convocatoria general de subvenciones,80000.0,80000.0,0.0
-0181,2361,48970,,Conv.asoc.eginaren Eginez,28000.0,28000.0,22400.0
-0181,2361,48983,,Convenio GOIAN,104000.0,104000.0,83200.0
-0181,2361,48985,,Convenio memoria histórica,20000.0,20000.0,0.0
-0210,1502,12000,,Retribuciones básicas de funcionarios,100470.0,100470.0,52812.97
-0210,1502,12100,,Retribuciones complementarias funcionarios,152071.0,152071.0,78325.0
-0210,1502,14100,,Otro personal,52460.0,52460.0,23383.78
-0210,1502,16000,,Seguridad social a cargo del ayuntamiento,69240.0,64761.08,31617.26
-0210,1502,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4478.92,2142.56
-0210,1502,22004,,Edición y reproducción de cartografía y proyectos,2000.0,2000.0,3294.42
+0181,2361,48970,,Conv.asoc.Eginaren Eginez,28000.0,28000.0,22400.0
+0181,2361,48983,,Convenio Goian,104000.0,104000.0,83200.0
+0181,2361,48985,,Convenio memoria histórica,20000.0,0.0,0.0
+0210,1502,12000,,Retribuciones básicas de funcionarios,100470.0,100470.0,70210.04
+0210,1502,12100,,Retribuciones complementarias funcionarios,152071.0,152071.0,114261.32
+0210,1502,14100,,Otro personal,52460.0,52460.0,37356.8
+0210,1502,16000,,Seguridad social a cargo del ayuntamiento,69240.0,64761.08,47246.34
+0210,1502,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4478.92,2972.06
+0210,1502,22004,,Edición y reproducción de cartografía y proyectos,2000.0,2000.0,3433.78
 0210,1502,22111,,"Menaje, útiles y herramientas",1000.0,1000.0,956.82
-0210,1502,22205,,"Reuniones,conferencias y congresos",5000.0,5000.0,4640.0
+0210,1502,22205,,"Reuniones,conferencias y congresos",5000.0,5000.0,4990.0
 0210,1502,22707,,Asistencias técnicas,4000.0,4000.0,0.0
 0210,1502,22732,,Contratos de prestación de servicios,70000.0,70000.0,0.0
 0210,1502,23901,,Indemnizaciones jurados expropiación,1000.0,1000.0,0.0
-0211,1511,12000,,Retribuciones básicas de funcionarios,191612.0,191612.0,86477.0
-0211,1511,12100,,Retribuciones complementarias funcionarios,239047.0,239047.0,110564.25
-0211,1511,14100,,Otro personal,77251.0,77251.0,56310.31
-0211,1511,16000,,Seguridad social a cargo del ayuntamiento,154522.0,148782.64,78577.34
-0211,1511,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5739.36,3412.85
-0211,1511,60001,,Expropiaciones y adquisición de suelo,679336.28,947182.48,0.0
-0211,1511,60203,,Particp interinstitucional convento san francisco,50000.0,50000.0,0.0
+0211,1511,12000,,Retribuciones básicas de funcionarios,191612.0,191612.0,124535.94
+0211,1511,12100,,Retribuciones complementarias funcionarios,239047.0,239047.0,168082.74
+0211,1511,14100,,Otro personal,77251.0,77251.0,78741.25
+0211,1511,16000,,Seguridad social a cargo del ayuntamiento,154522.0,148782.64,116051.02
+0211,1511,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5739.36,5290.25
+0211,1511,60001,,Expropiaciones y adquisición de suelo,679336.28,947182.48,304778.24
+0211,1511,60203,,Participación interinstitucional convento San Francisco,50000.0,50000.0,0.0
 0211,1511,60926,,Regularización convenio obispado aparcamiento catedral,40000.0,40000.0,0.0
 0211,1511,61405,,Catalogo de edificios y espacios protegidos,70000.0,70000.0,0.0
 0211,1511,64202,,Actualizaciones cartográficas,50000.0,50000.0,4446.75
 0211,1511,64202,R,Actualizaciones cartográficas,0.0,34000.0,0.0
-0211,1511,64203,,Honorarios,50000.0,50000.0,0.0
+0211,1511,64203,,Honorarios,50000.0,50000.0,91.91
 0211,1511,64203,R,Honorarios,0.0,3993.0,3993.0
-0211,1511,64206,,Revisión PGOU,145000.0,145000.0,16205.04
+0211,1511,64206,,Revisión PGOU,145000.0,145000.0,45691.2
 0211,1511,64206,A,Revisión PGOU,0.0,384000.0,0.0
-0211,1511,64206,R,Revisión PGOU,0.0,245566.0,0.0
+0211,1511,64206,R,Revisión PGOU,0.0,245566.0,5566.0
 0211,1511,64208,,Revisión plan especial casco histórico,75000.0,75000.0,0.0
 0211,1511,64212,,Previsión cuotas urbanización,50000.0,50000.0,0.0
 0211,1511,64215,,Acuerdo extrajudicial ocupación suelo TGSS,20000.0,20000.0,0.0
 0211,1511,64334,,Honorarios notarios registro regularización propiedades,70000.0,70000.0,0.0
-0211,1513,71001,,Proyecto coronación (rehabilitation & distric heating,420000.0,420000.0,0.0
-0211,1513,71001,A,Proyecto coronación (rehabilitation & distric heating,0.0,453332.7,81333.74
-0211,1513,71001,R,Proyecto coronación (rehabilitation & distric heating,0.0,740000.0,0.0
-0213,1502,22730,,Servicio almacenaje fondos editoriales,10000.0,10000.0,1083.0
-0213,1512,12000,,Retribuciones básicas de funcionarios,339849.0,339849.0,167493.85
-0213,1512,12100,,Retribuciones complementarias funcionarios,461991.0,461991.0,231636.07
-0213,1512,14100,,Otro personal,96124.0,96124.0,66333.01
-0213,1512,16000,,Seguridad social a cargo del ayuntamiento,280672.0,268684.46,132177.79
-0213,1512,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11987.54,6077.19
+0211,1513,71001,,Proyecto Coronación (rehabilitación & distric heating),420000.0,420000.0,0.0
+0211,1513,71001,A,Proyecto Coronación (rehabilitación & distric heating),0.0,453332.7,81333.74
+0211,1513,71001,R,Proyecto Coronación (rehabilitación & distric heating),0.0,740000.0,0.0
+0213,1502,22730,,Servicio almacenaje fondos editoriales,10000.0,10000.0,7842.48
+0213,1512,12000,,Retribuciones básicas de funcionarios,339849.0,339849.0,231108.96
+0213,1512,12100,,Retribuciones complementarias funcionarios,461991.0,461991.0,349959.76
+0213,1512,14100,,Otro personal,96124.0,96124.0,104945.17
+0213,1512,16000,,Seguridad social a cargo del ayuntamiento,280672.0,268684.46,203699.58
+0213,1512,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11987.54,8556.9
 0213,1512,22620,,Obras subsidiarias y apuntalamiento,250000.0,250000.0,0.0
 0213,1512,22620,A,Obras subsidiarias y apuntalamiento,0.0,9643.87,0.0
 0213,1512,22620,R,Obras subsidiarias y apuntalamiento,0.0,29983.8,0.0
-0213,1512,22747,,Inspecc técnica edificios intervención Edif. casco histórico,150000.0,150000.0,0.0
-0214,1502,62901,,Adquisición equipos,5000.0,5000.0,0.0
+0213,1512,22747,,Inspecc técnica edificios intervención edif casco histórico,150000.0,150000.0,0.0
+0214,1502,62901,,adquisición equipos,5000.0,5000.0,0.0
 0214,1502,64201,,Estudios y proyectos,30000.0,30000.0,0.0
-0214,1502,64516,R, Gasteiz Antzokia,0.0,1251563.08,8712.97
+0214,1502,64516,R,Gasteiz Antzokia,0.0,1251563.08,8712.97
 0214,3421,62257,R,"Astrónomos, Adurtza, Abetxuko y Beti Jai",0.0,694179.3,639501.96
 0214,4300,62259,,CC Salburua,0.0,360629.72,360629.72
-0214,9211,12000,,Retribuciones básicas de funcionarios,245533.0,245533.0,112326.96
-0214,9211,12100,,Retribuciones complementarias funcionarios,303153.0,303153.0,140980.87
+0214,9211,12000,,Retribuciones básicas de funcionarios,245533.0,245533.0,152359.37
+0214,9211,12100,,Retribuciones complementarias funcionarios,303153.0,303153.0,205282.18
 0214,9211,13000,,Retribuciones personal laboral fijo,14848.0,14848.0,0.0
-0214,9211,14100,,Otro personal,44502.0,44502.0,36408.91
-0214,9211,16000,,Seguridad social a cargo del ayuntamiento,179178.0,168677.18,79873.38
-0214,9211,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10500.82,4548.91
-0214,9211,60202,,Palacio Escoriaza Esquivel,110000.0,110000.0,0.0
+0214,9211,14100,,Otro personal,44502.0,44502.0,47803.12
+0214,9211,16000,,Seguridad social a cargo del ayuntamiento,179178.0,168677.18,115836.02
+0214,9211,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10500.82,6199.12
+0214,9211,60202,,Palacio escoriaza esquivel,110000.0,110000.0,0.0
 0214,9211,60507,,Casa iniciativas Abetxuko,500000.0,500000.0,0.0
 0214,9211,60608,,Renaturalización de patios,50000.0,50000.0,0.0
 0214,9211,60611,,Derribo viveros existentes,143373.9,143373.9,0.0
 0214,9211,60612,,Nuevos viveros en aretxabaleta,1.0,1.0,0.0
-0214,9211,61305,,Auditórium,250000.0,250000.0,0.0
-0214,9211,61402,,Edificio social mendizorroza (accesibilidad-incendios),5000.0,5000.0,0.0
+0214,9211,61305,,Auditorium,250000.0,250000.0,0.0
+0214,9211,61402,,Edificio social Mendizorrotza (accesibilidad-incendios),5000.0,5000.0,0.0
 0214,9211,61403,,Montehermoso (accesibilidad e incendios),5000.0,5000.0,0.0
 0214,9211,61404,,Actuaciones en edificios municipales,5000.0,5000.0,0.0
 0214,9211,62215,,Inversiones en patrimonio municipal,15000.0,15000.0,19900.6
 0214,9211,62215,R,Inversiones en patrimonio municipal,0.0,2239.92,0.0
 0214,9211,62278,,Centro protección animal,250000.0,250000.0,0.0
 0214,9211,62297,,Rehabilitación edificios mples. directiva 2012/2017 UE,50000.0,50000.0,0.0
-0214,9211,64326,,Masterplan-plan de reactivación del centro urbano,200000.0,200000.0,0.0
-0214,9211,64516,, Gasteiz Antzokia,1400000.0,1400000.0,0.0
-0214,9211,77101,,Reforma campo fútbol mendizorroza,304000.0,304000.0,0.0
-0214,9212,62290,,Reforma teatro principal,530000.0,530000.0,0.0
-0216,1502,12000,,Retribuciones básicas de funcionarios,192402.0,192402.0,144973.01
-0216,1502,12100,,Retribuciones complementarias funcionarios,238731.0,238731.0,173811.55
-0216,1502,14100,,Otro personal,28393.0,28393.0,11181.71
-0216,1502,16000,,Seguridad social a cargo del ayuntamiento,134351.0,126554.41,96015.53
-0216,1502,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7796.59,5677.07
-0218,1741,60150,,Obras en pueblos,150000.0,150000.0,8597.28
+0214,9211,64326,,Master-plan de reactivación del centro urbano,200000.0,200000.0,0.0
+0214,9211,64516,,Gasteiz antzokia,1400000.0,1400000.0,0.0
+0214,9211,77101,,Reforma campo fútbol Mendizorrotza,304000.0,304000.0,0.0
+0214,9212,62290,,Reforma Teatro Principal,530000.0,530000.0,0.0
+0216,1502,12000,,Retribuciones básicas de funcionarios,192402.0,192402.0,204990.3
+0216,1502,12100,,Retribuciones complementarias funcionarios,238731.0,238731.0,273595.03
+0216,1502,14100,,Otro personal,28393.0,28393.0,28701.49
+0216,1502,16000,,Seguridad social a cargo del ayuntamiento,134351.0,126554.41,152257.7
+0216,1502,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7796.59,8234.9
+0218,1741,60150,,Obras en pueblos,150000.0,150000.0,16015.72
 0218,1741,60150,R,Obras en pueblos,0.0,137492.44,29924.72
 0218,1741,60151,,Cofinanciación obras plan foral,100000.0,100000.0,0.0
-0218,1741,60700,,Mejora paisajística zona rural,20000.0,20000.0,5316.27
-0218,1741,60700,R,Mejora paisajística zona rural,0.0,8576.86,0.0
-0218,1742,22700,,"Recogida residuos, mantenimiento ELM y cementerios",1150000.0,1150000.0,456473.98
-0218,1742,22700,R,"Recogida residuos, mantenimiento ELM y cementerios",0.0,27217.45,0.0
-0218,1743,21000,,Infraestructura y bienes naturales,60000.0,60000.0,14792.42
-0218,1743,21902,,"Mantenimiento vías forestales, plantaciones y espacios naturales",60000.0,60000.0,399.3
-0218,1743,21911,,Mantenimiento jardines núcleos rurales,260000.0,260000.0,0.0
-0218,1743,22111,,"Menaje, útiles y herramientas",12000.0,12000.0,71.65
-0218,1743,22145,,Recuperación espacios degradados,30000.0,30000.0,10882.98
-0218,1743,72000,,A la DFA para la ejecución de caminos parcelarios,100000.0,100000.0,0.0
-0218,1749,12000,,Retribuciones básicas de funcionarios,153463.0,153463.0,78504.11
-0218,1749,12100,,Retribuciones complementarias funcionarios,225952.0,225952.0,111194.42
-0218,1749,13000,,Retribuciones personal laboral fijo,119353.0,119353.0,59396.73
+0218,1741,60700,,Mejora paisajística zona rural,20000.0,20000.0,15671.33
+0218,1741,60700,R,Mejora paisajística zona rural,0.0,8576.86,8576.86
+0218,1742,22700,,"Recogida residuos, mantenimiento elm y cementerios",1150000.0,1150000.0,576470.78
+0218,1742,22700,R,"Recogida residuos, mantenimiento elm y cementerios",0.0,27217.45,25809.74
+0218,1743,21000,,Infraestructura y bienes naturales,60000.0,60000.0,17273.05
+0218,1743,21902,,"Mantenimiento vías forestales, plantaciones y espacios naturales",60000.0,60000.0,23295.24
+0218,1743,21911,,Mantenimiento jardínes núcleos rurales,260000.0,260000.0,153209.74
+0218,1743,22111,,"Menaje, útiles y herramientas",12000.0,12000.0,184.85
+0218,1743,22145,,Recuperación espacios degradados,30000.0,30000.0,28279.2
+0218,1743,72000,,A la dfa para la ejecución de caminos parcelarios,100000.0,100000.0,0.0
+0218,1749,12000,,Retribuciones básicas de funcionarios,153463.0,153463.0,104965.73
+0218,1749,12100,,Retribuciones complementarias funcionarios,225952.0,225952.0,168333.57
+0218,1749,13000,,Retribuciones personal laboral fijo,119353.0,119353.0,85438.89
 0218,1749,14100,,Otro personal,2915.0,2915.0,0.0
-0218,1749,16000,,Seguridad social a cargo del ayuntamiento,157657.0,147411.52,69954.84
-0218,1749,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10245.48,5116.65
+0218,1749,16000,,Seguridad social a cargo del ayuntamiento,157657.0,147411.52,105080.75
+0218,1749,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10245.48,7309.5
 0218,1749,48112,,Subvenciones asociación concejos,115000.0,115000.0,80000.0
 0218,1749,78919,,Subvenc.para centros sociales,40000.0,40000.0,0.0
-0218,1749,78919,R,Subvenc.para centros sociales,0.0,40000.0,0.0
-022201,1691,12000,,Retribuciones básicas de funcionarios,95504.0,95504.0,56166.75
-022201,1691,12100,,Retribuciones complementarias funcionarios,136237.0,136237.0,75192.53
-022201,1691,14100,,Otro personal,123821.0,123821.0,40959.49
-022201,1691,16000,,Seguridad social a cargo del ayuntamiento,113883.0,107191.71,52770.5
-022201,1691,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6691.29,4047.27
+0218,1749,78919,R,Subvenc.para centros sociales,0.0,40000.0,40000.0
+022201,1691,12000,,Retribuciones básicas de funcionarios,95504.0,95504.0,79142.93
+022201,1691,12100,,Retribuciones complementarias funcionarios,136237.0,136237.0,115318.93
+022201,1691,14100,,Otro personal,123821.0,123821.0,58383.01
+022201,1691,16000,,Seguridad social a cargo del ayuntamiento,113883.0,107191.71,81110.91
+022201,1691,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6691.29,5874.96
 022201,1722,62916,,Calidad ambiental del vertedero,125000.0,125000.0,3641.71
-022202,1623,60706,,Plan de residuos,85000.0,85000.0,0.0
+022202,1623,60706,,Plan de residuos,85000.0,85000.0,30725.53
 022202,1623,60711,,Adecuación vertedero real decreto 14/81/2001,145000.0,145000.0,0.0
 022202,1623,60711,R,Adecuación vertedero real decreto 14/81/2001,0.0,71148.0,0.0
 022202,1623,64316,,Plan de acción del mapa estratégico de ruidos,75000.0,75000.0,0.0
 022202,1623,64316,R,Plan de acción del mapa estratégico de ruidos,0.0,10890.0,0.0
 022202,1711,60920,A,Infraestructuras verdes,0.0,991.01,0.0
-022202,1721,21040,,Mantenimiento y reparación de equipos de control,130000.0,130000.0,27564.08
+022202,1721,21040,,Mantenimiento y reparación de equipos de control,130000.0,130000.0,33055.56
 022202,1721,21040,R,Mantenimiento y reparación de equipos de control,0.0,40686.7,8674.22
 022202,1721,22115,,Repuestos y fungibles,5000.0,5000.0,7672.59
-022202,1721,60305,,Instalaciones del vertedero Gardelegui,20000.0,20000.0,0.0
-022202,1722,12000,,Retribuciones básicas de funcionarios,50762.0,50762.0,24805.43
-022202,1722,12100,,Retribuciones complementarias funcionarios,69203.0,69203.0,32902.25
+022202,1721,60305,,Instalaciones del vertedero gardelegui,20000.0,20000.0,0.0
+022202,1722,12000,,Retribuciones básicas de funcionarios,50762.0,50762.0,31240.17
+022202,1722,12100,,Retribuciones complementarias funcionarios,69203.0,69203.0,45627.71
 022202,1722,14100,,Otro personal,9924.0,9924.0,6239.28
-022202,1722,16000,,Seguridad social a cargo del ayuntamiento,32310.0,30698.21,15372.07
-022202,1722,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1611.79,978.03
+022202,1722,16000,,Seguridad social a cargo del ayuntamiento,32310.0,30698.21,19551.57
+022202,1722,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1611.79,1304.04
 022202,1722,48196,,Convenio GAIA,10000.0,10000.0,0.0
-022202,1722,60182,,Proyecto árboles,65000.0,65000.0,5452.32
-022202,1722,60919,,Infraestructuras anillo verde,50000.0,50000.0,4835.01
+022202,1722,60182,,Proyecto árboles,65000.0,65000.0,8544.77
+022202,1722,60919,,Infraestructuras anillo verde,50000.0,50000.0,10838.85
 022202,1722,64321,A,Plan de energías renovables,0.0,47649.96,12383.47
 022202,1722,64321,R,Plan de energías renovables,0.0,47649.96,0.0
 022202,1722,64329,,Plan sensibilización ruidos casco medieval,25000.0,25000.0,0.0
-022202,1722,64330,,Red de control del ruido,15000.0,15000.0,0.0
-022203,1621,22145,,Gastos sanitarios por Coronavirus,0.0,0.0,7741.58
+022202,1722,64330,,Red de control del ruido,15000.0,15000.0,13847.24
+022203,1621,22145,,Gastos sanitarios por coronavirus,0.0,0.0,9897.5
 022203,1621,22700,,"Contrato Serv. limpieza, recogida y transporte RSU",9437066.3,9437066.3,2712598.2
 022203,1621,22700,R,"Contrato Serv. limpieza, recogida y transporte RSU",0.0,1356299.1,1356299.1
-022203,1621,22703,,Contrato recogida neumática en casco medieval,1839675.5,1839675.5,686843.96
+022203,1621,22703,,Contrato recogida neumática en casco medieval,1839675.5,1839675.5,1184504.81
 022203,1621,22703,R,Contrato recogida neumática en casco medieval,0.0,497660.85,497660.85
-022203,1621,22715,,Recogidas selectivas de residuos,549343.0,549343.0,59438.96
-022203,1621,22715,R,Recogidas selectivas de residuos,0.0,61639.94,60561.47
-022203,1621,22724,,Contrato de explotación de garbigunes,427396.17,427396.17,129790.65
+022203,1621,22715,,Recogidas selectivas de residuos,549343.0,549343.0,128869.36
+022203,1621,22715,R,Recogidas selectivas de residuos,0.0,61639.94,61638.84
+022203,1621,22724,,Contrato de explotación de garbigunes,427396.17,427396.17,224139.69
 022203,1621,22724,R,Contrato de explotación de garbigunes,0.0,94349.05,94349.05
-022203,1622,21204,,Mantenimiento de las instalaciones del vertedero,10000.0,10000.0,1961.54
-022203,1622,22723,,Contrato explotación del vertedero,1180413.41,1180413.41,401296.83
+022203,1622,21204,,Mantenimiento de las instalaciones del vertedero,10000.0,10000.0,2929.25
+022203,1622,22723,,Contrato explotación del vertedero,1180413.41,1180413.41,801063.63
 022203,1622,64304,,"Honorarios, estudios y proyectos",20000.0,20000.0,2250.0
 022203,1622,64304,R,"Honorarios, estudios y proyectos",0.0,14749.9,14749.9
-022203,1622,64318,,Actuaciones conservación biodiversidad,75000.0,75000.0,2390.85
-022203,1622,64318,R,Actuaciones conservación biodiversidad,0.0,35853.69,17643.47
-022203,1623,22111,,"Menaje, útiles y herramientas",5000.0,5000.0,0.0
-022203,1623,22702,,Contrato explotación planta RSU Jundiz,8372877.63,8372877.63,2727381.84
+022203,1622,64318,,Actuaciones conservación biodiversidad,75000.0,75000.0,2668.27
+022203,1622,64318,R,Actuaciones conservación biodiversidad,0.0,35853.69,19079.63
+022203,1623,22111,,"Menaje, útiles y herramientas",5000.0,5000.0,366.18
+022203,1623,22702,,Contrato explotación planta rsu Jundiz,8372877.63,8372877.63,5454763.68
 022203,1623,22710,,Contrato recogida voluminosos,1044371.23,1044371.23,0.0
 022203,1623,47132,,Convenio fundación vital plásticos 0,20000.0,20000.0,0.0
 022203,1623,60706,A,Plan de residuos,0.0,36220.94,32689.78
@@ -285,699 +289,703 @@
 022203,1623,62901,,Adquisición equipos,6000.0,6000.0,0.0
 022203,1631,22700,,Limpieza viaria,17083488.45,17418702.11,5048770.04
 022203,1631,22700,R,Limpieza viaria,0.0,2524385.02,2524385.02
-022203,1711,22699,A,Proyecto Life Lutreola,0.0,35909.99,1261.9
-022203,1722,12000,,Retribuciones básicas de funcionarios,134866.0,134866.0,66901.05
-022203,1722,12100,,Retribuciones complementarias funcionarios,183638.0,183638.0,91168.01
-022203,1722,13000,,Retribuciones personal laboral fijo,53175.0,53175.0,22818.16
+022203,1711,22699,A,Proyecto life lutreola,0.0,35909.99,1261.9
+022203,1722,12000,,Retribuciones básicas de funcionarios,134866.0,134866.0,90057.02
+022203,1722,12100,,Retribuciones complementarias funcionarios,183638.0,183638.0,135541.8
+022203,1722,13000,,Retribuciones personal laboral fijo,53175.0,53175.0,34555.2
 022203,1722,14100,,Otro personal,42185.0,42185.0,0.0
-022203,1722,16000,,Seguridad social a cargo del ayuntamiento,144252.0,137791.12,49984.89
-022203,1722,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6460.88,3169.18
-022204,1711,12000,,Retribuciones básicas de funcionarios,60700.0,60700.0,31344.72
-022204,1711,12100,,Retribuciones complementarias funcionarios,78639.0,78639.0,40761.42
-022204,1711,13000,,Retribuciones personal laboral fijo,72015.0,72015.0,37872.25
+022203,1722,16000,,Seguridad social a cargo del ayuntamiento,144252.0,137791.12,78023.15
+022203,1722,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6460.88,4527.4
+022204,1711,12000,,Retribuciones básicas de funcionarios,60700.0,60700.0,42156.03
+022204,1711,12100,,Retribuciones complementarias funcionarios,78639.0,78639.0,60626.15
+022204,1711,13000,,Retribuciones personal laboral fijo,72015.0,72015.0,54367.27
 022204,1711,14100,,Otro personal,5656.0,5656.0,0.0
-022204,1711,16000,,Seguridad social a cargo del ayuntamiento,64191.0,60107.24,30490.6
-022204,1711,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4083.76,2003.05
-022204,1711,21073,,Conservación arboreto,20000.0,20000.0,1569.23
-022204,1711,21074,,Trabajos de conservación anillo verde exterior,400000.0,400000.0,126821.09
-022204,1711,21074,R,Trabajos de conservación anillo verde exterior,0.0,58904.46,55210.9
+022204,1711,16000,,Seguridad social a cargo del ayuntamiento,64191.0,60107.24,45735.76
+022204,1711,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4083.76,2861.5
+022204,1711,21073,,Conservación arboreto,20000.0,20000.0,1905.97
+022204,1711,21074,,Trabajos de conservación anillo verde exterior,400000.0,400000.0,229308.3
+022204,1711,21074,R,Trabajos de conservación anillo verde exterior,0.0,58904.46,58901.93
 022204,1711,22758,,Campaña índices alquileres vivienda,20000.0,20000.0,0.0
 022204,1711,22759,,Programa 50-50,20000.0,20000.0,0.0
-022204,1711,22793,,Our City - Our energy,10000.0,10000.0,0.0
+022204,1711,22793,,Our city - our energy,10000.0,10000.0,0.0
 022204,1711,60916,,Agenda local 2030,40000.0,40000.0,0.0
 022204,1711,64305,,Plan de acción clima energía sostenible,50000.0,50000.0,0.0
 022204,1711,64306,,Anillo solar,150000.0,150000.0,0.0
 022204,1711,64319,,Red de control campos electromagnéticos,15000.0,15000.0,2232.45
 022204,1711,64321,,Plan de energías renovables,100000.0,100000.0,0.0
-0320,1301,11000,,Retribuciones personal eventual gabinete,86442.0,86442.0,42543.16
-0320,1301,12000,,Retribuciones básicas de funcionarios,50255.0,50255.0,19048.55
-0320,1301,12100,,Retribuciones complementarias funcionarios,54646.0,54646.0,17323.5
-0320,1301,14100,,Otro personal,0.0,0.0,20613.92
-0320,1301,16000,,Seguridad social a cargo del ayuntamiento,39572.0,35203.85,25876.73
-0320,1301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,16161.0,20529.15,2142.56
-0330,1301,12000,,Retribuciones básicas de funcionarios,385164.0,385164.0,184359.16
-0330,1301,12100,,Retribuciones complementarias funcionarios,506480.0,506480.0,246601.22
-0330,1301,14100,,Otro personal,19110.0,19110.0,33001.23
-0330,1301,16000,,Seguridad social a cargo del ayuntamiento,272495.0,262788.0,133862.68
-0330,1301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9707.0,5635.0
-0340,1351,21102,,Gastos de emergencia y nevadas,100000.0,100000.0,17432.07
+0320,1301,11000,,Retribuciones personal eventual gabinete,86442.0,86442.0,61044.19
+0320,1301,12000,,Retribuciones básicas de funcionarios,50255.0,50255.0,25593.39
+0320,1301,12100,,Retribuciones complementarias funcionarios,54646.0,54646.0,39607.86
+0320,1301,14100,,Otro personal,0.0,0.0,25831.53
+0320,1301,16000,,Seguridad social a cargo del ayuntamiento,39572.0,35203.85,35913.09
+0320,1301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,16161.0,20529.15,2843.46
+0330,1301,12000,,Retribuciones básicas de funcionarios,385164.0,385164.0,248474.53
+0330,1301,12100,,Retribuciones complementarias funcionarios,506480.0,506480.0,362977.78
+0330,1301,14100,,Otro personal,19110.0,19110.0,51040.11
+0330,1301,16000,,Seguridad social a cargo del ayuntamiento,272495.0,262788.0,201377.42
+0330,1301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9707.0,8112.4
+0340,1351,21102,,Gastos de emergencia y nevadas,100000.0,100000.0,17444.61
 0340,1351,21102,R,Gastos de emergencia y nevadas,0.0,15476.86,11485.8
-0340,1351,21300,,Reparación vehículos,65000.0,65000.0,21786.71
-0340,1351,22145,,Gastos sanitarios por Coronavirus,0.0,0.0,250.0
+0340,1351,21300,,Reparación vehículos,65000.0,65000.0,35002.37
+0340,1351,22145,,Gastos sanitarios por coronavirus,0.0,0.0,2465.44
 0340,1351,22701,,Gastos operativo sanitario de fiestas,13000.0,13000.0,0.0
-0340,1361,12000,,Retribuciones básicas de funcionarios,1532845.0,1532845.0,770431.85
-0340,1361,12100,,Retribuciones complementarias funcionarios,3186825.0,3186825.0,1557983.01
-0340,1361,14100,,Otro personal,572760.0,572760.0,378075.89
-0340,1361,16000,,Seguridad social a cargo del ayuntamiento,2108237.0,2043841.29,1008498.48
-0340,1361,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,64395.71,33193.6
-0340,1361,21900,,Renovación y reposición de equipos,75000.0,75000.0,22231.59
-0340,1361,22105,,Vestuario y uniformes,90000.0,90000.0,26044.62
-0340,1361,22111,,"Menaje, útiles y herramientas",40000.0,40000.0,7177.37
-0340,1361,22199,,Otros suministros,30000.0,30000.0,16900.99
-0340,1361,22699,,Otros gastos diversos,10000.0,10000.0,1846.52
+0340,1361,12000,,Retribuciones básicas de funcionarios,1532845.0,1532845.0,1009030.13
+0340,1361,12100,,Retribuciones complementarias funcionarios,3186825.0,3186825.0,2319035.3
+0340,1361,14100,,Otro personal,572760.0,572760.0,556398.39
+0340,1361,16000,,Seguridad social a cargo del ayuntamiento,2108237.0,2043841.29,1514929.96
+0340,1361,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,64395.71,47094.95
+0340,1361,21900,,Renovación y reposición de equipos,75000.0,75000.0,26584.41
+0340,1361,22105,,Vestuario y uniformes,90000.0,90000.0,31925.63
+0340,1361,22111,,"Menaje, útiles y herramientas",40000.0,40000.0,10359.25
+0340,1361,22199,,Otros suministros,30000.0,30000.0,24022.93
+0340,1361,22699,,Otros gastos diversos,10000.0,10000.0,2180.52
 0340,1361,62400,,Vehículos,63693.96,50000.0,0.0
 0340,1361,62400,A,Vehículos,0.0,50079.0,50079.0
 0340,1361,62400,R,Vehículos,0.0,116535.58,114069.49
-0340,1361,62401,A,Adquisición vehículo de altura - auto escalera,0.0,700000.0,700000.0
+0340,1361,62401,A,Adquisición vehículo de altura - autoescalera,0.0,700000.0,700000.0
 0340,1361,62901,,Adquisición equipos,5000.0,18693.96,0.0
-0350,1321,12000,,Retribuciones básicas de funcionarios,5810882.0,5810882.0,3163377.39
-0350,1321,12100,,Retribuciones complementarias funcionarios,12762973.0,12762973.0,5827851.99
-0350,1321,14100,,Otro personal,9915.0,9915.0,16463.96
-0350,1321,16000,,Seguridad social a cargo del ayuntamiento,1783839.0,1504443.39,3225398.98
-0350,1321,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,5054675.0,5334070.61,149556.23
-0350,1321,20501,,Renting sist.radiocomunicaciones TETRA,9000.0,9000.0,3567.1
-0350,1321,21001,,Seguridad en fiestas virgen blanca,2997.0,2997.0,0.0
-0350,1321,21300,,Reparación vehículos,75000.0,75000.0,14560.46
-0350,1321,21900,,Renovación y reposición de equipos,86936.0,86936.0,8644.94
+0350,1321,12000,,Retribuciones básicas de funcionarios,5810882.0,5810882.0,4151958.45
+0350,1321,12100,,Retribuciones complementarias funcionarios,12762973.0,12762973.0,9011041.77
+0350,1321,14100,,Otro personal,9915.0,9915.0,20476.59
+0350,1321,16000,,Seguridad social a cargo del ayuntamiento,1783839.0,1504443.39,4908455.02
+0350,1321,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,5054675.0,5334070.61,213084.54
+0350,1321,20501,,Renting sist.radiocomunicaciones TETRA,9000.0,9000.0,4993.94
+0350,1321,21001,,Seguridad en fiestas Virgen Blanca,2997.0,2997.0,0.0
+0350,1321,21300,,Reparación vehículos,75000.0,75000.0,22554.81
+0350,1321,21900,,Renovación y reposición de equipos,86936.0,86936.0,13521.76
 0350,1321,21900,R,Renovación y reposición de equipos,0.0,12586.76,10788.66
-0350,1321,21905,,Manten.scanner seguridad y USP,7500.0,7500.0,1090.49
-0350,1321,22105,,Vestuario y uniformes,250000.0,250000.0,3953.59
-0350,1321,22105,R,Vestuario y uniformes,0.0,59440.0,18794.61
-0350,1321,22111,,"Menaje, útiles y herramientas",30000.0,30000.0,5979.7
-0350,1321,22145,,Gastos sanitarios por Coronavirus,0.0,0.0,4595.58
-0350,1321,22199,,Otros suministros,15000.0,15000.0,19882.29
-0350,1321,22699,,Otros gastos diversos,25000.0,25000.0,3368.24
+0350,1321,21905,,Manten.scanner seguridad y usp,7500.0,7500.0,2180.98
+0350,1321,22105,,Vestuario y uniformes,250000.0,250000.0,7350.9
+0350,1321,22105,R,Vestuario y uniformes,0.0,59440.0,43850.14
+0350,1321,22111,,"Menaje, útiles y herramientas",30000.0,30000.0,6265.59
+0350,1321,22145,,Gastos sanitarios por coronavirus,0.0,0.0,7397.94
+0350,1321,22199,,Otros suministros,15000.0,15000.0,22717.18
+0350,1321,22699,,Otros gastos diversos,25000.0,55000.0,10858.66
 0350,1321,62400,,Vehículos,100000.0,100000.0,0.0
 0350,1321,62400,R,Vehículos,0.0,26232.8,26232.8
-0350,1321,62501,,Mobiliario,3000.0,3000.0,0.0
-0350,1321,62901,,Adquisición equipos,12000.0,12000.0,1116.39
+0350,1321,62501,,Mobiliario,3000.0,3000.0,658.24
+0350,1321,62901,,adquisición equipos,12000.0,12000.0,1116.39
 0350,1321,62901,R,Adquisición equipos,0.0,10666.15,10666.15
-0410,0111,32201,,Intereses prestamos a corto plazo,75000.0,75000.0,0.0
-0410,0111,33201,,Intereses de prestamos a largo plazo,550000.0,549300.0,117769.53
+0410,0111,32201,,Intereses préstamos a corto plazo,75000.0,58466.32,0.0
+0410,0111,33201,,Intereses de préstamos a largo plazo,550000.0,549300.0,205899.85
 0410,0111,50000,,,828303.68,828303.68,0.0
-0410,0111,93300,,Amortización de prestamos a l/p,10950550.0,10950550.0,4396825.19
-0410,1513,73102,,Al centro de estudios ambientales,45000.0,45000.0,0.0
-0410,1513,73310,,A ensanche 21,1500000.0,1500000.0,500000.0
-0410,1722,43102,,Al centro de estudios ambientales,2790939.79,2790939.79,1200000.0
+0410,0111,93300,,Amortización de préstamos a l/p,10950550.0,10950550.0,4932188.59
+0410,1513,73102,,Al Centro de Estudios Ambientales,45000.0,45000.0,0.0
+0410,1513,73310,,A Ensanche 21,1500000.0,1500000.0,500000.0
+0410,1722,43102,,Al Centro de Estudios Ambientales,2790939.79,2790939.79,1200000.0
 0410,2381,22675,,Asistencia técnica ppto perspectiva genero,20000.0,20000.0,0.0
-0410,2411,20301,,Renting de vehículos  - POEJ,42350.0,42350.0,15316.65
+0410,2411,20301,,Renting de vehículos  - poej,42350.0,42350.0,24506.64
 0410,4411,43300,,Aportación a TUVISA,14500000.0,14500000.0,10875000.0
 0410,4411,73300,,A TUVISA,1100000.0,1100000.0,0.0
-0410,9203,22145,,Gastos sanitarios Coronavirus,0.0,0.0,179278.84
-0410,9204,62629,,Sistema informático inventario municipal,200000.0,200000.0,0.0
-0410,9205,20301,,Renting de vehículos,410000.0,410000.0,143093.63
-0410,9205,21300,,Reparación vehículos,185000.0,185000.0,75785.28
-0410,9205,22104,,Combustibles y carburantes,300000.0,300000.0,102900.55
-0410,9205,22404,,Seguros de vehículos,138000.0,138000.0,574.88
+0410,9203,22145,,Gastos sanitarios coronavirus,0.0,0.0,280156.32
+0410,9204,62629,,Sistema informático inventario municipal,200000.0,192058.0,0.0
+0410,9205,20301,,Renting de vehículos,410000.0,410000.0,229728.9
+0410,9205,21300,,Reparación vehículos,185000.0,185000.0,95763.22
+0410,9205,22104,,Combustibles y carburantes,300000.0,300000.0,165686.47
+0410,9205,22404,,Seguros de vehículos,138000.0,138000.0,49266.52
 0410,9205,62400,,Vehículos,140000.0,140000.0,18000.0
 0410,9205,62400,R,Vehículos,0.0,34170.24,0.0
 0410,9206,21400,,Reparación mobiliario,4000.0,4000.0,440.44
-0410,9206,21500,,Contratos mantenimiento de equipos,200000.0,200000.0,53136.64
-0410,9206,22001,,Ordinario no inventariable,200000.0,200000.0,72069.39
+0410,9206,21500,,Contratos mantenimiento de equipos,200000.0,200000.0,79387.79
+0410,9206,22001,,Ordinario no inventariable,200000.0,200000.0,91883.91
 0410,9206,62501,,Mobiliario,15000.0,15000.0,8456.7
 0410,9206,62505,,Adquisiciones varias dptos. municipales,15000.0,15000.0,0.0
-0410,9207,20100,,Arrendamiento locales y edificios,3431000.0,3431000.0,1757427.02
-0410,9207,22110,,Gastos de reprografia,60000.0,60000.0,13312.92
+0410,9207,20100,,Arrendamiento locales y edificios,3431000.0,3431000.0,2630899.68
+0410,9207,22110,,Gastos de reprografía,60000.0,60000.0,33804.63
 0410,9207,22402,,Seguros de responsabilidad civil,336000.0,336000.0,157565.14
-0410,9207,22407,,Seguro vida y accidentes,40000.0,40000.0,18490.11
-0410,9207,22600,,Gastos de registro de bienes,25000.0,25000.0,3256.81
-0410,9207,22732,,Contratos de prestación de servicios,90000.0,90000.0,32176.71
-0410,9207,22783,,Contrato limpieza w.c Parque Florida,0.0,30000.0,5889.71
-0410,9207,62900,,Reposiciones por siniestros,1.0,29251.0,29160.14
-0410,9211,62298,,Inversiones san martin,125000.0,125000.0,6702.58
+0410,9207,22407,,Seguro vida y accidentes,40000.0,40000.0,34815.82
+0410,9207,22600,,Gastos de registro de bienes,25000.0,25000.0,4895.08
+0410,9207,22732,,Contratos de prestación de servicios,90000.0,90000.0,50133.58
+0410,9207,22783,,Contrato limpieza wc parque florida,0.0,30000.0,13769.18
+0410,9207,60806,,Inversiones en locales municipales,0.0,7942.0,0.0
+0410,9207,62900,,Reposiciones por siniestros,1.0,164751.0,95661.45
+0410,9211,62298,,Inversiones San Martín,125000.0,125000.0,22037.98
 0410,9213,22102,,Suministro agua y depuración de residuales,1700000.0,1700000.0,0.0
-0410,9213,22103,,Fraccionamiento suministro agua convenio AMVISA,1593757.31,1593757.31,0.0
-0410,9213,22704,,Estudio costes tpte aéreo energía,0.0,17424.0,0.0
+0410,9213,22103,,Fraccionamiento suministro agua convenio amvisa,1593757.31,1593757.31,0.0
+0410,9213,22704,,Estudio costes tpte aéreo energía,0.0,17424.0,17424.0
 0410,9271,41800,,A EUDEL,258925.04,258925.04,0.0
-0410,9311,22499,,Indemnizaciones por responsabilidad patrimonial,150000.0,150000.0,28198.39
+0410,9311,22499,,Indemnizaciones por responsabilidad patrimonial,150000.0,150000.0,28640.09
 0410,9312,50001,,Crédito global,208393.66,70461.8,0.0
-0410,9319,12000,,Retribuciones básicas de funcionarios,53042.0,53042.0,34339.14
-0410,9319,12100,,Retribuciones complementarias funcionarios,92125.0,92125.0,52745.92
+0410,9319,12000,,Retribuciones básicas de funcionarios,53042.0,53042.0,46725.45
+0410,9319,12100,,Retribuciones complementarias funcionarios,92125.0,92125.0,81732.79
 0410,9319,14100,,Otro personal,1057.0,1057.0,0.0
-0410,9319,16000,,Seguridad social a cargo del ayuntamiento,29777.0,28226.15,15608.19
-0410,9319,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1673.07
-0410,9321,22776,,Servicios de la unidad de multas,180500.0,180500.0,75208.3
-0410,9331,22401,,Seguros de edificios y locales municipales,385000.0,385000.0,144479.75
-0410,9331,22601,,Gastos comunidades vecinos,506000.0,506000.0,176467.12
-0410,9331,22631,,Tasa AIREF,3300.0,3300.0,4982.61
+0410,9319,16000,,Seguridad social a cargo del ayuntamiento,29777.0,28226.15,24331.02
+0410,9319,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,2483.7
+0410,9321,22776,,Servicios de la unidad de multas,180500.0,180500.0,120333.28
+0410,9331,22401,,Seguros de edificios y locales municipales,385000.0,385000.0,301951.49
+0410,9331,22601,,Gastos comunidades vecinos,506000.0,506000.0,373436.73
+0410,9331,22631,,Tasa AIREF,3300.0,3300.0,5356.31
 0410,9331,22663,,Compensación cese aprovechamientos Elorriaga,52300.0,52300.0,0.0
-0410,9331,22760,,Mantenimiento relojes públicos,20000.0,20000.0,7960.0
+0410,9331,22760,,Mantenimiento relojes públicos,20000.0,20000.0,12736.0
 0410,9331,64900,,Propiedad industrial,1000.0,1000.0,0.0
-0410,9341,36100,,Intereses devolución ingresos indebidos,100000.0,100000.0,14231.88
-0410,9341,36101,,Gastos financieros asociados a ingresos,130000.0,130000.0,50423.01
+0410,9341,36100,,Intereses devolución ingresos indebidos,100000.0,70000.0,23294.35
+0410,9341,36101,,Gastos financieros asociados a ingresos,130000.0,130000.0,66608.92
 0410,9341,36102,,Intereses de demora,368500.0,368500.0,72766.31
 0410,9341,36900,,Otros gastos financieros,5000.0,5000.0,2195.66
-0411,9321,12000,,Retribuciones básicas de funcionarios,73501.0,73501.0,35956.55
-0411,9321,12100,,Retribuciones complementarias funcionarios,97197.0,97197.0,47085.96
+0411,9321,12000,,Retribuciones básicas de funcionarios,73501.0,73501.0,51109.46
+0411,9321,12100,,Retribuciones complementarias funcionarios,97197.0,97197.0,70318.58
 0411,9321,14100,,Otro personal,9725.0,9725.0,0.0
-0411,9321,16000,,Seguridad social a cargo del ayuntamiento,55330.0,50677.46,21309.63
-0411,9321,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4652.54,2282.07
-0412,9314,12000,,Retribuciones básicas de funcionarios,27655.0,27655.0,44741.12
-0412,9314,12100,,Retribuciones complementarias funcionarios,42259.0,42259.0,66636.7
-0412,9314,14100,,Otro personal,0.0,0.0,40719.51
-0412,9314,16000,,Seguridad social a cargo del ayuntamiento,12809.0,7002.5,33164.41
-0412,9314,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5806.5,2359.9
-0414,9312,12000,,Retribuciones básicas de funcionarios,99894.0,99894.0,42500.38
-0414,9312,12100,,Retribuciones complementarias funcionarios,128829.0,128829.0,58781.18
-0414,9312,16000,,Seguridad social a cargo del ayuntamiento,56505.0,53403.31,23792.14
+0411,9321,16000,,Seguridad social a cargo del ayuntamiento,55330.0,50677.46,31904.17
+0411,9321,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4652.54,3260.1
+0412,9314,12000,,Retribuciones básicas de funcionarios,27655.0,27655.0,59280.9
+0412,9314,12100,,Retribuciones complementarias funcionarios,42259.0,42259.0,97233.27
+0412,9314,14100,,Otro personal,0.0,0.0,59330.45
+0412,9314,16000,,Seguridad social a cargo del ayuntamiento,12809.0,7002.5,48738.85
+0412,9314,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5806.5,3278.14
+0414,9312,12000,,Retribuciones básicas de funcionarios,99894.0,99894.0,57557.23
+0414,9312,12100,,Retribuciones complementarias funcionarios,128829.0,128829.0,83048.15
+0414,9312,16000,,Seguridad social a cargo del ayuntamiento,56505.0,53403.31,34224.54
 0414,9312,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3101.69,326.01
-0415,9323,12000,,Retribuciones básicas de funcionarios,106395.0,106395.0,52019.47
-0415,9323,12100,,Retribuciones complementarias funcionarios,138432.0,138432.0,68721.66
-0415,9323,16000,,Seguridad social a cargo del ayuntamiento,54734.0,52428.66,23813.94
-0415,9323,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,2155.63
-0416,9341,12000,,Retribuciones básicas de funcionarios,98422.0,98422.0,49212.28
-0416,9341,12100,,Retribuciones complementarias funcionarios,133769.0,133769.0,67067.2
-0416,9341,16000,,Seguridad social a cargo del ayuntamiento,58759.0,52957.87,26301.69
-0416,9341,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5801.13,2791.67
-0417,9322,12000,,Retribuciones básicas de funcionarios,79211.0,79211.0,40172.78
-0417,9322,12100,,Retribuciones complementarias funcionarios,107714.0,107714.0,56278.67
-0417,9322,14100,,Otro personal,50838.0,50838.0,25201.6
-0417,9322,16000,,Seguridad social a cargo del ayuntamiento,57374.0,54272.31,26141.6
-0417,9322,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3101.69,1521.38
-0418,9319,12000,,Retribuciones básicas de funcionarios,935043.0,935043.0,460163.15
-0418,9319,12100,,Retribuciones complementarias funcionarios,1155822.0,1155822.0,576458.09
-0418,9319,14100,,Otro personal,327294.0,327294.0,152356.01
-0418,9319,16000,,Seguridad social a cargo del ayuntamiento,717600.0,670801.04,337914.61
-0418,9319,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,46798.96,23784.67
+0415,9323,12000,,Retribuciones básicas de funcionarios,106395.0,106395.0,70723.86
+0415,9323,12100,,Retribuciones complementarias funcionarios,138432.0,138432.0,103128.75
+0415,9323,16000,,Seguridad social a cargo del ayuntamiento,54734.0,52428.66,35771.75
+0415,9323,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,2688.07
+0416,9341,12000,,Retribuciones básicas de funcionarios,98422.0,98422.0,66126.68
+0416,9341,12100,,Retribuciones complementarias funcionarios,133769.0,133769.0,96898.56
+0416,9341,16000,,Seguridad social a cargo del ayuntamiento,58759.0,52957.87,38923.16
+0416,9341,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5801.13,3988.1
+0417,9322,12000,,Retribuciones básicas de funcionarios,79211.0,79211.0,54360.86
+0417,9322,12100,,Retribuciones complementarias funcionarios,107714.0,107714.0,83290.22
+0417,9322,14100,,Otro personal,50838.0,50838.0,36253.0
+0417,9322,16000,,Seguridad social a cargo del ayuntamiento,57374.0,54272.31,39209.81
+0417,9322,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3101.69,2173.4
+0418,9319,12000,,Retribuciones básicas de funcionarios,935043.0,935043.0,628553.83
+0418,9319,12100,,Retribuciones complementarias funcionarios,1155822.0,1155822.0,871116.83
+0418,9319,14100,,Otro personal,327294.0,327294.0,213642.63
+0418,9319,16000,,Seguridad social a cargo del ayuntamiento,717600.0,670801.04,507190.73
+0418,9319,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,46798.96,33884.5
 0421,9314,12000,,Retribuciones básicas de funcionarios,103859.0,103859.0,0.0
 0421,9314,12100,,Retribuciones complementarias funcionarios,128317.0,128317.0,0.0
 0421,9314,14100,,Otro personal,8047.0,8047.0,0.0
 0421,9314,16000,,Seguridad social a cargo del ayuntamiento,62594.0,56342.68,0.0
 0421,9314,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6251.32,0.0
-0810,4301,11000,,Retribuciones personal eventual gabinete,6710.0,6710.0,41790.5
-0810,4301,12000,,Retribuciones básicas de funcionarios,43302.0,43302.0,47418.67
-0810,4301,12100,,Retribuciones complementarias funcionarios,62882.0,62882.0,50877.31
+0810,4301,11000,,Retribuciones personal eventual gabinete,6710.0,6710.0,59937.68
+0810,4301,12000,,Retribuciones básicas de funcionarios,43302.0,43302.0,67792.98
+0810,4301,12100,,Retribuciones complementarias funcionarios,62882.0,62882.0,76699.25
 0810,4301,14100,,Otro personal,32990.0,32990.0,0.0
-0810,4301,16000,,Seguridad social a cargo del ayuntamiento,36652.0,35101.15,33274.54
-0810,4301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1521.38
-0810,4331,22712,,Impulso Film Office,20000.0,20000.0,0.0
-0810,4331,22797,,Oficina desarrollo local: Dinamización económica,590000.0,309000.0,53726.23
+0810,4301,16000,,Seguridad social a cargo del ayuntamiento,36652.0,35101.15,50144.74
+0810,4301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,2173.4
+0810,4331,22712,,Impulso film office,20000.0,20000.0,0.0
+0810,4331,22797,,Oficina desarrollo local: dinamización económica,590000.0,309000.0,84734.38
 0810,4331,47104,,Oficina desarrollo local ayudas captación eventos,70000.0,70000.0,0.0
 0817,4334,85107,,Ampliación de capital del parque tecnológico,52600.0,52600.0,0.0
-0819,4301,12000,,Retribuciones básicas de funcionarios,178748.0,178748.0,90083.65
-0819,4301,12100,,Retribuciones complementarias funcionarios,222883.0,222883.0,113216.96
-0819,4301,14100,,Otro personal,54693.0,54693.0,18978.93
-0819,4301,16000,,Seguridad social a cargo del ayuntamiento,136027.0,126165.08,62617.38
-0819,4301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9861.92,4619.09
-0820,4301,12000,,Retribuciones básicas de funcionarios,146881.0,146881.0,72711.88
-0820,4301,12100,,Retribuciones complementarias funcionarios,160500.0,160500.0,78243.14
-0820,4301,14100,,Otro personal,57461.0,57461.0,24834.43
-0820,4301,16000,,Seguridad social a cargo del ayuntamiento,106954.0,97316.59,46256.88
-0820,4301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9637.41,5324.83
+0819,4301,12000,,Retribuciones básicas de funcionarios,178748.0,178748.0,119296.4
+0819,4301,12100,,Retribuciones complementarias funcionarios,222883.0,222883.0,171843.98
+0819,4301,14100,,Otro personal,54693.0,54693.0,34377.28
+0819,4301,16000,,Seguridad social a cargo del ayuntamiento,136027.0,126165.08,97043.87
+0819,4301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9861.92,6692.3
+0820,4301,12000,,Retribuciones básicas de funcionarios,146881.0,146881.0,99455.68
+0820,4301,12100,,Retribuciones complementarias funcionarios,160500.0,160500.0,117803.19
+0820,4301,14100,,Otro personal,57461.0,57461.0,35531.6
+0820,4301,16000,,Seguridad social a cargo del ayuntamiento,106954.0,97316.59,69332.82
+0820,4301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9637.41,7606.9
 0821,4221,22683,,Jundiz eco industrial,30000.0,30000.0,0.0
-0821,4221,22763,,Economía circular,37000.0,37000.0,1797.07
-0821,4221,22779,,Apoyo a industrias y empresas,32500.0,32500.0,4900.5
-0821,4221,43104,,Transferencia CEA. plan movilidad zona industrial,0.0,30000.0,0.0
+0821,4221,22763,,Economía circular,37000.0,37000.0,5922.11
+0821,4221,22779,,Apoyo a industrias y empresas,32500.0,32500.0,10169.26
+0821,4221,43104,,Transferencia cea. plan movilidad zona industrial,0.0,30000.0,0.0
 0821,4221,62952,,Mantenimiento zonas industriales,100000.0,463117.38,0.0
-0821,4331,12000,,Retribuciones básicas de funcionarios,214029.0,214029.0,100269.43
-0821,4331,12100,,Retribuciones complementarias funcionarios,235691.0,235691.0,111584.25
-0821,4331,14100,,Otro personal,53679.0,53679.0,26896.21
-0821,4331,16000,,Seguridad social a cargo del ayuntamiento,153496.0,144634.02,66485.9
-0821,4331,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,8861.98,3912.12
-0821,4331,22677,,Apoyo a emprendedores,63000.0,63000.0,3454.84
+0821,4331,12000,,Retribuciones básicas de funcionarios,214029.0,214029.0,137613.06
+0821,4331,12100,,Retribuciones complementarias funcionarios,235691.0,235691.0,167148.98
+0821,4331,14100,,Otro personal,53679.0,53679.0,36919.12
+0821,4331,16000,,Seguridad social a cargo del ayuntamiento,153496.0,144634.02,99106.1
+0821,4331,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,8861.98,5542.17
+0821,4331,22677,,Apoyo a emprendedores,63000.0,63000.0,14102.84
 0821,4331,22677,R,Apoyo a emprendedores,0.0,13162.38,6488.02
-0821,4331,22712,,Gestión centros de empresas,19500.0,19500.0,2830.27
-0821,4331,22713,,Interreg Phyd Sudoe 2,1.0,1.0,0.0
-0821,4331,22769,,Patrocinio FESTVAL - Fila 2,190000.0,133000.0,0.0
-0821,4331,22770,,Patrocinio F2 Campus Katoid Techno,25000.0,25000.0,0.0
-0821,4331,41900,,Convenio EHU-UPV apoyo emprendimiento,5000.0,0.0,0.0
-0821,4331,47002,,Aportación BIC,100000.0,81000.0,0.0
+0821,4331,22712,,Gestión centros de empresas,19500.0,19500.0,6845.77
+0821,4331,22713,,Interreg phyd sudoe 2,1.0,1.0,0.0
+0821,4331,22769,,Patrocinio festval - fila 2,190000.0,133000.0,0.0
+0821,4331,22770,,Patrocinio f2 campus katoid techno,25000.0,25000.0,0.0
+0821,4331,41900,,Convenio ehu-upv apoyo emprendimiento,5000.0,0.0,0.0
+0821,4331,47002,,Aportación bic,100000.0,93500.0,0.0
 0821,4331,47102,,Ayudas empleo industrias creativas,100000.0,100000.0,0.0
-0821,4331,47107,,Convenio AJEBASK-formación y semillero,15000.0,15000.0,0.0
-0821,4331,47131,,Conv. Euskal irudigileak/ilustradores de Euskadi,13000.0,13000.0,0.0
-0821,4331,47132,,Convenio Alava agencia de desarrollo,10000.0,0.0,0.0
-0821,4331,48150,,Convenio Asoc. seniors españoles para la cooperación técnica  - SECOT,0.0,3000.0,0.0
-0821,4331,48175,,Convenio VIA potenciar actividades del pasaje,300000.0,300000.0,0.0
-0821,4331,48180,,Transferencias a VIA,60000.0,60000.0,0.0
-0821,4331,48905,,Convenio prestaturik reutiliza,23000.0,23000.0,0.0
+0821,4331,47107,,Convenio AJEBASK-formación y semillero,15000.0,15000.0,8400.0
+0821,4331,47131,,Conv. Euskal Irudigileak/Ilustradores de Euskadi,13000.0,13000.0,0.0
+0821,4331,47132,,Convenio Álava agencia de desarrollo,10000.0,0.0,0.0
+0821,4331,48150,,Convenio Asoc. seniors españoles para la cooperación técnica  - SECOT,0.0,3000.0,2400.0
+0821,4331,48175,,Convenio vía potenciar actividades del pasaje,300000.0,300000.0,0.0
+0821,4331,48180,,Transferencias a vía,60000.0,60000.0,60000.0
+0821,4331,48905,,Convenio Prestaturik reutiliza,23000.0,23000.0,10964.2
 0821,4331,48943,,Foro responsabilidad social de la empresa,4000.0,4000.0,0.0
-0821,4331,48949,,Becas al emprendimiento,85000.0,85000.0,0.0
+0821,4331,48949,,Becas al emprendimiento,85000.0,85000.0,16900.24
 0821,4331,48967,,Ayudas a la creación y consolidación de empresas,126700.0,126700.0,0.0
 0821,4331,48985,,Premios pacto verde,10000.0,10000.0,0.0
 0821,4331,48986,,Convenio cámara apoyo pequeñas empresas,32000.0,32000.0,0.0
-0821,4331,48996,,Convenio arco n1,9200.0,9200.0,0.0
-0821,4331,60902,,Inversiones semillero proy.basaldea,75000.0,75000.0,2900.01
+0821,4331,48996,,Convenio arco N1,9200.0,9200.0,5152.0
+0821,4331,60902,,Inversiones semillero proy.Basaldea,75000.0,75000.0,2900.01
 0821,4331,62601,,Reformas y equipamientos en semilleros,60000.0,60000.0,0.0
-0821,4333,48172,,Convenio fundación catedral santa maría,32000.0,32000.0,0.0
+0821,4333,48172,,Convenio Fundación Catedral Santa María,32000.0,32000.0,22400.0
 0822,4312,61406,,Obras en mercados,45000.0,45000.0,0.0
-0822,4314,12000,,Retribuciones básicas de funcionarios,58196.0,58196.0,31545.76
-0822,4314,12100,,Retribuciones complementarias funcionarios,63002.0,63002.0,38655.36
-0822,4314,14100,,Otro personal,88351.0,88351.0,40970.92
-0822,4314,16000,,Seguridad social a cargo del ayuntamiento,62186.0,60635.15,31544.31
-0822,4314,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
+0822,4314,12000,,Retribuciones básicas de funcionarios,58196.0,58196.0,39023.72
+0822,4314,12100,,Retribuciones complementarias funcionarios,63002.0,63002.0,50595.58
+0822,4314,14100,,Otro personal,88351.0,88351.0,59478.43
+0822,4314,16000,,Seguridad social a cargo del ayuntamiento,62186.0,60635.15,46747.47
+0822,4314,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
 0822,4314,20200,,Arrendamiento de maquinaria e instalaciones,94000.0,69000.0,387.2
 0822,4314,22700,,Iluminación navideña,76000.0,76000.0,0.0
 0822,4314,22765,,Campaña promoción comercio local,25000.0,25000.0,0.0
-0822,4314,22771,,Jornada Urban Commerce,25000.0,25000.0,0.0
-0822,4314,22773,,Mercados,40000.0,40000.0,3833.32
+0822,4314,22771,,Jornada urban commerce,25000.0,25000.0,0.0
+0822,4314,22773,,Mercados,40000.0,40000.0,25635.78
 0822,4314,22798,,Dinamización comercial,86000.0,43000.0,1493.99
-0822,4314,22799,,Vitoria-Gasteiz veg friendly,10000.0,10000.0,0.0
+0822,4314,22799,,Vitoria-Gasteiz vegan friendly,10000.0,10000.0,0.0
 0822,4314,42301,,Conv.cámara comercio escaparatismo,8000.0,8000.0,0.0
-0822,4314,48904,,Convenio City Wine,20000.0,20000.0,0.0
-0822,4314,48926,,Convenio asociación Gasteiz On,250800.0,250800.0,0.0
-0822,4314,48963,,Convenio asoc.comercios Casco Medieval,98000.0,98000.0,0.0
+0822,4314,48904,,Convenio city wine,20000.0,20000.0,0.0
+0822,4314,48911,,Campaña bonos  turismo y bono dendak,0.0,100000.0,0.0
+0822,4314,48926,,Convenio asociación gasteiz on,250800.0,250800.0,0.0
+0822,4314,48963,,Convenio asoc.comercios casco medieval,98000.0,98000.0,0.0
 0822,4314,48964,,Ayudas al pequeño comercio,332000.0,400000.0,0.0
 0822,4314,48965,,Convenio asoc.empresarios comercio,45100.0,45100.0,0.0
-0822,4314,48966,,Convenio asoc.comerciantes calle Gorbea,16000.0,16000.0,0.0
+0822,4314,48966,,Convenio asoc.comerciantes calle gorbea,16000.0,16000.0,0.0
 0823,2381,22279,,GPS orientación profesional en igualdad,20000.0,20000.0,0.0
-0823,2411,12000,,Retribuciones básicas de funcionarios,493764.0,493764.0,252404.2
-0823,2411,12100,,Retribuciones complementarias funcionarios,590310.0,590310.0,305642.86
-0823,2411,13000,,Retribuciones personal laboral fijo,0.0,0.0,1944217.6
+0823,2411,12000,,Retribuciones básicas de funcionarios,493764.0,493764.0,346108.08
+0823,2411,12100,,Retribuciones complementarias funcionarios,590310.0,590310.0,457441.37
+0823,2411,13000,,Retribuciones personal laboral fijo,0.0,0.0,2108738.57
 0823,2411,14100,,Otro personal,45606.0,45606.0,15341.64
-0823,2411,16000,,Seguridad social a cargo del ayuntamiento,342926.0,322318.06,818672.88
-0823,2411,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,20607.94,10715.1
-0823,2411,20100,,Arrendamiento locales y edificios,116500.0,116500.0,46010.25
-0823,2411,22774,,Plan empleo joven aportación Ayto,188008.0,171008.0,6750.43
-0823,2411,22781,,Plan empleo joven aportac Ayto (cap.1),384105.56,384105.56,0.0
-0823,2411,22785,,Plan de empleo comarcal aportación lanbide,2450517.47,2450517.47,0.0
-0823,2411,22790,,Plan de empleo joven - aportación lanbide,1119235.0,1119235.0,0.0
+0823,2411,16000,,Seguridad social a cargo del ayuntamiento,342926.0,322318.06,973554.94
+0823,2411,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,20607.94,15411.6
+0823,2411,20100,,Arrendamiento locales y edificios,116500.0,116500.0,73616.4
+0823,2411,22774,,Plan empleo joven aportación ayto,188008.0,171008.0,7294.26
+0823,2411,22781,,Plan empleo joven aportación ayto (cap.1),384105.56,384105.56,0.0
+0823,2411,22785,,Plan de empleo comarcal aportación Lanbide,2450517.47,2450517.47,0.0
+0823,2411,22790,,Plan de empleo joven - aportación Lanbide,1119235.0,1119235.0,0.0
 0823,2411,22791,,Impulso al empleo colectivos prioritarios,57600.0,65600.0,23440.68
 0823,2411,22791,R,Impulso al empleo colectivos prioritarios,0.0,3491.39,3491.39
-0823,2411,22793,,Acciones de orientación y empleo,30000.0,30000.0,10600.58
+0823,2411,22793,,Acciones de orientación y empleo,30000.0,30000.0,15637.07
 0823,2411,22793,R,Acciones de orientación y empleo,0.0,2250.0,0.0
-0823,2411,22795,,Formación,595000.0,335000.0,107518.72
+0823,2411,22795,,Formación,595000.0,335000.0,144712.76
 0823,2411,22795,R,Formación,0.0,6417.23,6415.94
-0823,2411,22797,,Plan de empleo Vitoria-Gasteiz,115000.0,115000.0,19280.93
-0823,2411,47128,,Convenio sea empleo araba,72400.0,51400.0,0.0
-0823,2411,48015,,Plan comarcal aportación lanbide,1446678.29,1446678.29,0.0
-0823,2411,48015,R,Plan comarcal aportación lanbide,0.0,1446678.29,0.0
+0823,2411,22797,,Plan de empleo Vitoria-Gasteiz,115000.0,66000.0,30827.02
+0823,2411,47128,,Convenio SEA empleo Araba,72400.0,51400.0,39200.0
+0823,2411,48015,,Plan comarcal aportación Lanbide,1446678.29,1446678.29,0.0
+0823,2411,48015,R,Plan comarcal aportación Lanbide,0.0,1446678.29,861792.15
 0823,2411,48020,,Plan comarcal - aportación municipal a la contratación,50000.0,0.0,0.0
 0823,2411,48020,R,Plan comarcal - aportación municipal a la contratación,0.0,5321.71,0.0
-0823,2411,48171,,Convenio fundación secretariado gitano,42000.0,42000.0,0.0
+0823,2411,48171,,Convenio fundación Secretariado gitano,42000.0,42000.0,30240.0
 0823,2411,48947,,Ayudas a la estabilidad en el empleo,0.0,0.0,0.0
-0823,2411,48966,,Conv.apoyo al proy. Saregune,60000.0,60000.0,0.0
+0823,2411,48966,,Conv.apoyo al proy.Saregune,60000.0,60000.0,43200.0
 0823,2411,48967,,Ayudas a la contratación- estabilidad empleo,400000.0,450000.0,0.0
 0823,2411,62299,,Instalaciones de empleo y formación,20000.0,20000.0,4999.72
-0823,2411,62519,,Adquisición equipos formativos,20000.0,20000.0,3680.82
-0823,2411,62600,,Adquisición equipos informáticos instalac.empleo y formación,20000.0,20000.0,16902.95
-0823,4331,48043,,Conv Cámara Alava:escuela de ventas,0.0,10000.0,0.0
-0823,4331,48900,,Ayudas Covid 19,0.0,663000.0,0.0
-0823,4331,48994,,Convenio adsis/caritas/Egibide proyecto Hazia,100000.0,100000.0,0.0
-0824,4321,12000,,Retribuciones básicas de funcionarios,140697.0,140697.0,77804.84
-0824,4321,12100,,Retribuciones complementarias funcionarios,190496.0,190496.0,96126.51
-0824,4321,14100,,Otro personal,133964.0,133964.0,34258.28
-0824,4321,16000,,Seguridad social a cargo del ayuntamiento,137573.0,128653.83,59629.44
-0824,4321,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,8919.17,4590.93
-0824,4321,22776,,"Gestión P.Europa,Villasuso y  oficina turismo",500000.0,500000.0,107836.85
-0824,4321,22776,R,"Gestión P.Europa,Villasuso y  oficina turismo",0.0,10869.33,0.0
+0823,2411,62519,,Adquisición equipos formativos,20000.0,20000.0,13679.54
+0823,2411,62600,,Adquisición equipos informáticos instalac.empleo y formación,20000.0,20000.0,17788.49
+0823,4331,48043,,Conv cámara Álava:escuela de ventas,0.0,10000.0,0.0
+0823,4331,48900,,Ayudas covid 19,0.0,663000.0,0.0
+0823,4331,48994,,Convenio adsis/caritas/egibide proyecto HAZIA,100000.0,100000.0,0.0
+0824,4321,12000,,Retribuciones básicas de funcionarios,140697.0,140697.0,102679.89
+0824,4321,12100,,Retribuciones complementarias funcionarios,190496.0,190496.0,140625.45
+0824,4321,14100,,Otro personal,133964.0,133964.0,49234.32
+0824,4321,16000,,Seguridad social a cargo del ayuntamiento,137573.0,128653.83,89926.25
+0824,4321,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,8919.17,6553.35
+0824,4321,22776,,"Gestión palacio Europa,Villasuso y  oficina turismo",500000.0,500000.0,176138.65
+0824,4321,22776,R,"Gestión palacio Europa,Villasuso y  oficina turismo",0.0,10869.33,9266.81
 0824,4321,62513,,Mobiliario palacios y congresos,25000.0,25000.0,4038.98
 0824,4321,62609,,Equipos técnicos palacio Europa y Villasuso,20000.0,20000.0,1606.88
 0824,4321,62609,R,Equipos técnicos palacio Europa y Villasuso,0.0,14521.88,14521.88
 0825,4221,22779,R,Apoyo a industrias y empresas,0.0,3997.84,3997.84
 0825,4221,62952,R,Mantenimiento zonas industriales,0.0,273766.01,0.0
-0826,3411,22603,,Patrocinio publicitario Saski Baskonia SAD,157300.0,157300.0,0.0
-0826,3411,22611,,Patrocinio triatlón Vitoria-Gasteiz,100000.0,100000.0,0.0
+0826,3411,22603,,Patrocinio publitario saski baskonia sad,157300.0,126300.0,125840.0
+0826,3411,22611,,Patrocinio triatlón Vitoria-gasteiz,100000.0,67500.0,0.0
 0826,4321,12000,,Retribuciones básicas de funcionarios,5403.0,5403.0,0.0
 0826,4321,12100,,Retribuciones complementarias funcionarios,7987.0,7987.0,0.0
 0826,4321,16000,,Seguridad social a cargo del ayuntamiento,3471.0,3471.0,0.0
+0826,4321,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,8317.67
 0826,4321,22733,,Acciones competitividad sector,5000.0,5000.0,0.0
 0826,4321,22772,,Patrocinio semana pintxo alavés,12000.0,12000.0,0.0
 0826,4321,22774,,Patrocinio miniature pintxos congres,15000.0,15000.0,0.0
-0826,4321,22777,,Dinamización turística,195000.0,145000.0,15663.93
+0826,4321,22777,,Dinamización turística,195000.0,145000.0,42866.88
 0826,4321,22778,,Eventos turísticos singulares,5000.0,5000.0,1210.0
-0826,4321,22779,,Promoción turística ciudad,166800.0,166800.0,16782.34
+0826,4321,22779,,Promoción turística ciudad,166800.0,166800.0,52668.32
 0826,4321,22779,R,Promoción turística ciudad,0.0,11193.57,10987.89
 0826,4321,22780,,Gastos merchandising oficina turismo,30300.0,30300.0,0.0
 0910,2210,22734,,Regularización seguridad social,200000.0,200000.0,0.0
 0910,2381,22760,,Acciones para la igualdad de género,15375.0,15375.0,3900.0
-0910,9202,12000,,Retribuciones básicas de funcionarios,169551.0,169551.0,78338.9
-0910,9202,12100,,Retribuciones complementarias funcionarios,229757.0,229757.0,107057.29
+0910,9202,12000,,Retribuciones básicas de funcionarios,169551.0,169551.0,107122.84
+0910,9202,12100,,Retribuciones complementarias funcionarios,229757.0,229757.0,162464.2
 0910,9202,12104,,Complemento específico análisis de funcionales,100000.0,100000.0,0.0
 0910,9202,14100,,Otro personal,13815.0,13815.0,0.0
-0910,9202,16000,,Seguridad social a cargo del ayuntamiento,100778.0,93356.09,39751.56
-0910,9202,16007,,Aportación complemento especifico a funcionarios,276723.0,276723.0,0.0
-0910,9202,16102,,Indemnizaciones por jubilaciones anticipadas,2150232.0,2150232.0,3339482.46
-0910,9202,16104,,Retribuciones según sentencia,15000.0,15000.0,145313.75
+0910,9202,16000,,Seguridad social a cargo del ayuntamiento,100778.0,93356.09,60247.22
+0910,9202,16007,,Aportación complemento específico a funcionarios,276723.0,276723.0,0.0
+0910,9202,16102,,Indemnizaciones por jubilaciones anticipadas,2150232.0,2150232.0,3415666.91
+0910,9202,16104,,Retribuciones según sentencia,15000.0,15000.0,145882.78
 0910,9202,16204,,Seguro de vida-autoseguro,125000.0,125000.0,145800.0
 0910,9202,16205,,Seguro vida-accidentes empleados,950000.0,950000.0,438674.8
 0910,9202,16206,,Seguros corporativos,11500.0,11500.0,2539.35
 0910,9202,16220,,Indemnizaciones por daños,1500.0,1500.0,585.25
-0910,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7421.91,3042.76
-0910,9202,22001,,Ordinario no inventariable,2505.5,2505.5,257.39
-0910,9202,22105,,Vestuario y uniformes,86000.0,86000.0,3937.04
+0910,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7421.91,4346.8
+0910,9202,22001,,Ordinario no inventariable,2505.5,2505.5,623.77
+0910,9202,22105,,Vestuario y uniformes,86000.0,86000.0,5162.98
 0910,9202,22105,A,Vestuario y uniformes,0.0,20433.27,20433.27
 0910,9202,22633,,Formación pobreza energética,20000.0,20000.0,0.0
-0910,9202,22638,,Plan formación empleados mples.,120000.0,120000.0,60281.79
+0910,9202,22638,,Plan formación empleados mples.,120000.0,120000.0,60331.79
 0910,9202,22740,,Congreso sumas,1.0,1.0,0.0
-0910,9202,22745,,Programa estratégico de prevención de riesgos laborales,20000.0,20000.0,6146.81
-0910,9202,22759,,Plan estratégico de mejora continua,11222.0,11222.0,1600.0
+0910,9202,22745,,Programa estratégico de prevención de riesgos laborales,20000.0,20000.0,8917.71
+0910,9202,22759,,Plan estratégico de mejora continua,11222.0,11222.0,5661.24
 0910,9202,22764,,Estudios de organización,1.0,1.0,0.0
-0910,9202,23000,,Dietas,50071.6,50071.6,7990.96
-0910,9202,23001,,Gastos de locomoción,35875.0,35875.0,5969.61
+0910,9202,23000,,Dietas,50071.6,50071.6,9368.21
+0910,9202,23001,,Gastos de locomoción,35875.0,35875.0,6663.88
 0910,9202,23900,,Gastos procesos selectivos,90000.0,90000.0,404.95
 0910,9202,48001,,Subvención al comité,15559.31,15559.31,12701.94
 0910,9202,48002,,Becas y bolsas de estudio al personal,24903.31,24903.31,23496.08
 0910,9203,62924,,Adquisición de equipos de información de presencia,5000.0,5000.0,0.0
-0911,9202,12000,,Retribuciones básicas de funcionarios,266496.0,266496.0,127860.18
-0911,9202,12100,,Retribuciones complementarias funcionarios,334804.0,334804.0,157464.48
-0911,9202,14100,,Otro personal,177636.0,177636.0,101487.48
-0911,9202,16000,,Seguridad social a cargo del ayuntamiento,233096.0,215677.2,119417.8
-0911,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,17418.8,8689.8
-0912,9202,12000,,Retribuciones básicas de funcionarios,145797.0,145797.0,62473.46
-0912,9202,12100,,Retribuciones complementarias funcionarios,189618.0,189618.0,78785.03
-0912,9202,16000,,Seguridad social a cargo del ayuntamiento,81227.0,75008.65,29206.9
-0912,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6218.35,2613.38
-0915,9202,12000,,Retribuciones básicas de funcionarios,43482.0,43482.0,31723.14
-0915,9202,12100,,Retribuciones complementarias funcionarios,59373.0,59373.0,42653.94
-0915,9202,16000,,Seguridad social a cargo del ayuntamiento,23309.0,21758.15,16031.5
-0915,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1521.38
-0919,9203,12000,,Retribuciones básicas de funcionarios,162223.0,162223.0,64691.99
-0919,9203,12100,,Retribuciones complementarias funcionarios,199866.0,199866.0,80731.88
-0919,9203,16000,,Seguridad social a cargo del ayuntamiento,102023.0,94472.2,37992.22
-0919,9203,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7550.8,3866.59
-0919,9203,22108,,Productos farmacéuticos y hemoderivados,67118.11,67118.11,10667.41
+0911,9202,12000,,Retribuciones básicas de funcionarios,266496.0,266496.0,175813.81
+0911,9202,12100,,Retribuciones complementarias funcionarios,334804.0,334804.0,245179.42
+0911,9202,14100,,Otro personal,177636.0,177636.0,149630.5
+0911,9202,16000,,Seguridad social a cargo del ayuntamiento,233096.0,215677.2,179612.0
+0911,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,17418.8,12570.0
+0912,9202,12000,,Retribuciones básicas de funcionarios,145797.0,145797.0,84745.47
+0912,9202,12100,,Retribuciones complementarias funcionarios,189618.0,189618.0,119043.58
+0912,9202,16000,,Seguridad social a cargo del ayuntamiento,81227.0,75008.65,43851.26
+0912,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6218.35,3702.2
+0915,9202,12000,,Retribuciones básicas de funcionarios,43482.0,43482.0,42500.9
+0915,9202,12100,,Retribuciones complementarias funcionarios,59373.0,59373.0,63858.75
+0915,9202,16000,,Seguridad social a cargo del ayuntamiento,23309.0,21758.15,26577.8
+0915,9202,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,2173.4
+0919,9203,12000,,Retribuciones básicas de funcionarios,162223.0,162223.0,90964.56
+0919,9203,12100,,Retribuciones complementarias funcionarios,199866.0,199866.0,121754.43
+0919,9203,16000,,Seguridad social a cargo del ayuntamiento,102023.0,94472.2,57267.23
+0919,9203,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7550.8,5523.7
+0919,9203,22108,,Productos farmacéuticos y hemoderivados,67118.11,67118.11,18577.01
 0919,9203,22108,R,Productos farmacéuticos y hemoderivados,0.0,4293.0,0.0
-0919,9203,22141,,Mantenimiento especifico equipos servicios médicos,820.0,820.0,0.0
-1010,9204,12000,,Retribuciones básicas de funcionarios,56939.0,56939.0,29118.95
-1010,9204,12100,,Retribuciones complementarias funcionarios,114464.0,114464.0,51037.62
+0919,9203,22141,,Mantenimiento específico equipos servicios médicos,820.0,820.0,0.0
+1010,9204,12000,,Retribuciones básicas de funcionarios,56939.0,56939.0,37492.85
+1010,9204,12100,,Retribuciones complementarias funcionarios,114464.0,114464.0,74964.69
 1010,9204,14100,,Otro personal,3599.0,3599.0,0.0
-1010,9204,16000,,Seguridad social a cargo del ayuntamiento,47218.0,44277.53,12588.78
-1010,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2940.47,1521.38
+1010,9204,16000,,Seguridad social a cargo del ayuntamiento,47218.0,44277.53,18883.17
+1010,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2940.47,2173.4
 1010,9204,22730,,Definición procesos y supervisión LOPD,20000.0,20000.0,0.0
-1010,9204,22732,,Contratos de prestación de servicios,10000.0,10000.0,311.53
-1010,9221,22690,,Gastos electorales,0.0,60000.0,1034.15
-1011,9204,12000,,Retribuciones básicas de funcionarios,491283.0,491283.0,241895.22
-1011,9204,12100,,Retribuciones complementarias funcionarios,573965.0,573965.0,288268.32
-1011,9204,14100,,Otro personal,92341.0,92341.0,61139.81
-1011,9204,16000,,Seguridad social a cargo del ayuntamiento,331718.0,310955.18,162901.21
-1011,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,20762.82,12031.53
-1011,9204,21501,,Mantenimiento de aplicaciones informáticas,440000.0,440000.0,271091.76
-1011,9204,22720,,Soporte a mantenimiento de aplicativos,1400000.0,1400000.0,374134.0
+1010,9204,22732,,Contratos de prestación de servicios,10000.0,10000.0,770.0
+1010,9221,22690,,Gastos electorales,0.0,60000.0,48452.54
+1011,9204,12000,,Retribuciones básicas de funcionarios,491283.0,491283.0,329813.59
+1011,9204,12100,,Retribuciones complementarias funcionarios,573965.0,573965.0,422243.6
+1011,9204,14100,,Otro personal,92341.0,92341.0,89694.14
+1011,9204,16000,,Seguridad social a cargo del ayuntamiento,331718.0,310955.18,244690.65
+1011,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,20762.82,17187.9
+1011,9204,21501,,Mantenimiento de aplicaciones informáticas,440000.0,440000.0,378266.54
+1011,9204,22720,,Soporte a mantenimiento de aplicativos,1400000.0,1400000.0,663786.8
 1011,9204,22724,,Mant software plan contra fraude fiscal,1.0,1.0,0.0
-1011,9204,62623,,Plan director e-administración,250000.0,250000.0,0.0
-1011,9204,62624,,Plan contra el fraude fiscal,200000.0,200000.0,0.0
-1011,9204,62624,R,Plan contra el fraude fiscal,0.0,20469.64,14369.9
+1011,9204,62623,,Plan director e-administración,250000.0,250000.0,60000.0
+1011,9204,62624,,Plan contra el fraude fiscal,200000.0,200000.0,61923.12
+1011,9204,62624,R,Plan contra el fraude fiscal,0.0,20469.64,20469.64
 1011,9204,62625,,Gestión centralizada de subvenciones,100000.0,100000.0,0.0
 1011,9204,62625,R,Gestión centralizada de subvenciones,0.0,10000.0,0.0
 1011,9204,62626,,Sistema informático policía local,50000.0,50000.0,5583.69
-1012,9204,12000,,Retribuciones básicas de funcionarios,346995.0,346995.0,159971.16
-1012,9204,12100,,Retribuciones complementarias funcionarios,451479.0,451479.0,203825.03
-1012,9204,14100,,Otro personal,124993.0,124993.0,76695.76
-1012,9204,16000,,Seguridad social a cargo del ayuntamiento,265401.0,252730.91,122792.11
-1012,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,12670.09,6182.7
-1012,9204,21500,,Mantenimiento equipos informáticos,330000.0,330000.0,90196.91
-1012,9204,22728,,Soporte ordenadores centrales,300000.0,300000.0,45971.26
+1012,9204,12000,,Retribuciones básicas de funcionarios,346995.0,346995.0,218005.95
+1012,9204,12100,,Retribuciones complementarias funcionarios,451479.0,451479.0,304458.98
+1012,9204,14100,,Otro personal,124993.0,124993.0,114075.07
+1012,9204,16000,,Seguridad social a cargo del ayuntamiento,265401.0,252730.91,184623.59
+1012,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,12670.09,8692.71
+1012,9204,21500,,Mantenimiento equipos informáticos,330000.0,330000.0,157182.3
+1012,9204,22728,,Soporte ordenadores centrales,300000.0,300000.0,153807.96
 1012,9204,22729,,Soporte mantenimiento equipos usuarios,30000.0,30000.0,0.0
 1012,9204,22755,,Plan nuevas tecnologías aplicaciones uso ciudadanos,1.0,1.0,0.0
-1012,9204,62600,,Adquisición equipos informáticos,250000.0,250000.0,14489.17
+1012,9204,62600,,Adquisición equipos informáticos,250000.0,250000.0,64021.48
 1012,9204,62600,R,Adquisición equipos informáticos,0.0,14934.0,14934.0
-1012,9204,62604,,Adquisición software base,160000.0,160000.0,2432.0
+1012,9204,62604,,Adquisición software base,160000.0,160000.0,50945.23
 1012,9204,62620,,Acciones plan de seguridad,100000.0,100000.0,0.0
-1012,9204,62627,,Renovación equipos y servicios,550000.0,550000.0,0.0
-1012,9271,22200,,Facturación telefónica,432600.0,432600.0,42432.95
-1012,9271,22202,,Correspondencia y notificaciones,1879300.0,1879300.0,307755.39
+1012,9204,62627,,Renovación equipos y servicios,550000.0,550000.0,275000.0
+1012,9271,22200,,Facturación telefónica,432600.0,432600.0,181365.06
+1012,9271,22202,,Correspondencia y notificaciones,1879300.0,1879300.0,593841.14
 1012,9271,22644,,Anuncios en boletines oficiales,10081.0,10081.0,8000.0
-1017,9204,12000,,Retribuciones básicas de funcionarios,195559.0,195559.0,136822.21
-1017,9204,12100,,Retribuciones complementarias funcionarios,269966.0,269966.0,171973.78
-1017,9204,14100,,Otro personal,60930.0,60930.0,50712.03
-1017,9204,16000,,Seguridad social a cargo del ayuntamiento,145501.0,134162.43,97262.49
-1017,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11338.57,8073.38
-1018,9204,12000,,Retribuciones básicas de funcionarios,28648.0,28648.0,13901.56
-1018,9204,12100,,Retribuciones complementarias funcionarios,42568.0,42568.0,20061.6
-1018,9204,16000,,Seguridad social a cargo del ayuntamiento,14360.0,12809.15,6276.06
-1018,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
-1019,9204,12000,,Retribuciones básicas de funcionarios,28228.0,28228.0,11788.58
-1019,9204,12100,,Retribuciones complementarias funcionarios,42660.0,42660.0,16251.62
-1019,9204,16000,,Seguridad social a cargo del ayuntamiento,14360.0,12809.15,6276.06
-1019,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
-1020,9204,12000,,Retribuciones básicas de funcionarios,27342.0,27342.0,13589.48
-1020,9204,12100,,Retribuciones complementarias funcionarios,42180.0,42180.0,20885.52
-1020,9204,16000,,Seguridad social a cargo del ayuntamiento,12809.0,12809.0,6276.06
-1110,2301,12000,,Retribuciones básicas de funcionarios,102194.0,102194.0,54357.42
-1110,2301,12100,,Retribuciones complementarias funcionarios,151579.0,151579.0,75448.41
-1110,2301,14100,,Otro personal,125950.0,125950.0,76208.29
-1110,2301,16000,,Seguridad social a cargo del ayuntamiento,100153.0,98886.54,54130.82
-1110,2301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1266.46,621.18
-1111,2301,12000,,Retribuciones básicas de funcionarios,761544.0,761544.0,344791.35
-1111,2301,12100,,Retribuciones complementarias funcionarios,956784.0,956784.0,434915.01
-1111,2301,13000,,Retribuciones personal laboral fijo,40612.0,40612.0,17182.65
-1111,2301,14100,,Otro personal,335348.0,335348.0,113460.7
-1111,2301,16000,,Seguridad social a cargo del ayuntamiento,684818.0,651714.85,278612.75
-1111,2301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,33103.15,14380.52
+1017,9204,12000,,Retribuciones básicas de funcionarios,195559.0,195559.0,187154.43
+1017,9204,12100,,Retribuciones complementarias funcionarios,269966.0,269966.0,261499.39
+1017,9204,14100,,Otro personal,60930.0,60930.0,68207.93
+1017,9204,16000,,Seguridad social a cargo del ayuntamiento,145501.0,134162.43,143386.7
+1017,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11338.57,11564.6
+1018,9204,12000,,Retribuciones básicas de funcionarios,28648.0,28648.0,18901.24
+1018,9204,12100,,Retribuciones complementarias funcionarios,42568.0,42568.0,30630.9
+1018,9204,16000,,Seguridad social a cargo del ayuntamiento,14360.0,12809.15,9414.09
+1018,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
+1019,9204,12000,,Retribuciones básicas de funcionarios,28228.0,28228.0,13601.95
+1019,9204,12100,,Retribuciones complementarias funcionarios,42660.0,42660.0,20274.65
+1019,9204,16000,,Seguridad social a cargo del ayuntamiento,14360.0,12809.15,9414.09
+1019,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
+1020,9204,12000,,Retribuciones básicas de funcionarios,27342.0,27342.0,18172.43
+1020,9204,12100,,Retribuciones complementarias funcionarios,42180.0,42180.0,31328.28
+1020,9204,16000,,Seguridad social a cargo del ayuntamiento,12809.0,12809.0,9414.09
+1110,2301,12000,,Retribuciones básicas de funcionarios,102194.0,102194.0,74139.31
+1110,2301,12100,,Retribuciones complementarias funcionarios,151579.0,151579.0,114326.3
+1110,2301,14100,,Otro personal,125950.0,125950.0,105050.68
+1110,2301,16000,,Seguridad social a cargo del ayuntamiento,100153.0,98886.54,79511.92
+1110,2301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1266.46,887.4
+1111,2301,12000,,Retribuciones básicas de funcionarios,761544.0,761544.0,457395.35
+1111,2301,12100,,Retribuciones complementarias funcionarios,956784.0,956784.0,640284.43
+1111,2301,13000,,Retribuciones personal laboral fijo,40612.0,40612.0,25871.04
+1111,2301,14100,,Otro personal,335348.0,335348.0,209224.35
+1111,2301,16000,,Seguridad social a cargo del ayuntamiento,684818.0,651714.85,432064.8
+1111,2301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,33103.15,20616.4
 1111,2301,22103,,Gas,23000.0,23000.0,11392.6
-1111,2301,22145,,Gastos sanitarios por Coronavirus,0.0,0.0,6395.67
-1111,2301,22618,,Otros gastos funcionamiento,50000.0,50000.0,2508.03
-1111,2301,48045,,Subvenciones,200000.0,200000.0,0.0
+1111,2301,22145,,Gastos sanitarios por coronavirus,0.0,0.0,147197.26
+1111,2301,22618,,Otros gastos funcionamiento,50000.0,66133.68,18928.64
+1111,2301,48045,,Subvenciones,200000.0,200000.0,158072.9
 1111,2301,48190,,Convenio colegio trabajo social,10000.0,10000.0,0.0
 1111,2301,48968,,Convenio asociación vivir con voz propia,15000.0,15000.0,0.0
-1111,2301,62204,,Inversiones en centros y locales,175000.0,175000.0,0.0
+1111,2301,62204,,Inversiones en centros y locales,175000.0,175000.0,16537.37
 1111,2301,62204,A,Inversiones en centros y locales,0.0,554580.4,141301.1
 1111,2301,62204,R,Inversiones en centros y locales,0.0,60094.48,0.0
-1111,2301,62303,,Adquisición maquinaria,255000.0,255000.0,7211.88
+1111,2301,62303,,Adquisición maquinaria,255000.0,255000.0,8812.87
 1111,2301,62303,R,Adquisición maquinaria,0.0,161796.31,38417.5
-1111,2301,62501,,Mobiliario,80000.0,80000.0,4303.91
+1111,2301,62501,,Mobiliario,80000.0,80000.0,19884.14
 1111,2301,62501,R,Mobiliario,0.0,281554.83,0.0
-1115,2323,22745,,Programa educación calle para sin techo,94550.0,94550.0,39395.83
-1115,2323,48003,,Atenciones sociales,45000.0,45000.0,11008.67
-1115,2324,22002,,"Prensa,revistas y otras publicaciones",1500.0,1500.0,422.7
+1115,2323,22745,,Programa educación calle para sin techo,94550.0,94550.0,63033.31
+1115,2323,48003,,Atenciones sociales,45000.0,45000.0,15767.77
+1115,2324,22002,,"Prensa,revistas y otras publicaciones",1500.0,1500.0,952.0
 1115,2324,22105,,Vestuario y uniformes,1000.0,1000.0,0.0
-1115,2324,22106,,Productos alimenticios,20000.0,20000.0,10108.57
-1115,2324,22111,,"Menaje, útiles y herramientas",7500.0,7500.0,1794.07
-1115,2324,22115,,Material técnico especifico,6000.0,6000.0,2698.93
-1115,2324,22759,,Monitores talleres,32752.58,32752.58,10278.0
-1115,2324,22784,,Contratros servicios de urgencias,481000.01,481000.01,240499.98
-1115,2324,22786,,Transporte de comidas,9436.08,9436.08,3931.7
-1115,2324,48003,,Atenciones sociales,38000.0,38000.0,9372.93
-1115,2325,22111,,"Menaje, útiles y herramientas",12000.0,12000.0,1159.2
-1115,2325,22115,,Material técnico especifico,29500.0,29500.0,12085.2
-1115,2325,22614,,Talleres GIZARTERATU,810000.0,810000.0,240029.74
-1115,2325,22666,,Vigilancia nocturna Villasuso,102153.48,102153.48,38412.7
-1115,2325,22747,,Gestión pisos tutelados,70000.0,70000.0,0.0
-1115,2325,22761,,Programa acompañamiento pisos acogida,105000.0,105000.0,34086.32
-1115,2325,22786,,Transporte de comidas casa abierta,9436.08,9436.08,3931.7
-1115,2325,48003,,Atenciones sociales,50000.0,50000.0,8449.32
-1115,2325,48121,,Convenio Comisión Antisida-centro municipal casa abierta,340860.0,340860.0,257978.5
-1115,2325,48137,,Conv. Comisión Antisida-pisos tutelados,297600.0,297600.0,225057.25
-1115,2325,48140,,Conv. Comisión Antisida-centro Estrada,465900.0,465900.0,352521.0
-1115,2325,48145,,Convenio Cáritas-taller ocupacional,72000.0,72000.0,0.0
+1115,2324,22106,,Productos alimenticios,20000.0,20000.0,14894.16
+1115,2324,22111,,"Menaje, útiles y herramientas",7500.0,7500.0,4021.1
+1115,2324,22115,,Material técnico especifico,6000.0,6000.0,3333.45
+1115,2324,22759,,Monitores talleres,32752.58,18543.51,12793.6
+1115,2324,22784,,Contratos servicios de urgencias,481000.01,481000.01,360749.97
+1115,2324,22786,,Transporte de comidas,9436.08,9436.08,6290.72
+1115,2324,48003,,Atenciones sociales,38000.0,38000.0,12243.95
+1115,2325,22111,,"Menaje, útiles y herramientas",12000.0,12000.0,2214.63
+1115,2325,22115,,Material técnico especifico,29500.0,29500.0,17999.21
+1115,2325,22614,,Talleres gizarteratu,810000.0,642584.55,270968.28
+1115,2325,22666,,Vigilancia nocturna Villasuso,102153.48,102153.48,46095.24
+1115,2325,22747,,Gestión pisos tutelados,70000.0,35000.0,0.0
+1115,2325,22761,,Programa acompañamiento pisos acogida,105000.0,100922.64,51129.48
+1115,2325,22786,,Transporte de comidas Casa Abierta,9436.08,9436.08,6290.72
+1115,2325,48003,,Atenciones sociales,50000.0,50000.0,11353.11
+1115,2325,48121,,Convenio Comisión Antisida-centro municipal Casa Abierta,340860.0,340860.0,257978.5
+1115,2325,48137,,Conv.Comisión Antisida-pisos tutelados,297600.0,297600.0,225057.25
+1115,2325,48140,,Conv.Comisión Antisida-Centro Estrada,465900.0,465900.0,352521.0
+1115,2325,48145,,Convenio Cáritas-taller ocupacional,72000.0,54000.0,0.0
 1115,2325,48148,,Convenio Afroamericana pisos tutelados,522200.0,522200.0,394847.0
-1115,2325,48169,,Convenio Gao lacho Drom,60756.0,60756.0,0.0
-1115,2325,48170,,Convenio irse programa apoyo a la inserción,30000.0,30000.0,0.0
-1115,2325,48184,,Convenio clara Campoamor-pisos acogida mujeres victimas violencia,0.0,300379.0,227345.25
+1115,2325,48169,,Convenio Gao Lacho Drom,60756.0,38748.0,0.0
+1115,2325,48170,,Convenio IRSE programa apoyo a la inserción,30000.0,30000.0,22500.0
+1115,2325,48184,,Convenio Clara Campoamor-pisos acogida mujeres víctimas violencia,0.0,300379.0,227345.25
 1115,2325,48190,,Piso semitutelado de apoyo a jóvenes,58250.0,58250.0,44084.5
-1115,2325,48197,,Convenio SENDOTU,20000.0,20000.0,0.0
-1115,2325,48901,,Convenio comisión antisida aterpe,470550.0,470550.0,356268.5
-1115,2325,48940,,Casa iniciativas Abetxuko,77000.0,77000.0,0.0
-1115,2327,12000,,Retribuciones básicas de funcionarios,489710.0,489710.0,235084.9
-1115,2327,12100,,Retribuciones complementarias funcionarios,667433.0,667433.0,310774.18
-1115,2327,14100,,Otro personal,536696.0,536696.0,241108.69
-1115,2327,16000,,Seguridad social a cargo del ayuntamiento,632083.0,620157.59,265983.67
-1115,2327,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11925.41,7580.97
-1115,2381,48184,,Conv.asoc. Clara Campoamor-pisos mujeres maltratadas,300379.0,0.0,0.0
-1120,2311,12000,,Retribuciones básicas de funcionarios,329501.0,329501.0,150351.93
-1120,2311,12100,,Retribuciones complementarias funcionarios,396447.0,396447.0,183534.93
-1120,2311,14100,,Otro personal,224941.0,224941.0,140809.48
-1120,2311,16000,,Seguridad social a cargo del ayuntamiento,279918.0,273663.18,138941.56
-1120,2311,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6254.82,3169.47
+1115,2325,48197,,Convenio Sendotu,20000.0,0.0,0.0
+1115,2325,48901,,Convenio Comisión Antisida aterpe,470550.0,470550.0,356268.5
+1115,2325,48940,,Casa iniciativas Abetxuko,77000.0,58821.5,44116.25
+1115,2327,12000,,Retribuciones básicas de funcionarios,489710.0,489710.0,312829.13
+1115,2327,12100,,Retribuciones complementarias funcionarios,667433.0,667433.0,468482.67
+1115,2327,14100,,Otro personal,536696.0,536696.0,403381.04
+1115,2327,16000,,Seguridad social a cargo del ayuntamiento,632083.0,620157.59,414235.8
+1115,2327,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11925.41,10896.24
+1115,2381,48184,,Conv.asoc.clara campoamor-pisos mujeres maltratadas,300379.0,0.0,0.0
+1120,2311,12000,,Retribuciones básicas de funcionarios,329501.0,329501.0,215860.43
+1120,2311,12100,,Retribuciones complementarias funcionarios,396447.0,396447.0,277336.01
+1120,2311,14100,,Otro personal,224941.0,224941.0,217535.37
+1120,2311,16000,,Seguridad social a cargo del ayuntamiento,279918.0,273663.18,211917.14
+1120,2311,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6254.82,4828.47
 1120,2311,22111,,"Menaje, útiles y herramientas",3500.0,3500.0,470.81
 1120,2311,22115,,Material técnico especifico,2000.0,2000.0,581.29
-1120,2311,22678,,Programa participación infantil,100000.0,100000.0,51240.9
+1120,2311,22678,,Programa participación infantil,100000.0,100000.0,79770.91
 1120,2311,22679,,Programa prevención prólogo,30000.0,30000.0,9805.46
-1120,2311,22680,,Talleres emociones,186088.01,186088.01,94715.96
+1120,2311,22680,,Talleres emociones,186088.01,186088.01,95293.09
 1120,2311,22726,,Programa parentalidad positiva (Senidegune),112000.0,112000.0,47374.89
-1120,2311,22745,,Programa Ada,500590.6,500590.6,207916.0
+1120,2311,22745,,Programa ADA,500590.6,498998.4,291082.4
 1120,2311,22746,,Egokitzen-coparentalidad positiva divorcios,64500.0,64500.0,0.0
-1120,2311,22748,,Terapias,150000.0,150000.0,90643.91
+1120,2311,22748,,Terapias,150000.0,150000.0,134043.86
 1120,2311,22763,,Progr. intervención precoz violencia filioparental,84992.0,84992.0,0.0
-1120,2311,22775,,Contrato gestión Bidatu,226319.0,226319.0,82935.45
-1120,2311,22789,,Resiliencia,286184.19,286184.19,92528.0
-1120,2311,22791,,Plan local de infancia,150000.0,150000.0,30096.71
-1120,2311,22792,,Valoración casos abusos sexuales,42105.0,42105.0,1380.2
-1120,2311,22794,,Centros socioeducativos,1271928.43,1271928.43,531815.9
-1120,2311,48003,,Atenciones sociales,4000.0,4000.0,1557.84
-1120,2311,48036,,Convenio AVAIM,11780.0,11780.0,0.0
-1120,2311,48187,,Convenio GARENOK,11780.0,11780.0,0.0
-1120,2311,48956,,Convenio contra la intolerancia,11780.0,11780.0,0.0
-1120,2311,48991,,Convenio UNICEF,11780.0,11780.0,0.0
-1120,2311,48992,,Convenio con AMAPASE,15000.0,15000.0,0.0
-1133,2312,22002,,"Prensa,revistas y otras publicaciones",11000.0,11000.0,5701.72
-1133,2312,22105,,Vestuario y uniformes,3000.0,3000.0,374.55
-1133,2312,22106,,Productos alimenticios,2053912.02,2053912.02,575351.54
-1133,2312,22106,R,Productos alimenticios,0.0,48051.45,12695.97
-1133,2312,22111,,"Menaje, útiles y herramientas",55908.52,55908.52,33287.45
-1133,2312,22115,,Material técnico especifico,72000.0,72000.0,56179.33
-1133,2312,22606,,Servicios de peluquería,15910.0,15910.0,1533.77
-1133,2312,22618,,Otros gastos funcionamiento,12000.0,12000.0,6749.23
-1133,2312,22623,,Programa de apoyo a familias cuidadoras,96999.65,96999.65,44380.83
-1133,2312,22652,,Animación residencias tercera edad,293700.0,293700.0,74764.24
+1120,2311,22775,,Contrato gestión bidatu,226319.0,199045.08,116109.63
+1120,2311,22789,,Resiliencia,286184.19,279396.79,185056.0
+1120,2311,22791,,Plan local de infancia,150000.0,150000.0,39180.05
+1120,2311,22792,,Valoración casos abusos sexuales,42105.0,42105.0,2513.2
+1120,2311,22794,,Centros socioeducativos,1271928.43,1271928.43,744542.26
+1120,2311,48003,,Atenciones sociales,4000.0,4000.0,3329.04
+1120,2311,48036,,Convenio AVAIM,11780.0,11780.0,8553.75
+1120,2311,48187,,Convenio Garenok,11780.0,8780.0,6585.0
+1120,2311,48956,,Convenio contra la intolerancia,11780.0,10280.0,7710.0
+1120,2311,48991,,Convenio UNICEF,11780.0,11780.0,8835.0
+1120,2311,48992,,Convenio con AMAPASE,15000.0,12561.65,0.0
+1133,2312,22002,,"Prensa,revistas y otras publicaciones",11000.0,11000.0,9134.02
+1133,2312,22105,,Vestuario y uniformes,3000.0,3000.0,1013.81
+1133,2312,22106,,Productos alimenticios,2053912.02,2053912.02,1044056.99
+1133,2312,22106,R,Productos alimenticios,0.0,48051.45,48044.59
+1133,2312,22111,,"Menaje, útiles y herramientas",55908.52,55908.52,47159.06
+1133,2312,22115,,Material técnico especifico,72000.0,72000.0,67645.32
+1133,2312,22606,,Servicios de peluquería,15910.0,9675.67,5252.96
+1133,2312,22618,,Otros gastos funcionamiento,12000.0,12000.0,7567.9
+1133,2312,22623,,Programa de apoyo a familias cuidadoras,96999.65,96999.65,60368.41
+1133,2312,22652,,Animación residencias tercera edad,293700.0,261681.75,154871.68
 1133,2312,22666,,Vigilancia nocturna Rª San Prudencio,76451.0,76451.0,19546.75
-1133,2312,22667,,Servicios religiosos San Prudencio,6900.0,6900.0,1935.83
-1133,2312,22684,,Indemnización suspensión contratos Coronavirus,0.0,0.0,45415.36
-1133,2312,22702,,Servicio de cafetería,13408.92,13408.92,2644.29
-1133,2312,22708,,Traslado de ancianos,151769.02,151769.02,29497.94
+1133,2312,22667,,Servicios religiosos San Prudencio,6900.0,5385.83,1935.83
+1133,2312,22684,,Indemnización suspensión contratos Coronavirus,0.0,0.0,222251.9
+1133,2312,22702,,Servicio de cafetería,13408.92,9683.94,5214.1
+1133,2312,22708,,Traslado de ancianos,151769.02,119366.23,46041.23
 1133,2312,22709,,Plan de cuidados y vínculos,100000.0,100000.0,0.0
-1133,2312,48018,,Asociación mujeres voluntarias acogida personas 3ªedad,1400.0,1400.0,0.0
-1133,2312,48023,,Convenio AFA-araba,3959.7,3959.7,0.0
-1133,2312,48150,,Prog voluntariado acompañamiento ancianos,6142.74,6142.74,0.0
-1133,2312,48151,,Campo trabajo personas privadas de libertad,11180.86,11180.86,0.0
-1133,2312,48194,,Convenio colegio de abogados,10000.0,10000.0,0.0
-1133,2312,48959,,Convenio Ascundean-3ªedad,70397.57,70397.57,0.0
-1133,2313,22111,,"Menaje, útiles y herramientas",12000.0,12000.0,4109.03
-1133,2313,22754,,Gestión centros socioculturales de mayores,3097986.0,3097986.0,923713.05
-1133,2313,22786,,Transporte de comidas,103544.0,103544.0,25642.62
-1133,2313,48960,,Convenio parroquia San Mateo,10335.0,10335.0,0.0
-1133,2313,48961,,Convenio parroquia Los Ángeles,10335.0,10335.0,0.0
-1133,2313,48962,,Convenio parroquia San Pedro,10335.0,10335.0,0.0
+1133,2312,48018,,Asociación mujeres voluntarias acogida personas 3ªedad,1400.0,0.0,0.0
+1133,2312,48023,,Convenio AFA-Araba,3959.7,3959.7,2969.77
+1133,2312,48150,,Prog voluntariado acompañamiento ancianos,6142.74,4780.0,0.0
+1133,2312,48151,,Campo trabajo personas privadas de libertad,11180.86,3727.0,2795.25
+1133,2312,48194,,Convenio colegio de abogados,10000.0,10000.0,7500.0
+1133,2312,48959,,Convenio Ascundean-3ªedad,70397.57,70397.57,49278.29
+1133,2313,22111,,"Menaje, útiles y herramientas",12000.0,12000.0,4373.72
+1133,2313,22754,,Gestión centros socioculturales de mayores,3097986.0,3097986.0,1816559.05
+1133,2313,22786,,Transporte de comidas,103544.0,103544.0,28787.98
+1133,2313,48960,,Convenio parroquia San Mateo,10335.0,10335.0,7751.25
+1133,2313,48961,,Convenio parroquia Los Ángeles,10335.0,7000.0,5250.0
+1133,2313,48962,,Convenio parroquia San Pedro,10335.0,10335.0,7751.25
 1133,2313,62271,A,Adecuación campos deport.exteriores,0.0,377779.64,166907.94
-1133,2314,22002,,"Prensa,revistas y otras publicaciones",1500.0,1500.0,727.17
-1133,2314,22111,,"Menaje, útiles y herramientas",28863.0,28863.0,969.17
+1133,2314,22002,,"Prensa,revistas y otras publicaciones",1500.0,1500.0,955.87
+1133,2314,22111,,"Menaje, útiles y herramientas",28863.0,12000.0,1341.38
 1133,2314,22115,,Material técnico especifico,900.0,900.0,447.85
-1133,2314,22609,,Trabajadores familiares apartamentos mayores,405000.0,405000.0,126309.48
+1133,2314,22609,,Trabajadores familiares apartamentos mayores,405000.0,382268.98,253469.66
 1133,2314,22618,,Otros gastos funcionamiento,5444.63,5444.63,2761.22
-1133,2314,22628,,Animación Santa Mª Olarizu,68174.0,68174.0,16136.08
-1133,2314,22705,,Gestion serv.atención diurna Bto.T.Zumárraga,552107.0,552107.0,226633.3
-1133,2314,22708,,Traslado de ancianos,335137.11,335137.11,59118.41
+1133,2314,22628,,Animación Santa Mª Olarizu,68174.0,55855.26,33158.56
+1133,2314,22705,,Gestión serv.atención diurna Bto.T.Zumarraga,552107.0,543920.0,362613.28
+1133,2314,22708,,Traslado de ancianos,335137.11,241441.3,100041.65
 1133,2314,22714,,Gestión servicio atención diurna Renacimiento,146000.0,146000.0,0.0
-1133,2314,22718,,Gestion servicio atención diurna Blas de Otero,737000.0,737000.0,341033.3
-1133,2314,22786,,Transporte de comidas,35375.3,35375.3,11795.15
-1133,2317,12000,,Retribuciones básicas de funcionarios,2766903.0,2766903.0,1297266.22
-1133,2317,12100,,Retribuciones complementarias funcionarios,3826448.0,3826448.0,1769112.47
-1133,2317,14100,,Otro personal,4924711.0,4924711.0,2466404.16
-1133,2317,16000,,Seguridad social a cargo del ayuntamiento,4124617.0,3998455.41,1804302.13
-1133,2317,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,126161.59,60887.47
-1145,2315,48138,,Convenio banco de alimentos,12000.0,12000.0,0.0
-1145,2315,48157,,Federación asoc.Vicente Abreu,32712.0,32712.0,24534.0
-1145,2321,22731,,Comidas Desamparadas,300000.0,300000.0,156294.5
-1145,2321,22786,,Transporte de comidas,141764.91,141764.91,39371.45
-1145,2321,22797,,Servicio de ayuda a domicilio,12276837.0,12276837.0,3605665.55
-1145,2321,22798,,Análisis del S.A.D,30000.0,30000.0,0.0
-1145,2321,48000,,Ayudas a emergencia social,4673000.0,6699458.0,2069273.04
-1145,2321,48003,,Atenciones sociales,4000000.0,4000000.0,3592388.86
-1145,2321,48005,,Plan contra la pobreza energética en Vitoria-Gasteiz,60000.0,60000.0,17520.0
-1145,2321,48154,,Cruz roja-acompañamiento personas mayores,77500.0,77500.0,0.0
-1145,2321,48957,,Convenio Loremaitea - agle,60000.0,60000.0,0.0
+1133,2314,22718,,Gestión servicio atención diurna Blas de Otero,737000.0,737000.0,477446.62
+1133,2314,22786,,Transporte de comidas,35375.3,35375.3,14154.18
+1133,2317,12000,,Retribuciones básicas de funcionarios,2766903.0,2766903.0,1749094.32
+1133,2317,12100,,Retribuciones complementarias funcionarios,3826448.0,3826448.0,2636827.27
+1133,2317,14100,,Otro personal,4924711.0,4924711.0,4144127.28
+1133,2317,16000,,Seguridad social a cargo del ayuntamiento,4124617.0,3998455.41,2873566.0
+1133,2317,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,126161.59,87552.88
+1145,2315,48138,,Convenio banco de alimentos,12000.0,12000.0,9000.0
+1145,2315,48157,,Federación asoc. Vicente Abreu,32712.0,32712.0,24534.0
+1145,2321,22731,,Comidas desamparadas,300000.0,300000.0,168108.5
+1145,2321,22786,,Transporte de comidas,141764.91,141764.91,68239.88
+1145,2321,22797,,Servicio de ayuda a domicilio,12276837.0,12276837.0,6397210.58
+1145,2321,22798,,Análisis del SAD,30000.0,30000.0,0.0
+1145,2321,48000,,Ayudas a emergencia social,4673000.0,6699458.0,3517613.15
+1145,2321,48003,,Atenciones sociales,4000000.0,4656595.93,4066210.93
+1145,2321,48005,,Plan contra la pobreza energética en Vitoria-Gasteiz,60000.0,60000.0,21360.0
+1145,2321,48154,,Cruz Roja-acompañamiento personas mayores,77500.0,77500.0,58125.0
+1145,2321,48957,,Convenio Loremaitea - Agle,60000.0,60000.0,45000.0
 1145,2321,48977,,Convenio Save The Children,11724.0,11724.0,9379.2
-1145,2322,22115,,Material técnico específico,44200.0,44200.0,6400.0
-1145,2322,22619,,Educación calle,1048260.0,1048260.0,436775.0
-1145,2322,22746,,Vigilancia servicios sociales de base,365537.5,365537.5,157148.7
+1145,2322,22115,,Material técnico especifico,44200.0,44200.0,13400.0
+1145,2322,22619,,Educación calle,1048260.0,1048260.0,698840.0
+1145,2322,22746,,Vigilancia servicios sociales de base,365537.5,359205.83,227019.13
 1145,2322,22759,,Monitores talleres,303671.0,303671.0,71974.16
-1145,2328,12000,,Retribuciones básicas de funcionarios,1178147.0,1178147.0,625412.82
-1145,2328,12100,,Retribuciones complementarias funcionarios,1367466.0,1367466.0,732942.58
-1145,2328,14100,,Otro personal,1056283.0,1056283.0,426027.52
-1145,2328,16000,,Seguridad social a cargo del ayuntamiento,1150990.0,1111343.33,544755.91
-1145,2328,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,39646.67,19474.35
-1150,2391,12000,,Retribuciones básicas de funcionarios,89946.0,89946.0,46205.31
-1150,2391,12100,,Retribuciones complementarias funcionarios,113140.0,113140.0,57875.75
+1145,2328,12000,,Retribuciones básicas de funcionarios,1178147.0,1178147.0,877802.07
+1145,2328,12100,,Retribuciones complementarias funcionarios,1367466.0,1367466.0,1108951.09
+1145,2328,14100,,Otro personal,1056283.0,1056283.0,689423.12
+1145,2328,16000,,Seguridad social a cargo del ayuntamiento,1150990.0,1111343.33,838474.09
+1145,2328,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,39646.67,27524.52
+1150,2391,12000,,Retribuciones básicas de funcionarios,89946.0,89946.0,62767.28
+1150,2391,12100,,Retribuciones complementarias funcionarios,113140.0,113140.0,87016.25
 1150,2391,14100,,Otro personal,7480.0,7480.0,0.0
-1150,2391,16000,,Seguridad social a cargo del ayuntamiento,60298.0,57992.66,28678.89
-1150,2391,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,1130.78
-1150,2391,22696,,Cuota Euskal Fondoa,11237.4,11237.4,0.0
-1150,2391,22699,,Otros gastos diversos,3000.0,3000.0,753.95
-1150,2391,22707,,Estudios y trabajos técnicos,115000.0,115000.0,13176.9
-1150,2391,22799,,Otros trabajos exteriores,30000.0,30000.0,2656.34
-1150,2391,48200,,Subvenciones de cooperación,1418834.0,1418834.0,0.0
-1150,2391,48205,,Convenio fondo alavés de emergencia,132000.0,132000.0,132000.0
-1150,2391,48206,,Convenio asoc.amigos/as del RASD,320000.0,320000.0,0.0
-1150,2391,48207,,Convenio Euskal Fondoa,207000.0,207000.0,11237.4
-1150,2391,48211,,Convenio coordinadora ONGDS,24000.0,24000.0,0.0
-1150,2391,48212,,Convenio Afanis-vacaciones en paz,17000.0,17000.0,1457.68
-1150,2391,48213,,Convenio comercio justo,70000.0,70000.0,0.0
-1310,9313,12000,,Retribuciones básicas de funcionarios,135303.0,135303.0,70636.73
-1310,9313,12100,,Retribuciones complementarias funcionarios,177979.0,177979.0,90977.49
-1310,9313,14100,,Otro personal,9368.0,9368.0,0.0
-1310,9313,16000,,Seguridad social a cargo del ayuntamiento,87564.0,81614.46,39607.61
-1310,9313,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5949.54,2791.67
-1510,1701,11000,,Retribuciones personal eventual gabinete,81775.0,81775.0,41348.42
+1150,2391,16000,,Seguridad social a cargo del ayuntamiento,60298.0,57992.66,43035.98
+1150,2391,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,1615.4
+1150,2391,22696,,Cuota euskal fondoa,11237.4,11237.4,11237.4
+1150,2391,22699,,Otros gastos diversos,3000.0,3000.0,970.76
+1150,2391,22707,,Estudios y trabajos técnicos,115000.0,115000.0,23461.9
+1150,2391,22799,,Otros trabajos exteriores,30000.0,30000.0,17870.54
+1150,2391,48200,,Subvenciones de cooperación,1418834.0,1368834.0,89683.14
+1150,2391,48205,,Convenio Fondo alavés de emergencia,132000.0,132000.0,132000.0
+1150,2391,48206,,Convenio Asoc.Amigos/as del RASD,320000.0,320000.0,0.0
+1150,2391,48207,,Convenio Euskal Fondoa,207000.0,207000.0,207000.0
+1150,2391,48211,,Convenio coordinadora ONGDS,24000.0,24000.0,19200.0
+1150,2391,48212,,Convenio Afanis-vacaciones en paz,17000.0,1457.68,1457.68
+1150,2391,48213,,Convenio comercio justo,70000.0,70000.0,56000.0
+1310,9313,12000,,Retribuciones básicas de funcionarios,135303.0,135303.0,98632.86
+1310,9313,12100,,Retribuciones complementarias funcionarios,177979.0,177979.0,141429.74
+1310,9313,14100,,Otro personal,9368.0,9368.0,1070.85
+1310,9313,16000,,Seguridad social a cargo del ayuntamiento,87564.0,81614.46,60171.95
+1310,9313,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,5949.54,3988.1
+1510,1701,11000,,Retribuciones personal eventual gabinete,81775.0,81775.0,58376.12
 1510,1701,13000,,Retribuciones personal laboral fijo,0.0,0.0,3912.35
-1510,1701,16000,,Seguridad social a cargo del ayuntamiento,18505.0,16954.15,7554.07
-1510,1701,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
+1510,1701,16000,,Seguridad social a cargo del ayuntamiento,18505.0,16954.15,10692.1
+1510,1701,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
 1510,1701,22004,,Edición y reproducción de cartografía y proyectos,1000.0,1000.0,0.0
-1510,1701,22205,,"Reuniones,conferencias y congresos",5000.0,5000.0,100.0
+1510,1701,22205,,"Reuniones,conferencias y congresos",5000.0,5000.0,178.05
 1510,1701,22206,,Acciones exteriores y colaboraciones internacionales,10000.0,10000.0,408.73
-1514,1701,12000,,Retribuciones básicas de funcionarios,232409.0,232409.0,75323.52
-1514,1701,12100,,Retribuciones complementarias funcionarios,284307.0,284307.0,88619.39
-1514,1701,14100,,Otro personal,116572.0,116572.0,110881.39
-1514,1701,16000,,Seguridad social a cargo del ayuntamiento,197591.0,187365.53,85579.94
-1514,1701,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10225.47,4327.89
-152002,1331,60195,,Mejora elementos seguridad de tráfico,100000.0,100000.0,17289.48
+1514,1701,12000,,Retribuciones básicas de funcionarios,232409.0,232409.0,103966.27
+1514,1701,12100,,Retribuciones complementarias funcionarios,284307.0,284307.0,140813.29
+1514,1701,14100,,Otro personal,116572.0,116572.0,153236.66
+1514,1701,16000,,Seguridad social a cargo del ayuntamiento,197591.0,187365.53,125729.85
+1514,1701,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10225.47,6182.7
+152002,1331,60195,,Mejora elementos seguridad de tráficos,100000.0,100000.0,17289.48
 152002,1513,60921,,Proyecto Coronación,200000.0,200000.0,0.0
 152002,1533,60002,,Expropiaciones,267846.2,0.0,0.0
 152002,1533,60102,,Mejora de accesibilidad,60000.0,60000.0,0.0
 152002,1533,60116,,Reformas y asfaltados integrales,1000000.0,1000000.0,0.0
 152002,1533,60129,,Red principal de ciclistas,100000.0,100000.0,0.0
 152002,1533,60171,,Aparcabicicletas y bicilonjas,105000.0,105000.0,0.0
-152002,1533,60189,,Inversiones BAIS,1500000.0,1500000.0,556230.34
-152002,1533,60198,,Plan director inversiones espacio publico,2500000.0,2500000.0,408767.45
+152002,1533,60189,,Inversiones bais,1500000.0,1500000.0,956534.88
+152002,1533,60198,,Plan director inversiones espacio publico,2500000.0,2031161.1,654338.99
 152002,1533,60201,,Reforma y rehabilitación caños casco viejo,75000.0,75000.0,0.0
-152002,1533,60506,,Parking Ariznavarra,350000.0,350000.0,0.0
-152002,1533,60508,,Reforma aparcamiento Lakua Arriaga,150000.0,150000.0,0.0
+152002,1533,60506,,Parking ariznavarra,350000.0,350000.0,0.0
+152002,1533,60508,,Reforma aparcamiento lakua arriaga,150000.0,150000.0,0.0
 152002,1533,60922,,Guardabicis,50000.0,50000.0,0.0
 152002,1533,60924,,Ampliación de la red de carriles bici,125000.0,125000.0,0.0
 152002,1533,61121,,2ª fase entorno memorial,35001.0,35001.0,0.0
-152002,1533,64304,,"Honorarios, estudios y proyectos",40000.0,40000.0,6897.0
-152002,1533,64517,,Plan reactivación centro urbano Bost Enparantza,800000.0,800000.0,0.0
-152002,1534,12000,,Retribuciones básicas de funcionarios,1098018.0,1098018.0,498125.14
-152002,1534,12100,,Retribuciones complementarias funcionarios,1565953.0,1565953.0,717823.36
-152002,1534,14100,,Otro personal,376628.0,376628.0,232838.15
-152002,1534,16000,,Seguridad social a cargo del ayuntamiento,1053745.0,1008639.46,507507.64
-152002,1534,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,45105.54,20130.67
-152002,1534,20200,,Arrendamiento de maquinaria e instalaciones,108000.0,108000.0,6873.34
-152002,1534,21008,,B.A.I juegos infantiles,170000.0,170000.0,54477.78
+152002,1533,64304,,"Honorarios, estudios y proyectos",40000.0,40000.0,12738.78
+152002,1533,64517,,Plan reactivación centro urbano bost enparantza,800000.0,800000.0,0.0
+152002,1534,12000,,Retribuciones básicas de funcionarios,1098018.0,1098018.0,654411.56
+152002,1534,12100,,Retribuciones complementarias funcionarios,1565953.0,1565953.0,1055480.45
+152002,1534,14100,,Otro personal,376628.0,376628.0,341863.99
+152002,1534,16000,,Seguridad social a cargo del ayuntamiento,1053745.0,1008639.46,756819.46
+152002,1534,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,45105.54,28422.49
+152002,1534,20200,,Arrendamiento de maquinaria e instalaciones,108000.0,108000.0,19653.02
+152002,1534,21008,,B.A.I juegos infantiles,170000.0,170000.0,61353.52
 152002,1534,21009,,Renovación juegos infantiles obsoletos,170000.0,170000.0,0.0
 152002,1534,21012,,Ejecuciones subsidiarias espacio publico,20000.0,20000.0,0.0
-152002,1534,21060,,Conservación de vías públicas y firmes,500000.0,500000.0,199838.33
+152002,1534,21060,,Conservación de vías públicas y firmes,500000.0,500000.0,359864.94
 152002,1534,21060,R,Conservación de vías públicas y firmes,0.0,33275.29,0.0
-152002,1534,21062,,Mantenimiento de los firmes y aglomerados,200000.0,200000.0,17623.73
+152002,1534,21062,,Mantenimiento de los firmes y aglomerados,200000.0,200000.0,26373.07
 152002,1534,21062,R,Mantenimiento de los firmes y aglomerados,0.0,4235.0,0.0
 152002,1534,21097,,Campo fuegos artificiales,3500.0,3500.0,0.0
-152002,1534,21701,,Conservación mobiliario urbano,70000.0,70000.0,17682.71
-152002,1534,21701,R,Conservación mobiliario urbano,0.0,36565.33,0.0
-152002,1534,21703,,Contrato mantenimiento de rampas,120000.0,120000.0,15840.0
+152002,1534,21701,,Conservación mobiliario urbano,70000.0,70000.0,22089.94
+152002,1534,21701,R,Conservación mobiliario urbano,0.0,36565.33,33232.0
+152002,1534,21703,,Contrato mantenimiento de rampas,120000.0,120000.0,63360.0
 152002,1534,21703,R,Contrato mantenimiento de rampas,0.0,33720.03,0.0
 152002,1534,21706,,Mantenimiento de fuentes,20000.0,20000.0,0.0
-152002,1534,22111,,"Menaje, útiles y herramientas",30000.0,30000.0,12416.29
-152002,1534,22722,,Contratos mantenimiento w.c.públicos,55000.0,55000.0,6729.15
-152002,1641,22111,,"Menaje, útiles y herramientas",10000.0,10000.0,14777.29
-152002,1641,22140,,Gastos específicos cementerios,50000.0,50000.0,1090.49
-152002,1641,22715,,Recogidas selectivas de residuos,10000.0,10000.0,3974.2
-152002,1641,60105,,Construcciones nichos y panteones,100000.0,100000.0,24871.5
+152002,1534,22111,,"Menaje, útiles y herramientas",30000.0,30000.0,23582.38
+152002,1534,22145,,Gastos sanitarios por coronavirus,0.0,0.0,5875.89
+152002,1534,22722,,Contratos mantenimiento w.c. públicos,55000.0,55000.0,10754.98
+152002,1641,22111,,"Menaje, útiles y herramientas",10000.0,10000.0,26690.8
+152002,1641,22140,,Gastos específicos cementerios,50000.0,50000.0,4188.1
+152002,1641,22715,,Recogidas selectivas de residuos,10000.0,10000.0,5613.2
+152002,1641,60105,,Construcciones nichos y panteones,100000.0,100000.0,58548.11
 152002,1651,21006,,Brigadas acción inmediata para alumbrado,416000.0,416000.0,0.0
-152002,1651,22101,,Suministro energía eléctrica espacio publico y medio natural,4200000.0,4200000.0,1657234.19
-152002,1651,22101,R,Suministro energía eléctrica espacio publico y medio natural,0.0,359700.19,359700.19
+152002,1651,22101,,Suministro energía eléctrica espacio público y medio natural,4200000.0,4200000.0,2406386.4
+152002,1651,22101,R,Suministro energía eléctrica espacio público y medio natural,0.0,359700.19,359700.19
 152002,1651,60115,,Mejora alumbrado público,100000.0,100000.0,0.0
-152002,1711,60920,A,Infraestructuras verdes,0.0,53673.87,18963.11
-152002,1711,60920,R,Infraestructuras verdes,0.0,117219.18,37930.39
-152002,1711,64520,,Supermanzana Salburua,50000.0,50000.0,0.0
+152002,1711,60920,A,Infraestructuras verdes,0.0,53673.87,51326.22
+152002,1711,60920,R,Infraestructuras verdes,0.0,117219.18,99808.85
+152002,1711,64520,,Supermanzana salburua,50000.0,50000.0,0.0
 152002,2381,60607,,Perspectiva genero en alumbrado público,75000.0,75000.0,0.0
 152002,4411,21705,,Mantenimiento autobuses eléctricos,181500.0,181500.0,0.0
-152002,4411,47122,,Convenio DFA parque tecnológico para el tpte de viajeros,20000.0,20000.0,0.0
-152002,4411,69200,,Implantación BEI- BEA,878964.0,878964.0,701370.9
-152002,4411,71003,,"Convenio GOVA, DFA, Ayto VG ampliación tranvía al sur",1554877.22,1554877.22,1225131.1
+152002,4411,47122,,Convenio día parque tecnológico para el transporte de viajeros,20000.0,20000.0,0.0
+152002,4411,69200,,Implantación BEI-BEA,878964.0,3415186.3,701370.9
+152002,4411,71003,,"Convenio GOVA, DFA, Ayto VG ampliación tranvía al sur",1554877.22,1554877.22,1342305.73
 152002,4411,71005,A,Conv. GOVA DFA transporte multimodal,0.0,77286.98,0.0
-152002,4411,71007,,Tranvía Salburua-Zabalgana,1347500.0,1347500.0,0.0
+152002,4411,71007,,Tranvía Salbura-Zabalgana,1347500.0,1347500.0,12903.44
 152002,4412,77000,,Subvención adquisición taxis eléctricos,60000.0,30000.0,0.0
-152002,4412,77002,,Mamparas Covid 19 taxistas de Vitoria-Gasteiz,0.0,30000.0,0.0
+152002,4412,77002,,Mamparas covid 19 taxistas de Vitoria-gasteiz,0.0,30000.0,0.0
 152005,1513,47135,R,Convenio iberdorla distribución,0.0,70000.0,0.0
-152005,1513,71001,A,Proyecto coronación (rehabilitación & distric heating,0.0,0.0,0.0
-152005,1513,71001,R,Proyecto coronación (rehabilitation & distric heating,0.0,0.0,0.0
-152005,1513,77001,R,Convocatoria concesión demanialproy coronacion,0.0,900000.0,0.0
+152005,1513,71001,A,Proyecto Coronación (rehabilitación & distric heating),0.0,0.0,0.0
+152005,1513,71001,R,Proyecto Coronación (rehabilitación & distric heating),0.0,0.0,0.0
+152005,1513,77001,R,Convocatoria concesión demanial proy Coronación,0.0,900000.0,0.0
 152005,1533,60102,R,Mejora de accesibilidad,0.0,189509.01,0.0
-152005,1533,60122,A,Plan reforma integral casco medieval,0.0,1522081.96,454733.3
+152005,1533,60122,A,Plan reforma integral casco medieval,0.0,1522081.96,1265080.51
 152005,1533,60171,A,Aparcabicicletas y bicilonjas,0.0,17985.0,0.0
 152005,1533,60171,R,Aparcabicicletas y bicilonjas,0.0,50000.0,50000.0
-152005,1533,60189,R,Inversiones BAIS,0.0,151761.26,92438.91
-152005,1533,60198,A,Plan director inversiones espacio publico,0.0,31482.58,0.0
-152005,1533,60198,R,Plan director inversiones espacio publico,0.0,561811.52,122685.8
+152005,1533,60189,R,Inversiones bais,0.0,151761.26,92438.91
+152005,1533,60198,A,Plan director inversiones espacio publico,0.0,31482.58,30800.26
+152005,1533,60198,R,Plan director inversiones espacio publico,0.0,561811.52,390173.92
 152005,1533,60922,R,Guardabicis,0.0,49999.84,0.0
 152005,1533,60924,R,Ampliación de la red de carriles bici,0.0,88605.8,0.0
 152005,1533,64304,R,"Honorarios, estudios y proyectos",0.0,1948.1,1948.1
 152005,1533,64517,R,Plan reactivación centro urbano Bost Enparantza,0.0,200000.0,0.0
-152005,1651,22130,,Conservación general del alumbrado publico,400000.0,400000.0,202089.8
-152005,1651,60115,A,Mejora alumbrado público,0.0,292991.17,0.0
+152005,1651,22130,,Conservación general del alumbrado público,400000.0,400000.0,257599.61
+152005,1651,60115,A,Mejora alumbrado público,0.0,292991.17,33773.87
 152005,1651,60115,R,Mejora alumbrado público,0.0,69930.02,0.0
-152005,1651,60318,A,Retirara cableado eléctrico Abetxuko y Adurza,0.0,64293.94,0.0
-152005,4411,69200,A,Implantación BEI- BEA,0.0,34834946.9,1417307.08
-152005,4411,69200,R,Implantación BEI- BEA,0.0,2323618.61,492268.26
-152007,1711,12000,,Retribuciones básicas de funcionarios,913080.0,913080.0,433980.36
-152007,1711,12100,,Retribuciones complementarias funcionarios,1261874.0,1261874.0,596539.79
-152007,1711,14100,,Otro personal,413085.0,413085.0,217316.11
-152007,1711,16000,,Seguridad social a cargo del ayuntamiento,905672.0,866412.3,468112.43
-152007,1711,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,39259.7,19858.12
-152007,1711,20200,,Arrendamiento de maquinaria e instalaciones,135000.0,135000.0,71912.89
+152005,1651,60318,A,Retirara cableado eléctrico Abetxuko y Adurza,0.0,64293.94,64293.92
+152005,4411,69200,A,Implantación BEI-BEA,0.0,34834946.9,4714939.9
+152005,4411,69200,R,Implantación BEI-BEA,0.0,2323618.61,492268.26
+152007,1711,12000,,Retribuciones básicas de funcionarios,913080.0,913080.0,571994.01
+152007,1711,12100,,Retribuciones complementarias funcionarios,1261874.0,1261874.0,891478.5
+152007,1711,14100,,Otro personal,413085.0,413085.0,315834.49
+152007,1711,16000,,Seguridad social a cargo del ayuntamiento,905672.0,866412.3,703006.01
+152007,1711,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,39259.7,28166.29
+152007,1711,20200,,Arrendamiento de maquinaria e instalaciones,135000.0,135000.0,93940.68
 152007,1711,21014,,Alcorques,275000.0,275000.0,0.0
 152007,1711,21015,,Traslado provisional de vivero,20000.0,20000.0,0.0
 152007,1711,21040,,Mantenimiento de transmisores,3000.0,3000.0,0.0
-152007,1711,21071,,Conservación municipal de zonas verdes publicas,260000.0,260000.0,37126.76
-152007,1711,21071,R,Conservación municipal de zonas verdes publicas,0.0,96989.59,7004.7
+152007,1711,21071,,Conservación municipal de zonas verdes públicas,260000.0,260000.0,86272.23
+152007,1711,21071,R,Conservación municipal de zonas verdes públicas,0.0,96989.59,77067.0
 152007,1711,21072,,Conservación de jardineras,4000.0,4000.0,3620.08
 152007,1711,21074,R,Trabajos de conservación anillo verde exterior,0.0,0.0,0.0
-152007,1711,21200,,Mantenimiento maquinaria e instalaciones,60000.0,60000.0,8669.74
-152007,1711,21704,,Contrato apertura y cierre instalaciones municipales,23904.0,23904.0,0.0
-152007,1711,21704,R,Contrato apertura y cierre instalaciones municipales,0.0,10842.22,6139.13
-152007,1711,22111,,"Menaje, útiles y herramientas",45000.0,45000.0,14497.77
-152007,1711,22699,A,Proyecto Life Lutreola,0.0,0.0,0.0
-152007,1711,22711,,Conservación zonas verdes,3323881.38,3323881.38,1131879.94
-152007,1711,22712,,Conservación fachada Europa,30000.0,30000.0,4568.3
+152007,1711,21200,,Mantenimiento maquinaria e instalaciones,60000.0,60000.0,19679.78
+152007,1711,21704,,Contrato apertura y cierre instalaciones municipales,23904.0,23904.0,5816.72
+152007,1711,21704,R,Contrato apertura y cierre instalaciones municipales,0.0,10842.22,7214.88
+152007,1711,22111,,"Menaje, útiles y herramientas",45000.0,45000.0,23617.0
+152007,1711,22699,A,Proyecto life lutreola,0.0,0.0,0.0
+152007,1711,22711,,Conservación zonas verdes,3323881.38,3323881.38,1797712.06
+152007,1711,22712,,Conservación fachada europa,30000.0,30000.0,8770.86
 152007,1711,22715,,Plan de acción del paisaje,50000.0,50000.0,177.87
 152007,1711,22715,R,Plan de acción del paisaje,0.0,34981.1,34981.08
 152007,1711,22716,,Plan director del arbolado,50000.0,50000.0,0.0
@@ -985,480 +993,488 @@
 152007,1711,22740,R,Mantenimiento caños casco viejo,0.0,1082.95,0.0
 152007,1711,60182,R,Proyecto árboles,0.0,39333.48,39326.34
 152007,1711,60196,,Plan gestión arbolado barrios,100000.0,100000.0,0.0
-152007,1711,60196,R,Plan gestión arbolado barrios,0.0,33819.7,20064.84
+152007,1711,60196,R,Plan gestión arbolado barrios,0.0,33819.7,33616.77
 152007,1711,60197,,Infraestructura verde de barrio,150000.0,150000.0,0.0
 152007,1711,60197,A,Infraestructura verde de barrio,0.0,159.59,0.0
-152007,1711,60197,R,Infraestructura verde de barrio,0.0,25437.44,2898.83
+152007,1711,60197,R,Infraestructura verde de barrio,0.0,25437.44,25437.44
 152007,1711,60312,,Instalación sistema cloración estanques,50000.0,46011.55,0.0
-152007,1711,60610,,Urbanización nuevo vivero municipal,1.0,1.0,0.0
+152007,1711,60610,,Urbanización nuevo vivero municipal,1.0,25001.0,0.0
 152007,1711,64304,,"Honorarios, estudios y proyectos",50000.0,50000.0,7495.95
 152007,1711,64304,R,"Honorarios, estudios y proyectos",0.0,0.0,0.0
 152007,1711,64318,R,Actuaciones conservación biodiversidad,0.0,0.0,0.0
 152007,1711,69900,,Adquisición de plantas,46000.0,46000.0,0.0
 152007,1711,69900,R,Adquisición de plantas,0.0,22779.9,22779.9
-152007,2381,60609,,Infraestructuras verdes barrio-perspectiva genero,100000.0,100000.0,0.0
-152007,2411,22100,,POEJ-movilidad y espacio publico,0.0,17000.0,14459.48
-1521,1331,12000,,Retribuciones básicas de funcionarios,233730.0,233730.0,128991.37
-1521,1331,12100,,Retribuciones complementarias funcionarios,293782.0,293782.0,157763.94
-1521,1331,14100,,Otro personal,114908.0,114908.0,49623.81
-1521,1331,16000,,Seguridad social a cargo del ayuntamiento,227060.0,215688.38,112618.42
-1521,1331,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11371.62,6931.82
-1521,1331,20200,,Mantenimiento regulación estacionamiento,233651.98,233651.98,57322.79
-1521,1331,21050,,Conservación de señalización,170000.0,170000.0,26574.42
+152007,2381,60609,,Infraestructuras verdes barrio-perspectiva género,100000.0,100000.0,0.0
+152007,2411,22100,,Poej-movilidad y espacio público,0.0,17000.0,14459.48
+1521,1331,12000,,Retribuciones básicas de funcionarios,233730.0,233730.0,174233.22
+1521,1331,12100,,Retribuciones complementarias funcionarios,293782.0,293782.0,237240.21
+1521,1331,14100,,Otro personal,114908.0,114908.0,74047.04
+1521,1331,16000,,Seguridad social a cargo del ayuntamiento,227060.0,215688.38,168121.38
+1521,1331,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11371.62,9909.11
+1521,1331,20200,,Mantenimiento regulación estacionamiento,233651.98,233651.98,123817.48
+1521,1331,21050,,Conservación de señalización,170000.0,170000.0,58578.64
 1521,1331,21050,A,Conservación de señalización,0.0,28560.14,28560.14
-1521,1331,21050,R,Conservación de señalización,0.0,39714.82,0.0
-1521,1331,21910,,Mantenimiento sistema control de trafico,1254255.65,1254255.65,492176.16
-1521,1331,22105,,Vestuario agentes OTA,15000.0,15000.0,334.49
+1521,1331,21050,R,Conservación de señalización,0.0,39714.82,24460.3
+1521,1331,21910,,Mantenimiento sistema control de tráfico,1254255.65,1254255.65,806272.33
+1521,1331,22105,,Vestuario agentes OTA,15000.0,15000.0,6541.42
 1521,1331,60107,,Sistema de control de circulación,15000.0,15000.0,0.0
-1521,1331,60143,,Mejora seguridad vial - expansiones urbanísticas,100000.0,100000.0,0.0
+1521,1331,60143,,Mejora seguridad vial - expansiones urbanísticas,100000.0,100000.0,37146.96
 1521,1331,62901,,Adquisición equipos,15000.0,15000.0,0.0
 1521,1331,62901,R,Adquisición equipos,0.0,7834.99,7834.99
-1521,1331,64521,,Calmados Supermanzana Salburua,150000.0,150000.0,0.0
+1521,1331,64521,,Calmados supermanzana Salburua,150000.0,150000.0,0.0
 1521,4413,62701,,Cocheras BEI,600000.0,600000.0,0.0
-1522,4413,12000,,Retribuciones básicas de funcionarios,185499.0,185499.0,73136.65
-1522,4413,12100,,Retribuciones complementarias funcionarios,274664.0,274664.0,105110.29
-1522,4413,14100,,Otro personal,142691.0,142691.0,69009.76
-1522,4413,16000,,Seguridad social a cargo del ayuntamiento,209102.0,198262.26,84565.48
-1522,4413,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10839.74,5081.04
-1522,4413,21105,,Conservación y mantenimiento estación de autobuses,90200.0,90200.0,18081.18
-1522,4413,22101,,Energía eléctrica estación autobuses,77520.0,77520.0,19547.47
-1522,4413,22102,,Suministro agua y depuración residuales estación buses,19800.0,19800.0,0.0
-1522,4413,22104,,Eficiencia energética estación autobuses,101184.0,101184.0,26768.8
-1522,4413,22734,,Seguridad estación autobuses,54342.68,54342.68,18114.24
+1522,4413,12000,,Retribuciones básicas de funcionarios,185499.0,185499.0,92177.82
+1522,4413,12100,,Retribuciones complementarias funcionarios,274664.0,274664.0,154295.21
+1522,4413,14100,,Otro personal,142691.0,142691.0,136224.28
+1522,4413,16000,,Seguridad social a cargo del ayuntamiento,209102.0,198262.26,138091.82
+1522,4413,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10839.74,7232.55
+1522,4413,21105,,Conservación y mantenimiento estación de autobuses,90200.0,90200.0,21853.02
+1522,4413,22101,,Energía eléctrica estación autobuses,77520.0,77520.0,35499.89
+1522,4413,22102,,Suministro agua y depuración residuales estación autobuses,19800.0,19800.0,0.0
+1522,4413,22104,,Eficiencia energética estación autobuses,101184.0,101184.0,46845.4
+1522,4413,22734,,Seguridad estación autobuses,54342.68,54342.68,27171.36
 1522,4413,22734,R,Seguridad estación autobuses,0.0,24318.68,4528.56
-1522,4413,22783,,Contratos prestación limpieza estación autobuses,157473.6,157473.6,65614.0
+1522,4413,22783,,Contratos prestación limpieza estación autobuses,157473.6,157473.6,104982.4
 1522,4413,62953,,Inversiones equipos estación de autobuses,42780.0,42780.0,0.0
 1620,3421,62296,,Inversiones en campos deportivos,800000.0,800000.0,0.0
-1620,3421,62296,R,Inversiones en campos deportivos,0.0,122040.58,96592.62
-1620,3422,22148,,Contrato mantenimiento piscinas,1265500.0,1265500.0,526945.91
-1620,3422,62926,,Inversiones en contratos piscinas,353500.0,353500.0,147107.9
-1620,9211,62204,,Inversiones en centros y locales,530000.0,550000.0,0.0
-1620,9211,62204,R,Inversiones en centros y locales,0.0,282479.15,0.0
-1620,9211,62205,,Obras en edificios escolares,500000.0,500000.0,3543.18
-1620,9211,62293,,Inversiones edificios municipales,700000.0,820507.86,145814.51
+1620,3421,62296,R,Inversiones en campos deportivos,0.0,122040.58,103480.04
+1620,3422,22148,,Contrato mantenimiento piscinas,1265500.0,1465500.0,843311.57
+1620,3422,62926,,Inversiones en contratos piscinas,353500.0,353500.0,235372.64
+1620,9211,62204,,Inversiones en centros y locales,530000.0,550000.0,55877.54
+1620,9211,62204,R,Inversiones en centros y locales,0.0,282479.15,89558.89
+1620,9211,62205,,Obras en edificios escolares,500000.0,500000.0,102496.69
+1620,9211,62293,,Inversiones edificios municipales,700000.0,820507.86,172568.08
 1620,9211,62293,R,Inversiones edificios municipales,0.0,32541.33,32541.33
-1620,9211,62303,,Adquisición maquinaria,15000.0,15000.0,3624.74
-1620,9211,64304,,"Honorarios, estudios y proyectos",15000.0,15000.0,2908.55
-1620,9212,21100,,Conservación edificios municipales,625000.0,625000.0,172292.87
-1620,9212,21107,,Reparaciones y suministros de mto. en EEMM,600000.0,600000.0,180884.86
-1620,9212,21207,,Mantenimiento y reparación de equipos,90000.0,90000.0,14358.41
-1620,9212,22109,,Productos de limpieza y aseo,270000.0,270000.0,103874.87
-1620,9212,22111,,"Menaje, útiles y herramientas",40000.0,40000.0,19429.29
-1620,9212,22145,,Gastos sanitarios por Coronavirus,0.0,0.0,14845.21
-1620,9212,22147,,Contratos de baja tensión,10000.0,10000.0,695.85
-1620,9212,22682,,Pequeños suministros mantenimiento,575000.0,575000.0,164690.74
-1620,9212,22727,,Contrato mantenimiento instalaciones,650000.0,650000.0,261716.83
-1620,9214,22146,,Contrato contenedores higiénicos,30000.0,30000.0,7024.3
-1620,9214,22783,,Contratos unidad de limpieza,5320000.0,5290000.0,1404663.23
-1620,9215,21200,,Mantenimiento maquinaria e instalaciones,1550000.0,1550000.0,356379.99
-1620,9215,22101,,Suministro energía eléctrica,4202500.0,4202500.0,1650803.63
-1620,9215,22103,,Contrato para la eficiencia energética,4440000.0,4440000.0,1292562.54
-1620,9215,22149,,Gas resto edificios municipales,100000.0,100000.0,58690.1
-1620,9215,22751,,Contrato mantenimiento instalaciones eléctricas,215000.0,215000.0,89584.1
-1620,9215,62259,,Contrato inversiones en instalaciones eléctricas,302500.0,302500.0,126029.05
+1620,9211,62303,,Adquisición maquinaria,15000.0,15000.0,4982.36
+1620,9211,64304,,"Honorarios, estudios y proyectos",15000.0,15000.0,3877.59
+1620,9212,21100,,Conservación edificios municipales,625000.0,625000.0,273493.31
+1620,9212,21107,,Reparaciones y suministros de mto. en EEMM,600000.0,600000.0,348217.69
+1620,9212,21207,,Mantenimiento y reparación de equipos,90000.0,90000.0,39122.16
+1620,9212,22109,,Productos de limpieza y aseo,270000.0,270000.0,160431.88
+1620,9212,22111,,"Menaje, útiles y herramientas",40000.0,40000.0,28971.57
+1620,9212,22145,,Gastos sanitarios por Coronavirus,0.0,0.0,35171.64
+1620,9212,22147,,Contratos de baja tensión,10000.0,10000.0,2758.84
+1620,9212,22682,,Pequeños suministros mantenimiento,575000.0,575000.0,243312.7
+1620,9212,22727,,Contrato mantenimiento instalaciones,650000.0,650000.0,404062.13
+1620,9214,22146,,Contrato contenedores higiénicos,30000.0,30000.0,10268.73
+1620,9214,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,224627.63
+1620,9214,22783,,Contratos unidad de limpieza,5320000.0,5290000.0,2825207.35
+1620,9215,21200,,Mantenimiento maquinaria e instalaciones,1550000.0,1550000.0,606087.8
+1620,9215,22101,,Suministro energía eléctrica,4202500.0,4202500.0,2539236.74
+1620,9215,22103,,Contrato para la eficiencia energética,4440000.0,4240000.0,1528263.59
+1620,9215,22149,,Gas resto edificios municipales,100000.0,100000.0,65588.03
+1620,9215,22751,,Contrato mantenimiento instalaciones eléctricas,215000.0,215000.0,143334.56
+1620,9215,62259,,Contrato inversiones en instalaciones eléctricas,302500.0,302500.0,201646.48
 1620,9215,62303,,Renovación equipos de gestión energética,550000.0,550000.0,0.0
-1620,9219,12000,,Retribuciones básicas de funcionarios,116993.0,116993.0,60042.7
-1620,9219,12100,,Retribuciones complementarias funcionarios,135210.0,135210.0,69334.41
-1620,9219,14100,,Otro personal,66327.0,66327.0,36932.72
-1620,9219,16000,,Seguridad social a cargo del ayuntamiento,98518.0,96212.66,54004.92
-1620,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,1130.78
-1630,9219,12000,,Retribuciones básicas de funcionarios,2981339.0,2981339.0,1493323.8
-1630,9219,12100,,Retribuciones complementarias funcionarios,3765461.0,3765461.0,1877361.29
+1620,9219,12000,,Retribuciones básicas de funcionarios,116993.0,116993.0,83295.66
+1620,9219,12100,,Retribuciones complementarias funcionarios,135210.0,135210.0,107032.78
+1620,9219,14100,,Otro personal,66327.0,66327.0,51615.28
+1620,9219,16000,,Seguridad social a cargo del ayuntamiento,98518.0,96212.66,81016.76
+1620,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,1615.4
+1630,9219,12000,,Retribuciones básicas de funcionarios,2981339.0,2981339.0,1991639.58
+1630,9219,12100,,Retribuciones complementarias funcionarios,3765461.0,3765461.0,2833382.63
 1630,9219,13000,,Retribuciones personal laboral fijo,23972.0,23972.0,0.0
-1630,9219,14100,,Otro personal,2501287.0,2501287.0,964875.23
-1630,9219,16000,,Seguridad social a cargo del ayuntamiento,3456909.0,3313325.84,1548518.37
-1630,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,143583.16,74009.86
-1641,9219,12000,,Retribuciones básicas de funcionarios,92832.0,92832.0,42091.54
-1641,9219,12100,,Retribuciones complementarias funcionarios,106083.0,106083.0,48627.44
+1630,9219,14100,,Otro personal,2501287.0,2501287.0,1461519.69
+1630,9219,16000,,Seguridad social a cargo del ayuntamiento,3456909.0,3313325.84,2338195.07
+1630,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,143583.16,105558.44
+1641,9219,12000,,Retribuciones básicas de funcionarios,92832.0,92832.0,58153.61
+1641,9219,12100,,Retribuciones complementarias funcionarios,106083.0,106083.0,68482.55
 1641,9219,14100,,Otro personal,10257.0,10257.0,0.0
-1641,9219,16000,,Seguridad social a cargo del ayuntamiento,67158.0,65077.39,27114.89
-1641,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2080.61,1242.36
-1642,9219,12000,,Retribuciones básicas de funcionarios,70481.0,70481.0,33687.63
-1642,9219,12100,,Retribuciones complementarias funcionarios,89031.0,89031.0,40547.43
-1642,9219,14100,,Otro personal,2428.0,2428.0,16180.88
-1642,9219,16000,,Seguridad social a cargo del ayuntamiento,49480.0,49480.0,31277.59
-1643,9219,12000,,Retribuciones básicas de funcionarios,24276.0,24276.0,12063.3
-1643,9219,12100,,Retribuciones complementarias funcionarios,33629.0,33629.0,16644.72
-1643,9219,16000,,Seguridad social a cargo del ayuntamiento,12884.0,12884.0,6312.72
-1644,9219,12000,,Retribuciones básicas de funcionarios,849728.0,849728.0,414449.8
-1644,9219,12100,,Retribuciones complementarias funcionarios,1166861.0,1166861.0,605406.36
-1644,9219,13000,,Retribuciones personal laboral fijo,107964.0,107964.0,39705.46
-1644,9219,14100,,Otro personal,659788.0,659788.0,286744.97
-1644,9219,16000,,Seguridad social a cargo del ayuntamiento,1023744.0,972600.36,471340.77
-1644,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,51143.64,32343.97
-1810,3401,11000,,Retribuciones personal eventual gabinete,84206.0,84206.0,41754.97
-1810,3401,16000,,Seguridad social a cargo del ayuntamiento,14360.0,12809.15,6276.06
-1810,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
-1815,3401,12000,,Retribuciones básicas de funcionarios,213220.0,213220.0,109864.63
-1815,3401,12100,,Retribuciones complementarias funcionarios,260535.0,260535.0,134708.39
+1641,9219,16000,,Seguridad social a cargo del ayuntamiento,67158.0,65077.39,38498.84
+1641,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2080.61,1419.84
+1642,9219,12000,,Retribuciones básicas de funcionarios,70481.0,70481.0,45329.45
+1642,9219,12100,,Retribuciones complementarias funcionarios,89031.0,89031.0,63901.88
+1642,9219,14100,,Otro personal,2428.0,2428.0,23339.16
+1642,9219,16000,,Seguridad social a cargo del ayuntamiento,49480.0,49480.0,47240.12
+1643,9219,12000,,Retribuciones básicas de funcionarios,24276.0,24276.0,19081.82
+1643,9219,12100,,Retribuciones complementarias funcionarios,33629.0,33629.0,29391.82
+1643,9219,16000,,Seguridad social a cargo del ayuntamiento,12884.0,12884.0,11637.44
+1643,9219,16500,,Cuotas Elkarkidetza a cargo del ayto,0.0,0.0,354.96
+1644,9219,12000,,Retribuciones básicas de funcionarios,849728.0,849728.0,547312.77
+1644,9219,12100,,Retribuciones complementarias funcionarios,1166861.0,1166861.0,893340.18
+1644,9219,13000,,Retribuciones personal laboral fijo,107964.0,107964.0,57066.8
+1644,9219,14100,,Otro personal,659788.0,659788.0,401536.72
+1644,9219,16000,,Seguridad social a cargo del ayuntamiento,1023744.0,972600.36,698082.84
+1644,9219,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,51143.64,42584.07
+1810,3401,11000,,Retribuciones personal eventual gabinete,84206.0,84206.0,60064.78
+1810,3401,16000,,Seguridad social a cargo del ayuntamiento,14360.0,12809.15,9414.09
+1810,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
+1815,3401,12000,,Retribuciones básicas de funcionarios,213220.0,213220.0,148538.83
+1815,3401,12100,,Retribuciones complementarias funcionarios,260535.0,260535.0,204334.58
 1815,3401,14100,,Otro personal,27420.0,27420.0,0.0
-1815,3401,16000,,Seguridad social a cargo del ayuntamiento,152983.0,144894.54,70347.15
-1815,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,8088.46,3785.6
-1820,1533,60133,,Gasteiz hobetuz,600000.0,0.0,0.0
-1820,3371,12000,,Retribuciones básicas de funcionarios,2321751.0,2321751.0,1117048.02
-1820,3371,12100,,Retribuciones complementarias funcionarios,3253289.0,3253289.0,1527762.98
-1820,3371,14100,,Otro personal,1817576.0,1817576.0,695464.25
-1820,3371,16000,,Seguridad social a cargo del ayuntamiento,2532788.0,2434754.4,1022971.33
-1820,3371,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,98033.6,48383.38
-1820,3371,22115,,Material técnico especifico cívicos,12000.0,12000.0,3144.2
+1815,3401,16000,,Seguridad social a cargo del ayuntamiento,152983.0,144894.54,105810.5
+1815,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,8088.46,5532.8
+1820,1533,60133,,Gasteiz Hobetuz,600000.0,0.0,0.0
+1820,3371,12000,,Retribuciones básicas de funcionarios,2321751.0,2321751.0,1491143.25
+1820,3371,12100,,Retribuciones complementarias funcionarios,3253289.0,3253289.0,2292544.53
+1820,3371,14100,,Otro personal,1817576.0,1817576.0,1027439.35
+1820,3371,16000,,Seguridad social a cargo del ayuntamiento,2532788.0,2434754.4,1538341.59
+1820,3371,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,98033.6,69216.91
+1820,3371,22115,,Material técnico específico c.cívicos,12000.0,12000.0,6380.45
+1820,3371,22145,,Gastos sanitarios coronavirus,0.0,0.0,1656.1
 1820,3371,22607,,Difusión campañas en centros cívicos,25000.0,25000.0,1526.91
-1820,3371,22618,,Otros gastos funcionamiento cívicos,20000.0,20000.0,12104.22
-1820,3371,22663,,PIN navidad,100000.0,100000.0,0.0
+1820,3371,22618,,Otros gastos funcionamiento c.cívicos,20000.0,20000.0,13276.71
+1820,3371,22663,,P.i.n navidad,100000.0,100000.0,0.0
 1820,3371,22697,,"Cuota fundación ""kaleidos.red""",12020.24,12020.24,12020.24
 1820,3371,22709,,Juegos de verano,100000.0,100000.0,0.0
-1820,3371,22732,,Contratos servicios ocio y tiempo libre,1915620.0,1915620.0,796241.0
-1820,3371,22767,,Programas equipos de zonas,100000.0,100000.0,15733.54
-1820,3371,62505,,Otros enseres,10000.0,10000.0,4267.05
+1820,3371,22732,,Contratos servicios ocio y tiempo libre,1915620.0,1915620.0,1275145.88
+1820,3371,22767,,Programas equipos de zonas,100000.0,100000.0,20743.32
+1820,3371,62505,,Otros enseres,10000.0,10000.0,9053.21
 1820,3381,22701,,Montaje de escenarios fiestas en barrios,55000.0,0.0,0.0
-1820,9211,62512,,Inversiones en equipamientos centros cívicos,200000.0,200000.0,30078.16
-1820,9242,48988,,Convenio asociación vecinos san martin,100000.0,100000.0,100000.0
-1822,1533,60133,,Gasteiz hobetuz,0.0,580000.0,0.0
+1820,9211,62512,,Inversiones en equipamientos centros cívicos,200000.0,235000.0,52147.51
+1820,9242,48988,,Convenio asociación vecinos San Martín,100000.0,100000.0,100000.0
+1822,1533,60133,,Gasteiz hobetuz,0.0,545000.0,0.0
 1822,3381,22701,,Montajes escenarios fiestas en barrios,0.0,55000.0,0.0
-1822,9241,12000,,Retribuciones básicas de funcionarios,81899.0,81899.0,39442.05
-1822,9241,12100,,Retribuciones complementarias funcionarios,103839.0,103839.0,49236.54
-1822,9241,14100,,Otro personal,60134.0,60134.0,41194.7
-1822,9241,16000,,Seguridad social a cargo del ayuntamiento,69516.0,67797.24,36210.16
-1822,9241,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1718.76,621.18
+1822,9241,12000,,Retribuciones básicas de funcionarios,81899.0,81899.0,54439.37
+1822,9241,12100,,Retribuciones complementarias funcionarios,103839.0,103839.0,72461.65
+1822,9241,14100,,Otro personal,60134.0,60134.0,59173.04
+1822,9241,16000,,Seguridad social a cargo del ayuntamiento,69516.0,67797.24,53677.34
+1822,9241,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1718.76,887.4
 1822,9241,22670,,Concurso paisaje muralístico,60000.0,60000.0,0.0
 1822,9241,22696,,Proceso presupuestos participativos,42000.0,42000.0,0.0
 1822,9241,22698,,Consultas ciudadanas,15000.0,15000.0,0.0
-1822,9241,22699,,Otros gastos diversos en participación ciudadana,2500.0,2500.0,1225.88
-1822,9241,22732,,Contratos de prestación de servicios,135000.0,135000.0,48239.02
-1822,9241,22799,,Otros trabajos exteriores en participación ciudadana,40000.0,40000.0,10239.05
+1822,9241,22699,,Otros gastos diversos en participación ciudadana,2500.0,2500.0,1558.23
+1822,9241,22732,,Contratos de prestación de servicios,135000.0,135000.0,78373.85
+1822,9241,22799,,Otros trabajos exteriores en participación ciudadana,40000.0,40000.0,13150.39
 1822,9241,22799,A,Otros trabajos exteriores en participación ciudadana,0.0,6000.0,6000.0
-1822,9241,22799,R,Otros trabajos exteriores en participación ciudadana,0.0,18000.0,4000.0
+1822,9241,22799,R,Otros trabajos exteriores en participación ciudadana,0.0,18000.0,10000.0
 1822,9241,62505,,Otros enseres,7000.0,7000.0,5478.49
 1822,9242,48014,,Subvención proyecto participación ciudadana,24000.0,24000.0,0.0
-1822,9242,48954,,Subvención a asociaciones de vecinos,180000.0,180000.0,128793.0
-1825,9204,12000,,Retribuciones básicas de funcionarios,647729.0,647729.0,304470.94
-1825,9204,12100,,Retribuciones complementarias funcionarios,799578.0,799578.0,371968.4
-1825,9204,14100,,Otro personal,221773.0,221773.0,102988.83
-1825,9204,16000,,Seguridad social a cargo del ayuntamiento,522772.0,490758.08,241301.16
-1825,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,32013.92,16874.3
-1825,9251,22201,,"Sistema información ciudadana ""010""",610000.0,610000.0,230133.56
+1822,9242,48954,,Subvención a asociaciones de vecinos,180000.0,180000.0,180000.0
+1825,9204,12000,,Retribuciones básicas de funcionarios,647729.0,647729.0,409522.76
+1825,9204,12100,,Retribuciones complementarias funcionarios,799578.0,799578.0,550304.44
+1825,9204,14100,,Otro personal,221773.0,221773.0,151813.64
+1825,9204,16000,,Seguridad social a cargo del ayuntamiento,522772.0,490758.08,356814.57
+1825,9204,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,32013.92,22921.21
+1825,9251,22201,,"Sistema información ciudadana ""010""",610000.0,610000.0,370711.28
 1825,9251,22707,,Estudios y trabajos técnicos,61000.0,61000.0,0.0
 1825,9251,22747,,Dispensadores electrónicos,64500.0,64500.0,0.0
-2310,3301,11000,,Retribuciones personal eventual gabinete,78382.0,78382.0,39736.47
-2310,3301,16000,,Seguridad social a cargo del ayuntamiento,24256.0,24256.0,7668.14
-2310,3301,22765,,Contrato servicios Iradier arena,18000.0,18000.0,6503.75
+2310,3301,11000,,Retribuciones personal eventual gabinete,78382.0,78382.0,56994.3
+2310,3301,16000,,Seguridad social a cargo del ayuntamiento,24256.0,24256.0,11502.17
+2310,3301,22765,,Contrato servicios Iradier Arena,18000.0,18000.0,11041.25
 2310,3392,22737,R,Comparsas gigantes,0.0,4700.0,4700.0
 2311,3291,43101,,A la escuela de música Luis Aramburu,700910.08,700910.08,563000.0
-2311,3291,73101,,Aportación escuela de música Luis Aranburu,19500.0,19500.0,0.0
-2311,3292,43103,,Al conservatorio de la danza José Uruñuela,560382.15,560382.15,336000.0
+2311,3291,73101,,Aportación escuela de música Luis Aramburu,19500.0,19500.0,0.0
+2311,3292,43103,,Al conservatorio de la danza José Uruñuela,560382.15,560382.15,448000.0
 2311,3292,73103,,Aportación al conservatorio de danza José Uruñuela,5931.46,5931.46,0.0
-2311,3301,12000,,Retribuciones básicas de funcionarios,302893.0,302893.0,121934.28
-2311,3301,12100,,Retribuciones complementarias funcionarios,367715.0,367715.0,149098.74
+2311,3301,12000,,Retribuciones básicas de funcionarios,302893.0,302893.0,166700.86
+2311,3301,12100,,Retribuciones complementarias funcionarios,367715.0,367715.0,226679.79
 2311,3301,13000,,Retribuciones personal laboral fijo,63820.0,63820.0,0.0
-2311,3301,14100,,Otro personal,123814.0,123814.0,57985.65
-2311,3301,16000,,Seguridad social a cargo del ayuntamiento,281812.0,267926.67,97248.93
-2311,3301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,13885.33,4804.8
+2311,3301,14100,,Otro personal,123814.0,123814.0,83065.28
+2311,3301,16000,,Seguridad social a cargo del ayuntamiento,281812.0,267926.67,144278.43
+2311,3301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,13885.33,6879.07
 2311,3301,21208,,Reparación equipos audiovisuales,800.0,800.0,0.0
 2311,3301,22111,,"Menaje, útiles y herramientas",400.0,400.0,386.67
 2311,3301,62501,,Mobiliario,1000.0,1000.0,0.0
 2311,3301,62901,,Adquisición equipos acción cultural,10000.0,10000.0,52.04
 2311,3341,48975,,Museo artium,100000.0,100000.0,0.0
-2312,3342,22684,,Indemnización suspensión contratos Coronavirus,0.0,0.0,143447.0
-231201,3322,12000,,Retribuciones básicas de funcionarios,235314.0,235314.0,110171.66
-231201,3322,12100,,Retribuciones complementarias funcionarios,264194.0,264194.0,122949.19
+2312,3342,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,204683.65
+231201,3322,12000,,Retribuciones básicas de funcionarios,235314.0,235314.0,149184.33
+231201,3322,12100,,Retribuciones complementarias funcionarios,264194.0,264194.0,179860.53
 231201,3322,14100,,Otro personal,33214.0,33214.0,0.0
-231201,3322,16000,,Seguridad social a cargo del ayuntamiento,150661.0,146933.92,66676.6
-231201,3322,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3727.08,1508.58
-231201,3322,22699,,Gastos materiales conservación archivo,6800.0,6800.0,0.0
+231201,3322,16000,,Seguridad social a cargo del ayuntamiento,150661.0,146933.92,98595.02
+231201,3322,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3727.08,2041.02
+231201,3322,22699,,Gastos materiales conservación archivo,6800.0,6800.0,100.0
 231201,3322,22752,,Contratos archivo municipal,70000.0,70000.0,0.0
-231201,3322,62800,,Adquisición publicaciones y libros archivo,20443.0,20443.0,12999.89
+231201,3322,62800,,Adquisición publicaciones y libros archivo,20443.0,20443.0,16159.3
 231201,3322,62801,,Adquisición fondos archivo mpal.,3000.0,3000.0,63.0
-231202,3391,12000,,Retribuciones básicas de funcionarios,259468.0,259468.0,133197.14
-231202,3391,12100,,Retribuciones complementarias funcionarios,350880.0,350880.0,178037.34
-231202,3391,14100,,Otro personal,105463.0,105463.0,44371.5
-231202,3391,16000,,Seguridad social a cargo del ayuntamiento,212090.0,202894.39,99502.39
-231202,3391,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9195.61,4510.45
-231202,3391,22624,,Gastos programación academia de folklore,30000.0,30000.0,3589.35
-231202,3391,22625,,Colonias musicales academia folklore,65000.0,65000.0,0.0
-231202,3391,22757,,Empresas de servicios academia de folklore,35000.0,35000.0,2647.68
-231202,3391,62914,,Equipamiento academia folklore,7000.0,7000.0,1598.67
+231202,3391,12000,,Retribuciones básicas de funcionarios,259468.0,259468.0,178654.61
+231202,3391,12100,,Retribuciones complementarias funcionarios,350880.0,350880.0,268169.56
+231202,3391,14100,,Otro personal,105463.0,105463.0,60163.01
+231202,3391,16000,,Seguridad social a cargo del ayuntamiento,212090.0,202894.39,147952.41
+231202,3391,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9195.61,6443.5
+231202,3391,22624,,Gastos programación academia de Folklore,30000.0,30000.0,6847.34
+231202,3391,22625,,Colonias musicales academia Folklore,65000.0,65000.0,0.0
+231202,3391,22757,,Empresas de servicios academia de Folklore,35000.0,35000.0,2647.68
+231202,3391,62914,,Equipamiento academia Folklore,7000.0,7000.0,1598.67
 231203,3301,20103,,Alquileres,50000.0,50000.0,17666.04
-231203,3321,22649,,Programa red munpal bibliotecas,55000.0,55000.0,14953.58
-231203,3341,22635,,Azkena rock festival,270000.0,270000.0,0.0
+231203,3321,22649,,Programa red municipal bibliotecas,55000.0,55000.0,16997.27
+231203,3341,22635,,Azkena Rock festival,270000.0,270000.0,0.0
 231203,3341,22652,,Otras actividades culturales - bailables,58000.0,58000.0,3872.0
-231203,3341,22653,,Difusión cultural,85000.0,85000.0,0.0
-231203,3341,22654,,Plan estratégico de cultura,90000.0,90000.0,15340.01
-231203,3341,22733,,Programas culturales espacios públicos,180000.0,180000.0,13522.83
-231203,3341,22756,,Servicios acción cultural,180000.0,180000.0,18503.36
-231203,3341,22756,R,Servicios acción cultural,0.0,5656.66,0.0
-231203,3341,41921,,Convenio UPV-festival cortada,10000.0,10000.0,0.0
-231203,3341,48917,,Convenio Magialdia,88000.0,88000.0,0.0
+231203,3341,22653,,Difusión cultural,85000.0,145000.0,15310.5
+231203,3341,22654,,Plan estratégico de cultura,90000.0,90000.0,27662.66
+231203,3341,22733,,Programas culturales espacios públicos,180000.0,180000.0,152936.99
+231203,3341,22756,,Servicios acción cultural,180000.0,180000.0,21048.04
+231203,3341,22756,R,Servicios acción cultural,0.0,5656.66,4591.7
+231203,3341,41921,,Convenio UPV-Festival Cortada,10000.0,10000.0,0.0
+231203,3341,48917,,Convenio Magialdia,88000.0,88000.0,32000.0
 231203,3341,48929,,Convocatoria festival de jazz,136000.0,136000.0,0.0
-231203,3341,48933,,Convocatoria subv.proyectos culturales,200000.0,200000.0,0.0
+231203,3341,48933,,Convocatoria subv.proyectos culturales,200000.0,175000.0,139862.53
 231203,3341,48939,,Patronato Valentín de Foronda,12000.0,12000.0,0.0
-231203,3341,48961,,Convenio World Press Photo,43000.0,43000.0,0.0
-231203,3341,48962,,Convenio asociación fotográfica,8000.0,8000.0,0.0
-231203,3341,48970,,Convenio Arabako Bertsozale Elkartea,14000.0,14000.0,0.0
-231203,3341,48971,,Convenio Arabako Dantzarien Biltzarra,8000.0,8000.0,0.0
+231203,3341,48961,,Convenio world press photo,43000.0,43000.0,31200.0
+231203,3341,48962,,Convenio Asociación fotográfica,8000.0,8000.0,6400.0
+231203,3341,48970,,Convenio Arabako Bertsozale Elkartea,14000.0,14000.0,11200.0
+231203,3341,48971,,Convenio Arabako Dantzarien Biltzarra,8000.0,8000.0,6400.0
 231203,3342,22725,,Fomento espectáculos artistas amateurs,15000.0,15000.0,0.0
-231203,3361,68500,, adquisición esculturas y obras de arte,6300.0,6300.0,1500.0
+231203,3361,68500,, Adquisición esculturas y obras de arte,6300.0,6700.0,6700.0
 231203,3361,68503,,Plan mantenimiento y restauración de obras de arte,30000.0,30000.0,0.0
-231203,3361,78100,,Subvención obras catedral santa Maria,150000.0,150000.0,0.0
-231203,3381,12000,,Retribuciones básicas de funcionarios,136378.0,136378.0,62305.99
-231203,3381,12100,,Retribuciones complementarias funcionarios,184729.0,184729.0,84315.11
-231203,3381,14100,,Otro personal,87836.0,87836.0,44075.12
-231203,3381,16000,,Seguridad social a cargo del ayuntamiento,114167.0,109328.75,54082.07
-231203,3381,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4838.25,3560.25
-231203,3381,22643,,"Reparación gigantes, tribunas y nacimiento",15000.0,15000.0,1490.1
+231203,3361,78100,,Subvención obras catedral Santa María,150000.0,150000.0,80000.0
+231203,3381,12000,,Retribuciones básicas de funcionarios,136378.0,136378.0,85117.93
+231203,3381,12100,,Retribuciones complementarias funcionarios,184729.0,184729.0,124294.66
+231203,3381,14100,,Otro personal,87836.0,87836.0,68433.36
+231203,3381,16000,,Seguridad social a cargo del ayuntamiento,114167.0,109328.75,82289.7
+231203,3381,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4838.25,4891.35
+231203,3381,22643,,"Reparación gigantes, tribunas y nacimiento",15000.0,15000.0,9559.54
 231203,3381,22646,,Gu ere bertsotan,43000.0,43000.0,28350.0
 231203,3381,22660,,Carnaval,40000.0,40000.0,24566.28
-231203,3381,22661,,Fiestas Virgen Blanca,760000.0,760000.0,6585.72
+231203,3381,22661,,Fiestas Virgen Blanca,760000.0,760000.0,13612.99
 231203,3381,22662,,Olarizu,12000.0,12000.0,0.0
 231203,3381,22663,,Campaña de navidad y reyes,185000.0,185000.0,3497.47
-231203,3381,22664,,Fiestas de San Antón y Santa Agueda,13000.0,13000.0,12106.65
+231203,3381,22664,,Fiestas de San Antón y Santa Águeda,13000.0,13000.0,12106.65
 231203,3381,22701,,Montaje de escenarios fiestas y otros eventos,150000.0,150000.0,5324.0
-231203,3381,48024,,Convenio con casas regionales,55000.0,55000.0,0.0
+231203,3381,48024,,Convenio con casas regionales,55000.0,32000.0,0.0
 231203,3381,48910,,Convenio asoc.comision de blusas y neskas,87000.0,87000.0,0.0
-231203,3381,48922,,Convocatoria comparsas carnavales,85000.0,85000.0,68801.8
-231203,3381,48969,,Convenio asoc.celedones de oro,7000.0,7700.0,0.0
+231203,3381,48922,,Convocatoria comparsas carnavales,85000.0,85000.0,73567.8
+231203,3381,48969,,Convenio asoc.Celedones de oro,7000.0,7700.0,4480.0
 231203,3381,78001,,Aportaciones a casas regionales,38000.0,38000.0,0.0
 231203,3392,22737,,Comparsas gigantes,47000.0,47000.0,0.0
-231204,3321,22749,,Contratos red bibliotecas,1773000.0,1773000.0,501960.79
-231204,3321,62800,,Adquisición publicaciones y libros red bibliotecas,123000.0,123000.0,36150.69
-231204,3341,12000,,Retribuciones básicas de funcionarios,236433.0,236433.0,105715.74
-231204,3341,12100,,Retribuciones complementarias funcionarios,250754.0,250754.0,111414.41
-231204,3341,14100,,Otro personal,149165.0,149165.0,93502.27
-231204,3341,16000,,Seguridad social a cargo del ayuntamiento,194889.0,183038.6,96337.31
-231204,3341,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11850.4,6211.8
-231204,3341,22607,,Difusión campañas en centros cívicos,15000.0,15000.0,4091.36
-231204,3341,22636,,Cursos culturales en centros cívicos,646000.0,646000.0,217138.81
-231204,3341,22647,,Campañas en centros cívicos,75000.0,75000.0,1854.81
+231204,3321,22749,,Contratos red bibliotecas,1773000.0,1773000.0,900531.23
+231204,3321,62800,,Adquisición publicaciones y libros red bibliotecas,123000.0,123000.0,41695.59
+231204,3341,12000,,Retribuciones básicas de funcionarios,236433.0,236433.0,148229.45
+231204,3341,12100,,Retribuciones complementarias funcionarios,250754.0,250754.0,169879.49
+231204,3341,14100,,Otro personal,149165.0,149165.0,131000.4
+231204,3341,16000,,Seguridad social a cargo del ayuntamiento,194889.0,183038.6,142897.59
+231204,3341,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11850.4,8962.74
+231204,3341,22607,,Difusión campañas en centros cívicos,15000.0,15000.0,4418.06
+231204,3341,22636,,Cursos culturales en centros cívicos,646000.0,646000.0,219994.28
+231204,3341,22647,,Campañas en centros cívicos,75000.0,75000.0,8770.15
 231204,3341,48958,,Convenio asociación libreros de Álava,35000.0,35000.0,0.0
-231205,3332,12000,,Retribuciones básicas de funcionarios,75051.0,75051.0,32327.69
-231205,3332,12100,,Retribuciones complementarias funcionarios,87133.0,87133.0,39588.26
+231205,3332,12000,,Retribuciones básicas de funcionarios,75051.0,75051.0,44581.42
+231205,3332,12100,,Retribuciones complementarias funcionarios,87133.0,87133.0,61918.75
 231205,3332,14100,,Otro personal,0.0,0.0,3107.67
-231205,3332,16000,,Seguridad social a cargo del ayuntamiento,46476.0,44170.66,22913.35
-231205,3332,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,1242.36
-231205,3332,22622,,Centro cultural montehermoso,120000.0,120000.0,6405.3
-231205,3332,22751,,Contratos servicios montehermos,160000.0,160000.0,16153.37
-231205,3332,22751,R,Contratos servicios montehermos,0.0,14568.35,4996.85
-231205,3332,22753,,Progr cultur Montehermoso euskera- Euskararen etxea,265000.0,265000.0,69952.93
+231205,3332,16000,,Seguridad social a cargo del ayuntamiento,46476.0,44170.66,33939.09
+231205,3332,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2305.34,1774.8
+231205,3332,22622,,Centro cultural Montehermoso,120000.0,120000.0,11065.27
+231205,3332,22751,,Contratos servicios Montehermoso,160000.0,160000.0,51598.47
+231205,3332,22751,R,Contratos servicios Montehermoso,0.0,14568.35,6729.46
+231205,3332,22753,,Progr cultur Montehermoso euskera- Euskararen Etxea,265000.0,265000.0,129848.12
 231205,3332,62602,,Fondos multimedia mediateca,2500.0,2500.0,0.0
-231205,3332,62901,,Adquisición equipos montehermoso,50000.0,50000.0,333.0
-231210,3392,12000,,Retribuciones básicas de funcionarios,547084.0,547084.0,266092.68
-231210,3392,12100,,Retribuciones complementarias funcionarios,670064.0,670064.0,316777.51
-231210,3392,14100,,Otro personal,167888.0,167888.0,67162.83
-231210,3392,16000,,Seguridad social a cargo del ayuntamiento,400889.0,380638.23,175930.18
-231210,3392,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,20250.77,10121.54
-231210,3392,21207,,Mantenimiento y reparación equipos banda de música,20000.0,20000.0,3343.55
+231205,3332,62901,,Adquisición equipos Montehermoso,50000.0,50000.0,333.0
+231210,3392,12000,,Retribuciones básicas de funcionarios,547084.0,547084.0,359570.43
+231210,3392,12100,,Retribuciones complementarias funcionarios,670064.0,670064.0,475430.43
+231210,3392,14100,,Otro personal,167888.0,167888.0,91013.6
+231210,3392,16000,,Seguridad social a cargo del ayuntamiento,400889.0,380638.23,262757.96
+231210,3392,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,20250.77,14100.56
+231210,3392,21207,,Mantenimiento y reparación equipos banda de música,20000.0,20000.0,6073.55
 231210,3392,22692,,Banda música-colaboraciones,17000.0,17000.0,1130.0
-231210,3392,22699,,Gastos programación banda música,45000.0,45000.0,6778.24
+231210,3392,22699,,Gastos programación banda música,45000.0,45000.0,8230.24
 231210,3392,22699,R,Gastos programación banda música,0.0,1436.4,0.0
-231210,3392,22732,,Contratos de prestación de servicios,15000.0,15000.0,3272.79
+231210,3392,22732,,Contratos de prestación de servicios,15000.0,15000.0,3706.09
 231210,3392,62800,,Adquisición publicaciones y libros,5000.0,5000.0,511.14
 231210,3392,62903,,Equipamiento banda municipal,15000.0,15000.0,154.01
-231220,3342,12000,,Retribuciones básicas de funcionarios,225109.0,225109.0,109235.42
-231220,3342,12100,,Retribuciones complementarias funcionarios,296905.0,296905.0,139606.37
-231220,3342,14100,,Otro personal,39890.0,39890.0,15507.42
-231220,3342,16000,,Seguridad social a cargo del ayuntamiento,171295.0,166615.07,78616.82
-231220,3342,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4679.93,2659.58
-231220,3342,22603,,Publicidad especial red teatros,12000.0,12000.0,2142.54
-231220,3342,22627,,Espectáculos  y festivales red de teatros,660000.0,660000.0,149060.65
-231220,3342,22628,,Espectáculos en gira,840000.0,840000.0,82481.82
-231220,3342,22648,,"Coproducción escénica, creadores locales",40000.0,40000.0,10395.0
-231220,3342,22732,,Contratos de prestación de servicio,270000.0,270000.0,92818.37
+231220,3342,12000,,Retribuciones básicas de funcionarios,225109.0,225109.0,150678.65
+231220,3342,12100,,Retribuciones complementarias funcionarios,296905.0,296905.0,205437.87
+231220,3342,14100,,Otro personal,39890.0,39890.0,24601.92
+231220,3342,16000,,Seguridad social a cargo del ayuntamiento,171295.0,166615.07,118232.52
+231220,3342,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4679.93,3799.4
+231220,3342,22603,,Publicidad especial red teatros,12000.0,12000.0,5989.58
+231220,3342,22627,,Espectáculos  y festivales red de teatros,660000.0,660000.0,155689.3
+231220,3342,22628,,Espectáculos en gira,840000.0,840000.0,124219.6
+231220,3342,22648,,"Coproducción escénica, creadores locales",40000.0,40000.0,23645.0
+231220,3342,22732,,Contratos de prestación de servicio,270000.0,270000.0,133613.6
 231220,3342,22732,R,Contratos de prestación de servicio,0.0,10479.33,0.0
-231220,3342,48981,,Convenio teatro paraíso,45000.0,45000.0,36000.0
-231220,3342,48989,,Convenio Ortzai,20000.0,20000.0,0.0
+231220,3342,48981,,Convenio Teatro Paraíso,45000.0,45000.0,36000.0
+231220,3342,48989,,Convenio Ortzai,20000.0,20000.0,16000.0
 231220,3342,48990,,Convenio Baratza Aretoa,20000.0,20000.0,16000.0
 231220,3342,62901,,Adquisición equipos red de teatros,20600.0,20600.0,0.0
-231901,3201,12000,,Retribuciones básicas de funcionarios,1474846.0,1474846.0,741794.34
-231901,3201,12100,,Retribuciones complementarias funcionarios,1605033.0,1605033.0,802956.2
-231901,3201,14100,,Otro personal,577042.0,577042.0,200693.48
-231901,3201,16000,,Seguridad social a cargo del ayuntamiento,1162878.0,1113903.04,554493.22
-231901,3201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,48974.96,24192.01
-231901,3231,22106,,Productos alimenticios,82000.0,82000.0,11169.16
-231901,3231,22115,,Material fungible didáctico,20000.0,20000.0,1683.4
-231901,3231,22199,,Otros suministros y gastos diversos educación,12000.0,12000.0,2250.49
-231901,3231,22786,,Servicio de comidas escuelas infantiles,51500.0,51500.0,11467.55
+2319,3232,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,510.0
+231901,3201,12000,,Retribuciones básicas de funcionarios,1474846.0,1474846.0,1007866.63
+231901,3201,12100,,Retribuciones complementarias funcionarios,1605033.0,1605033.0,1201730.93
+231901,3201,14100,,Otro personal,577042.0,577042.0,266595.63
+231901,3201,16000,,Seguridad social a cargo del ayuntamiento,1162878.0,1113903.04,823344.69
+231901,3201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,48974.96,34244.98
+231901,3231,22106,,Productos alimenticios,82000.0,82000.0,14824.99
+231901,3231,22115,,Material fungible didáctico,20000.0,20000.0,1768.8
+231901,3231,22199,,Otros suministros y gastos diversos educación,12000.0,12000.0,6763.89
+231901,3231,22786,,Servicio de comidas escuelas infantiles,51500.0,51500.0,15098.78
 231901,3231,62501,,Mobiliario para escuelas infantiles,10000.0,10000.0,0.0
 231901,3231,62505,,Otros enseres escuelas infantiles,10000.0,10000.0,1707.55
-231901,3232,22659,,Programas educativos,378766.15,396766.15,154903.81
+231901,3232,22659,,Programas educativos,378766.15,396766.15,183439.34
 231901,3232,22787,,Consejo escolar municipal,3000.0,3000.0,407.66
 231901,3261,22300,,Transporte educación,3000.0,3000.0,858.88
-231902,3201,12000,,Retribuciones básicas de funcionarios,153004.0,153004.0,55316.92
-231902,3201,12100,,Retribuciones complementarias funcionarios,169940.0,169940.0,62854.82
-231902,3201,14100,,Otro personal,17705.0,17705.0,9007.27
-231902,3201,16000,,Seguridad social a cargo del ayuntamiento,92504.0,86443.11,32390.17
-231902,3201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6060.89,2563.37
+231902,3201,12000,,Retribuciones básicas de funcionarios,153004.0,153004.0,83443.87
+231902,3201,12100,,Retribuciones complementarias funcionarios,169940.0,169940.0,105809.92
+231902,3201,14100,,Otro personal,17705.0,17705.0,13480.57
+231902,3201,16000,,Seguridad social a cargo del ayuntamiento,92504.0,86443.11,56877.12
+231902,3201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,6060.89,4043.0
 231902,3201,20200,,Arrendamiento de maquinaria e instalaciones,217.0,217.0,0.0
-231902,3201,22115,,Material técnico especifico,12000.0,12000.0,2035.49
-231902,3201,22603,,Difusión campaña EEII y programa vacacional,7378.0,7378.0,6985.64
+231902,3201,22115,,Material técnico específico,12000.0,12000.0,2235.01
+231902,3201,22603,,Difusión campaña eeii y programa vacacional,7378.0,7378.0,7295.66
 231902,3232,22605,,Jornadas,15000.0,15000.0,513.69
-231902,3232,22624,,Prog.compensacion centros educativos,80000.0,80000.0,501.6
-231902,3232,22695,,Dinamización AMPAS,40000.0,40000.0,0.0
+231902,3232,22624,,Prog.compensación centros educativos,80000.0,80000.0,16960.35
+231902,3232,22695,,Dinamización ampas,40000.0,40000.0,0.0
 231902,3232,22780,,Programa vacacional,294000.0,294000.0,0.0
-231902,3261,48001,,Subvenciones AMPAS actividades vacacionales,54000.0,0.0,0.0
+231902,3261,48001,,Subvenciones ampas actividades vacacionales,54000.0,0.0,0.0
 231902,3261,48004,,Compensación educativa,165000.0,165000.0,110512.0
 231902,3261,48108,,Subvención transporte de programas,15000.0,15000.0,7522.97
 231902,3261,48136,,"Convenio jazzargia ""ondas de jazz""",30000.0,30000.0,0.0
-231903,3201,12000,,Retribuciones básicas de funcionarios,70379.0,70379.0,34882.26
-231903,3201,12100,,Retribuciones complementarias funcionarios,72835.0,72835.0,36082.83
-231903,3201,16000,,Seguridad social a cargo del ayuntamiento,40180.0,37647.09,17632.26
-231903,3201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2532.91,1242.36
-231903,3261,22302,,Sentencias Iruña de Oka,3500.0,3500.0,0.0
-231903,3261,22718,,Proyectos con la UPV - ciudadades educadoras,0.0,25000.0,0.0
-231903,3261,48010,,Subv. programas vacacionales y extraescolares AMPAS,135000.0,189000.0,75599.83
+231903,3201,12000,,Retribuciones básicas de funcionarios,70379.0,70379.0,39185.76
+231903,3201,12100,,Retribuciones complementarias funcionarios,72835.0,72835.0,42079.81
+231903,3201,16000,,Seguridad social a cargo del ayuntamiento,40180.0,37647.09,20574.75
+231903,3201,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2532.91,1419.84
+231903,3261,22302,,Sentencias Bruña de Oka,3500.0,3500.0,0.0
+231903,3261,22718,,Proyectos con la UPV - ciudades educadoras,0.0,25000.0,9571.44
+231903,3261,48010,,Subv. programas vacacionales y extraescolares ampas,135000.0,189000.0,75599.83
 231903,3261,48011,,Convenio Denon Eskola,30000.0,30000.0,0.0
-231903,3261,48012,,Convenio federación FAPACNE,5862.0,5862.0,0.0
+231903,3261,48012,,Convenio Federación fapacne,5862.0,5862.0,0.0
 231903,3261,48019,,Convenio AMPA Errekabarri,18000.0,0.0,0.0
 231903,3261,48175,,Actividades asociaciones personas con discapacidad,20000.0,20000.0,11536.04
-231903,3271,48114,,Subv. fundación Fernando Buesa,45000.0,45000.0,45000.0
+231903,3271,48114,,Subv. Fundación Fernando Buesa,45000.0,45000.0,45000.0
 231903,3291,41918,,Convenio UPV ciudades educadoras,25000.0,0.0,0.0
 231903,3291,41919,,Conv UPV - curso verano educación,9000.0,0.0,0.0
 231903,3291,47134,,Convenio Udaberria,15000.0,15000.0,0.0
-231903,3291,48172,,Convenio fundación catedral santa maría,16000.0,16000.0,0.0
+231903,3291,48172,,Convenio fundación catedral Santa María,16000.0,16000.0,11500.0
 231903,3293,22719,,Cursos verano UPV,0.0,9000.0,0.0
-231903,3293,40100,,A la UNED,100000.0,100000.0,50000.0
-231903,3293,41902,,Convenio UPV-cursos dchos.internacional,30000.0,30000.0,0.0
+231903,3293,40100,,A la UNED,100000.0,100000.0,100000.0
+231903,3293,41902,,Convenio UPV-cursos dchos.internacional,30000.0,17600.0,0.0
 231903,3293,42105,,Consorcio formación profesional,264765.3,264765.3,181656.19
 231903,3293,48105,,Escuela de artes y oficios,400000.0,400000.0,400000.0
-2410,3301,11000,,Retribuciones personal eventual gabinete,26863.0,26863.0,39766.42
-2410,3301,16000,,Seguridad social a cargo del ayuntamiento,7235.0,6791.9,6276.06
-2410,3301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,443.1,760.69
-2420,3301,12000,,Retribuciones básicas de funcionarios,35461.0,35461.0,84919.8
-2420,3301,12100,,Retribuciones complementarias funcionarios,61486.0,61486.0,102032.16
-2420,3301,13000,,Retribuciones personal laboral fijo,20476.0,20476.0,18896.82
-2420,3301,14100,,Otro personal,20315.0,20315.0,38380.22
-2420,3301,16000,,Seguridad social a cargo del ayuntamiento,41724.0,39138.11,70911.08
-2420,3301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2585.89,5167.47
-243001,3111,12000,,Retribuciones básicas de funcionarios,220185.0,220185.0,100055.01
-243001,3111,12100,,Retribuciones complementarias funcionarios,290495.0,290495.0,143356.61
-243001,3111,14100,,Otro personal,104965.0,104965.0,61248.37
-243001,3111,16000,,Seguridad social a cargo del ayuntamiento,210795.0,199037.96,86973.65
-243001,3111,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11757.04,4997.51
-243001,3112,22107,,Alimentación para animales,15000.0,15000.0,10065.36
-243001,3112,22108,,Suministro farmacia animales,18000.0,18000.0,4133.46
+2410,3301,11000,,Retribuciones personal eventual gabinete,26863.0,26863.0,57024.22
+2410,3301,16000,,Seguridad social a cargo del ayuntamiento,7235.0,6791.9,9414.09
+2410,3301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,443.1,1086.7
+2420,3301,12000,,Retribuciones básicas de funcionarios,35461.0,35461.0,111011.9
+2420,3301,12100,,Retribuciones complementarias funcionarios,61486.0,61486.0,152745.9
+2420,3301,13000,,Retribuciones personal laboral fijo,20476.0,20476.0,31767.21
+2420,3301,14100,,Otro personal,20315.0,20315.0,67265.26
+2420,3301,16000,,Seguridad social a cargo del ayuntamiento,41724.0,39138.11,108917.08
+2420,3301,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,2585.89,7288.5
+2430,3112,22145,,Gastos sanitarios por coronavirus,0.0,0.0,5488.42
+243001,3111,12000,,Retribuciones básicas de funcionarios,220185.0,220185.0,134252.55
+243001,3111,12100,,Retribuciones complementarias funcionarios,290495.0,290495.0,213663.81
+243001,3111,14100,,Otro personal,104965.0,104965.0,100115.89
+243001,3111,16000,,Seguridad social a cargo del ayuntamiento,210795.0,199037.96,134842.06
+243001,3111,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,11757.04,7139.3
+243001,3112,22107,,Alimentación para animales,15000.0,15000.0,11543.8
+243001,3112,22108,,Suministro farmacia animales,18000.0,18000.0,6335.52
 243001,3112,22112,,Materiales para sanidad animal,8000.0,8000.0,5522.92
-243001,3112,22113,,Materiales de higiene alimentaria,4000.0,4000.0,764.09
+243001,3112,22113,,Materiales de higiene alimentaría,4000.0,4000.0,764.09
 243001,3112,22687,,Campaña casas de apuestas,25000.0,25000.0,0.0
-243001,3112,22699,,Otros gastos diversos,10000.0,10000.0,5331.15
+243001,3112,22699,,Otros gastos diversos,10000.0,10000.0,6977.18
 243001,3112,22718,,Programas de sanidad animal,22000.0,22000.0,462.0
-243001,3112,22719,,Programa de higiene alimentaria,15000.0,15000.0,0.0
-243001,3112,22720,,Programas parque D.D.D.,111039.2,111039.2,44183.0
-243001,3112,22722,,Programa asistencia animal,12000.0,12000.0,3646.56
-243001,3112,22766,,Ejecuciones subsidiarias D.D.D,4000.0,4000.0,1403.6
-243001,3112,48194,,Convenio APA SOS Vitoria,15300.0,15300.0,0.0
-243001,3112,48196,,Convenio GADEN colonia de gatos,30000.0,30000.0,0.0
-243001,3112,62311,,Material inventariable,67226.0,67226.0,7021.55
+243001,3112,22719.0,,Programa de higiene alimentaría,15000.0,15000.0,0.0
+243001,3112,22720,,Programas parque D.D.D.,111039.2,111039.2,53019.6
+243001,3112,22722,,Programa asistencia animal,12000.0,12000.0,4590.11
+243001,3112,22766,,Ejecuciones subsidiarias DDD,4000.0,4000.0,1403.6
+243001,3112,48194,,Convenio apasos Vitoria,15300.0,15300.0,0.0
+243001,3112,48196,,Convenio GADEN colonia de gatos,30000.0,30000.0,22500.0
+243001,3112,62311,,Material inventariable,67226.0,67226.0,12604.49
 243001,3112,62311,R,Material inventariable,0.0,64799.98,64799.98
-243002,2315,48021,,Asoc.padres niños oncohematologicos,5711.18,5711.18,0.0
-243002,2315,48025,,Conv Asoc. acabe-anorexia y bulimia,16779.0,16779.0,0.0
-243002,2315,48027,,Convenio asoc.asajer-videojuegos,29886.0,29886.0,0.0
-243002,2315,48029,,Conv Asoc. Adela,5763.0,5763.0,0.0
-243002,2315,48030,,Conv Asoc. ASAJER-ludopatías prevención 1º 2º y 3º,20604.0,20604.0,0.0
-243002,2315,48031,,Conv Asoc. arene - neuromusculares,27968.4,27968.4,0.0
-243002,2315,48032,,Convenio Asoc. ASAFES,24480.0,24480.0,0.0
-243002,2315,48033,,Convenio AFA araba,32629.8,32629.8,0.0
-243002,2315,48040,,Conv Asoc. contra el cáncer (formación antitabaco),14167.8,14167.8,0.0
-243002,2315,48041,,"Conv Asoc. adelprise(atencion,difusion,informacion)",8384.4,8384.4,0.0
-243002,2315,48059,,Convenio asociación ASAFIMA,24235.2,24235.2,0.0
+243002,2315,48021,,Asoc.padres niños oncohematológicos,5711.18,5711.18,4283.39
+243002,2315,48025,,Conv asoc ACABE-anorexia y bulimia,16779.0,16779.0,12584.25
+243002,2315,48027,,Convenio asoc. ASAJER-videojuegos,29886.0,29886.0,22414.5
+243002,2315,48029,,Conv asoc adela,5763.0,5763.0,4322.25
+243002,2315,48030,,Conv asoc asajer-ludopatías prevención 1º 2º y 3º,20604.0,20604.0,15430.0
+243002,2315,48031,,Conv asoc arene - neuromusculares,27968.4,27968.4,20976.3
+243002,2315,48032,,Convenio asoc asafes,24480.0,24480.0,18360.0
+243002,2315,48033,,Convenio afa araba,32629.8,32629.8,24472.35
+243002,2315,48040,,Conv asoc contra el cáncer (formación antitabaco),14167.8,14167.8,10625.85
+243002,2315,48041,,"Conv asoc adelprise(atención,difusión,información)",8384.4,8384.4,6288.3
+243002,2315,48059,,Convenio asociación asafima,24235.2,24235.2,18176.4
 243002,2315,48100,,Convenio once,8598.6,8598.6,0.0
-243002,2315,48119,,Convenio ASPACE parálisis cerebral,11454.6,11454.6,0.0
-243002,2315,48130,,Convenio asociación espina bífida,3825.0,3825.0,0.0
-243002,2315,48131,,Convenio ANADAHI (hiperactivos),3825.0,3825.0,0.0
-243002,2315,48143,,Convenio Asoc. alavesa de epilepsia,4110.6,4110.6,0.0
-243002,2315,48149,,Convenio ADELES lupus,3825.0,3825.0,0.0
-243002,2315,48158,,Convenio Asoc. down araba -Isabel orbe,10200.0,10200.0,0.0
-243002,2315,48188,,Convenio cruz roja - primeros auxilios,9945.0,9945.0,0.0
-243002,2315,48189,,Conv asociación ASAMMA,2856.0,2856.0,0.0
-243002,2315,48190,,Convenio asociación atece-daño cerebral,11515.8,11515.8,0.0
-243002,2315,48191,,Convenio asociación diabéticos de Alava,9690.0,9690.0,0.0
-243002,2315,48192,,Convenio asociación celíacos de Alava,8568.0,8568.0,0.0
-243002,2315,48193,,Convenio Asoc. esclerosis múltiple,5589.6,5589.6,0.0
+243002,2315,48119,,Convenio aspace parálisis cerebral,11454.6,11454.6,8590.95
+243002,2315,48130,,Convenio asociación espina bífida,3825.0,3825.0,2868.75
+243002,2315,48131,,Convenio anadahi (hiperactivos),3825.0,3825.0,2868.75
+243002,2315,48143,,Convenio asoc alavesa de epilepsia,4110.6,4110.6,3082.95
+243002,2315,48149,,Convenio adeles lupus,3825.0,3825.0,2868.75
+243002,2315,48158,,Convenio asoc down araba -Isabel orbe,10200.0,10200.0,7650.0
+243002,2315,48188,,Convenio cruz roja - primeros auxilios,9945.0,9945.0,7458.75
+243002,2315,48189,,Conv asociación asamma,2856.0,2856.0,2142.0
+243002,2315,48190,,Convenio asociación atece-daño cerebral,11515.8,11515.8,8636.85
+243002,2315,48191,,Convenio asociación diabéticos de Álava,9690.0,9690.0,7267.5
+243002,2315,48192,,Convenio asociación celíacos de Álava,8568.0,8568.0,6426.0
+243002,2315,48193,,Convenio asoc. esclerosis múltiple,5589.6,5589.6,4192.2
 243002,2315,48195,,Convenio asociación corazón sin fronteras,7242.0,7242.0,0.0
-243002,2315,48197,,Convenio fundación JEIKI/Hazgarri,48038.94,48038.94,0.0
+243002,2315,48197,,Convenio fundación jeiki/hazgarri,48038.94,48038.94,36029.21
 243002,2315,48198,,Convenio slow food hábitos vida saludable,25734.6,25734.6,0.0
-243002,2315,48199,,Convenio comisión antisida programa Gaien artean,23379.46,23379.46,0.0
-243002,2315,48932,,Convenio APDEMA,11454.6,11454.6,0.0
-243002,2315,48957,,Convenio Loremaitea - agle,11189.4,11189.4,0.0
-243002,2315,48972,,Convenio antisida programa prevención,23460.0,23460.0,0.0
-243002,3111,12000,,Retribuciones básicas de funcionarios,87462.0,87462.0,45010.61
-243002,3111,12100,,Retribuciones complementarias funcionarios,94237.0,94237.0,50277.89
-243002,3111,16000,,Seguridad social a cargo del ayuntamiento,49302.0,45502.63,25066.54
-243002,3111,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3799.37,1863.54
+243002,2315,48199,,Convenio comisión antisida programa gaien artean,23379.46,23379.46,17534.6
+243002,2315,48932,,Convenio apdema,11454.6,11454.6,8590.95
+243002,2315,48957,,Convenio loremaitea - agle,11189.4,11189.4,8392.05
+243002,2315,48972,,Convenio antisida programa prevención,23460.0,23460.0,17595.0
+243002,3111,12000,,Retribuciones básicas de funcionarios,87462.0,87462.0,61569.12
+243002,3111,12100,,Retribuciones complementarias funcionarios,94237.0,94237.0,74234.96
+243002,3111,16000,,Seguridad social a cargo del ayuntamiento,49302.0,45502.63,37613.48
+243002,3111,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,3799.37,2662.2
 243002,3111,21210,,Mantenimiento desfibriladores,18000.0,18000.0,0.0
 243002,3111,22198,,Materiales para educación para la salud,1000.0,1000.0,190.0
 243002,3111,22199,,Materiales prevención drogodependencias,6000.0,6000.0,0.0
 243002,3111,22702,,Plan de salud - cuidados saludables,59000.0,59000.0,0.0
 243002,3111,22708,,Junta arbitral información en consumo,7500.0,7500.0,0.0
-243002,3111,22717,,Prestación servicios promoción salud,119615.9,119615.9,27207.1
+243002,3111,22717,,Prestación servicios promoción salud,119615.9,119615.9,27256.88
 243002,3111,22718,,Programa prevención drogodependencias,96500.0,96500.0,26469.0
 243002,3111,22718,R,Programa prevención drogodependencias,0.0,34021.37,22032.0
-243002,3111,22721,,Programa reinserción de drogodependencias,98375.94,98375.94,0.0
-243003,3112,12000,,Retribuciones básicas de funcionarios,228804.0,228804.0,108414.79
-243003,3112,12100,,Retribuciones complementarias funcionarios,317408.0,317408.0,158341.89
-243003,3112,14100,,Otro personal,66272.0,66272.0,53084.05
-243003,3112,16000,,Seguridad social a cargo del ayuntamiento,178742.0,173759.95,91504.29
-243003,3112,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4982.05,2715.44
-243003,3113,21200,,Mantenimiento maquinaria e instalaciones,34000.0,34000.0,4367.43
-243003,3113,22115,,Material técnico especifico,84500.0,84500.0,38196.04
-243003,3113,22716,,Contratación auditorias de calidad,26743.0,26743.0,7703.83
-243004,3113,14100,,Otro personal,57784.0,57784.0,24132.91
-243004,3113,16000,,Seguridad social a cargo del ayuntamiento,17100.0,15549.15,7619.22
-243004,3113,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
-244001,3401,12000,,Retribuciones básicas de funcionarios,209796.0,209796.0,96514.23
-244001,3401,12100,,Retribuciones complementarias funcionarios,301481.0,301481.0,137705.56
-244001,3401,14100,,Otro personal,53421.0,53421.0,27747.4
-244001,3401,16000,,Seguridad social a cargo del ayuntamiento,178229.0,169030.34,73798.64
-244001,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9198.66,5052.02
+243002,3111,22721,,Programa reinserción de drogodependencias,98375.94,98375.94,73781.96
+243003,3112,12000,,Retribuciones básicas de funcionarios,228804.0,228804.0,148953.41
+243003,3112,12100,,Retribuciones complementarias funcionarios,317408.0,317408.0,242013.27
+243003,3112,14100,,Otro personal,66272.0,66272.0,85529.54
+243003,3112,16000,,Seguridad social a cargo del ayuntamiento,178742.0,173759.95,140560.05
+243003,3112,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,4982.05,4000.9
+243003,3113,21200,,Mantenimiento maquinaria e instalaciones,34000.0,34000.0,6874.42
+243003,3113,22115,,Material técnico específico,84500.0,84500.0,55592.97
+243003,3113,22716,,Contratación auditorias de calidad,26743.0,26743.0,12145.74
+243004,3113,14100,,Otro personal,57784.0,57784.0,34534.51
+243004,3113,16000,,Seguridad social a cargo del ayuntamiento,17100.0,15549.15,10751.58
+243004,3113,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
+2440,3411,22145,,Gastos sanitarios por coronavirus,0.0,0.0,1620.38
+2440,3421,22684,,Indemnización suspensión contratos coronavirus,0.0,0.0,1078332.46
+244001,3401,12000,,Retribuciones básicas de funcionarios,209796.0,209796.0,134129.15
+244001,3401,12100,,Retribuciones complementarias funcionarios,301481.0,301481.0,214449.23
+244001,3401,14100,,Otro personal,53421.0,53421.0,68125.43
+244001,3401,16000,,Seguridad social a cargo del ayuntamiento,178229.0,169030.34,121420.5
+244001,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,9198.66,7370.87
 244001,3411,22761,,Contrato arrendamiento pista hielo bakh,711738.25,711738.25,170402.38
 244001,3421,22762,,Pista de hielo,15000.0,15000.0,0.0
-244001,3421,22767,,Contratos atención instalaciones deportivas,1372232.6,1372232.6,366310.11
-244001,3421,22796,,Contrato apertura complejos deportivos verano,880820.33,880820.33,0.0
+244001,3421,22767,,Contratos atención instalaciones deportivas,1372232.6,1372232.6,518188.27
+244001,3421,22796,,Contrato apertura complejos deportivos verano,880820.33,880820.33,375268.1
 244001,3421,62228,,Equipamientos complejos deportivos,60000.0,60000.0,0.0
-244001,3421,62231,A,Obras vestuarios Aranbizkarra,0.0,458376.09,30353.7
-244002,3401,12000,,Retribuciones básicas de funcionarios,18839.0,18839.0,10003.5
-244002,3401,12100,,Retribuciones complementarias funcionarios,21048.0,21048.0,11748.88
+244001,3421,62231,A,Obras vestuarios arambizkarra,0.0,458376.09,32108.41
+244002,3401,12000,,Retribuciones básicas de funcionarios,18839.0,18839.0,13691.76
+244002,3401,12100,,Retribuciones complementarias funcionarios,21048.0,21048.0,17448.67
 244002,3401,14100,,Otro personal,3107.0,3107.0,0.0
-244002,3401,16000,,Seguridad social a cargo del ayuntamiento,14745.0,13478.54,6819.35
-244002,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1266.46,621.18
-244003,3401,12000,,Retribuciones básicas de funcionarios,135664.0,135664.0,53292.07
-244003,3401,12100,,Retribuciones complementarias funcionarios,180703.0,180703.0,67588.3
-244003,3401,14100,,Otro personal,135677.0,135677.0,75410.68
-244003,3401,16000,,Seguridad social a cargo del ayuntamiento,138033.0,127296.69,57405.95
-244003,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10736.31,4740.52
+244002,3401,16000,,Seguridad social a cargo del ayuntamiento,14745.0,13478.54,10200.83
+244002,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1266.46,887.4
+244003,3401,12000,,Retribuciones básicas de funcionarios,135664.0,135664.0,74157.78
+244003,3401,12100,,Retribuciones complementarias funcionarios,180703.0,180703.0,99059.45
+244003,3401,14100,,Otro personal,135677.0,135677.0,109956.27
+244003,3401,16000,,Seguridad social a cargo del ayuntamiento,138033.0,127296.69,85356.18
+244003,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,10736.31,6702.94
 244003,3411,22300,,Transporte,15000.0,15000.0,4486.68
-244003,3411,22602,,Trofeos y distinciones deportivas,7000.0,7000.0,774.88
-244003,3411,22606,,Colaboración entidades deportivas,45000.0,45000.0,363.0
-244003,3411,22699,,Otros gastos diversos,61359.49,61359.49,8463.51
-244003,3411,22706,,Programa actividades físicas,4172128.8,4172128.8,842918.36
+244003,3411,22602,,Trofeos y distinciones deportivas,7000.0,7000.0,2938.36
+244003,3411,22606,,Colaboración entidades deportivas,45000.0,45000.0,472.77
+244003,3411,22699,,Otros gastos diversos,61359.49,61359.49,27195.33
+244003,3411,22706,,Programa actividades físicas,4172128.8,4172128.8,1137228.35
 244003,3411,22706,R,Programa actividades físicas,0.0,39243.39,0.0
-244003,3411,22724,,Programa de Dinamización deportiva,25716.53,25716.53,0.0
+244003,3411,22724,,Programa de dinamización deportiva,25716.53,25716.53,0.0
 244003,3411,22735,,Programas para jóvenes-rumbo al deporte,62500.0,62500.0,15735.92
-244003,3411,22768,,Servicio de montajes especiales,25000.0,25000.0,0.0
+244003,3411,22768,,Servicio de montajes especiales,25000.0,25000.0,357.49
 244003,3411,48111,,Conv. federación pelota vasca,30000.0,30000.0,0.0
-244003,3411,48115,,Convenio federación alavesa de bolos,5933.41,5933.41,0.0
-244003,3411,48119,,Convenio ASPACE parálisis cerebral,25079.46,25079.46,15629.39
-244003,3411,48122,,Convenio ARASKI,107500.0,107500.0,0.0
-244003,3411,48133,,Convenio con Zuzenak,137700.0,137700.0,62801.36
-244003,3411,48141,,Convenio APDEMA,25254.51,25254.51,0.0
+244003,3411,48115,,Convenio federación alavesa de bolos,5933.41,5933.41,2373.37
+244003,3411,48119,,Convenio aspace parálisis cerebral,25079.46,25079.46,15629.39
+244003,3411,48122,,Convenio araski,107500.0,107500.0,0.0
+244003,3411,48133,,Convenio con zuzenak,137700.0,137700.0,62801.36
+244003,3411,48141,,Convenio apdema,25254.51,25254.51,0.0
 244003,3411,48142,,Convenio autismo araba,14730.85,14730.85,9121.35
 244003,3411,48928,,Subvención fundación 5+11 baloncesto,142700.0,142700.0,114160.0
 244003,3411,48935,,Convocatoria general de subvenciones,385000.0,385000.0,0.0
 244003,3411,48935,R,Convocatoria general de subvenciones,0.0,7726.65,6133.29
-244003,3411,48938,,Convenio Zuzenak- baloncesto en silla de ruedas,25000.0,25000.0,20000.0
-244004,2381,22669,,Perspectiva de genero en el deporte,15000.0,15000.0,0.0
-244004,3401,12000,,Retribuciones básicas de funcionarios,150990.0,150990.0,61024.41
-244004,3401,12100,,Retribuciones complementarias funcionarios,185092.0,185092.0,78355.31
-244004,3401,13000,,Retribuciones personal laboral fijo,42085.0,42085.0,21431.97
-244004,3401,16000,,Seguridad social a cargo del ayuntamiento,109566.0,102422.41,47041.42
-244004,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7143.59,2179.72
-244004,3421,21200,,Mantenimiento maquinaria e instalaciones,52000.0,52000.0,2650.73
-244004,3421,22115,,Material técnico especifico,30000.0,30000.0,159.7
+244003,3411,48938,,Convenio zuzenak- baloncesto en silla de ruedas,25000.0,25000.0,20000.0
+244004,2381,22669,,Perspectiva de género en el deporte,15000.0,15000.0,0.0
+244004,3401,12000,,Retribuciones básicas de funcionarios,150990.0,150990.0,78511.63
+244004,3401,12100,,Retribuciones complementarias funcionarios,185092.0,185092.0,108981.19
+244004,3401,13000,,Retribuciones personal laboral fijo,42085.0,42085.0,31818.28
+244004,3401,14100,,Otro personal,0.0,0.0,771.68
+244004,3401,16000,,Seguridad social a cargo del ayuntamiento,109566.0,102422.41,68214.29
+244004,3401,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,7143.59,2930.56
+244004,3421,21200,,Mantenimiento maquinaria e instalaciones,52000.0,52000.0,3614.97
+244004,3421,22115,,Material técnico específico,30000.0,30000.0,1198.36
 244004,3421,22659,,Foro deporte,6000.0,6000.0,0.0
 244004,3421,22672,,Elaboración guía de eventos,10000.0,10000.0,0.0
 244004,3421,22673,,Promoción grandes eventos ciudad,111500.0,111500.0,0.0
 244004,3421,22674,,Promoción deporte autóctono,25000.0,25000.0,0.0
 244004,3421,62300,,Material inventariable deporte,30000.0,30000.0,0.0
 244004,3421,62305,,Material técnico especifico,105000.0,105000.0,0.0
-9005,9122,10000,,Retribuciones básicas corporativos,1751180.0,1751180.0,881281.3
-9005,9122,16000,,Seguridad social a cargo del ayuntamiento,820662.0,819111.15,202402.46
-9005,9122,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,760.69
-9005,9122,22633,,Asignaciones reglamento orgánico,638118.0,638118.0,303750.0
-9015,2111,16103,,Pensiones a cargo del ayuntamiento,154000.0,154000.0,47439.82
-9015,9122,16109,,Complemento pensiones mutua foral de Alava,4000.0,4000.0,0.0
+9005,9122,10000,,Retribuciones básicas corporativos,1751180.0,1751180.0,1255481.55
+9005,9122,16000,,Seguridad social a cargo del ayuntamiento,820662.0,819111.15,302911.35
+9005,9122,16500,,Cuotas Elkarkidetza a cargo ayuntamiento,0.0,1550.85,1086.7
+9005,9122,22633,,Asignaciones reglamento orgánico,638118.0,638118.0,455625.0
+9015,2111,16103,,Pensiones a cargo del ayuntamiento,154000.0,154000.0,61891.01
+9015,9122,16109,,Complemento pensiones mutua foral de Álava,4000.0,4000.0,0.0
