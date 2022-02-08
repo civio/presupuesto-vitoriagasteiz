@@ -453,3 +453,6 @@ msgstr "Zor bizia"
 
 msgid "Deuda viva / Ingresos corrientes"
 msgstr "Zor bizia / Ohiko diru-sarrerak"
+
+msgid "provisional"
+msgstr "behin-behineko"
