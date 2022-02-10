@@ -6,6 +6,7 @@ from vitoriagasteiz_budget_loader import VitoriaGasteizBudgetLoader
 
 class PaymentsCsvMapper:
     column_mapping = {
+        '2021': {'fc_code': 6, 'date': 1, 'payee': 16, 'description': 18, 'amount': 20},
         '2017': {'fc_code': 6, 'date': 1, 'payee': 16, 'description': 18, 'amount': 20},
         'default': {'fc_code': 6, 'date': 1, 'payee': 15, 'description': 17, 'amount': 19},
     }
