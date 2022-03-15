@@ -12,6 +12,7 @@ class BudgetCsvMapper:
         '2020': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
         '2020': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
         '2021': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
+        '2022': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 5, 'actual_amount': 6},
     }
 
     income_mapping = {
@@ -19,6 +20,7 @@ class BudgetCsvMapper:
         '2019': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
         '2020': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
         '2021': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
+        '2022': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
     }
 
     default = 'default'
