@@ -41,8 +41,8 @@
       return income / coeficient;
     };
 
-    // SMI for 2020
-    SMI = 13300;
+    // SMI for 2022
+    SMI = 14000;
 
     // Tax calculations
     TaxReceipt.taxes.house.values = [0, 0, 0, 382.34, 384.59, 361.57, 698.96, 477.21, 484.07, 1449.05];
@@ -95,23 +95,34 @@
         }
       }
 
+      var members = familyMembers();
       var income = familyIncome();
 
       var incomeBonus;
-      if (income <= 3300) {
-        incomeBonus = 0.9;
-      } else if (income > 3300 && income <= 6600) {
-        incomeBonus = 0.75;
-      } else if (income > 6600 && income <= 9900) {
-        incomeBonus = 0.6;
-      } else if (income > 9900 && income <= 13200) {
-        incomeBonus = 0.5;
-      } else if (income > 13200 && income <= 16500) {
-        incomeBonus = 0.4;
-      } else if (income > 16500 && income <= 19800) {
+      if (income <= 19950 && members == 1) {
         incomeBonus = 0.3;
-      }else if (income > 19800 && income <= 21000) {
-        incomeBonus = 0.2;
+      } else if (income <= 19950 && members == 2) {
+        incomeBonus = 0.3;        
+      } else if (income <= 19950 && members == 3) {
+        incomeBonus = 0.5;
+      } else if (income <= 19950 && members == 4) {
+        incomeBonus = 0.75;
+      } else if (income <= 19950 && members >= 5) {
+        incomeBonus = 0.95;
+      } else if (income > 19950 && income <= 26600 && members == 3) {
+        incomeBonus = 0.3;
+      } else if (income > 19950 && income <= 26600 && members == 4) {
+        incomeBonus = 0.5;
+      } else if (income > 19950 && income <= 26600 && members >= 5) {
+        incomeBonus = 0.95;
+      } else if (income > 26600 && income <= 33250 && members == 4) {
+        incomeBonus = 0.4;
+      } else if (income > 26600 && income <= 33250 && members >= 5) {
+        incomeBonus = 0.9;
+      } else if (income > 33250 && income <= 39900 && members == 4) {
+        incomeBonus = 0.3;
+      } else if (income > 33250 && income <= 39900 && members >= 5) {
+        incomeBonus = 0.75;
       } else {
         incomeBonus = 0;
       }
@@ -186,18 +197,19 @@
              values[+$('#select-extra-vehicle').val()] * (1 - cummulativeBonusExtra);
     };
 
-    TaxReceipt.taxes.garbage.values = [0, 2, 2, 2, 1, 2, 3, 3, 3, 4];
+    TaxReceipt.taxes.garbage.values = [0, 1, 1, 1, 1, 1, 3, 2, 3, 4];
     TaxReceipt.taxes.garbage.callback = function(selector, values) {
       // selector value is 'garbage'
       var members = familyMembers();
       var income = familyIncome();
 
-      var garbageValues = [0, 55.09, 56.20, 82.91, 106.03];
+      var garbageValues = [0, 56.76, 83.73, 87.08, 107.09];
       var taxIndex = values[+$('#select-house').val()];
       if (isLargeFamily() && taxIndex != 0) {
         taxIndex = Math.max(1, taxIndex - 1);
       }
 
+      // Thresholds from https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/40/54/94054.pdf
       var familyBonusThresholds = {
         1:  24000.0,
         2:  28000.0,
