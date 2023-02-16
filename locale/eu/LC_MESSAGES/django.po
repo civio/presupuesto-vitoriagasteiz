@@ -278,6 +278,9 @@ msgstr "Energia berriztagarriak"
 msgid "Otra"
 msgstr "Beste bat"
 
+msgid "Vivienda puesta a disposición del programa de alquiler de Bizigune"
+msgstr "Biziguneko alokairu-programaren esku jarritako etxebizitza"
+
 msgid "Renta anual de la unidad familiar"
 msgstr "Familia-unitatearen urteko errenta"
 
@@ -331,6 +334,9 @@ msgstr "Ibilgailua"
 
 msgid "Ninguno"
 msgstr "Bat ere ez"
+
+msgid "Motocicletas hasta 125 cc"
+msgstr "125 cc-tik beherako motorrak"
 
 msgid "Turismo pequeño (8-12 c. fiscales)"
 msgstr "Auto txikia (8-12 zaldiko potentzia fiskala)"

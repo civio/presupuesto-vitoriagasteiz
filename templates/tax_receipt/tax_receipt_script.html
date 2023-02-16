@@ -41,8 +41,8 @@
       return income / coeficient;
     };
 
-    // SMI for 2022
-    SMI = 14000;
+    // SMI for 2023
+    SMI = 15120;
 
     // Tax calculations
     TaxReceipt.taxes.house.values = [0, 0, 0, 382.34, 384.59, 361.57, 698.96, 477.21, 484.07, 1449.05];
@@ -53,9 +53,12 @@
         $("#select-house-social").val(0);
         $("#select-energy").prop('disabled', true);
         $("#select-energy").val(0);
+        $("#select-bizigune").prop('disabled', true);
+        $("#select-bizigune").val(0);
       } else {
         $("#select-house-social").prop('disabled', false);
         $("#select-energy").prop('disabled', false);
+        $("#select-bizigune").prop('disabled', false);
       }
 
       if (isSocialHouse()) {
@@ -78,6 +81,9 @@
       var energyBonusValues = [0, 0.5, 0.25, 0.5];
       var energyBonus = energyBonusValues[+$('#select-energy').val()];
 
+      var biziguneBonusValues = [0, 0.5, 0];
+      var biziguneBonus = biziguneBonusValues[+$('#select-bizigune').val()];
+
       var stdIncome = standarizedIncome();
 
       var familyBonus;
@@ -99,39 +105,39 @@
       var income = familyIncome();
 
       var incomeBonus;
-      if (income <= 19950 && members == 1) {
+      if (income <= 21000 && members == 1) {
         incomeBonus = 0.3;
-      } else if (income <= 19950 && members == 2) {
+      } else if (income <= 21000 && members == 2) {
         incomeBonus = 0.3;        
-      } else if (income <= 19950 && members == 3) {
+      } else if (income <= 21000 && members == 3) {
         incomeBonus = 0.5;
-      } else if (income <= 19950 && members == 4) {
+      } else if (income <= 21000 && members == 4) {
         incomeBonus = 0.75;
-      } else if (income <= 19950 && members >= 5) {
+      } else if (income <= 21000 && members >= 5) {
         incomeBonus = 0.95;
-      } else if (income > 19950 && income <= 26600 && members == 3) {
+      } else if (income > 21000 && income <= 28000 && members == 3) {
         incomeBonus = 0.3;
-      } else if (income > 19950 && income <= 26600 && members == 4) {
+      } else if (income > 21000 && income <= 28000 && members == 4) {
         incomeBonus = 0.5;
-      } else if (income > 19950 && income <= 26600 && members >= 5) {
+      } else if (income > 21000 && income <= 28000 && members >= 5) {
         incomeBonus = 0.95;
-      } else if (income > 26600 && income <= 33250 && members == 4) {
+      } else if (income > 28000 && income <= 35000 && members == 4) {
         incomeBonus = 0.4;
-      } else if (income > 26600 && income <= 33250 && members >= 5) {
+      } else if (income > 28000 && income <= 35000 && members >= 5) {
         incomeBonus = 0.9;
-      } else if (income > 33250 && income <= 39900 && members == 4) {
+      } else if (income > 35000 && income <= 42000 && members == 4) {
         incomeBonus = 0.3;
-      } else if (income > 33250 && income <= 39900 && members >= 5) {
+      } else if (income > 35000 && income <= 42000 && members >= 5) {
         incomeBonus = 0.75;
       } else {
         incomeBonus = 0;
       }
 
-      var cummulativeBonus = Math.min(1, (socialBonus + energyBonus + familyBonus))
+      var cummulativeBonus = Math.min(1, (socialBonus + energyBonus + biziguneBonus + familyBonus))
       return values[+$('#select-house').val()] * (1 - Math.max(cummulativeBonus, incomeBonus));
     };
 
-    TaxReceipt.taxes.vehicle.values = [0, 0, 71.45, 158.79, 211.87];
+    TaxReceipt.taxes.vehicle.values = [0, 0, 10.55, 71.45, 158.79, 211.87];
     TaxReceipt.taxes.vehicle.callback = function(selector, values) {
       // selector value is 'vehicle'
       if (+$('#select-vehicle').val() <= 1) {
