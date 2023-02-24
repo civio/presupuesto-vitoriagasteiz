@@ -1,4 +1,4 @@
-#Económico,Denominacion Aplicacion Ingresos,C.DEFINITIVO,DRN NETOS
+#Económico,Denominacion Aplicacion Ingresos,C.DEFINITVO,DRN NETOS
 11201,Impuesto b.inmuebles naturaleza rustica,295000.0,295067.64
 11202,Impuesto b.inmuebles naturaleza urbana,44972000.0,44893294.13
 11203,Impuesto caracteristicasespeciales,475000.0,468534.39
@@ -30,7 +30,7 @@
 31105,Ota,0.0,286.94
 31201,Otorgamiento de licencias urbanísticas,435000.0,617153.64
 32001,Ota - estacionamiento de vehículos en vías publicas,2010000.0,1595777.63
-32005,Cesiones de terrenos cementerio el salvador,232300.0,184310.63
+32005,Cesiones de terrenos cementerio el salvador,232300.0,185464.83
 32102,Quioscos en vía pública,2626.0,1909.2
 32103,"Vallas, andamios, contenedores, material construcción, en vía pública",600000.0,679669.07
 32104,Veladores en vía pública,300000.0,462847.81
@@ -50,16 +50,16 @@
 34005,Estancias residencias 3ª edad,3260000.0,3104635.99
 34006,Talleres de intervencion social,60000.0,70510.0
 34007,Formacion ocupacional,24000.0,24475.06
-34008,Abono instalaciones mendizorrotza,5959000.0,6097099.86
+34008,Abono instalaciones mendizorrotza,5959000.0,6097219.11
 34009,Abonos temporales y de temporada (gamarra),60000.0,136580.55
 34010,Utilizacion instalaciones deportivas (reserva y venta),675000.0,672984.93
 34012,Matriculas en la academia mpal. de folklore,80000.0,80191.35
-34013,Cursos y talleres de cultura,225000.0,259444.05
+34013,Cursos y talleres de cultura,225000.0,259462.05
 34014,Taquillas  teatro,600000.0,433137.73
 34015,Prestacion de servicios de ludotecas,11110.0,44332.57
 34016,Prestamos de material audiovisual e luminacion de juventud,6180.0,5880.27
 34018,Talleres de presidencia,185000.0,181763.19
-34020,Abonados a campañas deportivas,875500.0,1068667.52
+34020,Abonados a campañas deportivas,875500.0,1068715.47
 34023,Estancia en el c.a.m.a.s.,60000.0,20858.5
 34024,Estancias en pisos tutelados,0.0,2263.57
 34025, comidas centro socioculturales de mayores,2550.0,2970.95
@@ -72,7 +72,7 @@
 34041,Uso de parcelas en huertos urbanos,10100.0,9363.62
 34043,Ingresos aparcamientos de bicicletas seguros,8000.0,18436.59
 36100,Extinción incendios - cuota unespa y cias no conveniadas,1100000.0,1180668.23
-38001,Reintegro por pagos,2194607.99,3274033.83
+38001,Reintegro por pagos,2194607.99,3343235.41
 38002,Reintegros gastos por publicaciones en anuncios,15000.0,41702.9
 38003,Reintegro de gastos o indemnizaciones de cias. aseguradoras,311001.0,492803.96
 38004,Reintegros por costas de la via de apremio,8000.0,1044.09
@@ -80,6 +80,7 @@
 38008,Reintegro explotaciones de servicios,126000.0,117394.62
 39101,Multas por infracciones de trafico,5280000.0,4254051.9
 39102,Ingresos por procedimientos sancionadores,1600000.0,1435889.37
+39103,Sanciones por incumplimientos contracuales,0.0,3107.29
 39201,Recargos de apremio,1030000.0,813899.03
 39401,Daños en via publica por accidentes de vehiculos,90000.0,53791.76
 39402,Daños en bienes mpales.por actos vandalicos,15000.0,2133.65
@@ -87,7 +88,7 @@
 39404,Ingresos ejecuciones subsidiarias,40000.0,0.0
 39405,Ingresos derivados de costas judiciales,25000.0,2509.1
 39601,Ingresos  empresas de telefonia,850000.0,723341.67
-39902,Otros ingresos diversos,125000.0,-3685.0
+39902,Otros ingresos diversos,125000.0,475043.67
 39903,Intereses demora ejercicios anteriores,1000.0,-1824.84
 39906,Donativos belen de la florida,1.0,7539.14
 39907,Ingresos rifa san anton,1.0,8269.0
