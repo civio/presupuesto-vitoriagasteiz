@@ -87,9 +87,8 @@ LANGUAGES = (
   ('es', 'Castellano'),
 )
 
-# Google Analytics ID. Default: ''
-# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID = 'UA-28946840-43'
+# Plausible data domain. Default: ''
+PLAUSIBLE_DOMAIN = 'vitoriagasteiz.dondevanmisimpuestos.es'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET = 'https://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
