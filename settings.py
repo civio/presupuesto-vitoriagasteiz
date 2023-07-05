@@ -90,6 +90,9 @@ LANGUAGES = (
 # Plausible data domain. Default: ''
 PLAUSIBLE_DOMAIN = 'vitoriagasteiz.dondevanmisimpuestos.es'
 
+# Google Analytics 4 ID. Default: ''
+ANALYTICS_ID = 'G-8BJFVT6N89'
+
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET = 'https://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
 
