@@ -1,7 +1,4 @@
 # -*- coding: UTF-8 -*-
-# from django.conf.urls import patterns, url
-# from django.conf.urls.i18n import i18n_patterns
-
 
 MAIN_ENTITY_LEVEL = 'municipio'
 
@@ -113,12 +110,6 @@ MAIN_ENTITY_PRIVACY_URL = 'https://www.vitoria-gasteiz.org/we001/was/we001Action
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
 COOKIES_URL = 'https://www.vitoria-gasteiz.org/we001/was/we001Action.do?aplicacion=wb021&tabla=contenido&uid=u60c04389_144007bfb26__7fc5'
-
-# We can define additional URLs applicable only to the theme. These will get added
-# to the project URL patterns list.
-# EXTRA_URLS = i18n_patterns('presupuesto-base.views',
-#     url(r'^visita-guiada$', 'guidedvisit'),
-# )
 
 
 # Welcome Settings
