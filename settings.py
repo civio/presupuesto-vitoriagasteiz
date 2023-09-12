@@ -94,10 +94,10 @@ ANALYTICS_ID = 'G-8BJFVT6N89'
 DATA_SOURCE_BUDGET = 'https://www.vitoria-gasteiz.org/j34-01w/catalogo/portada'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2854&L=0'
+DATA_SOURCE_POPULATION = 'https://www.ine.es/jaxiT3/Tabla.htm?t=2854&L=0'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
+DATA_SOURCE_INFLATION = 'https://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
 MAIN_ENTITY_WEB_URL = 'https://www.vitoria-gasteiz.org'
