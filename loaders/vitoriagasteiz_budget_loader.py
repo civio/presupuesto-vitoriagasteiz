@@ -6,23 +6,24 @@ import os
 
 class BudgetCsvMapper:
     expenses_mapping = {
-        'default': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
-        '2018': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
-        '2019': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
-        '2020': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
-        '2020': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
-        '2021': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
-        '2022': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
-        '2023': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
+        '2012': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
+        '2013': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
+        '2014': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
+        '2015': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
+        '2016': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
+        '2017': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 3, 'forecast_amount': 5, 'actual_amount': 6},
+        'default': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 6, 'actual_amount': 7},
     }
 
     income_mapping = {
-        'default': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
-        '2019': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
-        '2020': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
-        '2021': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
-        '2022': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
-        '2023': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
+        '2012': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2013': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2014': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2015': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2016': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2017': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        '2018': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 3, 'actual_amount': 4},
+        'default': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 3},
     }
 
     default = 'default'
