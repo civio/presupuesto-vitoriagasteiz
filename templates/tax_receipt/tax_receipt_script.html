@@ -43,11 +43,12 @@
       return income / coeficient;
     };
 
-    // SMI for 2023
-    SMI = 15120;
+    // SMI for 2025
+    SMI = 16576;
 
-    // Tax calculations
-    TaxReceipt.taxes.house.values = [0, 0, 0, 382.34, 384.59, 361.57, 698.96, 477.21, 484.07, 1449.05];
+    // Cálculo del Impuesto de Bienes Inmuebles (IBI)
+    // Ordenanza: https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/32/43/103243.pdf#page=69
+    TaxReceipt.taxes.house.values = [0, 0, 0, 397.73, 400.06, 376.12, 727.09, 496.42, 503.55, 1507.37];
     TaxReceipt.taxes.house.callback = function(selector, values) {
       // selector value is 'house'
       if (+$('#select-house').val() == 0) {
@@ -91,53 +92,34 @@
       var biziguneBonusValues = [0, 0.5, 0];
       var biziguneBonus = biziguneBonusValues[+$('#select-bizigune').val()];
 
-      var stdIncome = standarizedIncome();
-
-      var familyBonus;
-      if (!isLargeFamily()) {
-        familyBonus = 0;
-      } else {
+      // Cálculo de descuento por familia numerosa
+      var familyBonus = 0;
+      if (isLargeFamily()) {
+        var stdIncome = standarizedIncome();
         if (stdIncome <= (SMI*2).toFixed(2)) {
           familyBonus = 0.9;
-        } else if (stdIncome > (SMI*2).toFixed(2) && stdIncome <= (SMI*2.5).toFixed(2)) {
+        } else if (stdIncome <= (SMI*2.5).toFixed(2)) {
           familyBonus = 0.5;
-        } else if (stdIncome > (SMI*2.5).toFixed(2) && stdIncome <= (SMI*2.75).toFixed(2)) {
+        } else if (stdIncome <= (SMI*2.75).toFixed(2)) {
           familyBonus = 0.1;
-        } else {
-          familyBonus = 0;
         }
       }
 
-      var members = familyMembers();
+      // Cálculo de "bonificaciones de carácter subjetivo".
+      // Esta bonificación es incompatible con las anteriores.
+      var members = Math.min(familyMembers(), 5); // Benefits don't change for families with more than 5 members
       var income = familyIncome();
-
-      var incomeBonus;
-      if (income <= 21000 && members == 1) {
-        incomeBonus = 0.3;
-      } else if (income <= 21000 && members == 2) {
-        incomeBonus = 0.3;
-      } else if (income <= 21000 && members == 3) {
-        incomeBonus = 0.5;
-      } else if (income <= 21000 && members == 4) {
-        incomeBonus = 0.75;
-      } else if (income <= 21000 && members >= 5) {
-        incomeBonus = 0.95;
-      } else if (income > 21000 && income <= 28000 && members == 3) {
-        incomeBonus = 0.3;
-      } else if (income > 21000 && income <= 28000 && members == 4) {
-        incomeBonus = 0.5;
-      } else if (income > 21000 && income <= 28000 && members >= 5) {
-        incomeBonus = 0.95;
-      } else if (income > 28000 && income <= 35000 && members == 4) {
-        incomeBonus = 0.4;
-      } else if (income > 28000 && income <= 35000 && members >= 5) {
-        incomeBonus = 0.9;
-      } else if (income > 35000 && income <= 42000 && members == 4) {
-        incomeBonus = 0.3;
-      } else if (income > 35000 && income <= 42000 && members >= 5) {
-        incomeBonus = 0.75;
-      } else {
-        incomeBonus = 0;
+      var incomeBonus = 0.0;
+      if (income <= 15876) {
+        incomeBonus = [0, 0.40, 0.40, 0.65, 0.80, 0.95][members];
+      } else if (income <= 23814) {
+        incomeBonus = [0, 0.30, 0.30, 0.50, 0.75, 0.95][members];
+      } else if (income <= 31752) {
+        incomeBonus = [0, 0.00, 0.00, 0.30, 0.50, 0.95][members];
+      } else if (income <= 39690) {
+        incomeBonus = [0, 0.00, 0.00, 0.00, 0.40, 0.90][members];
+      } else if (income <= 42000) {
+        incomeBonus = [0, 0.00, 0.00, 0.00, 0.30, 0.75][members];
       }
 
       var cumulativeBonus = Math.min(1, (socialBonus + energyBonus + biziguneBonus + familyBonus))
