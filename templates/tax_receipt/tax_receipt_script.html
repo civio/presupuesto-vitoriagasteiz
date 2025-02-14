@@ -30,6 +30,8 @@
       return value;
     }
 
+    // El cálculo de la renta familiar estandarizada se especifica en el decreto del Gobierno Vasco:
+    // https://www.euskadi.eus/bopv2/datos/textosconsolidados/201203605_vigentea.pdf
     var standarizedIncome = function() {
       var members = familyMembers();
       var income = familyIncome();
@@ -142,7 +144,9 @@
       return values[+$('#select-house').val()] * (1 - Math.max(cumulativeBonus, incomeBonus));
     };
 
-    TaxReceipt.taxes.vehicle.values = [0, 0, 10.55, 71.45, 158.79, 211.87];
+    // Impuesto de vehículos
+    // Ordenanza: https://www.vitoria-gasteiz.org/docs/wb021/contenidosEstaticos/adjuntos/es/32/43/103243.pdf#page=89
+    TaxReceipt.taxes.vehicle.values = [0, 0, 10.86, 74.31, 165.14, 220.34];
     TaxReceipt.taxes.vehicle.callback = function(selector, values) {
       // selector value is 'vehicle'
       if (+$('#select-vehicle').val() <= 1) {
@@ -150,17 +154,13 @@
         $("#select-disability").val(0);
         $("#select-extra-vehicle").prop('disabled', true);
         $("#select-extra-vehicle").val(0);
-      } else {
-        $("#select-disability").prop('disabled', false);
-        $("#select-extra-vehicle").prop('disabled', false);
-      }
-
-      if (+$('#select-disability').val() != 2) {
         $("#select-eco").prop('disabled', true);
         $("#select-eco").val(0);
         $("#select-historic").prop('disabled', true);
         $("#select-historic").val(0);
       } else {
+        $("#select-disability").prop('disabled', false);
+        $("#select-extra-vehicle").prop('disabled', false);
         $("#select-eco").prop('disabled', false);
         $("#select-historic").prop('disabled', false);
       }
@@ -186,24 +186,23 @@
       var historicBonus = historicBonusValues[+$('#select-historic').val()];
       var historicBonusExtra = historicBonusValues[+$('#select-extra-historic').val()];
 
-      var familyBonus;
-      if (!isLargeFamily()) {
-        familyBonus = 0;
-      } else {
+      var familyBonus = 0;
+      if (isLargeFamily()) {
+        // La ordenanza especifica que se usa la renta familiar estandarizada
+        var stdIncome = standarizedIncome();
         if (stdIncome <= (SMI*2).toFixed(2)) {
           familyBonus = 0.2;
-        } else if (stdIncome > (SMI*2).toFixed(2) && stdIncome <= (SMI*2.5).toFixed(2)) {
+        } else if (stdIncome <= (SMI*2.5).toFixed(2)) {
           familyBonus = 0.15;
-        } else if (stdIncome > (SMI*2.5).toFixed(2) && stdIncome <= (SMI*2.75).toFixed(2)) {
+        } else if (stdIncome <= (SMI*2.75).toFixed(2)) {
           familyBonus = 0.1;
-        } else {
-          familyBonus = 0;
         }
       }
 
       var cumulativeBonus = Math.min(1, (ecoBonus + disabilityBonus + historicBonus + familyBonus));
+      // La bonificación por discapacidad y familia numerosa aplican solo al primer vehículo,
+      // según la ordenanza enlazada más arriba.
       var cumulativeBonusExtra = Math.min(1, (ecoBonusExtra + historicBonusExtra));
-
       return values[+$('#select-vehicle').val()] * (1 - cumulativeBonus) +
              values[+$('#select-extra-vehicle').val()] * (1 - cumulativeBonusExtra);
     };
