@@ -64,13 +64,6 @@
         $("#select-bizigune").prop('disabled', false);
       }
 
-      if (isSocialHouse()) {
-        $("#select-house-social-years").prop('disabled', false);
-      } else {
-        $("#select-house-social-years").prop('disabled', 'disabled');
-        $("#select-house-social-years").val(0);
-      }
-
       if (+$('#select-family').val() < 3) {
         $("#select-large-family").prop('disabled', true);
         $("#select-large-family").val(0);
@@ -79,35 +72,41 @@
       }
 
       // Cálculo de descuento por familia numerosa
-            var familyBonus = 0;
-            if (isLargeFamily()) {
-              var stdIncome = standarizedIncome();
-              if (stdIncome <= (SMI*2).toFixed(2)) {
-                familyBonus = 0.9;
-              } else if (stdIncome <= (SMI*2.5).toFixed(2)) {
-                familyBonus = 0.5;
-              } else if (stdIncome <= (SMI*2.75).toFixed(2)) {
-                familyBonus = 0.1;
-              }
-            }
+      var familyBonus = 0;
+      if (isLargeFamily()) {
+        var stdIncome = standarizedIncome();
+        if (stdIncome <= (SMI*2).toFixed(2)) {
+          familyBonus = 0.9;
+        } else if (stdIncome <= (SMI*2.5).toFixed(2)) {
+          familyBonus = 0.5;
+        } else if (stdIncome <= (SMI*2.75).toFixed(2)) {
+          familyBonus = 0.1;
+        }
+      }
 
       // Cálculo de bonificaciones adicionales (compatibles con la anterior)
+      var houseYears = +$('#select-house-social-years').val();
+
       var socialBonusValues = [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0],              // No choice
-        [0, 0, 0, 0, 0, 0, 0, 0, 0],              // No benefit
-        [0, 0.5, 0.3, 0.2, 0.1, 0, 0, 0, 0],      // VPO
-        [0, 0.5, 0.3, 0.2, 0.1, 0.2, 0.1, 0.1, 0] // Social housing
+        [0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],  // No choice
+        [0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],  // No benefit
+        [0, 0.5, 0.3, 0.2, 0.1, 0.0, 0.0, 0.0, 0.0],  // VPO
+        [0, 0.5, 0.3, 0.2, 0.1, 0.2, 0.1, 0.1, 0.0]   // Social housing
       ];
-      var socialBonus = socialBonusValues[+$('#select-house-social').val()][+$("#select-house-social-years").val()];
+      var socialBonus = socialBonusValues[+$('#select-house-social').val()][houseYears];
 
       var biziguneBonusValues = [0, 0.5, 0];
       var biziguneBonus = biziguneBonusValues[+$('#select-bizigune').val()];
 
-      var cumulativeBonus = Math.min(1, (socialBonus + biziguneBonus + familyBonus))
+      var cumulativeBonus = Math.min(1, socialBonus + biziguneBonus + familyBonus);
 
       // Cálculo de bonificaciones energéticas
-      var energyBonusValues = [0, 0.5, 0.25, 0.5];
-      var energyBonus = energyBonusValues[+$('#select-energy').val()];
+      var energyBonusValues = [
+        [0, 0.00, 0.00, 0.00, 0.0, 0.0, 0.0, 0.0, 0.0],  // No benefit
+        [0, 0.50, 0.50, 0.50, 0.0, 0.0, 0.0, 0.0, 0.0],  // Class A
+        [0, 0.25, 0.25, 0.25, 0.0, 0.0, 0.0, 0.0, 0.0]   // Class B
+      ];
+      var energyBonus = energyBonusValues[+$('#select-energy').val()][houseYears];
 
       // Cálculo de "bonificaciones de carácter subjetivo".
       var members = Math.min(familyMembers(), 5); // Benefits don't change for families with more than 5 members
