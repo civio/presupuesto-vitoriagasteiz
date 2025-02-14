@@ -100,13 +100,22 @@
 
       var cumulativeBonus = Math.min(1, socialBonus + biziguneBonus + familyBonus);
 
-      // Cálculo de bonificaciones energéticas
+      // Cálculo de bonificaciones por certificado energético
       var energyBonusValues = [
         [0, 0.00, 0.00, 0.00, 0.0, 0.0, 0.0, 0.0, 0.0],  // No benefit
         [0, 0.50, 0.50, 0.50, 0.0, 0.0, 0.0, 0.0, 0.0],  // Class A
         [0, 0.25, 0.25, 0.25, 0.0, 0.0, 0.0, 0.0, 0.0]   // Class B
       ];
       var energyBonus = energyBonusValues[+$('#select-energy').val()][houseYears];
+
+      // Cálculo de bonificaciones por uso de paneles solares
+      var solarPanelsBonusValues = [
+        [0, 0.00, 0.00, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],  // No benefit
+        [0, 0.50, 0.50, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0],  // Comunidad energética
+        [0, 0.35, 0.00, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],  // Autoconsumo colectivo
+        [0, 0.15, 0.00, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]   // Autoconsumo individual
+      ];
+      var solarPanelsBonus = solarPanelsBonusValues[+$('#select-solar-panels').val()][houseYears];
 
       // Cálculo de "bonificaciones de carácter subjetivo".
       var members = Math.min(familyMembers(), 5); // Benefits don't change for families with more than 5 members
@@ -125,10 +134,10 @@
       }
 
       // Algunas bonificaciones son incompatibles entre sí, elegimos la mejor
-      var finalBonus = Math.max(cumulativeBonus, energyBonus, incomeBonus);
+      var finalBonus = Math.max(cumulativeBonus, energyBonus, solarPanelsBonus, incomeBonus);
 
       // No aplica ninguna bonificación para rentas mayores de 70.000€
-      if (income >= 70000) {
+      if (income !== Infinity && income >= 70000) {
         finalBonus = 0;
       }
 
@@ -282,7 +291,9 @@
 
     // Currency mask for income input
     $("#select-income").change(function() {
-      $("#select-income").val(familyIncome().replace(/(\d)(?=(?:\d{3})+\b)/g, "$1."));
+      if (familyIncome() !== undefined ) {
+        $("#select-income").val(familyIncome().replace(/(\d)(?=(?:\d{3})+\b)/g, "$1."));
+      }
     });
 
     $("#select-income").on("keypress", function(event) {

@@ -52,7 +52,16 @@
         <option value="0" type="text" selected="selected">{{ _('No se aplica') }}</option>
         <option value="1" type="text">{{ _('Clase energética A') }}</option>
         <option value="2" type="text">{{ _('Clase energética B') }}</option>
-        <option value="3" type="text">{{ _('Energías renovables') }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="select-solar-panels">{{ _('Placas solares') }}</label>
+      <select id="select-solar-panels" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('No se aplica') }}</option>
+        <option value="1" type="text">{{ _('Comunidad energética') }}</option>
+        <option value="2" type="text">{{ _('Autoconsumo colectivo') }}</option>
+        <option value="3" type="text">{{ _('Autoconsumo individual') }}</option>
       </select>
     </div>
 
