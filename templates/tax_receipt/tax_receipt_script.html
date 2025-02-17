@@ -54,13 +54,19 @@
       if (+$('#select-house').val() == 0) {
         $("#select-house-social").prop('disabled', true);
         $("#select-house-social").val(0);
+        $("#select-house-social-years").prop('disabled', true);
+        $("#select-house-social-years").val(0);
         $("#select-energy").prop('disabled', true);
         $("#select-energy").val(0);
+        $("#select-solar-panels").prop('disabled', true);
+        $("#select-solar-panels").val(0);
         $("#select-bizigune").prop('disabled', true);
         $("#select-bizigune").val(0);
       } else {
         $("#select-house-social").prop('disabled', false);
+        $("#select-house-social-years").prop('disabled', false);
         $("#select-energy").prop('disabled', false);
+        $("#select-solar-panels").prop('disabled', false);
         $("#select-bizigune").prop('disabled', false);
       }
 
