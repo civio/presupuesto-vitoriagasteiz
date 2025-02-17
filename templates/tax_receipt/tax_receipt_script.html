@@ -238,7 +238,8 @@
       }
 
       // Deducción por compostaje
-      var compostingBonusValues = [0, 0.1, 0.2, 0.2];
+      // El contenedor municipal debería descontar 10%, pero en 2025 excepcionalmente es 20% porque es el primer año.
+      var compostingBonusValues = [0, 0.2, 0.2, 0.2];
       var compostingBonus = compostingBonusValues[+$('#select-composting').val()];
 
       // Las deducciones son compatibles
