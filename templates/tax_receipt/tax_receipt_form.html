@@ -76,6 +76,18 @@
   </div>
 
   <div class="row">
+    <div class="form-group" style="clear: both">
+        <label for="select-composting">{{ _('Compostaje de residuos orgánicos') }}</label>
+        <select id="select-composting" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Seleccionar una opción') }}</option>
+        <option value="1" type="text">{{ _('Depósito de bioresiduo en el contenedor municipal') }}</option>
+        <option value="2" type="text">{{ _('Compostaje individual') }}</option>
+        <option value="3" type="text">{{ _('Compostaje comunitario') }}</option>
+        </select>
+    </div>
+  </div>
+
+  <div class="row">
     <div class="form-group">
       <label for="select-income">{{ _('Renta anual de la unidad familiar') }}</label>
       <div class="input-group">

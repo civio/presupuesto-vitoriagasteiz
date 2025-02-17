@@ -237,8 +237,12 @@
         familyBonus = 0.10;
       }
 
+      // Deducción por compostaje
+      var compostingBonusValues = [0, 0.1, 0.2, 0.2];
+      var compostingBonus = compostingBonusValues[+$('#select-composting').val()];
+
       // Las deducciones son compatibles
-      var totalBonus = incomeBonus + familyBonus;
+      var totalBonus = incomeBonus + familyBonus + compostingBonus;
       return tax * (1 - totalBonus);
     };
 
