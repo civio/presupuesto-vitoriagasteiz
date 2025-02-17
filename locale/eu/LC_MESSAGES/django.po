@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-11-18 13:29+0100\n"
+"PO-Revision-Date: 2025-02-17 18:56+0100\n"
+"Last-Translator: David Cabo <david@civio.es>\n"
+"Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: David Cabo <david@civio.es>\n"
-"Language-Team: \n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 3.5\n"
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
@@ -257,8 +257,14 @@ msgstr "5 urte"
 msgid "6 años"
 msgstr "6 urte"
 
-msgid "7, 8 y 9 años"
-msgstr "7, 8 edo 9 urte"
+msgid "7 años"
+msgstr "7 urte"
+
+msgid "8 años"
+msgstr "8 urte"
+
+msgid "9 años"
+msgstr "9 urte"
 
 msgid "10 años en adelante"
 msgstr "10 urte baino gehiago"
@@ -275,11 +281,35 @@ msgstr "B energia-maila"
 msgid "Energías renovables"
 msgstr "Energia berriztagarriak"
 
+msgid "Placas solares"
+msgstr "Eguzki plakak"
+
+msgid "Comunidad energética"
+msgstr "Energia komunitatea"
+
+msgid "Autoconsumo colectivo"
+msgstr "Autokontsumo kolektiboa"
+
+msgid "Autoconsumo individual"
+msgstr "Banakako autokontsumo"
+
 msgid "Otra"
 msgstr "Beste bat"
 
 msgid "Vivienda puesta a disposición del programa de alquiler de Bizigune"
 msgstr "Biziguneko alokairu-programaren esku jarritako etxebizitza"
+
+msgid "Compostaje de residuos orgánicos"
+msgstr "Hondakin organikoak konpostatzea"
+
+msgid "Depósito de bioresiduo en el contenedor municipal"
+msgstr "Biohondakinen biltegia udal edukiontzian"
+
+msgid "Compostaje individual"
+msgstr "Banakako konpostajea"
+
+msgid "Compostaje comunitario"
+msgstr "Konpostaje komunitarioa"
 
 msgid "Renta anual de la unidad familiar"
 msgstr "Familia-unitatearen urteko errenta"
@@ -338,13 +368,13 @@ msgstr "Bat ere ez"
 msgid "Motocicletas hasta 125 cc"
 msgstr "125 cc-tik beherako motorrak"
 
-msgid "Turismo pequeño (8-12 c. fiscales)"
+msgid "Coche pequeño (8-12 c. fiscales)"
 msgstr "Auto txikia (8-12 zaldiko potentzia fiskala)"
 
-msgid "Turismo mediano (12-16 c. fiscales)"
+msgid "Coche mediano (12-16 c. fiscales)"
 msgstr "Auto ertaina (12-16 zaldiko potentzia fiskala)"
 
-msgid "Turismo grande (16-20 c. fiscales)"
+msgid "Coche grande (16-20 c. fiscales)"
 msgstr "Auto handia (16-20 zaldiko potentzia fiskala)"
 
 msgid "¿Es vehículo eléctrico o híbrido?"
