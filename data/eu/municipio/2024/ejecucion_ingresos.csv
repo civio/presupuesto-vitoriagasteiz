@@ -7,13 +7,14 @@
 13001,Ekonomi jardueren gaineko zerga,14725000,14488208.56
 13002,Probintziako eta Estatuko kuotetako partaidetza,1500000,0
 28201,"Eraikuntza, Instalazio eta Obren gaineko Zerga",12000000,14754783.52
+28301,Ehiza lurraldearen erabilera  ,0,2500
 30001,Erabilgarri ez diren ondasunak saltzea,10000,21181.35
 30002,Argitalpen eta inprimakien salmenta,5000,0
 30004,Montehermosoko ondasun eta elementuen salmenta,5000,576.45
 30006,Energia elektrikoko salmenta,25000,5825.84
 30007,Turismo Bulegoko ondasunen salmenta,40000,13019.75
 31001,Zaborrak bildu eta suntsitzea,11125000,11220874.94
-31003,Hileta-zerbitzuak.,625000,554600.97
+31003,Hileta-zerbitzuak,625000,554600.97
 31004,"Txostenak, atestatuak, fotokopiak, planoak eta antzekoak egitea",200000,96296.07
 31005,Ibilgailuak bide publikotik kentzea,550000,268661.63
 31008,Prebentzio eta Su Itzaltze Zerbitzua,10000,1807.67
@@ -79,6 +80,7 @@
 38008,Zerbitzu-ustiapenen itzulketak,118000,83390.14
 39101,Trafiko arau-hausteengatiko isunak,5000000,4019785.96
 39102,Prozedura zigortzaileetako diru-sarrerak,1500000,1077205.44
+39103,Kontratu-hausteengatiko zehapenak,0,40463.09
 39201,Premiamendu-gainordainak,950000,664859.93
 39401,Auto-istripuek bide publikoan eragindako kalteak,60000,21581.65
 39402,Ekintza basatiek ondasunetan eragindako kalteak,15000,5.01
@@ -111,6 +113,7 @@
 60300,Lurzoruaren udal-ondarea,12803400,0
 61200,Eraikinak eta bestelako eraikuntzak,880000,13148.44
 65100,Nahitaezko aprobetxamendu-lagapenak,0,1989378.34
+70000,Estatutik,0,31912.5
 71000,Eusko Jaurlaritzatik,10884897.17,257586.26
 72000,Arabako Foru Aldunditik,4255000,2532000
 73000,Udalerriko erakunde publikoetatik,40000,39523.4
