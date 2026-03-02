@@ -1,8 +1,6 @@
 # -*- coding: UTF-8 -*-
 from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
-from vitoriagasteiz_budget_loader import VitoriaGasteizBudgetLoader
-
 
 class PaymentsCsvMapper:
     column_mapping = {
