@@ -170,10 +170,6 @@ class VitoriaGasteizBudgetLoader(SimpleBudgetLoader):
         '6113': '931Y',     # ADMINISTRACIÓN FINANCIERA
     }
 
-    # We override this to allow a different classification per year
-    def get_institutional_classification_path(self, path):
-        return os.path.join(path, 'clasificacion_organica.csv')
-
     # make year data available in the class and call super
     def load(self, entity, year, path, status):
         self.year = year
